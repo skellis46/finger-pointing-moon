@@ -1,5 +1,6 @@
 # introduction - what why how
 
+An initial stab at understanding the broad nature of the research and leadership components of the bid.
 
 ## what 
 
