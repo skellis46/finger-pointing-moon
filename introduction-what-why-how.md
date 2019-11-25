@@ -54,6 +54,8 @@ I need to address in building the bid:
 - who are the groups, networks or whole communities of people?
 - what kinds of effects over time?
 
+What kind of leader am I?
+What kind of leader do I want to be?
 
 ## why 
 
