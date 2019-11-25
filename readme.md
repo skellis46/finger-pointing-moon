@@ -1,5 +1,6 @@
 # readme
 
-Readme file for finger-pointing-moon repo
+This is the readme file for the finger-pointing-moon git repo. 
 
-Adding line of text to test.
+The repo is a private space for building an ahrc leadership bid.
+
