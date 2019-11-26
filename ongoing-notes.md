@@ -2,6 +2,12 @@
 
 - notes organised by date
 
+## 20191126 - humble leadership
+
+>Instead, leadership that enables deep adaptation to climate chaos will need to be fluid and humble. 
+
+<https://jembendell.com/2019/10/31/leadership-for-deep-adaptation/>
+
 ## 20191126 - museum of things that fall through the gaps
 
 >In Barthes’ thinking, the writerly sits as opposite to the readerly. It includes the non-lisible, which cannot be read, into the system. It is a utopia in Barthes’ political drive to give space to what cannot be read. For Barthes, that which cannot be read is in the act of writing, where meaning is suspended and where the text does not lie (yet) in the realm of interpretation and ideology. 
