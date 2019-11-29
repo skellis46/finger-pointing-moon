@@ -18,7 +18,13 @@
 
 >Wilhelm Dilthey (1991) came up with his ground-breaking epistemic distinction between ideographic and nomothetic sciences, the first concerned with meaning and interpretations, the second with laws and explanations. [@mignolo_epistemic_2009 p.164]
 
+In 1991 Wilhem Dilthey described the "epistemic distinction between ideographic and nomothetic sciences" [@mignolo_epistemic_2009 p.164]. Ideographic sciences are concerned with meaning and interpretations, and nomothetic with laws and explanations.
 
+## de Sousa Santos - 2001 - epistemology of blindness
+
+- also look at Hito Steyerl (2009) re resolution
+
+>In my view, resolution, just as scale and perspective, is at the core of modern science and operates at two different levels: the level of methodology and the level of theory. Both methods and theories are present in the scientific identification of objects to be analyzed; but methods predominate in the process of detection, while theories predominate in the process of recognition. The quality of the scientific identification is thus determined by a system of resolution comprised of two components: methods and theories. It is commonly observed that the development of research methods has outpaced the development of theories particularly in the social sciences. For that reason it is not surprising that it is still common to go back to the nineteenth-century founding fathers to look for theoretical guidance, whereas the research methods and the data-gathering techniques we use today are extremely more sophisticated than those available in the nineteenth century. This means that the resolution level of our methods is higher than the resolution level of our theories and, consequently, that while the quality of scientific detection tends to be fine-grain, the quality of scientific recognition tends to be coarse-grain. In other words, our detection capabilities by far exceed our recognition capabilities. [@santos_toward_2001 p.162]
 
 ## cfp
 
