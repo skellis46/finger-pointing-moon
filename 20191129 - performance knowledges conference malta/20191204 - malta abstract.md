@@ -9,7 +9,7 @@ feeding "on every aspect of every human’s experience. [@zuboff_age_2019]"
 Dance and theatre are likewise beholden to the data-fication of experience: the online archive, digital documentation. After all, like moths to a flame, we go where the funding is in order to survive.   
 I can only be ... data. (choices are running out; free to be data). 
 
-
+"exceeds algorithmic description" [@odell_how_2019 p.xvi]
 
 The main scene: 
 Consider the simplest of sets: an empty studio (it can be wherever you choose). Two people. A smartphone working as a stills camera.
