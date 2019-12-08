@@ -14,7 +14,7 @@ I can only be ... data. (choices are running out; free to be data).
 The main scene: 
 Consider the simplest of sets: an empty studio (it can be wherever you choose). Two people. A smartphone working as a stills camera.
 
-
+"I believe that capitalism, colonialist thinking, loneliness, and an abusive stance toward the environment all coproduce one another" [@odell_how_2019]
 
 - huge reduction in scale 
 - discuss a simple exploratory period of research through practice of dance; more specifically: authentic movement
@@ -39,7 +39,7 @@ Economic ends, Weber observed, are always intrinsic to technology’s developmen
 
 ## Biography 
 
-Simon Ellis is an artist and researcher working in choreography, film-making and dance. He was born in the Wairarapa in Aotearoa/New Zealand, but now lives in London. Simon is a Pākehā – a white person of European descent – and his ethnicity has shaped and challenged how he understands his privileges and taste. His experiences growing up in a politicised family environment nourished his curiosity about power, race, consumerism and digital technologies, and these in turn underpin much of what his research is about, and how it is conducted. Simon also thinks about the ways in which humans might value things that are not easily commodified, and likes to imagine a world filled with people who are sensitive to their own bodies, and the bodies of others.
+Simon Ellis is an artist working with practices of choreography, filmmaking and dance. He was born in the Wairarapa in Aotearoa/New Zealand, but now lives in London. He is a Pākehā — a white person of European descent – and his experiences growing up in a politicised family environment helped shape his desire to understand consumerism, digital technologies and the nature of inequality. He also thinks a lot about the ways humans might value things that are not easily commodified, and likes to imagine a world filled with people who are sensitive to their bodies, and the bodies of others.
 
 ## Presentation details
 
