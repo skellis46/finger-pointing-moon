@@ -38,6 +38,10 @@ Focus on enunciation (see p.163 Mignolo)
 
 In 1991 Wilhem Dilthey described the "epistemic distinction between ideographic and nomothetic sciences" [@mignolo_epistemic_2009 p.164]. Ideographic sciences are concerned with meaning and interpretations, and nomothetic with laws and explanations.
 
+
+>what I’m suggesting is that we take a protective stance toward ourselves, each other, and whatever is left of what makes us human—including the alliances that sustain and surprise us. I’m suggesting that we protect our spaces and our time for non-instrumental, noncommercial activity and thought, for maintenance, for care, for conviviality. And I’m suggesting that we fiercely protect our human animality against all technologies that actively ignore and disdain the body, the bodies of other beings, and the body of the landscape that we inhabit. [@odell_how_2019]
+
+
 ## de Sousa Santos - 2001 - epistemology of blindness
 
 - also look at Hito Steyerl (2009) re resolution
