@@ -11,6 +11,14 @@ csl:
 
 - notes organised by date
 
+## 20191209 - from Odell
+
+>Sensitivity, in contrast, involves a difficult, awkward, ambiguous encounter between two differently shaped bodies that are themselves ambiguous—and this meeting, this sensing, requires and takes place in time. Not only that, due to the effort of sensing, the two entities might come away from the encounter a bit different than they went in.
+
+>As the body disappears, so does our ability to empathize. Berardi suggests a link between our senses and our ability to make sense, asking us to “hypothesize the connection between the expansion of the infosphere ... and the crumbling of the sensory membrane that allows human beings to understand that which cannot be verbalized, that which cannot be reduced to codified signs.”24
+
+-- [@odell_how_2019]
+
 ## 20191126 - humble leadership
 
 >Instead, leadership that enables deep adaptation to climate chaos will need to be fluid and humble. 
