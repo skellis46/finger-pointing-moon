@@ -23,6 +23,11 @@ csl:
 
 >Thinking means concentrating on one thing long enough to develop an idea about it. Not learning other people’s ideas, or memorizing a body of information, however much those may sometimes be useful. Developing your own ideas. In short, thinking for yourself. 
 
+>Second, most books are old. This is not a disadvantage: this is precisely what makes them valuable. They stand against the conventional wisdom of today simply because they’re not from today. 
+
+-- leadership: going back to the beginnings of PaR, or even pre-PaR. The transitions into PaR.
+-- talking with other people: but people I trust profoundly (across disciplines) and people I don't know
+
 ## 20191209 - from Odell
 
 >Sensitivity, in contrast, involves a difficult, awkward, ambiguous encounter between two differently shaped bodies that are themselves ambiguous—and this meeting, this sensing, requires and takes place in time. Not only that, due to the effort of sensing, the two entities might come away from the encounter a bit different than they went in.
