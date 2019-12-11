@@ -11,11 +11,25 @@ csl:
 
 - notes organised by date
 
+## 20191211 - from Deresiewicz _Solitude and leadership_
+
+>Who can answer questions, but don’t know how to ask them. Who can fulfill goals, but don’t know how to set them. Who think about how to get things done, but not whether they’re worth doing in the first place. What we have now are the greatest technocrats the world has ever seen, people who have been trained to be incredibly good at one specific thing, but who have no interest in anything beyond their area of exper­tise. What we don’t have are leaders.
+
+>What we don’t have, in other words, are thinkers. People who can think for themselves. People who can formulate a new direction: for the country, for a corporation or a college, for the Army—a new way of doing things, a new way of looking at things. People, in other words, with vision.
+
+-- how to push beyond my area of expertise: build series of cross-disciplinary conversations into bid? As podcasts? As conversations to be edited? On leadership? 
+-- real focus on sharing ideas and building communities (juxtapose solitude and communities)
+-- what if the personal practice was one of solitude and silence? Just one hour a day:
+
+>Thinking means concentrating on one thing long enough to develop an idea about it. Not learning other people’s ideas, or memorizing a body of information, however much those may sometimes be useful. Developing your own ideas. In short, thinking for yourself. 
+
 ## 20191209 - from Odell
 
 >Sensitivity, in contrast, involves a difficult, awkward, ambiguous encounter between two differently shaped bodies that are themselves ambiguous—and this meeting, this sensing, requires and takes place in time. Not only that, due to the effort of sensing, the two entities might come away from the encounter a bit different than they went in.
 
 >As the body disappears, so does our ability to empathize. Berardi suggests a link between our senses and our ability to make sense, asking us to “hypothesize the connection between the expansion of the infosphere ... and the crumbling of the sensory membrane that allows human beings to understand that which cannot be verbalized, that which cannot be reduced to codified signs.”24
+
+>Like the managerial employees who wandered away from their jobs, we absolutely require distance and time to be able to see the mechanisms we thoughtlessly submit to. More than that, as I’ve argued thus far, we need distance and time to be functional enough to do or think anything meaningful at all. William Deresiewicz warns of this in “Solitude and Leadership,” a speech to an audience of college students in 2010. By spending too much time on social media and chained to the news cycle, he says, “[y]ou are marinating yourself in the conventional wisdom. In other people’s reality: for others, not for yourself. You are creating a cacophony in which it is impossible to hear your own voice, whether it’s yourself you’re thinking about or anything else.”61
 
 -- [@odell_how_2019]
 
