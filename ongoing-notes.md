@@ -11,7 +11,7 @@ csl:
 
 - notes organised by date
 
-## 20191211 - from Deresiewicz _Solitude and leadership_
+## 20191211 - from Deresiewicz _Solitude and leadership_
 
 >Who can answer questions, but don’t know how to ask them. Who can fulfill goals, but don’t know how to set them. Who think about how to get things done, but not whether they’re worth doing in the first place. What we have now are the greatest technocrats the world has ever seen, people who have been trained to be incredibly good at one specific thing, but who have no interest in anything beyond their area of exper­tise. What we don’t have are leaders.
 
@@ -28,7 +28,7 @@ csl:
 -- leadership: going back to the beginnings of PaR, or even pre-PaR. The transitions into PaR.
 -- talking with other people: but people I trust profoundly (across disciplines) and people I don't know
 
-## 20191209 - from Odell
+## 20191209 - from Odell
 
 >Sensitivity, in contrast, involves a difficult, awkward, ambiguous encounter between two differently shaped bodies that are themselves ambiguous—and this meeting, this sensing, requires and takes place in time. Not only that, due to the effort of sensing, the two entities might come away from the encounter a bit different than they went in.
 
