@@ -11,6 +11,15 @@ csl:
 
 - notes organised by date
 
+## 20191211 - some thoughts that came out of reading _Solitude and leadership_
+
+100 day project - film based? http://www.youtube.com/watch?v=bZOwMqxLIn4
+Silence and solitude
+Talking about not knowing and/or humility
+Kehinde Andrews from Birmingham, Yvonne Rogers; ask for biologist at Auckland (ask Rod)
+Exercises in humility 
+Humility (and uncertainty) in the face of data 
+
 ## 20191211 - from Deresiewicz _Solitude and leadership_
 
 >Who can answer questions, but don’t know how to ask them. Who can fulfill goals, but don’t know how to set them. Who think about how to get things done, but not whether they’re worth doing in the first place. What we have now are the greatest technocrats the world has ever seen, people who have been trained to be incredibly good at one specific thing, but who have no interest in anything beyond their area of exper­tise. What we don’t have are leaders.
