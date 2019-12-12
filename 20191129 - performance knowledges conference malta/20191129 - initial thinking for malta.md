@@ -1,5 +1,31 @@
 # 20191129 - initial thinking
 
+## edit bin from abstract
+
+"as a challenge to the elemental right to the future tense, which accounts for the individual’s ability to imagine, intend, promise, and construct a future" [@zuboff_age_2019]
+
+feeding "on every aspect of every human’s experience. [@zuboff_age_2019]"
+
+>Why must everything be explained, or be possible to translate, why pick it all to bits—as though it were only a camouflage for something else? MADNESS. We hide too easily behind all the words. [@lilja_words_2003 p.11]
+
+
+
+"I believe that capitalism, colonialist thinking, loneliness, and an abusive stance toward the environment all coproduce one another" [@odell_how_2019]
+
+- huge reduction in scale 
+- discuss a simple exploratory period of research through practice of dance; more specifically: authentic movement
+- with Australian choreographer and dancer Shaun McLeod
+- high resolution experiences, low resolution traces of the project
+- calling on decolonial epistemologies: hubris of the zero point
+- detached and neutral point of observation
+- I'm involved in something quite unlike this. 
+- politically dangerous because I'm borrowing (polite way of saying it) work of scholars working deeply with decoloniality
+
+"Epistemic disobedience means to delink from the illusion of the zero point epistemology." -- Mignolo [@mignolo_epistemic_2009 p.160]
+
+>We cannot evaluate the current trajectory of information civilization without a clear appreciation that technology is not and never can be a thing in itself, isolated from economics and society. This means that technological inevitability does not exist. Technologies are always economic means, not ends in themselves: in modern times, technology’s DNA comes already patterned by what the sociologist Max Weber called the “economic orientation.”
+Economic ends, Weber observed, are always intrinsic to technology’s development and deployment. “Economic action” determines objectives, whereas technology provides “appropriate means.” In Weber’s framing, “The fact that what is called the technological development of modern times has been so largely oriented economically to profit-making is one of the fundamental facts of the history of technology.” [@zuboff_age_2019]
+
 ## mignolo - 2009 - epistemic disobedience 
 
 >From a detached and neutral point of observation (that Colombian philosopher Santiago Castro-Gómez (2007) describes as the _hubris of the zero point_), the knowing subject maps the world and its problems, classifies people and projects into what is good for them. Today that assumption is no longer tenable, although there are still many believers. [@mignolo_epistemic_2009 p.160]
@@ -44,7 +70,6 @@ In 1991 Wilhem Dilthey described the "epistemic distinction between ideographic 
 
 ## de Sousa Santos - 2001 - epistemology of blindness
 
-- also look at Hito Steyerl (2009) re resolution
 
 >In my view, resolution, just as scale and perspective, is at the core of modern science and operates at two different levels: the level of methodology and the level of theory. Both methods and theories are present in the scientific identification of objects to be analyzed; but methods predominate in the process of detection, while theories predominate in the process of recognition. The quality of the scientific identification is thus determined by a system of resolution comprised of two components: methods and theories. It is commonly observed that the development of research methods has outpaced the development of theories particularly in the social sciences. For that reason it is not surprising that it is still common to go back to the nineteenth-century founding fathers to look for theoretical guidance, whereas the research methods and the data-gathering techniques we use today are extremely more sophisticated than those available in the nineteenth century. This means that the resolution level of our methods is higher than the resolution level of our theories and, consequently, that while the quality of scientific detection tends to be fine-grain, the quality of scientific recognition tends to be coarse-grain. In other words, our detection capabilities by far exceed our recognition capabilities. [@santos_toward_2001 p.162]
 
