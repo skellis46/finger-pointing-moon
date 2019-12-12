@@ -8,5 +8,5 @@ The materials in this repo are the primary part of the preparation and design of
 
 Feel free to contact me on skiptime@pm.me if you have any questions.
 
-Simon Ellis, <skellis.net>, December 2019.
+Simon Ellis, [skellis.net](https://www.skellis.net), December 2019.
 
