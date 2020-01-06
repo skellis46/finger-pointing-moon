@@ -1,9 +1,11 @@
-Aims
-The Leadership Fellows Scheme is designed to develop and promote research leaders – individuals who set research agendas, lead research communities, provide intellectual leadership in their own disciplines and beyond, have a transformative impact on their subject area, and also act as advocates for the value and benefits of arts and humanities research to publics beyond academia. The Scheme offers opportunities for researchers and their research organisations to work in partnership with the AHRC in strengthening leadership capacity and capabilities in the arts and humanities.
+# Aims
+
+>The Leadership Fellows Scheme is designed to develop and promote research leaders – individuals who set research agendas, lead research communities, provide intellectual leadership in their own disciplines and beyond, have a transformative impact on their subject area, and also act as advocates for the value and benefits of arts and humanities research to publics beyond academia. The Scheme offers opportunities for researchers and their research organisations to work in partnership with the AHRC in strengthening leadership capacity and capabilities in the arts and humanities.
 The aims of the Leadership Fellows Scheme are to provide time and support for researchers:
-- to develop their capabilities as research leaders.
-- to carry out excellent individual research which has the potential to generate a transformative impact on their discipline, and which is of exceptional intellectual scope and importance;
-- to develop and undertake innovative and collaborative leadership activities which are connected to their research and which will result in benefits for their own discipline(s) and beyond
+
+>- to develop their capabilities as research leaders.
+>- to carry out excellent individual research which has the potential to generate a transformative impact on their discipline, and which is of exceptional intellectual scope and importance;
+>- to develop and undertake innovative and collaborative leadership activities which are connected to their research and which will result in benefits for their own discipline(s) and beyond
 
 - 6-18 months
 - 50 and 250k
