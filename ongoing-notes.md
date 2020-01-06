@@ -156,6 +156,7 @@ hypostasizing; see iPad definition re Gandhi
 - Kehinde Andrews from Birmingham, Yvonne Rogers; ask for biologist at Auckland (ask Rod)  
 - Exercises in humility  
 - Humility (and uncertainty) in the face of data 
+- possible people to talk to/interview here: <https://mailchi.mp/tcce/tcce-arts-and-health-forum-launch-invitation-827465?e=2879030ffb> (but be mindful of making this about leadership generally -- and not specifically in relation to PaR)
 
 ## 20191211 - from Deresiewicz _Solitude and leadership_
 
