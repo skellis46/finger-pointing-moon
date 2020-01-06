@@ -11,14 +11,151 @@ csl:
 
 - notes organised by date
 
+## 20200106 - analogue and making stuff up
+
+- what does analogue mean? etymology leadership  
+- avoiding cult of making shit up. what can we say? who? how? definitely we can't continue to just say anything. give examples. 
+
+## 20200106 - notes taken from nvalt file: _20191008 - ahrc leadership - initial thinking and ideas_ 
+
+### brief introduction to the project
+
+- case-study: the clumsiest/most absurd practice-as-research project (what can be said about anything as a result of this project?)
+- how might it matter -- a case of the relevance, vitality and timeliness of practice-as-research
+- identify the communities 
+- identify potential people to work with those communities
+- identify the actions 
+- threaded together by philosophy of sustainability from two fields (Bendell and de Sousa Santos)
+
+### initial thoughts ideas about the kind of leadership
+
+1. Secret to success: Right decisions
+2. Secret to them (the right decisions): Experience
+3. Secret to that (getting experience): Wrong decisions
+
+Seeking experience. 
+Leadership -- only have followers. Not looking for followers. Looking for depth of experience. 
+
+This will start unusually. 
+
+This proposal is not based on a kind of leadership that "assumes that change relies on the power of a significant individual at the top of a hierarchy" [@bendell_leadership_2019].
+
+That leadership is a word:
+
+>to describe significant actions enabling change that is welcomed by affected people. Such actions do not have to be those of a person of significance or authority. Anyone can step up to act in ways that enable change. In addition, we can be clearer about the kinds of actions that are useful to describe as “leadership” rather than something else, like “management” or “organising”. Leadership actions are those that help shift the way groups, networks or whole communities of people relate and so such actions generate effects over time." [@bendell_leadership_2019]
+
+Therefore there are several questions: 
+
+- what kinds of actions?
+- who are the 'affected people' in this context?
+- who are the groups, networks or whole communities of people? 
+- what kinds of effects over time? 
+
+This is leadership as "collective organising" [@bendell_leadership_2019]. Need to "drop dominant stories about individual agency and human potency" and rather embrace leadership that is "fluid and humble" [@bendell_leadership_2019].
+
+
+"The distortion and concealment of reality is thus a presupposition of the exercise of power." [@santos_toward_2001 p.256] 
+
+- this idea is key to uniting my interest in the epistemics of that which cannot be known, and southern epistemologies (?)
+- can the research component of the project be built around this? 
+- always the finger pointing at the moon
+
+>In my view, resolution, just as scale and perspective, is at the core of modern science and operates at two different levels: the level of methodology and the level of theory. Both methods and theories are present in the scientific identification of objects to be analyzed; but methods predominate in the process of detection, while theories predominate in the process of recognition. The quality of the scientific identification is thus determined by a system of resolution comprised of two components: methods and theories. It is commonly observed that the development of research methods has outpaced the development of theories particularly in the social sciences. For that reason it is not surprising that it is still common to go back to the nineteenth-century founding fathers to look for theoretical guidance, whereas the research methods and the data-gathering techniques we use today are extremely more sophisticated than those available in the nineteenth century. This means that the resolution level of our methods is higher than the resolution level of our theories and, consequently, that while the quality of scientific detection tends to be fine-grain, the quality of scientific recognition tends to be coarse-grain. In other words, our detection capabilities by far exceed our recognition capabilities. [@santos_toward_2001 p.261]
+
+- brilliant to think about Shaun project. Photos are low res. Method is high grain, as is the experience. 
+- what can we discriminate?
+- what can we even say about these experiences? Metaphor for par 
+
+hypostasizing; see iPad definition re Gandhi
+
+
+### Why is ressearch leadership important? (AHRC) ##
+
+- <https://youtu.be/xXxglfVTr88>:
+
+- "think about the disciplinary context in which leadership might take place"  
+- "do more than the research project itself and find a way of enriching the research project"  
+- leadership in public imagination and political context - 2:04min  
+- need to make the project digestible and for it to matter in public context: this is about our bodies (can quote Brach here -- from Starred conversation), what gets valued  
+- "intellectual leadership": take disciplinary risks. what we mean by "disicpline", collaboration and "intellectual contribution". 2:28min  
+- leadership required to galvanise these efforts, to make sense of quite disparate conclusions and experiences  
+- leadership sets agenda (one role), and expands and shapes capacity of those disicplines (other role) "to make profound intellectual contributions": 2:46mins  
+- could set up a network of resaerchers? (this already going on with PRAG though right?) - or with students, or artists? (or both)  
+- "need a bit of a reputation to lead" - 4:06min  
+- not about directing, but about being part of a team, and communicating experience  
+- provide direction (when needed), raise profile of the project (keep in academic and public eye), 
+- help younger researchers -- give them experiences 
+- "helping to shape a discipline and a group of people" - 5:48min
+- "about standing back and bringing people together, and helping them develop their own ideas - 5:53min
+- "research that is challenging existing interpretations" - 6:30min
+- "opening up a new or very different perspective on an apparently familiar subject" - 6:37min
+- sharing values with others - 7:18 
+    - who? which values?
+
+### making some notes 
+- primary research with key figures in PaR field (worldwide), and southern epistemologies
+- primary fieldwork (through practice) using authentic movement as case-study
+- production of video essay
+- ways of knowing, PaR, epistemologies of the south
+- leader recognised only by having followers
+- problems of leadership given my positionality (!). Create, support, hone conditions for creative complexities, collaboration, trust. To develop possibilities but then step back. Understanding together. When to speak up, when to intervene, when to step back or to allow processes to unfold? Because epistemics -- what it is that we might understand differently as a consequence of research -- is also about identity, and indeed feelings. This is highlighted in experimental qualitative methods like practice-as-research.
+- most extreme example is some practice-as-research fieldwork involving authentic movement: psychologically, experientially rich materials, but almost entire invisible. What -- if anything -- can we say about the practices (or can we understand differently) without depending on other methodological interventions or systems(e.g. psych or sociological research, ethnographic inquiry)? 
+
+>By discarding all the alternative knowledges, modern science has revealed itself as a waste maker, a condition that we, the few privileged inhabitants of consumer society, share as well. This is, by the way, another dimension of the above-mentioned epistemology of trash and, indeed, another aspect of a political economy of waste making in modern science. Two questions must be asked in this regard: how much waste do we have to make in order to produce scientific consequences? Who suffers most with the pollution we thereby produce? [@santos_toward_2001 p.264]
+
+- anything useful from Rheinberger here? 
+- authentic movement as case-study: complex, felt, mostly non-visual knowledge practice [@santos_toward_2001 p.266], integrates improvisation and somatic understanding, used in diverse ways (including therapeutic, artistic, processual, performative). Also seems to create a rich set of problems for understanding PaR epistemics.
+
+- foster wider impact from your research
+    - e.g. building the wicked problem into other research agendas
+    - recognising limit of that which is countable
+    - experiential, 
+
+- develop emerging research areas, methods or approaches
+    - traditionally we have focused on what can be seen, but what if we use occuolocentric tools to focus on that which cannot be seen?
+    - building an epistemology of practice
+    - methods and outcomes through the visual but what is not there
+
+- foster interdisciplinary research in your field
+    - epistemologies of the south / sociology
+    - critical race theory / black studies / 
+    - visibility / invisibility
+    - who gets to do this work? (problem of somatics and contemporary dance in general: implicit and explicit racism)
+    - problem of my whiteness: I ought not to be a leader in this field. I ought to be making space. 
+
+- be creative and inspire creativity in other researchers
+    - continue pushing alternative methods of representation
+    - exploring alternative methods for dialogue / sharing
+
+>leadership activities proposed should go beyond the kinds of activities that researchers generally undertake in establishing themselves in their disciplines, or in the ordinary course of their duties.
+
+- working with other groups, bodies, organisations
+- who might these other groups be? groups involved in traditional ways of understanding? (no, can't do extractive stuff -- becomes a method)
+- what about some kinds of clinics or meetings across professional/academic organisations? what kinds of people and organisations would be interested in this work? slipperiness, uncertainty, some presentations (?) about what we can and can't say about dance. what are the limits of its value? 
+- research assistance possible, but not Co-Is
+
+### Aims from the funding guide
+
+>The Leadership Fellows Scheme is designed to develop and promote research leaders – individuals who set research agendas, lead research communities, provide intellectual leadership in their own disciplines and beyond, have a transformative impact on their subject area, and also act as advocates for the value and benefits of arts and humanities research to publics beyond academia. The Scheme offers opportunities for researchers and their research organisations to work in partnership with the AHRC in strengthening leadership capacity and capabilities in the arts and humanities.
+
+>The aims of the Leadership Fellows Scheme are to provide time and support for researchers:
+
+#### to develop their capabilities as research leaders.
+
+- what are my current capabilities? what new ones might I need? how would I get them? 
+
+#### to carry out excellent individual research which has the potential to generate a transformative impact on their discipline, and which is of exceptional intellectual scope and importance;
+
+- to develop and undertake innovative and collaborative leadership activities which are connected to their research and which will result in benefits for their own discipline(s) and beyond
+
 ## 20191211 - some thoughts that came out of reading _Solitude and leadership_
 
-100 day project - film based? http://www.youtube.com/watch?v=bZOwMqxLIn4
-Silence and solitude
-Talking about not knowing and/or humility
-Kehinde Andrews from Birmingham, Yvonne Rogers; ask for biologist at Auckland (ask Rod)
-Exercises in humility 
-Humility (and uncertainty) in the face of data 
+- 100 day project - film based? <http://www.youtube.com/watch?v=bZOwMqxLIn4>  
+- Silence and solitude  
+- Talking about not knowing and/or humility  
+- Kehinde Andrews from Birmingham, Yvonne Rogers; ask for biologist at Auckland (ask Rod)  
+- Exercises in humility  
+- Humility (and uncertainty) in the face of data 
 
 ## 20191211 - from Deresiewicz _Solitude and leadership_
 
@@ -65,3 +202,8 @@ Humility (and uncertainty) in the face of data
 
 Remembering dance and other things in the gaps
 See surveillance book about maps. Think of creating. Non-map. Anti-map. A place for things that don't fit on maps. Or think in relation to archives? Anti-archive. Non-archive. 
+
+
+## edit bin
+
+>As long as we discuss objectives we cannot agree on objects. Since the discussion is potentially infinite, the only way to make science possible at all is to postulate the equivalence or fungibility of alternative objectives. It is therefore by denying or hiding the hierarchy of relevance among objectives that modern science establishes the hierarchy of relevance among objects. The distortion is thus imminent and indeed unavoidable. The established relevance is a sociological, or better, political, economic fact disguised as an epistemological evidence. The invisibility of the disguise is premised upon the credibility of the distortion. The distortion is made credible by creating in a systematic way credible illusions of correspondence with whatever is to be analyzed. Two procedures are used to produce such illusions: scale and perspective. [@santos_toward_2001 p.255]
