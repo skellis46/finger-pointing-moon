@@ -1,5 +1,20 @@
 # 20191129 - initial thinking
 
+
+## 20200106 - why this matters
+
+- what is the background for this? where has it come from? 
+    + Efva Lilja [@lilja_words_2003]
+    + what can't be named (unsayable) - my presentation
+    + Biggs 2002 [@biggs_editorial_2002]
+    + Dilthey (in Mignolo)
+    + Ellis [@ellis_that_2018]
+- so what? 
+    + go through stuff from Ellis 2018 -- what is at stake for dance
+    + broader picture is about data and datafication (other words from Snowden and Shoshana)
+    + practice of humility - what humility (and perhaps skepticism?) get us
+- problem of preaching humility in a 'so what?' section. That is, I'm OK with the possibility that none of this matters. Indeed, it doesn't matter. Or something like that.
+
 ## edit bin from abstract
 
 "as a challenge to the elemental right to the future tense, which accounts for the individual’s ability to imagine, intend, promise, and construct a future" [@zuboff_age_2019]
