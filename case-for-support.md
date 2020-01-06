@@ -13,6 +13,10 @@
 
 
 
+### the problem of knowlege in practice-as-research (literature)
+
+>>Have we somehow conspired to arrange matters so that knowledge is always what we say about something rather than what we show about it? [@biggs_editorial_2002]
+
 
 ## Research methods 
 
