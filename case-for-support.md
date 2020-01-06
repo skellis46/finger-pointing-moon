@@ -13,9 +13,9 @@
 
 
 
-### the problem of knowlege in practice-as-research (literature)
+### the problem of knowledge in practice-as-research (literature)
 
->>Have we somehow conspired to arrange matters so that knowledge is always what we say about something rather than what we show about it? [@biggs_editorial_2002]
+>Have we somehow conspired to arrange matters so that knowledge is always what we say about something rather than what we show about it? [@biggs_editorial_2002]
 
 
 ## Research methods 
@@ -28,7 +28,12 @@ tool, or provide details of who you have consulted or will be involved in the pr
 
 >Under the Research Methods heading you should also outline how any copyright or intellectual property issues relating to the project and the production of any outputs will be addressed.
 
+1. develop two paradigmatic cases of the problem of knowledge production in PaR generally, and in dance specifically: 1) creative practice without outcome (process oriented) - authentic movement; 2) movement art work as film: package-able, shareable, digital, potentially circumvents the _problem_ of documentation
+- how are they paradigmatic (either end of spectrum related to production of research practice outcomes)?
 
+2. analysis of historical and current literature in PaR (and beyond) re epistemic work to produce annotated bibliography and literature database
+
+3. 10 x interviews with key figures in PaR (about)
 
 
 ## Leadership development plan 
