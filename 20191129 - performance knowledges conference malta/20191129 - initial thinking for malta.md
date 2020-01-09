@@ -15,6 +15,8 @@
     + practice of humility - what humility (and perhaps skepticism?) get us
 - problem of preaching humility in a 'so what?' section. That is, I'm OK with the possibility that none of this matters. Indeed, it doesn't matter. Or something like that.
 
+- play with asking them to say yes and no to themselves, then in a whisper, then out loud.
+
 ## edit bin from abstract
 
 "as a challenge to the elemental right to the future tense, which accounts for the individual’s ability to imagine, intend, promise, and construct a future" [@zuboff_age_2019]
