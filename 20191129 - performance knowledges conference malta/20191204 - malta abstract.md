@@ -2,7 +2,7 @@
 
 _The background:_ 
 
-In 2017 _The Economist_ declared that the "world’s most valuable resource is no longer oil, but data".[^1] We are unwitting pawns in a silent data war, and the algorithms of Google and Facebook are winning. This is the age of _surveillance capitalism_, founded on "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[^2] Dance and the performing arts are likewise beholden to the data-fication of experience: the online archive, digital documentation, virtual reality ... After all, like moths to a flame, we follow the money in order to survive.
+In 2017 _The Economist_ declared that the "world’s most valuable resource is no longer oil, but data".[^1] We are unwitting pawns in a silent data war, and the algorithms of Google and Facebook are winning. This is the age of _surveillance capitalism_, founded on "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[^2] Dance and the performing arts are likewise beholden to the datafication of experience: the online archive, digital documentation, virtual reality ... After all, like moths to a flame, we follow the money in order to survive.
 
 _The foreground:_  
 
