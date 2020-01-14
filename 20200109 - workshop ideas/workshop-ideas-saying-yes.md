@@ -1,3 +1,8 @@
+
+worth taking a look at this:
+
+<https://www.becktench.com/blog/2020/1/5/great-lengths-a-blog-series-about-setting-boundaries-with-social-media>
+
 >Many students I work with help themselves "let be" by mentally whispering an encouraging word or phrase. You might feel the grip of fear or the swelling of deep grief and whisper yes. You might say, "This too" or "It's okay."
 
 >There are degrees of Allowing. At first, you may feel you're just going through the motions, "putting up" with unpleasant sensations. Or you may realize you've made a secret bargain—"I'll say yes to shame, and it will magically disappear." Yet even simply whispering yes begins to give you a sense of more space, more room for what is there. Your entire being is not so rallied in resistance. As you continue to practice, your defenses will ease up. You may feel a physical sense of yielding or relaxing and opening to waves of experience.
