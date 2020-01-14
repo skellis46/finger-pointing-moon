@@ -9,6 +9,7 @@
     + Biggs 2002 [@biggs_editorial_2002]
     + Dilthey (in Mignolo)
     + Ellis [@ellis_that_2018]
+    + Scrivener [@scrivener_toward_2013], [@stephen_scrivener_art_2002]; also his work listed on this screenshot <https://www.dropbox.com/s/zu0zz08nv2ky3ao/scrivener-refs.jpg?dl=0>
 - so what? 
     + go through stuff from Ellis 2018 -- what is at stake for dance
     + broader picture is about data and datafication (other words from Snowden and Shoshana)
