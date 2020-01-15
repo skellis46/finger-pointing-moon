@@ -1,5 +1,16 @@
+# workshop ideas
 
-worth taking a look at this:
+## 20200115 - snowden and data
+
+>Our data wanders far and wide. Our data wanders endlessly.
+
+>We start generating this data before we are born, when technologies detect us in utero, and our data will continue to proliferate even after we die. Of course, our consciously created memories, the records that we choose to keep, comprise just a sliver of the information that has been wrung out of our lives—most of it unconsciously, or without our consent—by business and government surveillance. We are the first people in the history of the planet for whom this is true, the first people to be burdened with data immortality, the fact that our collected records might have an eternal existence. This is why we have a special duty. We must ensure that these records of our pasts can’t be turned against us, or turned against our children.
+
+>Who among us can predict the future? Who would dare to? The answer to the first question is no one, really, and the answer to the second is everyone, especially every government and business on the planet. This is what that data of ours is used for. Algorithms analyze it for patterns of established behavior in order to extrapolate behaviors to come, a type of digital prophecy that’s only slightly more accurate than analog methods like palm reading. Once you go digging into the actual technical mechanisms by which predictability is calculated, you come to understand that its science is, in fact, anti-scientific, and fatally misnamed: predictability is actually manipulation. A website that tells you that because you liked this book you might also like books by James Clapper or Michael Hayden isn’t offering an educated guess as much as a mechanism of subtle coercion.
+
+## 20200109 - yes no
+
+worth taking a look at this?:
 
 <https://www.becktench.com/blog/2020/1/5/great-lengths-a-blog-series-about-setting-boundaries-with-social-media>
 
