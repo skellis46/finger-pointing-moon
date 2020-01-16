@@ -1,5 +1,12 @@
 # 20191129 - initial thinking
 
+
+## 20200116 - the unforgettable experience
+
+>Here’s what strikes me when I think back to my childhood, particularly those first nine Internet-less years: I can’t account for everything that happened back then, because I have only my memory to rely on. The data just doesn’t exist. When I was a child, “the unforgettable experience” was not yet a threateningly literal technological description, but a passionate metaphorical prescription of significance: my first words, my first steps, my first lost tooth, my first time riding a bicycle. [@snowden_permanent_2019 Chapter 1]
+
+This is what Shaun and I did. We created an unforgettable experience unable to be subjected to the process of datafication. Sure, we can video it, record it, photograph it, even annotate it, but what happened -- the nub or heart of that experience -- is unforgettable in the original sense of the word. Not technocratically unforgettable, but experientially unforgettable. Humanly unforgettable. Marked. Indelibly marked. Changed.  
+
 ## 20200116 - photo as metadata
 
 - DTP: snowden-2019-permanent: _Ch 16 Tokyo: metadata_
