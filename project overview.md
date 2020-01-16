@@ -2,7 +2,7 @@
 
 ## overview
 
-- epistemic crisis of PaR: yet to deal coherently and rigorously with what _can_ be said about our artistic-scholarly practices that is based on the materiality or substance of the practices themselves. Instead, more or less, we just make things up OR we hope the practices do something.
+- epistemic crisis of PaR: yet to deal coherently and rigorously with what _can_ be said (and not said) about our artistic-scholarly practices that is based on the materiality or substance of the practices themselves. Instead, more or less, we just make things up OR we hope the practices do something.
 - possible to link leadership thoughts about 'affected people' below with 'crowd epistemics' from That Thing Produced? 
 - dance presents an invaluable set of limitations/possibilities (explain delimiting of dance to body movement that is not text-orientated or based?). 
 - exploring the nature of things that cannot be described (and implications for role and work of artistic-research in academy)
@@ -19,7 +19,7 @@
 
 ## useful words 
 
-datafication | resolution | change | practice-as-research | dance | epistemology | data | analogue | digital | archive | documentation | 
+datafication | resolution | change | practice-as-research | dance | epistemology | data | analogue | digital | archive | documentation | experiential | unforgettable | perpetuity
 
 ## aim
 
@@ -50,13 +50,12 @@ Develop, critique and share epistemic principles for practice-as-research
 
 ## hybrid method
 
-1. fieldwork through paradigmatic practice-as-research with research consultant 
+1. fieldwork through paradigmatic practice-as-research with research consultant (what can't be said? then what remains? (name for such a method?))
 2. literature and field review: analysis of past and present through published materials (RA heavily responsible)
 3. fieldwork through solitary practice (leadership focused)
 4. cross-disciplinary case studies/interviews: leadership/epistemics/uncertainty/humility -- how to identify these cases? Cases ought also to be current practitioners working with PaR -- who would these be? (who are the key figures in dance? (and perhaps beyond). Possibilities could be:
     + Susan Kozel
     + Bob and Lee
-    + Adrian Heathfield
     + Henk Borgdorff
     + Michael Schwab
     + Carol Brown
