@@ -1,5 +1,10 @@
 # workshop ideas
 
+## 20200116 - formative
+
+- Formative v performative (from book “A time to build”)
+- thinking of the movement practice as formative
+
 ## 20200115 - snowden and data
 
 >Our data wanders far and wide. Our data wanders endlessly.
