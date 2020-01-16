@@ -57,7 +57,11 @@ I need to address in building the bid:
 What kind of leader am I?
 What kind of leader do I want to be?
 
+>we can be clearer about the kinds of actions that are useful to describe as “leadership” rather than something else, like “management” or “organising”. Leadership actions are those that help shift the way groups, networks or whole communities of people relate and so such actions generate effects over time. [@bendell_leadership_2019]
+
 ## why 
 
 
 ## how
+
+- humble in scale 
