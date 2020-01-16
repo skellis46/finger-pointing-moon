@@ -1,5 +1,16 @@
 # 20191129 - initial thinking
 
+## 20200116 - photo as metadata
+
+- DTP: snowden-2019-permanent: _Ch 16 Tokyo: metadata_
+
+>It’s this fact that obliterates any government claim that metadata is somehow not a direct window into the substance of a communication. With the dizzying volume of digital communications in the world, there is simply no way that every phone call could be listened to or email could be read. Even if it were feasible, however, it still wouldn’t be useful, and anyway, metadata makes this unnecessary by winnowing the field. This is why it’s best to regard metadata not as some benign abstraction, but as the very essence of content: it is precisely the first line of information that the party surveilling you requires.
+
+>There’s another thing, too: content is usually defined as something that you knowingly produce. You know what you’re saying during a phone call, or what you’re writing in an email. But you have hardly any control over the metadata you produce, because it is generated automatically. Just as it’s collected, stored, and analyzed by machine, it’s made by machine, too, without your participation or even consent. Your devices are constantly communicating for you whether you want them to or not. And, unlike the humans you communicate with of your own volition, your devices don’t withhold private information or use code words in an attempt to be discreet. They merely ping the nearest cell phone towers with signals that never lie.
+
+- thinking about images with Shaun as a form of meta-data. they are not the "content". 
+- wonder how complex I could make metadata productions of what happens during the authentic movement?
+- unwitting datafication
 
 ## 20200106 - why this matters
 
