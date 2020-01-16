@@ -1,5 +1,14 @@
 # workshop ideas
 
+
+## 20200116 - sustained attention
+
+>For James as for von Helmholtz, this means that there is no such thing as voluntary sustained attention. Instead, what passes for sustained attention is actually a series of successive efforts to bring attention back to the same thing, considering it again and again with unwavering consistency. Furthermore, if attention attaches to what is new, we must be finding ever newer angles on the object of our sustained attention—no small task. James thus makes explicit the role of will in attention:
+
+>>Though the spontaneous drift of thought is all the other way, the attention must be kept strained on that one object until at last it grows, so as to maintain itself before the kind with ease. This strain of attention is the fundamental act of will.20  
+
+-- Jenny Odell [@odell_how_2019 Chapter 4]
+
 ## 20200116 - formative
 
 - Formative v performative (from book “A time to build”)
