@@ -11,6 +11,50 @@ csl:
 
 - notes organised by date
 
+## 20200116 - unforgettable experience
+
+- from Snowden Chapter 1. 
+- unforgettable experiences / things that cannot be described or known / only remembered (and all the vagueness that implies)
+
+>Undoubtedly, that’s true in the world outside of computing, where the powers of deletion have historically been vast. Even so, as countless despots have been reminded, to truly get rid of a document you can’t just destroy every copy of it. You also have to destroy every memory of it, which is to say you have to destroy all the people who remember it, along with every copy of all the other documents that mention it and all the people who remember all those other documents. And then, maybe, just maybe, it’s gone. [@snowden_permanent_2019 Chapter 24]
+
+- what if a method was to collect the memories of a work unseen in the West (and not available on video)? To collate people's memories; to resist the disappearance and to celebrate it. That these materials would be gathered.
+- How would these works be chosen? 
+- What if this were the practice of community? 
+- galvanize a community or communities
+- practice of gathering -- kind of opposite of solitude. But one at a time. Identify one person who remembers it. Discuss/learn. Then do they remember anyone else who was there or who remembers it? This is humble in scale (scale of humility) -- decisive in relation to Bendell's thinking on leadership
+
+>We are the first people in the history of the planet for whom this is true, the first people to be burdened with data immortality, the fact that our collected records might have an eternal existence. [@snowden_permanent_2019 Chapter 29]
+
+
+
+## 20200116 - keeping the routine going (Deresiewicz)
+
+>Not taking stupid risks like trying to change how things are done or question why they’re done. Just keeping the routine going. [@deresiewicz_solitude_2010]
+
+So what are the _routines_ of PaR? The givens? The things we no longer question? Leadership as challenging the routine. 
+
+## 20200116 - focusing on knower and not the known
+
+PaR asks us to focus on the knower. The known becomes dependent on the knower. 
+
+>in order to call into question the modern/colonial foundation of the control of knowledge, it is necessary to focus on the knower rather than on the known. It means to go to the very assumptions that sustain locus enunciations. [@mignolo_epistemic_2009 p.162]
+
+
+I'm interested in mobilising the knower, in critiquing the knower. 
+The assumptions of the knower.
+The prejudices of the knower.
+The assertions of the knower.
+The power of the knower.
+The limitations of the knower.
+etc.
+
+Thinking about authority and humility: "the colonial matrix of power (economy, authority, gender and sexuality, and knowledge/subjectivity)" [@mignolo_epistemic_2009 p.163]
+
+authority and humility: the epistemic paradox
+
+Dilthey and ideographic sciences -- "concerned with meaning and interpretations" [@mignolo_epistemic_2009 p.164]
+
 ## 20200106 - analogue and making stuff up
 
 - what does analogue mean? etymology leadership  
