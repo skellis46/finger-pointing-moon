@@ -11,6 +11,12 @@ csl:
 
 - notes organised by date
 
+## 20200117 - the solitary is forbidden
+
+>The remainder of this chapter concentrates on extension, the first dimension of scope, as rendition operations move into the real world, seizing fresh unexpected chunks of human experience. Extension wants every corner and crevice, every utterance and gesture on the path to dispossession. All that is moist and alive must hand over its facts. There can be no shadow, no darkness. The unknown is intolerable. The solitary is forbidden. [@zuboff_age_2019 Chapter 8.1]
+
+- make solitude practice without GPS, analogue
+
 ## 20200116 - unforgettable experience
 
 - from Snowden Chapter 1. 
