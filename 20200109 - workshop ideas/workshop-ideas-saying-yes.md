@@ -1,6 +1,15 @@
 # workshop ideas
 
 
+
+## 20200117 - gap between experience and data
+
+>the gap between experience and data, as well as to the specific operations that target this gap on a mission to transform the one into the other. I call these operations rendition. We have seen that the dispossession of human experience is the original sin of surveillance capitalism, but this dispossession is not mere abstraction. Rendition describes the concrete operational practices through which dispossession is accomplished, as human experience is claimed as raw material for datafication and all that follows, from manufacturing to sales. A focus on these intermediate practices illustrates that the apparatus of ubiquity is not a passive one-way mirror. Rather, it actively creates its own stores of knowledge through rendition. [@zuboff_age_2019 Chapter 8.1]
+
+>It is important to acknowledge that in this context, “smart” is a euphemism for rendition: intelligence that is designed to render some tiny corner of lived experience as behavioral data. Each smart object is a kind of marionette; for all its “smartness,” it remains a hapless puppet dancing to the puppet master’s hidden economic imperatives. Products, services, and applications march to the drumbeat of inevitabilism toward the promise of surveillance revenues hacked from the still-wild spaces that we call “my reality,” “my home,” “my life,” and “my body.” Every smart product repeats our essential questions: What does a smart product know, and whom does it tell? Who knows? Who decides? Who decides who decides? [@zuboff_age_2019 Chapter 8.1]
+
+- still wild spaces: "my body"
+
 ## 20200116 - sustained attention
 
 >For James as for von Helmholtz, this means that there is no such thing as voluntary sustained attention. Instead, what passes for sustained attention is actually a series of successive efforts to bring attention back to the same thing, considering it again and again with unwavering consistency. Furthermore, if attention attaches to what is new, we must be finding ever newer angles on the object of our sustained attention—no small task. James thus makes explicit the role of will in attention:
