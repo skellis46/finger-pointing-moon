@@ -1,5 +1,10 @@
 # 20191129 - initial thinking
 
+## 20200117 - photograph as friction
+
+>We have seen the urgency with which surveillance capitalists pursue the elimination of “friction” as a critical success factor in supply operations. The prediction imperative makes boundaries and borders intolerable, and surveillance capitalists will do almost anything to eliminate them. This pursuit transforms “connection” into a commercial imperative and transforms individual autonomy into a threat to surveillance revenues. [@zuboff_age_2019 Chapter 8.1]
+
+- photo of authentic movement as ironic (digital) friction. necessity for friction. the price of friction. Would like to develop into analogue process (with throwaway cameras?) It's frictionally incomplete. It's a 'digital insert' as friction. It's a red herring. Something that distracts us from what actually went on.
 
 ## 20200116 - the unforgettable experience
 
