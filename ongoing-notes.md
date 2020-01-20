@@ -11,6 +11,25 @@ csl:
 
 - notes organised by date
 
+## 20200120 - the idea and humility
+
+>When I try to think about thinking, for instance retracing where an idea of mine came from, the limitations of English force me to say that “I” “produced” an “idea.” But none of these things are stable entities, and this grammatical relationship among them is misleading. The “idea” isn’t a finished product with identifiable boundaries that one moment sprung into being—one of the reasons artists so hate the interview question, “So what was your inspiration for this?” Any idea is actually an unstable, shifting intersection between myself and whatever I was encountering. By extension, thought doesn’t occur somehow inside of me, but between what I perceive as me and not-me. [@odell_how_2019 Chapter 5 Strangers]
+
+-- how to consider humility in relation to the 'me'. 
+-- to put into process some things that are not dependent on me
+-- that are unstable
+-- shifting interaction
+
+## 20200120 - owned by no one
+
+Rancière writes about performance that: ‘it is the third thing that is owned by no one, whose meaning is owned by no one’ (2009:15). (from Emilie Gallier's writing) 
+-- but how is 'meaning' different from understanding?
+
+## 20200120 - concentric
+
+- Concentric time circles - as a method or conceptualisation of method? Thinking here about the way the project might be structured to help communicate method simply
+- Conceptual v experiential sense of self -- useful language?
+
 ## 20200117 - the solitary is forbidden
 
 >The remainder of this chapter concentrates on extension, the first dimension of scope, as rendition operations move into the real world, seizing fresh unexpected chunks of human experience. Extension wants every corner and crevice, every utterance and gesture on the path to dispossession. All that is moist and alive must hand over its facts. There can be no shadow, no darkness. The unknown is intolerable. The solitary is forbidden. [@zuboff_age_2019 Chapter 8.1]
