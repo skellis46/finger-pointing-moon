@@ -2,6 +2,8 @@
 
 ## overview
 
+There has been – and continues to be -- an epistemic crisis in practice-as-research. This crisis has various descriptions, components or histories including (list them). What these pasts have in common is the _recognition_ that there are experiences afforded by this experimental set of methods known as PaR that are _unable to be known and/or articulated_. (epistemic routines of PaR). For some this humbling limitation is a weakness (refs), and for others a strength (refs). This project – Finger Pointing Moon – examines the heart of this crisis. It does this by ... two broad ways: practices/leadership. 
+- nature of the practices: defy two things - a) capacity to be accurately and wholly articulated (or shared); b) analogue human experiences ("exceed algorithmic description")
 - epistemic crisis of PaR: yet to deal coherently and rigorously with what _can_ be said (and not said) about our artistic-scholarly practices that is based on the materiality or substance of the practices themselves. Instead, more or less, we just make things up OR we hope the practices do something.
 - possible to link leadership thoughts about 'affected people' below with 'crowd epistemics' from That Thing Produced? 
 - dance presents an invaluable set of limitations/possibilities (explain delimiting of dance to body movement that is not text-orientated or based?). 
@@ -27,11 +29,11 @@ Develop, critique and share epistemic principles for practice-as-research
 
 ## objectives 
 
-- generate and critically examine two PaR case-studies for which their epistemic possibilities are radically different 
+- generate and critically examine three PaR practices for which their epistemic possibilities are radically different. Also come from different positions of "leadership" 
 - research and produce annotated bibliography of PaR literature that refers to its history and its epistemic possibilities and limits
 - examine through practice the role of solitude in understanding leadership, action and change (contrast this with 'group epistemics' from That Thing Produced)
 - leadership/practice connected by corporeal actions: what the body can do, and what the body does (fare: to make and to do)
-- focus on collective organising; strategies for collective organising (e.g. 1 hr solitude per week outside: connect with two people on this -- and so do they, etc.)
+- focus on collective organising; strategies for collective organising: collecting practice? 
 
 ## sum requested
 
@@ -50,19 +52,21 @@ Develop, critique and share epistemic principles for practice-as-research
 
 ## hybrid method
 
-1. fieldwork through paradigmatic practice-as-research with research consultant (what can't be said? then what remains? (name for such a method?))
+1. practice-as-research fieldwork through three distinct practices
+    a) experientially rich movement: that which cannot be described or known (with research consultant: what can't be said? then what remains? (name for such a method?)) - from the perspective of doing
+    b) solitary practice (leadership focused) - "doubts, or questions, or even just difficulties ... can only be found within--without distractions, without peer pressure, in solitude." -- [@deresiewicz_solitude_2010 np]
+    c) collecting practice called "unforgettable experiences": collecting hand-written notes/letters of others about memories of watching dance/performance. Key: analogue, experience of watching (v 'doing' in 'a' above)
 2. literature and field review: analysis of past and present through published materials (RA heavily responsible)
-3. fieldwork through solitary practice (leadership focused)
-4. cross-disciplinary case studies/interviews: leadership/epistemics/uncertainty/humility -- how to identify these cases? Cases ought also to be current practitioners working with PaR -- who would these be? (who are the key figures in dance? (and perhaps beyond). Possibilities could be:
-    + Susan Kozel
+3. cross-disciplinary case studies/interviews: leadership/epistemics/uncertainty/humility/epistemic limits -- how to identify these cases? Cases ought also to be current practitioners working with PaR -- who would these be? (who are the key figures in dance? (and perhaps beyond). Possibilities could be:
     + Bob and Lee
     + Henk Borgdorff
     + Michael Schwab
     + Carol Brown
     + Paul Magee
     + what about areas like nursing, or care-based practices? Go broader
-5. group online activity (with associated chat) - like a youtube live stream/chat -- not so dissimilar from an online tutorial or open conversation?
-6. method designed to minimise carbon production (no flights, no cars, as local as possible: limitations are obvious re digital technologies, server storage, any online activity, vital to keep it outward looking and international. Balancing local and global.)
+- analysis of these various data? 
+    + cataloguing of collected letters/responses (sorting into various kinds of works, responses, years, etc)
+- address climate change in structure/construction of project method and management? 
 
 
 ## potential partners 
@@ -72,6 +76,7 @@ Develop, critique and share epistemic principles for practice-as-research
 - The Workroom (Glasgow)
 - Chisenhale Dance Space
 - The Place
+- Sadlers Wells 
 - continue thinking about this (will depend on how project develops)
 
 ## potential outputs
@@ -108,3 +113,11 @@ Develop, critique and share epistemic principles for practice-as-research
 ## notes and references
 
 [^1]: <https://fulcra.design/science-conferences-are-stuck-in-the-dark-ages> and other options here: <https://unconference.net/methods/>
+
+
+
+## edit bin
+
+5. group online activity (with associated chat) - like a youtube live stream/chat -- not so dissimilar from an online tutorial or open conversation?
+6. method designed to minimise carbon production (no flights, no cars, as local as possible: limitations are obvious re digital technologies, server storage, any online activity, vital to keep it outward looking and international. Balancing local and global.)
+
