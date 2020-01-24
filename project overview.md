@@ -21,7 +21,7 @@ There has been – and continues to be -- an epistemic crisis in practice-as-res
 
 ## useful words 
 
-datafication | resolution | change | practice-as-research | dance | epistemology | data | analogue | digital | archive | documentation | experiential | unforgettable | perpetuity
+datafication | resolution | change | practice-as-research | dance | epistemology | data | analogue | digital | archive | documentation | experiential | unforgettable | perpetuity | value
 
 ## aim
 
@@ -31,7 +31,9 @@ Develop, critique and share epistemic principles for practice-as-research
 
 - generate and critically examine three PaR practices for which their epistemic possibilities are radically different. Also come from different positions of "leadership" 
 - research and produce annotated bibliography of PaR literature that refers to its history and its epistemic possibilities and limits
-- examine through practice the role of solitude in understanding leadership, action and change (contrast this with 'group epistemics' from That Thing Produced)
+- examine through practice the role of solitude in understanding leadership, action and change (contrast this with 'group epistemics' from That Thing Produced – actually, not in contrast. I think they sit together quite clearly. (see [@sennett_together_2012 p.21] -- about getting outside yourself)
+- epistemic principles in practice-research
+- epistemic values in practice-research 
 - leadership/practice connected by corporeal actions: what the body can do, and what the body does (fare: to make and to do)
 - focus on collective organising; strategies for collective organising: collecting practice? 
 
