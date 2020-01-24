@@ -53,7 +53,9 @@ Develop, critique and share epistemic principles for practice-as-research
 ## hybrid method
 
 1. practice-as-research fieldwork through three distinct practices
-    a) experientially rich movement: that which cannot be described or known (with research consultant: what can't be said? then what remains? (name for such a method?)) - from the perspective of doing
+    a) experientially rich movement: that which cannot be described or known (with research consultant: what can't be said? then what remains? (name for such a method?)) - from the perspective of doing. Dance and choreographic practices are paradigmatic in this case: 
+>Choreography is a corporeal passage in which the body is both a question and an inaccessible answer. Choreography is the indecipherable language of bodies presented for interpretation. In choreography the negative comes into presence: the unseen shimmers, the unheard whispers, the unfelt is caressed and we intuit the unknown.[@heathfield_what_2011]
+    
     b) solitary practice (leadership focused) - "doubts, or questions, or even just difficulties ... can only be found within--without distractions, without peer pressure, in solitude." -- [@deresiewicz_solitude_2010 np]
     c) collecting practice called "unforgettable experiences": collecting hand-written notes/letters of others about memories of watching dance/performance. Key: analogue, experience of watching (v 'doing' in 'a' above)
 2. literature and field review: analysis of past and present through published materials (RA heavily responsible)

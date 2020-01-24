@@ -11,6 +11,12 @@ csl:
 
 - notes organised by date
 
+## 20200124 - what is choreography? - Heathfield
+
+>Choreography is a corporeal passage in which the body is both a question and an inaccessible answer. Choreography is the indecipherable language of bodies presented for interpretation. In choreography the negative comes into presence: the unseen shimmers, the unheard whispers, the unfelt is caressed and we intuit the unknown. Choreography is a space of transformation, where the instrumental becomes sublime. 
+
+
+
 ## 20200120 - the idea and humility
 
 >When I try to think about thinking, for instance retracing where an idea of mine came from, the limitations of English force me to say that “I” “produced” an “idea.” But none of these things are stable entities, and this grammatical relationship among them is misleading. The “idea” isn’t a finished product with identifiable boundaries that one moment sprung into being—one of the reasons artists so hate the interview question, “So what was your inspiration for this?” Any idea is actually an unstable, shifting intersection between myself and whatever I was encountering. By extension, thought doesn’t occur somehow inside of me, but between what I perceive as me and not-me. [@odell_how_2019 Chapter 5 Strangers]
