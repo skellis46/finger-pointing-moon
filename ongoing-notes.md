@@ -11,6 +11,11 @@ csl:
 
 - notes organised by date
 
+## 20200124 - epistemic values and principles
+
+- possible over-arching objectives are about these two things: epistemic values and principles
+- from Sennett p.23 -- value of subjunctive mood: "indeterminate mutual space, the space in which strangers dwell with each other" and "'perhaps' and 'I would have thought' are antidotes to paralysed positions".
+
 ## 20200124 - what is choreography? - Heathfield
 
 >Choreography is a corporeal passage in which the body is both a question and an inaccessible answer. Choreography is the indecipherable language of bodies presented for interpretation. In choreography the negative comes into presence: the unseen shimmers, the unheard whispers, the unfelt is caressed and we intuit the unknown. Choreography is a space of transformation, where the instrumental becomes sublime. 
@@ -41,6 +46,12 @@ Rancière writes about performance that: ‘it is the third thing that is owned 
 >The remainder of this chapter concentrates on extension, the first dimension of scope, as rendition operations move into the real world, seizing fresh unexpected chunks of human experience. Extension wants every corner and crevice, every utterance and gesture on the path to dispossession. All that is moist and alive must hand over its facts. There can be no shadow, no darkness. The unknown is intolerable. The solitary is forbidden. [@zuboff_age_2019 Chapter 8.1]
 
 - make solitude practice without GPS, analogue
+- not about studying the self (or self-absorption)
+- creating space to notice the world and to be open to others and newness. To empathise See, for instance:
+
+>>Sympathy has usually been thought a stronger sentiment than empathy, because 'I feel your pain' puts the stress on what I feel; it activates one's own ego. Empathy is a more demanding exercise, at least in listening; the listener has to get outside him- or herself. [@sennett_together_2012 p.21]
+
+- paradox or tension between solitude and listening. 
 
 ## 20200116 - unforgettable experience
 
