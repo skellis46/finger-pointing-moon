@@ -1,15 +1,32 @@
-# finger pointing moon - overview
+# finger pointing moon
 
-## overview
+## background
 
-There has been – and continues to be -- an epistemic crisis in practice-as-research. This crisis has various descriptions, components or histories including (list them). What these pasts have in common is the _recognition_ that there are experiences afforded by this experimental set of methods known as PaR that are _unable to be known and/or articulated_. (epistemic routines of PaR). For some this humbling limitation is a weakness (refs), and for others a strength (refs). This project – Finger Pointing Moon – examines the heart of this crisis. It does this by ... two broad ways: practices/leadership. 
-- nature of the practices: defy two things - a) capacity to be accurately and wholly articulated (or shared); b) analogue human experiences ("exceed algorithmic description")
-- epistemic crisis of PaR: yet to deal coherently and rigorously with what _can_ be said (and not said) about our artistic-scholarly practices that is based on the materiality or substance of the practices themselves. Instead, more or less, we just make things up OR we hope the practices do something.
-- possible to link leadership thoughts about 'affected people' below with 'crowd epistemics' from That Thing Produced? 
+There is an epistemic crisis in body-based practice-research. It is a crisis revealed by the sharp rise in research exploring the nature of embodied knowledge.[^ek] In much of this research, the idea that the body _knows_ acts as a proxy for what might or might not be [understood differently] **sort this out in relation below about not able to be known. ie 'differently' and 'unknown' are not the same thing** as a result of practice-research investigations. In other words, dance artist-scholars are valorising the concept of embodied knowledge while failing to address the key epistemic paradox of creative practice-research: that its ontological value and strength lies in what is _not_ able to be known, understood or articulated as a consequence of body-based creative practices.[^ttp1] This is a humbling limitation for any research method.
+
+The contemporary cultural backdrop for the tension between embodied knowledge, the unknowable, and the inarticulable is the datafication of human experience. In 2017 _The Economist_ declared that the "world’s most valuable resource is no longer oil, but data".[^econ] We live in what Zuboff calls the age of _surveillance capitalism_ that is founded on "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[^zub1] The ubiquity and cultural and financial capital of understanding the world-as-data means it not surprising that precarious artistic practices located in and through the body – like dance and somatic practices – have also become enamoured by the doctrine of datafication. The plethora of online archives, digital documentation, and virtual and augmented reality projects are all attempts by dance scholars to transform the radical analogue-ness of embodied practices and experiences into data.[^plethora] 
+
+These two phenomena – the limitations of embodied practice-research and the datafication of experience – underpin this research proposal called _Finger Pointing Moon_. 
+
 - dance presents an invaluable set of limitations/possibilities (explain delimiting of dance to body movement that is not text-orientated or based?). 
 - exploring the nature of things that cannot be described (and implications for role and work of artistic-research in academy)
-- relationship to datafication? 
+
 - If the key epistemic question is "who, when, why is constructing knowledges?"[@mignolo_epistemic_2009] then in this work I take one part of this question and discuss the epistemic _why_ of experiences that are unable to be discussed. They are experiences of politics and humility that underpin the radically analogue nature of the human body; they are experiences that exceed "algorithmic description";[@odell_how_2019] perhaps they are even experiences or _acts_ of "epistemic disobedience".[@mignolo_epistemic_2009]
+
+– will enter the heart of this practice-research crisis through two first-person research strategies: a) creative practices; b) a radical examination of the nature of leadership.
+
+
+yet to deal coherently and rigorously with what _can_ be said (and not said) about our artistic-scholarly practices that is based on the materiality or substance of the practices themselves. Instead, more or less, we just make things up OR we hope the practices do something.
+
+- nature of the practices: defy two things - a) capacity to be accurately and wholly articulated (or shared); b) analogue human experiences ("exceed algorithmic description")
+
+
+ 
+
+
+
+### Creative Practices
+
 
 >leadership is a word "to describe significant actions enabling change that is welcomed by affected people. -- Bendell [-@bendell_leadership_2019]
 
@@ -19,9 +36,11 @@ There has been – and continues to be -- an epistemic crisis in practice-as-res
 - who are the groups, networks or whole communities of people?
 - what kinds of effects over time?
 
+- possible to link leadership thoughts about 'affected people' below with 'crowd epistemics' from That Thing Produced? 
+
 ## useful words 
 
-datafication | resolution | change | practice-as-research | dance | epistemology | data | analogue | digital | archive | documentation | experiential | unforgettable | perpetuity | value
+datafication | resolution | change | practice-as-research | dance | epistemology | data | analogue | digital | archive | documentation | experiential | unforgettable | perpetuity | value | embodied knowledge | humility
 
 ## aim
 
@@ -53,6 +72,8 @@ Develop, critique and share epistemic principles for practice-as-research
 
 
 ## hybrid method
+
+Primarily a first and second person investigation. <https://thesystemsthinker.com/first-second-and-third-person-research-in-practice/>
 
 1. practice-as-research fieldwork through three distinct practices
     a) experientially rich movement: that which cannot be described or known (with research consultant: what can't be said? then what remains? (name for such a method?)) - from the perspective of doing. Dance and choreographic practices are paradigmatic in this case: 
@@ -118,6 +139,15 @@ Develop, critique and share epistemic principles for practice-as-research
 
 [^1]: <https://fulcra.design/science-conferences-are-stuck-in-the-dark-ages> and other options here: <https://unconference.net/methods/>
 
+[^ek]: Recent examples include 
+
+[^ttp1]: See for example Ellis 2018. 'That Thing Produced', in: Ellis, Blades & Waelde, C. (Eds.), _A World of Muscle, Bone & Organs_, pp. 480–498.
+
+[^econ]: The world’s most valuable resource is no longer oil, but data, 2017. The Economist. <https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data>.
+
+[^zub1]: Zuboff 2019. _The Age of Surveillance Capitalism_.
+
+[^plethora]: See for example 
 
 
 ## edit bin
@@ -125,3 +155,12 @@ Develop, critique and share epistemic principles for practice-as-research
 5. group online activity (with associated chat) - like a youtube live stream/chat -- not so dissimilar from an online tutorial or open conversation?
 6. method designed to minimise carbon production (no flights, no cars, as local as possible: limitations are obvious re digital technologies, server storage, any online activity, vital to keep it outward looking and international. Balancing local and global.)
 
+has various descriptions, components or histories including (list them). What these different strands of thought and practice have in common is the _recognition_ that there are experiences afforded by this experimental set of methods known as PaR that are _unable to be known and/or articulated_. (epistemic routines of PaR). 
+
+For some this humbling limitation is a weakness (refs), and for others a strength (refs). 
+
+and it is the nature of humility that underpins this research and leadership proposal.
+
+Dance and the performing arts are likewise beholden to the datafication of experience: the online archive, digital documentation, virtual reality ... After all, like moths to a flame, we follow the money in order to survive.
+
+crisis fuelled by never really getting to grips with what we can know as a consequence of practice.
