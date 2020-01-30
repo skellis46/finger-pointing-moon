@@ -1,5 +1,15 @@
 # 20191129 - initial thinking
 
+## 20200129 - metadata
+
+Metadata = Data
+
+"Anything called "metadata" will most certainly be mere "data" if you move your perspective a little bit. And likewise anything called "data" will most certainly do double duty as some kind of "meta" wrapper for something else further down the chain."
+
+http://cultureandcommunication.org/galloway/metadata-data
+
+
+
 ## 20200117 - photograph as friction
 
 >We have seen the urgency with which surveillance capitalists pursue the elimination of “friction” as a critical success factor in supply operations. The prediction imperative makes boundaries and borders intolerable, and surveillance capitalists will do almost anything to eliminate them. This pursuit transforms “connection” into a commercial imperative and transforms individual autonomy into a threat to surveillance revenues. [@zuboff_age_2019 Chapter 8.1]
