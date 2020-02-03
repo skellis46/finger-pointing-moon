@@ -11,6 +11,12 @@ csl:
 
 - notes organised by date
 
+## 20200203 - zuboff and the unrecognizable
+
+>One explanation for surveillance capitalism’s many triumphs floats above them all: it is unprecedented. The unprecedented is necessarily unrecognizable. When we encounter something unprecedented, we automatically interpret it through the lenses of familiar categories, thereby rendering invisible precisely that which is unprecedented. [@zuboff_age_2019 Chapter 1]
+
+- as if through the practice we might look for the unprecedented (but how to recognise it?) To push away from the familiar.
+
 ## 20200124 - epistemic values and principles
 
 - possible over-arching objectives are about these two things: epistemic values and principles
