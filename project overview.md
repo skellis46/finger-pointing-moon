@@ -4,20 +4,24 @@
 
 There is an epistemic crisis in body-based practice-research. It is a crisis revealed by the sharp rise in scholarship exploring the nature of embodied knowledge.[^ek] In much of that research, the idea that the body _knows_ acts as a proxy for the epistemic limitations of practice-research investigations. In other words, dance artist-scholars who research through movement practices are valorising the concept of embodied knowledge while failing to address the key epistemic paradox of creative practice-research: that its ontological power lies at least in part in what is _not_ able to be known, understood or articulated as a consequence of body-based creative practices.[^ttp1] This is a humbling limitation for any research method.
 
-The contemporary cultural backdrop for the tension between embodied knowledge, the unknowable, and the inarticulable is the datafication of human experience. In 2017 _The Economist_ declared that the "world’s most valuable resource is no longer oil, but data".[^econ] We live in what Zuboff calls the age of _surveillance capitalism_ that is founded on "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[^zub1] The cultural and financial capital of understanding the world-as-data means it is not surprising that precarious artistic practices located in and through the body – like dance and somatics – have also become enamoured by the doctrine of datafication. The plethora of online archives, digital documentation, and virtual and augmented reality projects are all attempts by dance scholars to transform the radical analogue-ness of embodied experiences into data.[^plethora] 
+The contemporary cultural backdrop for the tension between embodied knowledge, the unknowable, and the inarticulable is the datafication of human experience. In 2017 _The Economist_ declared that the "world’s most valuable resource is no longer oil, but data".[^econ] We live in what Zuboff calls the age of _surveillance capitalism_ that is founded on "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[^zub1] The cultural and financial capital of understanding the world-as-data means it is not surprising that precarious artistic practices and processes located in and through the body – like dance and somatics – have also become enamoured by the doctrine of datafication. The rapidly growing number of online archives, digital documentation, and virtual and augmented reality projects are all attempts by dance scholars to transform the radically analogue nature of embodied experiences into data.[^plethora] 
 
-This research leadership project called _Finger Pointing Moon_ is underpinned by these two phenomena: the limitations of embodied practice-research, and the datafication of experience. These phenomena are related because the construction and production of knowledge in any scholarly field is never based on the simple observation of worldly phenomena. Rather, to understand what we say we know, the key epistemic question is in fact "who, when, [and] why is constructing knowledges?"[^mig1] The key contemporary context for understanding the construction of knowledge is the datafication of human experience – the world's most valuable resource. Therefore, to understand the broader epistemic problems and possibilities of practice-research, we must 
+This research leadership project called _Finger Pointing Moon_ is underpinned by these two phenomena: the limitations of embodied practice-research, and the datafication of experience. These phenomena are related because the construction and production of knowledge in any scholarly field is never based on the simple observation of worldly phenomena. Rather, to understand what we say we know and do not know, the vital epistemic question is in fact "who, when, [and] why is constructing knowledges?"[^mig1] The overwhelming contemporary context for understanding the construction of knowledge is the extraction of human experience into data: who, when and why is constructing knowledges is therefore an unavoidable encounter with the limits and excesses of datafication. In this project, I propose that a key outlier of human activity that inadvertently resists being _datafied_ – or that exceeds "algorithmic description"[^odell1] – are the profoundly analogue experiences that underpin experimental choreographic and movement practices. 
 
-To focus on who, when and why is constructing knowledges ... and 
-Therefore, in our time of the datafication of human experience, means focusing on who, when and why is constructing knowledges. 
+add that they resist datafication and explanation (or knowing). They are at the intersection of the two underpinning phenomena
+
+These are practices of dance and movement that present an invaluable set of limitations/possibilities that  ;[@odell_how_2019] 
+
+(explain delimiting of dance to body movement that is not text-orientated or based?). they are experiences 
+
+- perhaps they are even experiences or _acts_ of "epistemic disobedience".[@mignolo_epistemic_2009]
+- exploring the nature of things that cannot be described (and implications for role and work of artistic-research in academy)
 
 the limiIn this project I focus on the epistemic _why_ of human movement experiences that are unable to be discussed. In order , we must first understand why these ways of knowing and understandings are being  
 
-
 They are experiences of politics and humility that underpin the radically analogue nature of the human body; 
 
-- dance presents an invaluable set of limitations/possibilities (explain delimiting of dance to body movement that is not text-orientated or based?). they are experiences that exceed "algorithmic description";[@odell_how_2019] perhaps they are even experiences or _acts_ of "epistemic disobedience".[@mignolo_epistemic_2009]
-- exploring the nature of things that cannot be described (and implications for role and work of artistic-research in academy)
+
 
 
 
@@ -42,10 +46,6 @@ yet to deal coherently and rigorously with what _can_ be said (and not said) abo
 - nature of the practices: defy two things - a) capacity to be accurately and wholly articulated (or shared); b) analogue human experiences ("exceed algorithmic description")
 
 
- 
-
-
-
 ### Creative Practices
 
 
@@ -65,7 +65,7 @@ datafication | resolution | change | practice-as-research | dance | epistemology
 
 ## aim
 
-Develop, critique and share epistemic principles for practice-as-research
+To develop epistemic principles and limitations for practice-as-research
 
 ## objectives 
 
@@ -79,7 +79,7 @@ Develop, critique and share epistemic principles for practice-as-research
 
 ## sum requested
 
-- ??
+- 
 
 ## time
 
@@ -89,53 +89,76 @@ Develop, critique and share epistemic principles for practice-as-research
 
 - 1 x 0.6 PI (Ellis)
 - 1 x 0.5 RA (TBC) 
-- 1 x research consultant (Lalitarāja?)
-
+- 1 x research consultant (Lalitarāja?) 
 
 ## hybrid method
 
-Primarily a first and second person investigation. <https://thesystemsthinker.com/first-second-and-third-person-research-in-practice/>
+- Primarily a first person investigation:[^1st] to grapple with first person experiences in, through and around the body (my body) – to fully wrestle with the uncertainty and unsayable experiences that carve into our flesh
+- creative practice-research fieldwork
+- history, philosophy
+- qualitative research through ethnographic conversations
 
-1. practice-as-research fieldwork through three distinct practices
-    a) experientially rich movement: that which cannot be described or known (with research consultant: what can't be said? then what remains? (name for such a method?)) - from the perspective of doing. Dance and choreographic practices are paradigmatic in this case: 
->Choreography is a corporeal passage in which the body is both a question and an inaccessible answer. Choreography is the indecipherable language of bodies presented for interpretation. In choreography the negative comes into presence: the unseen shimmers, the unheard whispers, the unfelt is caressed and we intuit the unknown.[@heathfield_what_2011]
+1. practice-research _fieldwork_ through three distinct practices (all based on the premise that we understand through doing (Ingold here?):
     
-    b) solitary practice (leadership focused) - "doubts, or questions, or even just difficulties ... can only be found within--without distractions, without peer pressure, in solitude." -- [@deresiewicz_solitude_2010 np]
+    a) high resolution experiences through movement: what is unsayable? what is unknowable? what remains? Dance and choreographic practices are paradigmatic in this method, because "The body is both a question and an inaccessible answer ... [where] the unseen shimmers, the unheard whispers, the unfelt is caressed and we intuit the unknown."[^heath2011]
+
+    b) solitary practice (leadership focused): one hour daily in solitude and silence - "doubts, or questions, or even just difficulties ... can only be found within--without distractions, without peer pressure, in solitude".[^deres2010] This component is speculative and unknown. It's a wildcard. 
+    
     c) collecting practice called "unforgettable experiences": collecting hand-written notes/letters of others about memories of watching dance/performance. Key: analogue, experience of watching (v 'doing' in 'a' above)
-2. literature and field review: analysis of past and present through published materials (RA heavily responsible)
-3. cross-disciplinary case studies/interviews: leadership/epistemics/uncertainty/humility/epistemic limits -- how to identify these cases? Cases ought also to be current practitioners working with PaR -- who would these be? (who are the key figures in dance? (and perhaps beyond). Possibilities could be:
-    + Bob and Lee
-    + Henk Borgdorff
-    + Michael Schwab
-    + Carol Brown
-    + Paul Magee
-    + what about areas like nursing, or care-based practices? Go broader
+
+2. literature and field review: analysis of past and present through published materials (RA is primarily responsible)
+
+3. cross-disciplinary case studies/interviews: 
+    + leadership/epistemics/uncertainty/humility/epistemic limits
+    + how to identify these cases? Cases ought also to be current practitioners working with PaR -- who would these be? (who are the key figures in dance? (and perhaps beyond). 
+    + Possibilities could be:
+        + Bob and Lee
+        + Henk Borgdorff
+        + Michael Schwab
+        + Carol Brown
+        + Paul Magee
+        + Wendell Berry
+        + what about areas like nursing, or care-based practices? Go broader
+
 - analysis of these various data? 
     + cataloguing of collected letters/responses (sorting into various kinds of works, responses, years, etc)
+    + exploration of creative potential of photographs from main practice
 - address climate change in structure/construction of project method and management? 
-
 
 ## potential partners 
 
+- Dance4
 - Siobhan Davies Dance
-- Yorkshire Dance
 - The Workroom (Glasgow)
+- Yorkshire Dance
 - Chisenhale Dance Space
 - The Place
-- Sadlers Wells 
-- continue thinking about this (will depend on how project develops)
 
 ## potential outputs
 
-### definite 
 - OA desktop documentary exploring PaR epistemic principles (key output)
-    + auxiliary-output: OA film from quiver/unstable work with RC
+    + tied to all three methods
     + auxiliary-output: OA visual trace (e.g. photo series from authentic movement practice with RC - building on work with Shaun McLeod in 2019)
-- website: a) annotated bibliography; b) bi-weekly blog post; c) collecting materials and traces of project
-- github site for all text materials - radically transparent and OA
-- symposium (e.g. using Radhoc’s Unpanel or another Unconference idea[^1]) 
-- materials wall exhibition (similar to Eliasson) -- could be kept up for a while at SDD and even installed in other spaces = resources, insights, notes, images (need to consider how to store this, any copyright issues, broaden beyond practices )
+- website:
+    + tied to 2, 3 and 1
+    a) annotated bibliography  
+    b) bi-weekly blog post  
+    c) collecting materials and traces of project and the project practices  
+- github site for all text materials: radically transparent and OA
+    + tied to all methods
+- symposium: using Radhoc’s Unpanel or another Unconference idea[^1]) 
+    + tied to 3, 1 and 2
+- exhibition of analogue "experiences of performance" letters 
+    + developed from method 1c
+- _The Unknowable Body_ exhibition: 
+    + developed from methods 1, 2 and 3
+    + consists of resources, insights, notes, images
+    + need to consider budget and practicalities for collecting and storing
+    + any copyright issues? 
+    + broaden beyond the practices
+    + installed at 2-3 locations: SDD, Dance4, The Workroom
 - journal article: principles of par epistemics
+    + developed from methods 2, 3 and 1
 
 ### maybe
 
@@ -145,24 +168,25 @@ Primarily a first and second person investigation. <https://thesystemsthinker.co
  
 ## academic beneficiaries 
 
-- PaR scholars (cross-disciplinary)
+- PaR students and scholars (cross-disciplinary)
 - dance studies scholars
 - theatre and performance studies scholars
-- PaR PhD (and other PG) students 
 
 ## non-academic beneficiaries
 
 - artists
 - wider public (about why our bodies matter)
-- 
+- dance and theatre audiences 
 
 ## notes and references
+
+[^odell1]: Odell 2019. _How to do nothing: resisting the attention economy_. Melville House, Brooklyn, NY.
 
 [^1]: <https://fulcra.design/science-conferences-are-stuck-in-the-dark-ages> and other options here: <https://unconference.net/methods/>
 
 [^ek]: Recent examples include 
 
-[^ttp1]: See for example Ellis 2018. 'That Thing Produced', in: Ellis, Blades & Waelde, C. (Eds.), _A World of Muscle, Bone & Organs_, pp. 480–498.
+[^ttp1]: See for example Ellis 2018. 'That Thing Produced', in: Ellis, Blades & Waelde, C. (Eds.), _A World of Muscle, Bone & Organs_, pp. 480–498. <
 
 [^econ]: The world’s most valuable resource is no longer oil, but data, 2017. The Economist. <https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data>.
 
@@ -171,6 +195,12 @@ Primarily a first and second person investigation. <https://thesystemsthinker.co
 [^plethora]: See for example 
 
 [^mig1]: Mignolo 2009. 'Epistemic Disobedience, Independent Thought and Decolonial Freedom'. _Theory, Culture and Society 26_, 159–181. <https://doi.org/10.1177/0263276409349275>
+
+[^1st]: <https://thesystemsthinker.com/first-second-and-third-person-research-in-practice/>
+
+[^heath2011]: Heathfield 2011. _What is choreography?_ <http://web.archive.org/web/20110203045754/http://www.corpusweb.net/answers-2228-3.html> (accessed 2.10.12).
+
+[^deres2010]: Deresiewicz 2010. _Solitude and Leadership_ <https://theamericanscholar.org/solitude-and-leadership/> (accessed 12.11.19).
 
 
 ## edit bin
