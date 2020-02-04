@@ -2,22 +2,24 @@
 
 ## background
 
-There is an epistemic crisis in body-based practice-research. It is a crisis revealed by the sharp rise in scholarship exploring the nature of embodied knowledge.[^ek] In much of that research, the idea that the body _knows_ acts as a proxy for the epistemic limitations of practice-research investigations. In other words, dance artist-scholars who research through movement practices are valorising the concept of embodied knowledge while failing to address the key epistemic paradox of creative practice-research: that its ontological power lies at least in part in what is _not_ able to be known, understood or articulated as a consequence of body-based creative practices.[^ttp1] This is a humbling limitation for any research method.
+There is an epistemic crisis in body-based practice-research. It is a crisis revealed by the sharp rise in scholarship exploring the nature of embodied knowledge.[^ek] In much of that research, the idea that the body _knows_ acts as a proxy for the epistemic limitations of practice-research investigations. In other words, dance artist-scholars who research through movement practices are valorising the concept of embodied knowledge while failing to address the key epistemic paradox of creative practice-research: that its ontology lies at least in part in what is _not_ able to be known, understood or articulated as a consequence of body-based creative practices.[^ttp1] This is a humbling limitation for any research method or process.
 
-The contemporary cultural backdrop for the tension between embodied knowledge, the unknowable, and the inarticulable is the datafication of human experience. In 2017 _The Economist_ declared that the "world’s most valuable resource is no longer oil, but data".[^econ] We live in what Zuboff calls the age of _surveillance capitalism_ that is founded on "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[^zub1] The cultural and financial capital of understanding the world-as-data means it is not surprising that precarious artistic practices and processes located in and through the body – like dance and somatics – have also become enamoured by the doctrine of datafication. The rapidly growing number of online archives, digital documentation, and virtual and augmented reality projects are all attempts by dance scholars to transform the radically analogue nature of embodied experiences into data.[^plethora] 
+The inescapable contemporary cultural backdrop for the tension between embodied knowledge, the unknowable, and the inarticulable is the datafication of human experience. In 2017 _The Economist_ declared that the "world’s most valuable resource is no longer oil, but data".[^econ] We live in what Zuboff calls the age of _surveillance capitalism_ that is founded on "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[^zub1] The cultural and financial capital of understanding the world-as-data means it is not surprising that precarious and delicate artistic practices and processes located in and through the body – like dance and somatics – have also become enamoured by the doctrine of datafication. The rapidly growing number of online archives, digital documentation, and virtual and augmented reality projects are all implicit or explicit attempts by dance scholars to transform the radically analogue nature of embodied experiences into data.[^plethora] 
 
-This research leadership project called _Finger Pointing Moon_ is underpinned by these two phenomena: the limitations of embodied practice-research, and the datafication of experience. These phenomena are related because the construction and production of knowledge in any scholarly field is never based on the simple observation of worldly phenomena. Rather, to understand what we say we know and do not know, the vital epistemic question is in fact "who, when, [and] why is constructing knowledges?"[^mig1] The overwhelming contemporary context for understanding the construction of knowledge is the extraction of human experience into data: who, when and why is constructing knowledges is therefore an unavoidable encounter with the limits and excesses of datafication. In this project, I propose that a key outlier of human activity that inadvertently resists being _datafied_ – or that exceeds "algorithmic description"[^odell1] – are the profoundly analogue experiences that underpin experimental choreographic and movement practices. 
+This research leadership project called _Finger Pointing Moon_ is underpinned by these two phenomena: the limitations of embodied practice-research, and the datafication of experience. These phenomena are related because the construction and production of knowledge in any scholarly field is never based on the simple and objective observation of worldly phenomena. Rather, to understand what we say we know and do not know, the vital epistemic question is in fact "who, when, [and] why is constructing knowledges?"[^mig1] The overwhelming contemporary context for understanding the construction of knowledge is the extraction of human experience into data. Thus, _Who, when and why is constructing knowledges_ is an unavoidable encounter with the limits and excesses of datafication. 
 
-add that they resist datafication and explanation (or knowing). They are at the intersection of the two underpinning phenomena
+In this project, I propose that complex and radically analogue human experiences like experimental choreographic and movement practices have ontologies that are underpinned by two key characteristics: a) they defy the capacity to be accurately and wholly articulated and shared; and b) they exceed "algorithmic description".[^odell1]
 
-These are practices of dance and movement that present an invaluable set of limitations/possibilities that  ;[@odell_how_2019] 
+_Finger Pointing Moon_ is positioned squarely at the intersection of the datafication of human experience and the limitations of embodied practice-research. It is a project designed around creative practices that resist datafication, understanding and articulation, and the purpose of this design is to create the conditions in which to develop, articulate and share an original set of practice-research epistemic principles. 
 
-(explain delimiting of dance to body movement that is not text-orientated or based?). they are experiences 
+I understand this to be a bold aim: to generate a flexible set of epistemic principles able to used across disciplines and practices. But it is also an aim that is itself founded on a key epistemic paradox: authority and humility. 
 
-- perhaps they are even experiences or _acts_ of "epistemic disobedience".[@mignolo_epistemic_2009]
-- exploring the nature of things that cannot be described (and implications for role and work of artistic-research in academy)
 
-the limiIn this project I focus on the epistemic _why_ of human movement experiences that are unable to be discussed. In order , we must first understand why these ways of knowing and understandings are being  
+Thinking about authority and humility: "the colonial matrix of power (economy, authority, gender and sexuality, and knowledge/subjectivity)" [@mignolo_epistemic_2009 p.163]
+
+authority and humility: the epistemic paradox
+
+Dilthey and ideographic sciences -- "concerned with meaning and interpretations" [@mignolo_epistemic_2009 p.164]
 
 They are experiences of politics and humility that underpin the radically analogue nature of the human body; 
 
@@ -27,27 +29,18 @@ They are experiences of politics and humility that underpin the radically analog
 
 – will enter the heart of this practice-research crisis through two first-person research strategies: a) creative practices; b) a radical examination of the nature of leadership.
 
-PaR (as a fundamentally, and historically first-person strategy) demands that we focus on the knower. The known is dependent on the knower. 
+### Creative Practices
 
->in order to call into question the modern/colonial foundation of the control of knowledge, it is necessary to focus on the knower rather than on the known. It means to go to the very assumptions that sustain locus enunciations. [@mignolo_epistemic_2009 p.162]
+Practice-research is a fundamentally, and historically first-person strategy that therefore demands we focus on the knower. What is known is unequivocally dependent on the knower, and unless we ...:
+
+>in order to call into question the modern/colonial foundation of the control of knowledge, it is necessary to focus on the knower rather than on the known. 
+
+– [@mignolo_epistemic_2009 p.162]
 
 
 I'm interested in mobilising the knower, in critiquing the knower. The assumptions of the knower. The prejudices of the knower. The assertions of the knower. The power of the knower. The limitations of the knower.
 
-
-Thinking about authority and humility: "the colonial matrix of power (economy, authority, gender and sexuality, and knowledge/subjectivity)" [@mignolo_epistemic_2009 p.163]
-
-authority and humility: the epistemic paradox
-
-Dilthey and ideographic sciences -- "concerned with meaning and interpretations" [@mignolo_epistemic_2009 p.164]
-
-yet to deal coherently and rigorously with what _can_ be said (and not said) about our artistic-scholarly practices that is based on the materiality or substance of the practices themselves. Instead, more or less, we just make things up OR we hope the practices do something.
-
-- nature of the practices: defy two things - a) capacity to be accurately and wholly articulated (or shared); b) analogue human experiences ("exceed algorithmic description")
-
-
-### Creative Practices
-
+### Leadership
 
 >leadership is a word "to describe significant actions enabling change that is welcomed by affected people. -- Bendell [-@bendell_leadership_2019]
 
@@ -58,6 +51,8 @@ yet to deal coherently and rigorously with what _can_ be said (and not said) abo
 - what kinds of effects over time?
 
 - possible to link leadership thoughts about 'affected people' below with 'crowd epistemics' from That Thing Produced? 
+
+
 
 ## useful words 
 
@@ -204,6 +199,27 @@ To develop epistemic principles and limitations for practice-as-research
 
 
 ## edit bin
+
+These principles do not yet exist. To this date, the epistemic grounds of practice-research have been 
+
+These practices of dance and movement that present an invaluable set of limitations/possibilities that 
+
+key outlier of 
+
+- nature of the practices: defy two things - a) capacity to be accurately and wholly articulated (or shared); b) analogue human experiences ("exceed algorithmic description")
+
+that inadvertently resist being _datafied_ include the profoundly analogue experiences that underpin . Such practices defy two things: 
+
+yet to deal coherently and rigorously with what _can_ be said (and not said) about our artistic-scholarly practices that is based on the materiality or substance of the practices themselves. Instead, more or less, we just make things up OR we hope the practices do something.
+
+(explain delimiting of dance to body movement that is not text-orientated or based?). they are experiences 
+
+- exploring the nature of things that cannot be described (and implications for role and work of artistic-research in academy)
+
+the limiIn this project I focus on the epistemic _why_ of human movement experiences that are unable to be discussed. In order , we must first understand why these ways of knowing and understandings are being  
+
+
+- perhaps they are even experiences or _acts_ of "epistemic disobedience".[@mignolo_epistemic_2009]
 
 5. group online activity (with associated chat) - like a youtube live stream/chat -- not so dissimilar from an online tutorial or open conversation?
 6. method designed to minimise carbon production (no flights, no cars, as local as possible: limitations are obvious re digital technologies, server storage, any online activity, vital to keep it outward looking and international. Balancing local and global.)
