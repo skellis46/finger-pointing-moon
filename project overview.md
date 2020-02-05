@@ -1,35 +1,35 @@
-# finger pointing moon
+# finger pointing moon: paradoxes of practice-research and leadership 
 
-## background
+## context
 
 There is an epistemic crisis in body-based practice-research. It is a crisis revealed by the sharp rise in scholarship exploring the nature of embodied knowledge.[^ek] In much of that research, the idea that the body _knows_ acts as a proxy for the epistemic limitations of practice-research investigations. In other words, dance artist-scholars who research through movement practices are valorising the concept of embodied knowledge while failing to address the key epistemic paradox of creative practice-research: that its ontology lies at least in part in what is _not_ able to be known, understood or articulated as a consequence of body-based creative practices.[^ttp1] This is a humbling limitation for any research method or process.
 
-The inescapable contemporary cultural backdrop for the tension between embodied knowledge, the unknowable, and the inarticulable is the datafication of human experience. In 2017 _The Economist_ declared that the "world’s most valuable resource is no longer oil, but data".[^econ] We live in what Zuboff calls the age of _surveillance capitalism_ that is founded on "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[^zub1] The cultural and financial capital of understanding the world-as-data means it is not surprising that precarious and delicate artistic practices and processes located in and through the body – like dance and somatics – have also become enamoured by the doctrine of datafication. The rapidly growing number of online archives, digital documentation, and virtual and augmented reality projects are all implicit or explicit attempts by dance scholars to transform the radically analogue nature of embodied experiences into data.[^plethora] 
+The inescapable contemporary cultural backdrop for the tension between embodied knowledge, the unknowable, and the inarticulable is the datafication of human experience. In 2017 _The Economist_ declared that the "world’s most valuable resource is no longer oil, but data".[^econ] We live in what Zuboff calls the age of _surveillance capitalism_ that is founded on "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[^zub1] The cultural and financial capital of understanding the world-as-data means it is not surprising that precarious and delicate artistic practices and processes located in and through the body – like dance and somatics – have also become enamoured by the doctrine of datafication. The rapidly growing number of online archives, digital forms of documentation, and virtual and augmented reality projects are all implicit or explicit attempts by dance scholars to transform the radically analogue nature of embodied experiences into data.[^plethora] 
 
-This research leadership project called _Finger Pointing Moon_ is underpinned by these two phenomena: the limitations of embodied practice-research, and the datafication of experience. These phenomena are related because the construction and production of knowledge in any scholarly field is never based on the simple and objective observation of worldly phenomena. Rather, to understand what we say we know and do not know, the vital epistemic question is in fact "who, when, [and] why is constructing knowledges?"[^mig1] The overwhelming contemporary context for understanding the construction of knowledge is the extraction of human experience into data. Thus, _Who, when and why is constructing knowledges_ is an unavoidable encounter with the limits and excesses of datafication. 
+This research leadership project called _Finger Pointing Moon_ is underpinned by these two phenomena: the limitations of embodied practice-research, and the datafication of experience. These phenomena are related because the construction and production of knowledge in any scholarly field is never based on the simple and objective observation of worldly phenomena. Rather, to understand what we say we know and do not know, the vital epistemic question is in fact "who, when, [and] why is constructing knowledges?"[^mig1] If the overwhelming contemporary phenomenon is the extraction of data from human experiences, then the question of _who, when and why is constructing knowledges_ necessitates an encounter with the limits and excesses of datafication. 
 
-In this project, I propose that complex and radically analogue human experiences like experimental choreographic and movement practices have ontologies that are underpinned by two key characteristics: a) they defy the capacity to be accurately and wholly articulated and shared; and b) they exceed "algorithmic description".[^odell1]
+In this project, I propose that complex and radically analogue human experiences like experimental choreographic and movement practices have ontologies that are underpinned by two key characteristics: a) they defy the capacity to be accurately and wholly articulated and shared; and b) they exceed "algorithmic description".[^odell1] _Finger Pointing Moon_ is positioned squarely at the intersection of the datafication of human experience and the limitations of embodied practice-research. It is a project designed around creative practices that resist datafication, understanding and articulation, and the overarching purpose of the design is to create the conditions in which to develop an original set of practice-research epistemic principles. 
 
-_Finger Pointing Moon_ is positioned squarely at the intersection of the datafication of human experience and the limitations of embodied practice-research. It is a project designed around creative practices that resist datafication, understanding and articulation, and the purpose of this design is to create the conditions in which to develop, articulate and share an original set of practice-research epistemic principles. 
+To generate a flexible set of epistemic principles able to be used across disciplines and practices is a bold aim. It is also an aim that is founded on two seemingly paradoxical values that underpin the nature of leadership: authority and humility. In other words, _who_ has the authority to know, and _how_ might humility act to attenuate such authority? In _Finger Pointing Moon_ I will scrutinise the nature of authority in leadership by working with the radically analogue nature of the human body to examine _who_ gets to know, and _how_ they get to know. The project will be built on first-person research methods to understand two broad areas: creative practice-research, and leadership.
 
-I understand this to be a bold aim: to generate a flexible set of epistemic principles able to used across disciplines and practices. But it is also an aim that is itself founded on a key epistemic paradox: authority and humility. 
+## research design
+
+aim: to develop an original set of practice-research epistemic principles
+
+context: the limitations of embodied practice-research, and the datafication of experience 
+
+rationale: we can't understand practice-research epistemics unless we understand contemporary context for constructing knowledges (**work on this**))
+
+**areas (or objects) of research:**
+
+1. practice-research
+    + practice-research fieldwork (three practices)  
+    + literature and field review
+2. leadership
+    + case-studies/ethnographic interviews - exploring leadership and uncertainty (in range of practices)
 
 
-Thinking about authority and humility: "the colonial matrix of power (economy, authority, gender and sexuality, and knowledge/subjectivity)" [@mignolo_epistemic_2009 p.163]
-
-authority and humility: the epistemic paradox
-
-Dilthey and ideographic sciences -- "concerned with meaning and interpretations" [@mignolo_epistemic_2009 p.164]
-
-They are experiences of politics and humility that underpin the radically analogue nature of the human body; 
-
-
-
-
-
-– will enter the heart of this practice-research crisis through two first-person research strategies: a) creative practices; b) a radical examination of the nature of leadership.
-
-### Creative Practices
+### Creative practice-research
 
 Practice-research is a fundamentally, and historically first-person strategy that therefore demands we focus on the knower. What is known is unequivocally dependent on the knower, and unless we ...:
 
@@ -60,7 +60,7 @@ datafication | resolution | change | practice-as-research | dance | epistemology
 
 ## aim
 
-To develop epistemic principles and limitations for practice-as-research
+To develop epistemic principles and limitations for practice-research
 
 ## objectives 
 
@@ -199,6 +199,16 @@ To develop epistemic principles and limitations for practice-as-research
 
 
 ## edit bin
+
+
+They are experiences of politics and humility that underpin the radically analogue nature of the human body; 
+
+
+Thinking about authority and humility: "the colonial matrix of power (economy, authority, gender and sexuality, and knowledge/subjectivity)" [@mignolo_epistemic_2009 p.163]
+
+authority and humility: the epistemic paradox
+
+Dilthey and ideographic sciences -- "concerned with meaning and interpretations" [@mignolo_epistemic_2009 p.164]
 
 These principles do not yet exist. To this date, the epistemic grounds of practice-research have been 
 
