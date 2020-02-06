@@ -20,6 +20,8 @@ context: the limitations of embodied practice-research, and the datafication of 
 
 rationale: we can't understand practice-research epistemics unless we understand contemporary context for constructing knowledges (**work on this**))
 
+problem: 
+
 **areas (or objects) of research:**
 
 1. practice-research
