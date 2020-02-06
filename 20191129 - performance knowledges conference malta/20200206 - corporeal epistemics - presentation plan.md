@@ -3,6 +3,9 @@
 <https://www.washingtonpost.com/technology/2020/02/04/google-maps-simon-weckert/>
 
 - 99 phones
+
+>The rendition of your body begins quite simply with your phone. [@zuboff_age_2019]
+
 - turn off phones: create the opposite. a little black hole. an absence. a silence. it's just us. untracked for 15 minutes. bliss. going dark. create a wild space. like the body. a wild space: unpredictable and inextractable. a place for our analogue selves. our radically analogue bodies. where something is not simply yes or no, this or that, 1 or 0, anything but boolean, untouched, untouchable. that resists the facts and fictions of sampling, the logic of data. the datafication of the world, the ideology of data.  it is wild space of feelings. those things that underpin all conversations, all experiences. nuanced, primitive, primal. All that we are saying, all that we are hearing, all that we are communicating and proposing, is underpinned by feelings: 
 
 "conversations do not just involve feelings, they are at their very core about feelings" [@stone_difficult_2003 p.13]
