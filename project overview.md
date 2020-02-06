@@ -1,4 +1,52 @@
-# finger pointing moon: paradoxes of practice-research and leadership 
+# finger pointing moon: paradoxes of practice-research and leadership
+
+## useful words 
+
+datafication | resolution | change | practice-as-research | dance | epistemology | data | analogue | digital | physical | archive | documentation | experiential | unforgettable | perpetuity | value | embodied knowledge | leadership | humility | principles | epistemics | formative | performative
+
+
+## brief summary
+
+_aim:_
+
+to develop an original set of practice-research epistemic principles
+
+_context:_ 
+
+i) the limits of embodied practice-research, and the datafication of experience;  
+ii) leadership as a practice of humility, and strategies for affecting change
+
+_rationale:_ 
+
+Leadership is not about the "power of a significant individual at the top of a hierarchy".[^ben1] Rather it is a word to describe significant yet "fluid and humble"[^ben2] _actions_ that affect change. Leadership as a practice of humility provides a wide-angle lens through which to understand the limits and possibilities of practice-research. To develop principles of practice-research epistemics it's necessary to understand the contemporary context for constructing knowledges. The context for _who, when and why_ is constructing knowledge is the pervasive datafication of human experience. A process-driven experimental movement practice provides a paradigmatic and analogue case-study for testing the intersection of the limits of datafication, and what we can and can not understand differently as a consequence of practice-research. 
+
+_research design:_
+
+1. research focus 1: leadership
+    + case-studies/ethnographic interviews - exploring leadership, uncertainty and knowledge production (in a range of practices and disciplines)
+2. research focus 2: practice-research
+    + practice-research fieldwork consisting of three distinct practices: 
+        1. process-driven experimental movement practice;  
+        2. solitude practice
+        3. collecting practice   
+    + literature and field review focusing on:
+        1. 
+
+_objectives:_
+
+- to understand leadership as a practice of humility  
+- to build leadership as humility into understanding _who, when and why_ is constructing knowledge  
+- to generate and critically examine three research practices for which their epistemic possibilities are radically different. Also come from different positions of "leadership" 
+- research and produce annotated bibliography of PaR literature that refers to its history and its epistemic possibilities and limits
+- examine through practice the role of solitude in understanding leadership, action and change (contrast this with 'group epistemics' from That Thing Produced – actually, not in contrast. I think they sit together quite clearly. (see [@sennett_together_2012 p.21] -- about getting outside yourself)
+- epistemic principles in practice-research
+- epistemic values in practice-research 
+- leadership/practice connected by corporeal actions: what the body can do, and what the body does (fare: to make and to do)
+- focus on collective organising; strategies for collective organising: collecting practice? 
+
+_outputs:_
+
+
 
 ## context
 
@@ -11,25 +59,6 @@ This research leadership project called _Finger Pointing Moon_ is underpinned by
 In this project, I propose that complex and radically analogue human experiences like experimental choreographic and movement practices have ontologies that are underpinned by two key characteristics: a) they defy the capacity to be accurately and wholly articulated and shared; and b) they exceed "algorithmic description".[^odell1] _Finger Pointing Moon_ is positioned squarely at the intersection of the datafication of human experience and the limitations of embodied practice-research. It is a project designed around creative practices that resist datafication, understanding and articulation, and the overarching purpose of the design is to create the conditions in which to develop an original set of practice-research epistemic principles. 
 
 To generate a flexible set of epistemic principles able to be used across disciplines and practices is a bold aim. It is also an aim that is founded on two seemingly paradoxical values that underpin the nature of leadership: authority and humility. In other words, _who_ has the authority to know, and _how_ might humility act to attenuate such authority? In _Finger Pointing Moon_ I will scrutinise the nature of authority in leadership by working with the radically analogue nature of the human body to examine _who_ gets to know, and _how_ they get to know. The project will be built on first-person research methods to understand two broad areas: creative practice-research, and leadership.
-
-## research design
-
-aim: to develop an original set of practice-research epistemic principles
-
-context: the limitations of embodied practice-research, and the datafication of experience 
-
-rationale: we can't understand practice-research epistemics unless we understand contemporary context for constructing knowledges (**work on this**))
-
-problem: 
-
-**areas (or objects) of research:**
-
-1. practice-research
-    + practice-research fieldwork (three practices)  
-    + literature and field review
-2. leadership
-    + case-studies/ethnographic interviews - exploring leadership and uncertainty (in range of practices)
-
 
 ### Creative practice-research
 
@@ -56,23 +85,8 @@ I'm interested in mobilising the knower, in critiquing the knower. The assumptio
 
 
 
-## useful words 
 
-datafication | resolution | change | practice-as-research | dance | epistemology | data | analogue | digital | archive | documentation | experiential | unforgettable | perpetuity | value | embodied knowledge | humility
 
-## aim
-
-To develop epistemic principles and limitations for practice-research
-
-## objectives 
-
-- generate and critically examine three PaR practices for which their epistemic possibilities are radically different. Also come from different positions of "leadership" 
-- research and produce annotated bibliography of PaR literature that refers to its history and its epistemic possibilities and limits
-- examine through practice the role of solitude in understanding leadership, action and change (contrast this with 'group epistemics' from That Thing Produced – actually, not in contrast. I think they sit together quite clearly. (see [@sennett_together_2012 p.21] -- about getting outside yourself)
-- epistemic principles in practice-research
-- epistemic values in practice-research 
-- leadership/practice connected by corporeal actions: what the body can do, and what the body does (fare: to make and to do)
-- focus on collective organising; strategies for collective organising: collecting practice? 
 
 ## sum requested
 
@@ -182,6 +196,10 @@ To develop epistemic principles and limitations for practice-research
 [^1]: <https://fulcra.design/science-conferences-are-stuck-in-the-dark-ages> and other options here: <https://unconference.net/methods/>
 
 [^ek]: Recent examples include 
+
+[^ben1]: Bendell 2019. _Leadership for Deep Adaptation_. <https://jembendell.com/2019/10/31/leadership-for-deep-adaptation>
+
+[^ben2]: Bendell 2019. _Leadership for Deep Adaptation_. <https://jembendell.com/2019/10/31/leadership-for-deep-adaptation>
 
 [^ttp1]: See for example Ellis 2018. 'That Thing Produced', in: Ellis, Blades & Waelde, C. (Eds.), _A World of Muscle, Bone & Organs_, pp. 480–498. <
 
