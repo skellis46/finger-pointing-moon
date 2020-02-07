@@ -1,5 +1,33 @@
 # workshop ideas
 
+## 20200206 - The rise, fall and resurrection of Flickr
+
+>For amateurs and enthusiasts, my personal advise is as follows. Forget about all of the above and first and foremost return to enjoy your hobby. Enjoy photography itself as well as your topics, be they a landscape, a model or a freaky insect. Or even a Snowy Owl. This is your hobby and you should learn to enjoy it even if not a single other human being notices. Start with this. Your joy and self worth should not depend on others.
+
+>I’m serious. Look at people having other hobbies. Reading, hiking, tennis, wood crafts, brewing beer, collecting stamps, watching movies or playing Tetris…none of these people spend hours per day seeking validation as to whether their hobby is worthwhile or has meaning. It has meaning because it is your time and you enjoy doing it. None of them determine meaning based on others as if they are monitoring a stock market of self worth."
+
+>You can compete with Big Tech. Big Tech is about quantity, noise, speed, cheap and meaningless. Human tech is about quality, depth, meaning and deep community.
+
+>When you support free, you support billionaires. When you pay, you support sane businesses and real creators. Start paying for things that cost money. If you can’t afford to, use fewer things, which generally make you happier anyway.
+
+[ferdychristant.com/the-rise-fall-and-resurrection-of-flickr-ca1850410ee1](https://ferdychristant.com/the-rise-fall-and-resurrection-of-flickr-ca1850410ee1)
+
+>In this commercial dreamscape, words that were once conceived of as “behind closed doors” are eagerly rendered as surplus. These new supply operations convert your talk into behavior for surplus in two ways. The first derives from what you say, the second from how you say it. Smart-home devices such as Amazon’s Echo or Google Home render rivers of casual talk from which sophisticated content analyses produce enhanced predictions that “anticipate” your needs. (check where this quote is from)
+
+## 20200206 - privacy fundamentalism
+
+>Indeed, that is why my critique of [Manjoo’s article](https://www.nytimes.com/interactive/2019/08/23/opinion/data-internet-privacy-tracking.html) specifically and the ongoing privacy hysteria broadly is not simply about definitions or philosophy. It’s about fundamental assumptions. The default state of the Internet is the endless propagation and collection of data: you have to do work to not collect data on one hand, or leave a data trail on the other. This is the exact opposite of how things work in the physical world: there data collection is an explicit positive action, and anonymity the default.
+
+
+>The point of this article is not to argue that companies like Google and Facebook are in the right, and Apple in the wrong — or, for that matter, to argue my self-interest. The truth, as is so often the case, is somewhere in the middle, in the gray. To that end, I believe the privacy debate needs to be reset around these three assumptions:
+
+>1. Accept that privacy online entails trade-offs; the corollary is that an absolutist approach to privacy is a surefire way to get policy wrong.
+
+>2. Keep in mind that the widespread creation and spread of data is inherent to computers and the Internet, and that these qualities have positive as well as negative implications; be wary of what good ideas and positive outcomes are extinguished in the pursuit to stomp out the negative ones.
+
+>3. Focus policy on the physical and digital divide. Our behavior online is one thing: we both benefit from the spread of data and should in turn be more wary of those implications. Making what is offline online is quite another.
+
+-- Ben Thompson, [stratechery.com/2019/privacy-fundamentalism](https://stratechery.com/2019/privacy-fundamentalism)
 
 
 ## 20200117 - gap between experience and data
@@ -50,6 +78,7 @@ worth taking a look at this?:
 
 >The deepest transformations in our lives come down to something very simple: We learn to respond, not react, to what is going on inside us. [@brach_radical_2020 p.17]
 
+- yes and no as judgement
 - post-its of yes and no
 - saying yes or no to images or things
 - discussion of yes and no
