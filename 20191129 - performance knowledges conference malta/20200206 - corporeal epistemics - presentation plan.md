@@ -1,5 +1,7 @@
 # Corporeal epistemics
 
+- 15-20 minutes
+
 <https://www.washingtonpost.com/technology/2020/02/04/google-maps-simon-weckert/>
 
 - 99 phones
