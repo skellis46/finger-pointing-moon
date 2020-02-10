@@ -9,12 +9,18 @@ datafication | resolution | change | practice-as-research | dance | epistemology
 
 _aim:_
 
-to develop an original set of practice-research epistemic principles
+to develop an original and comprehensive set of practice-research epistemic principles
 
-_context:_ 
+_key concerns:_ 
 
 i) the limits of embodied practice-research, and the datafication of experience;  
 ii) leadership as a practice of humility, and strategies for affecting change
+
+_problem:_
+
+Practice-research is not a singular method but rather a broad approach to integrating creative practice into research/scholarly contexts. The approach has a common set of principles, while the underpinning practices are diverse, distinct and often singular or one-off entities. The approach is fundamentally first-person and involves self-critical reflection and analysis, and an often unstable or complex relationship to language and articulation. Given these characteristics it stands to reason that the diverse range of outcomes artist-scholars state as research _findings_ are often at best conceived _a priori_, or at worst simply made up. 
+
+The early period of practice-research generated complex thinking and ideas about the epistemic underpinnings of creative practice[^under]. This line of inquiry has fallen away or disappeared and it is not clear why. In more embodied creative practices (like dance, performance, live-art), the concept of _embodied knowledge_ has emerged as a form of epistemic proxy or red herring, as if to say, 'the body knows and _ipso facto_ practice-research generates knowledge'. But even if it is correct to suggest that the 'body knows' (whatever this might mean), such a statement sheds little if any light on understanding the effects of working with and through practice-research. An epistemic proxy does not solve the epistemic complexity of practice-research, and the problem of what can be understood differently as a result of practice-research is kept at arm's length. Therefore, the epistemic limits and possibilities of practice-research remain profoundly unclear. Without clarity, practice-research's development and value as a key approach to understanding our embodied lives and practices will be diminished. 
 
 _rationale:_ 
 
@@ -196,6 +202,8 @@ I'm interested in mobilising the knower, in critiquing the knower. The assumptio
 [^1]: <https://fulcra.design/science-conferences-are-stuck-in-the-dark-ages> and other options here: <https://unconference.net/methods/>
 
 [^ek]: Recent examples include 
+
+[^under]: See for example Pakes, Scrivener ...
 
 [^ben1]: Bendell 2019. _Leadership for Deep Adaptation_. <https://jembendell.com/2019/10/31/leadership-for-deep-adaptation>
 
