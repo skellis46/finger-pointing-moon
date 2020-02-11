@@ -53,6 +53,9 @@ In terms of supporting the research staff funded on the project, you should clea
 >The AHRC is one of the signatories of the RCUK Concordat to Support the Career Development of 
 Researchers. More information about the Concordat and what it entails can be found here: [ukri.org/files/legacy/skills/review-tor-concordat/](https://www.ukri.org/files/legacy/skills/review-tor-concordat/)
 
+- RA: website maintenance, and annotated bibliography of literature and practice (shared zotero library), published online as ongoing page on project website (with links to OA versions of originals where possible). edited collections (books) to be annotated by chapters. Or single page as database that includes one/two line summary of the publication/research. are we creating a database here? 
+- 
+
 
 ## Dissemination
 
