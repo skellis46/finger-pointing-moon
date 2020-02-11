@@ -90,10 +90,6 @@ I'm interested in mobilising the knower, in critiquing the knower. The assumptio
 - possible to link leadership thoughts about 'affected people' below with 'crowd epistemics' from That Thing Produced? 
 
 
-
-
-
-
 ## sum requested
 
 - 
