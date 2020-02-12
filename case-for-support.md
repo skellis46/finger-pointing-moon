@@ -26,6 +26,8 @@ To generate a flexible set of epistemic principles able to be used across discip
 
 ### Project Aims 
 
+- make the language of these match with end of previous paragraph
+
 1. To explore the limits of embodied practice-research, situated within the broad contemporary context of the datafication of human experience.
 
 2. To interrogate leadership as a practice of humility, and examine how practices of humility, patience and listening play a role in construction of knowledge.  
@@ -57,64 +59,67 @@ To generate a flexible set of epistemic principles able to be used across discip
 
 >What research methods will you be using to address the questions or issues that you have set yourself, or solve the problems you have identified, or to explore the matters you intend to investigate? Why have you chosen these methods? Why are they the best way to answer the research questions or problems you have identified? What will be your role? If there are other people involved, what will their roles be and why are they the appropriate people to be involved? 
 
->In describing your research methods it is not sufficient to state, for example, that you intend to visit a particular archive, or an exhibition abroad. You must provide adequate details of sources to be consulted, and you should state briefly what kinds of material you will be consulting, why they are relevant to your programme of research, and how you will interrogate them. Depending on the 
-approach you are using throughout your research, you may also need to explain clearly the creative and/or performative aspects of the work, explain how you will develop a new process, product or 
-tool, or provide details of who you have consulted or will be involved in the process of research.
+>In describing your research methods it is not sufficient to state, for example, that you intend to visit a particular archive, or an exhibition abroad. You must provide adequate details of sources to be consulted, and you should state briefly what kinds of material you will be consulting, why they are relevant to your programme of research, and how you will interrogate them. Depending on the approach you are using throughout your research, you may also need to explain clearly the creative and/or performative aspects of the work, explain how you will develop a new process, product or tool, or provide details of who you have consulted or will be involved in the process of research.
 
 >Under the Research Methods heading you should also outline how any copyright or intellectual property issues relating to the project and the production of any outputs will be addressed.
 
-- convince decision makers that ‘this is the best solution’ and feel compelled to fund it – (approx >50% of content); 
+>convince decision makers that ‘this is the best solution’ and feel compelled to fund it – (approx >50% of content); 
 
-add pace layers from devonthink.
+### Overview
 
-1. research focus 1: leadership
-    + case-studies/ethnographic interviews - exploring leadership, uncertainty and knowledge production (in a range of practices and disciplines)
-2. research focus 2: practice-research
-    + practice-research fieldwork consisting of three distinct practices: 
-        1. process-driven experimental movement practice;  
-        2. solitude practice
-        3. collecting practice   
-    + literature and field review focusing on:
-        1. 
+Intro here about the nature of the design, why it's appropriate. Multi-modal. practice and The research design comprises two overlapping areas of research that underpin the project: 1) practice-research and epistemics; 2) leadership, uncertainty and humility. 
 
-- Primarily a first person investigation:[^1st] to grapple with first person experiences in, through and around the body (my body) – to fully wrestle with the uncertainty and unsayable experiences that carve into our flesh
-- creative practice-research fieldwork
-- history, philosophy
-- qualitative research through ethnographic conversations
+The areas overlap because of potential for leadership to be understood as a practice of epistemic humility. add something here about affecting change (Bendell). something about it being comprehensive.
 
-1. practice-research _fieldwork_ through three distinct practices (all based on the premise that we understand through doing (Ingold here?):
+#### Research Area 1: practice-research and epistemics
+
+This area contains experimental practice-research fieldwork and traditional scholarly research to approach experiences and understandings of practice-research epistemics from the inside (through practice) and the outside (through scholarship).
+
+##### + __Practice-research fieldwork__ 
+
+consisting of three distinct practices (all based on the premise that we understand through doing (Ingold here?):
+
+1. process-driven experimental movement practice 1st and 2nd person component.[^1st] high resolution experiences through movement: what is unsayable? what is unknowable? what remains? Dance and choreographic practices are paradigmatic in this method, because "The body is both a question and an inaccessible answer ... [where] the unseen shimmers, the unheard whispers, the unfelt is caressed and we intuit the unknown."[^heath2011] paradigmatic cases of the problem of knowledge production in practice-research generally, and in dance specifically
     
-    a) high resolution experiences through movement: what is unsayable? what is unknowable? what remains? Dance and choreographic practices are paradigmatic in this method, because "The body is both a question and an inaccessible answer ... [where] the unseen shimmers, the unheard whispers, the unfelt is caressed and we intuit the unknown."[^heath2011]
-
-    b) solitary practice (leadership focused): one hour daily in solitude and silence - "doubts, or questions, or even just difficulties ... can only be found within--without distractions, without peer pressure, in solitude".[^deres2010] This component is speculative and unknown. It's a wildcard. 
+2. solitude practice: (leadership focused) One hour daily in solitude and silence - "doubts, or questions, or even just difficulties ... can only be found within--without distractions, without peer pressure, in solitude".[^deres2010] This component is speculative and unknown. It's a wildcard. 
     
-    c) collecting practice called "unforgettable experiences": collecting hand-written notes/letters of others about memories of watching dance/performance. Key: analogue, experience of watching (v 'doing' in 'a' above)
+3. collecting practice: called "unforgettable experiences": collecting hand-written notes/letters of others about memories of watching dance/performance. Key: analogue, experience of watching (vs 'doing' in experimental movement practice above) 
 
-2. literature and field review: analysis of past and present through published materials (RA is primarily responsible)
+##### + __Traditional scholarship__ 
 
-3. cross-disciplinary case studies/interviews: 
-    + leadership/epistemics/uncertainty/humility/epistemic limits
-    + how to identify these cases? Cases ought also to be current practitioners working with PaR -- who would these be? (who are the key figures in dance? (and perhaps beyond). 
-    + Possibilities could be:
-        + Bob and Lee
-        + Henk Borgdorff
-        + Michael Schwab
-        + Carol Brown
-        + Paul Magee
-        + Wendell Berry
-        + what about areas like nursing, or care-based practices? Go broader
+literature and field review focusing on (analysis of historical and current literature in practice-research (and beyond) re epistemic work to produce annotated bibliography and literature database):
 
+1. history of practice-research, artistic research, practice-led research, practice-based research (etc) around the world, and in particular Scandanavia, UK, and Australia
+
+2. published materials that include discussion of epistemological questions surrounding practice-research  
+
+3. any examples of creative practice projects that explicitly or implicitly explore epistemology
+
+#### Research Area 2: leadership, uncertainty and humility
+
+case-studies/ethnographic interviews - exploring leadership, uncertainty and knowledge production (in a range of practices and disciplines). + leadership/epistemics/uncertainty/humility/epistemic limits. how to identify these cases? Cases ought also to be current practitioners working with PaR -- who would these be? (who are the key figures in dance? (and perhaps beyond). 
+
+Possibilities could be:
+    + Bob and Lee
+    + Henk Borgdorff
+    + Michael Schwab
+    + Carol Brown
+    + Paul Magee
+    + Wendell Berry
+    + what about areas like nursing, or care-based practices? Go broader
+
+### Collection 
+
+### Analysis
+    
 - analysis of these various data? 
     + cataloguing of collected letters/responses (sorting into various kinds of works, responses, years, etc)
     + exploration of creative potential of photographs from main practice
+
+
+- add pace layers from devonthink as a way of thinking about the 'times' of the parts of the design?
 - address climate change in structure/construction of project method and management? 
 
-1. develop two paradigmatic cases of the problem of knowledge production in PaR generally, and in dance specifically: 1) creative practice without outcome (process oriented) - authentic movement; 2) movement art work as film: package-able, shareable, digital, potentially circumvents the _problem_ of documentation
-- how are they paradigmatic (either end of spectrum related to production of research practice outcomes)?
-
-2. analysis of historical and current literature in PaR (and beyond) re epistemic work to produce annotated bibliography and literature database
-
-3. 10 x interviews with key figures in PaR (about)
 
 ## Project plan and timetable 
 
@@ -183,6 +188,19 @@ How do you propose to maximise the value of the proposed research outputs?
 - my skills and experience (competence)
 - value: is the project good value? ? (mention resources, type and quantity/level needed justified in Plan)
 
+
+## edit bin
+
+- Primarily a first person investigation:[^1st] to grapple with first person experiences in, through and around the body (my body) – to fully wrestle with the uncertainty and unsayable experiences that carve into our flesh
+
+- creative practice-research fieldwork
+- history, philosophy
+- qualitative research through ethnographic conversations
+
+
+
+1. develop two paradigmatic cases of the problem of knowledge production in PaR generally, and in dance specifically: 1) creative practice without outcome (process oriented) - authentic movement; 2) movement art work as film: package-able, shareable, digital, potentially circumvents the _problem_ of documentation
+- how are they paradigmatic (either end of spectrum related to production of research practice outcomes)?
 
 ## References
 
