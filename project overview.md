@@ -28,6 +28,8 @@ Leadership is not about the "power of a significant individual at the top of a h
 
 _research design:_
 
+add pace layers from devonthink.
+
 1. research focus 1: leadership
     + case-studies/ethnographic interviews - exploring leadership, uncertainty and knowledge production (in a range of practices and disciplines)
 2. research focus 2: practice-research
