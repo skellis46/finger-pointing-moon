@@ -11,6 +11,12 @@ csl:
 
 - notes organised by date
 
+## 20200212 - pace layers
+
+>To develop that solution, we turn to a different idea from design: pace (or shearing) layers. Pace layers describe how different levels of a structure change at different speeds. In a building, the ground almost never changes. The foundation built on that ground can only be changed with great difficulty, the infrastructure (plumbing, wiring, etc.) can be changed with a little less difficulty, and so on—until you reach the furniture of the place, or even the people in it, which changes rapidly and easily.
+
+– Ryan Murphy <https://fulcra.design/systemics-and-design-principles-in-support-of-tiago-fortes-para-framework>
+
 ## 20200203 - zuboff and the unrecognizable
 
 >One explanation for surveillance capitalism’s many triumphs floats above them all: it is unprecedented. The unprecedented is necessarily unrecognizable. When we encounter something unprecedented, we automatically interpret it through the lenses of familiar categories, thereby rendering invisible precisely that which is unprecedented. [@zuboff_age_2019 Chapter 1]
