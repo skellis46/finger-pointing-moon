@@ -1,11 +1,48 @@
 # Case for Support - Finger Pointing Moon
 
+## The Research Problem and Questions 
 
-## Research questions or problems 
+- detail the problem that _requires_ this research project to solve it (about 30% of CfS)
+- Objectives and how they are important in solving the problem (give short list of reasons citing evidence)
 
 >You should describe clearly the research questions, issues or problems that you intend to address. What are the issues that you will be exploring in the course of your research?
 
+There is an epistemic crisis in body-based practice-research. It is a crisis revealed by the sharp rise in scholarship exploring the nature of embodied knowledge.[^ek] In much of that research, the idea that the body _knows_ acts as a proxy for the epistemic limitations of practice-research investigations. In other words, artist-scholars who research through movement practices are valorising the concept of embodied knowledge while failing to address the key epistemic paradox of creative practice-research: that its ontology lies at least in part in what is _not_ able to be known, understood or articulated as a consequence of body-based creative practices.[^ttp1] This is a humbling limitation for any research method or process, and a crucial problem in the development of practice-research in the Academy.
 
+The contemporary cultural backdrop for the tension between embodied knowledge, the unknowable, and the inarticulable is the datafication of human experience. In 2017 _The Economist_ declared that the "world’s most valuable resource is no longer oil, but data".[^econ] We live in the age of _surveillance capitalism_ that is founded on "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[^zub1] The cultural and financial capital of understanding the world-as-data means it is not surprising that precarious and delicate artistic practices and processes located in and through the body – like dance and somatics – have also become enamoured by the doctrine of datafication. The rapidly growing number of online archives, digital forms of documentation, and virtual and augmented reality projects are all implicit or explicit attempts by dance scholars to transform the radically analogue nature of embodied experiences into data.[^plethora] 
+
+This research leadership project called _Finger Pointing Moon_ is underpinned by these two phenomena: the limitations of embodied practice-research, and the datafication of experience. These phenomena are related because the construction and production of knowledge in any scholarly field is never based on the simple and objective observation of worldly phenomena. Rather, to understand what we say we know and do not know, the vital epistemic question is in fact "who, when, [and] why is constructing knowledges?"[^mig1] If the overwhelming contemporary phenomenon is the extraction of data from human experiences, then the question of _who, when and why is constructing knowledges_ necessitates an encounter with the limits and excesses of datafication. 
+
+In this project, I propose that complex and radically analogue human experiences like experimental choreographic and movement practices have ontologies that are underpinned by two key characteristics: a) they defy the capacity to be accurately and wholly articulated and shared; and b) they exceed "algorithmic description".[^odell1] _Finger Pointing Moon_ is positioned squarely at the intersection of the datafication of human experience and the limitations of embodied practice-research. 
+
+But _Finger Pointing Moon_ is also a project _about_ leadership.
+
+add something about here about leadership and affecting change. imbrication of leadership into research design. Leadership is not a side project to bolster my claims to be a practice-research disciplinary leader. Rather, drawn into the design. 
+
+
+It is a project designed around creative practices that resist datafication, understanding and articulation, and the overarching purpose of the design is to create the conditions in which to develop an original set of practice-research epistemic principles. 
+
+To generate a flexible set of epistemic principles able to be used across disciplines and practices is a bold aim. It is also an aim that is founded on two seemingly paradoxical values that underpin the nature of leadership: authority and humility. In other words, _who_ has the authority to know, and _how_ might humility act to attenuate such authority? In _Finger Pointing Moon_ I will scrutinise the nature of authority in leadership by working with the radically analogue nature of the human body to examine _who_ gets to know, and _how_ they get to know. The project will be built on first-person research methods to deepen our understanding of two broad areas: creative practice-research, and leadership.
+
+### Project Aims 
+
+1. To explore the limits of embodied practice-research, situated within the broad contemporary context of the datafication of human experience.
+
+2. To interrogate leadership as a practice of humility, and examine how practices of humility, patience and listening play a role in construction of knowledge.  
+
+
+### Objectives
+
+- to develop an original and comprehensive set of practice-research epistemic principles
+- to understand leadership as a practice of humility  
+- to build leadership as humility into understanding _who, when and why_ is constructing knowledge  
+- to generate and critically examine three research practices for which their epistemic possibilities are radically different. Also come from different positions of "leadership" 
+- research and produce annotated bibliography of PaR literature that refers to its history and its epistemic possibilities and limits
+- examine through practice the role of solitude in understanding leadership, action and change (contrast this with 'group epistemics' from That Thing Produced – actually, not in contrast. I think they sit together quite clearly. (see [@sennett_together_2012 p.21] -- about getting outside yourself)
+- epistemic principles in practice-research
+- epistemic values in practice-research 
+- leadership/practice connected by corporeal actions: what the body can do, and what the body does (fare: to make and to do)
+- focus on collective organising; strategies for collective organising: collecting practice? 
 
 ## Research context 
 
@@ -13,12 +50,10 @@
 
 
 
-### the problem of knowledge in practice-as-research (literature)
-
 >Have we somehow conspired to arrange matters so that knowledge is always what we say about something rather than what we show about it? [@biggs_editorial_2002]
 
 
-## Research methods 
+## Research design and methods 
 
 >What research methods will you be using to address the questions or issues that you have set yourself, or solve the problems you have identified, or to explore the matters you intend to investigate? Why have you chosen these methods? Why are they the best way to answer the research questions or problems you have identified? What will be your role? If there are other people involved, what will their roles be and why are they the appropriate people to be involved? 
 
@@ -28,12 +63,62 @@ tool, or provide details of who you have consulted or will be involved in the pr
 
 >Under the Research Methods heading you should also outline how any copyright or intellectual property issues relating to the project and the production of any outputs will be addressed.
 
+- convince decision makers that ‘this is the best solution’ and feel compelled to fund it – (approx >50% of content); 
+
+add pace layers from devonthink.
+
+1. research focus 1: leadership
+    + case-studies/ethnographic interviews - exploring leadership, uncertainty and knowledge production (in a range of practices and disciplines)
+2. research focus 2: practice-research
+    + practice-research fieldwork consisting of three distinct practices: 
+        1. process-driven experimental movement practice;  
+        2. solitude practice
+        3. collecting practice   
+    + literature and field review focusing on:
+        1. 
+
+- Primarily a first person investigation:[^1st] to grapple with first person experiences in, through and around the body (my body) – to fully wrestle with the uncertainty and unsayable experiences that carve into our flesh
+- creative practice-research fieldwork
+- history, philosophy
+- qualitative research through ethnographic conversations
+
+1. practice-research _fieldwork_ through three distinct practices (all based on the premise that we understand through doing (Ingold here?):
+    
+    a) high resolution experiences through movement: what is unsayable? what is unknowable? what remains? Dance and choreographic practices are paradigmatic in this method, because "The body is both a question and an inaccessible answer ... [where] the unseen shimmers, the unheard whispers, the unfelt is caressed and we intuit the unknown."[^heath2011]
+
+    b) solitary practice (leadership focused): one hour daily in solitude and silence - "doubts, or questions, or even just difficulties ... can only be found within--without distractions, without peer pressure, in solitude".[^deres2010] This component is speculative and unknown. It's a wildcard. 
+    
+    c) collecting practice called "unforgettable experiences": collecting hand-written notes/letters of others about memories of watching dance/performance. Key: analogue, experience of watching (v 'doing' in 'a' above)
+
+2. literature and field review: analysis of past and present through published materials (RA is primarily responsible)
+
+3. cross-disciplinary case studies/interviews: 
+    + leadership/epistemics/uncertainty/humility/epistemic limits
+    + how to identify these cases? Cases ought also to be current practitioners working with PaR -- who would these be? (who are the key figures in dance? (and perhaps beyond). 
+    + Possibilities could be:
+        + Bob and Lee
+        + Henk Borgdorff
+        + Michael Schwab
+        + Carol Brown
+        + Paul Magee
+        + Wendell Berry
+        + what about areas like nursing, or care-based practices? Go broader
+
+- analysis of these various data? 
+    + cataloguing of collected letters/responses (sorting into various kinds of works, responses, years, etc)
+    + exploration of creative potential of photographs from main practice
+- address climate change in structure/construction of project method and management? 
+
 1. develop two paradigmatic cases of the problem of knowledge production in PaR generally, and in dance specifically: 1) creative practice without outcome (process oriented) - authentic movement; 2) movement art work as film: package-able, shareable, digital, potentially circumvents the _problem_ of documentation
 - how are they paradigmatic (either end of spectrum related to production of research practice outcomes)?
 
 2. analysis of historical and current literature in PaR (and beyond) re epistemic work to produce annotated bibliography and literature database
 
 3. 10 x interviews with key figures in PaR (about)
+
+## Project plan and timetable 
+
+(you are expected to be confident and specific about what you will do, who will do it, when you will do it, and how long it will take – in a realistic approximation)
 
 
 ## Leadership development plan 
@@ -61,4 +146,71 @@ Researchers. More information about the Concordat and what it entails can be fou
 
 >Information under this heading should build on the details given in the Academic Beneficiaries and Impact Summary sections of the Je-S form. Please provide examples of the kinds of outputs you propose to produce during the award and their proposed focus. Please explain further how the research will benefit other researchers in the field 
 and – where relevant – academic beneficiaries in other disciplines.
-How do you propose to maximise the value of the proposed research outputs? You should cross refer here to the separate attachment, ‘Pathways to Impact’.
+How do you propose to maximise the value of the proposed research outputs? 
+
++ Outputs and Dissemination (what you will do with the knowledge) for your audience:
+    * To Beneficiaries – who are they
+    * To End Users – who are they?
+    * What is the plan to exploit outcomes to beneficiaries and end users (short description)
+    * Will there be Public Engagement?
+
+- OA desktop documentary exploring PaR epistemic principles (key output)
+    + tied to all three methods
+    + auxiliary-output: OA visual trace (e.g. photo series from authentic movement practice with RC - building on work with Shaun McLeod in 2019)
+- website:
+    + tied to 2, 3 and 1
+    a) annotated bibliography  
+    b) bi-weekly blog post  
+    c) collecting materials and traces of project and the project practices  
+- github site for all text materials: radically transparent and OA
+    + tied to all methods
+- symposium: using Radhoc’s Unpanel or another Unconference idea[^1]) 
+    + tied to 3, 1 and 2
+- exhibition of analogue "experiences of performance" letters 
+    + developed from method 1c
+- _The Unknowable Body_ exhibition: 
+    + developed from methods 1, 2 and 3
+    + consists of resources, insights, notes, images
+    + need to consider budget and practicalities for collecting and storing
+    + any copyright issues? 
+    + broaden beyond the practices
+    + installed at 2-3 locations: SDD, Dance4, The Workroom
+- journal article: principles of par epistemics
+    + developed from methods 2, 3 and 1
+
+## other things to consider
+
+- my skills and experience (competence)
+- value: is the project good value? ? (mention resources, type and quantity/level needed justified in Plan)
+
+
+## References
+
+[^odell1]: Odell 2019. _How to do nothing: resisting the attention economy_. Melville House, Brooklyn, NY.
+
+[^1]: <https://fulcra.design/science-conferences-are-stuck-in-the-dark-ages> and other options here: <https://unconference.net/methods/>
+
+[^ek]: Recent examples include 
+
+[^under]: See for example Pakes, Scrivener ...
+
+[^ben1]: Bendell 2019. _Leadership for Deep Adaptation_. <https://jembendell.com/2019/10/31/leadership-for-deep-adaptation>
+
+[^ben2]: Bendell 2019. _Leadership for Deep Adaptation_. <https://jembendell.com/2019/10/31/leadership-for-deep-adaptation>
+
+[^ttp1]: See for example Ellis 2018. 'That Thing Produced', in: Ellis, Blades & Waelde, C. (Eds.), _A World of Muscle, Bone & Organs_, pp. 480–498. <
+
+[^econ]: The world’s most valuable resource is no longer oil, but data, 2017. The Economist. <https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data>.
+
+[^zub1]: Zuboff 2019. _The Age of Surveillance Capitalism_.
+
+[^plethora]: See for example 
+
+[^mig1]: Mignolo 2009. 'Epistemic Disobedience, Independent Thought and Decolonial Freedom'. _Theory, Culture and Society 26_, 159–181. <https://doi.org/10.1177/0263276409349275>
+
+[^1st]: <https://thesystemsthinker.com/first-second-and-third-person-research-in-practice/>
+
+[^heath2011]: Heathfield 2011. _What is choreography?_ <http://web.archive.org/web/20110203045754/http://www.corpusweb.net/answers-2228-3.html> (accessed 2.10.12).
+
+[^deres2010]: Deresiewicz 2010. _Solitude and Leadership_ <https://theamericanscholar.org/solitude-and-leadership/> (accessed 12.11.19).
+
