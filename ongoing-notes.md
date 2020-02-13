@@ -11,6 +11,18 @@ csl:
 
 - notes organised by date
 
+## embodied knowledge
+
+>This primordial consideration of the experiential – here, a starting point for creating artistic work and one of the main axes of my research – can be related back to a definition of aesthetics by ancient Greeks as a reference to sensation and the ability to perceive. My experimentation thus sought to develop accrued sensory and perceptual awareness and also, to invest in a dimension of the relationship somatics/technology that could potentially lead to a transformation of self, of relationship to others and to the world. Here, the somatic intelligence is prioritized as the main tool in this research process. As one of the forms of the physical intelligence, it is an experiential corporal modality, a form of embodied knowledge that can be described as an increased skill to sense, to perceive and to relate.[@choiniere_somatic/embodiment/technology_2018 p.195]
+
+somatic intelligence ... is "one of the forms of physical intelligence", "a form of embodied knowledge that can be described as an increased skill to sense, to perceive and to relate."
+
+I don't get the 'increased' bit. 
+what are the other forms? 
+to sense what? to perceive what?
+to relate to whom or what?
+
+
 ## 20200212 - pace layers
 
 >To develop that solution, we turn to a different idea from design: pace (or shearing) layers. Pace layers describe how different levels of a structure change at different speeds. In a building, the ground almost never changes. The foundation built on that ground can only be changed with great difficulty, the infrastructure (plumbing, wiring, etc.) can be changed with a little less difficulty, and so on—until you reach the furniture of the place, or even the people in it, which changes rapidly and easily.
