@@ -17,6 +17,8 @@ csl:
 
 somatic intelligence ... is "one of the forms of physical intelligence", "a form of embodied knowledge that can be described as an increased skill to sense, to perceive and to relate."
 
+three abstract terms in one sentence 
+somatic intelligence is subset of physical intelligence?
 I don't get the 'increased' bit. 
 what are the other forms? 
 to sense what? to perceive what?
