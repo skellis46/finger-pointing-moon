@@ -76,25 +76,48 @@ Problem 2: research is fundamentally about noticing change. that we understand s
 
 Second problem is revealing. Can we all agree that there was embodied knowledge in that laboratory space? But this in itself is an absurd question. I mean when is there not embodied knowledge in any room? It's here now. We don't have to be moving. So, do we then mean a certain level or quantity of embodied knowledge? Is there some kind of threshold when embodied knowledge becomes useful or noticeable? Or when we use the term 'embodied research' do we just mean research that focuses on the body by people with bodies sensitised to the complexities of the moving, sensing body? Perhaps I am being provocatively simplistic here but sometimes it sure feels as if that embodied emperor isn't wearing any clothes; not that I'd want to point that out.
 
-Yet even given the vagaries and ambiguities of doing embodied research that yields embodied knowledge, the key question for Shaun and me is this: 
+Yet even given the vagaries and ambiguities of doing embodied research that yields embodied knowledge, the key question for any of us involved in any research practice of any kind is: 
 
 >What do we understand differently as a consequence of this practice and how might that understanding be shared or of consequence to our research community? 
 
-What we understand differently was not about embodiment, or insights into the nature of our sensitised and sensitising bodies. It was, I think, about resolution; or resolutions of experience. It was an accident. An accident of thinking and iteration -- what if we insert a camera into this predominantly invisible experience/practice? What might the ocular-centric technology of our time (the smartphone) do to the unseen? That was a question that occurred to Shaun and me early on in the practice. But then, one or two months after we finished the work together, I happened to be reading -- for an entirely different project -- Boaventura de Sousa Santos's 2001 article _Toward an Epistemology of Blindness_ [-@santos_toward_2001]. that I tore the term _resolution_ from one context and linked it together ... key insight of this practice:
+How have our thinking/practices changed? How might they be useful to others? These differences were circumstantial. Came about through the practice -- something unable to be described/working with photos. But then also reading/thinking. 
+
+What we care about _and_ what matters most.
+
+I think there are three key insights -- or ideas -- from this work that I care about and that I think might matter to us in our current conversations. These are (in order of coming to mind or "development"!): 1) the body as an analogue site able to resist datafication; 2) resolution of experience; 3) embodied knowledge as a proxy.
+
+Shift from the work we were doing to the work I have been doing. This is messy. For instance, reading Zuboff at the same time. Just an accident. 
+
+What I now understand differently was not about embodiment, or insights into the nature and experience of our sensitised and sensitising bodies. The state, quality or even quantity of 'embodiment' in this research was merely a thing. But it wasn't any _thing_ special, and wasn't anything that people haven't already been doing for a long long time in authentic movement. I can make no claims about the uniqueness of the practice itself.
+
+These differences -- or understandings -- were, in reality an accident. A series of unlinked ideas and possibilities that happened to end up, like two people sitting in the same room at a party. No predetermined insight or outcomes eminating from a detailed research design. Just change, or cirumstance. This is not to diminish these ideas, I care about them and I think they are important. Rather, I just want to acknowlege that Shaun and I were lost in the "mangle of practice".[@pickering_mangle_1995] And, to a certain, extent, I still am lost in that same mangle.  
+
+(archiving or documenting the invisible) An accident of thinking and iteration -- what if we insert a camera into this predominantly invisible experience/practice? What might the ocular-centric recording device of our time (the smartphone) do to the unseen? That was a question that occurred to us early in the practice. add here about reading Zuboff. A coincidence. 
+
+But then, one or two months after we finished the work together, I happened to be reading -- for an entirely different project -- Boaventura de Sousa Santos's 2001 article _Toward an Epistemology of Blindness_ [-@santos_toward_2001]. de Sousa Santos's thinking was simply that "the resolution level of our [scientific] methods is higher than the resolution level of our theories." (p.261) In effect, I robbed de Sousa Santos of his thinking in a particular field and for a particular context, to help make sense of the relationship between experience and representation in the work with Shaun. Or perhaps I just borrowed his thinking. It's different though from a citation because he was writing for an utterly different context, and with utterly different ambitions for how the thinking might be met and used. It's not a loan either. More like a digital theft when the owner doesn't lose any materials or things, after all his thinking as presented in that writing is endlessly reproducible. But some of its aura or value is diluted as it is dropped into a different world, with different ideologies, different practices, and different needs. But I digress.
+
+add why resolution is a useful term. datafied.
+
+It was, I think, about resolution; or resolutions of experience. It
+
+"coarse-grain"
+
+
 
 
 - high resolution experiences
 - low resolution 'articulation'
-Mignolo combined with Zuboff. 
+de Sousa Santos combined with Zuboff. 
 
-Three insights:
 1. resolution
 2. analogueness of the human body. (in relation to datafication)
-3. proxy of embodied knowledge devalues rich experiences that are unable to be discussed. 
+3. proxy of embodied knowledge devalues rich experiences that are unable to be discussed. finger pointing moon.
 
-The state of 'embodiment' in the research is/was a thing. But it wasn't anything special, and wasn't anything that people haven't already been doing for a long long time in authentic movement. If we were to make any claims of originality when it came to the practice of AM we'd be dancing on very thin ice.
+
 
 >If the key epistemic question is "who, when, why is constructing knowledges?"[^3] then in this presentation I will attempt to discuss the epistemic _why_ of experiences that are unable to be discussed. They are experiences of politics and humility that underpin the radically analogue nature of the human body; they are experiences that exceed "algorithmic description";[^4] perhaps they are even experiences or _acts_ of "epistemic disobedience".[^5]
+
+ 
 
 Finish by tying back to Zuboff and our bodies. 
 
@@ -105,3 +128,7 @@ Finish by getting people to turn back on their phones.
 Mention Emma's idea: 
 
 >I think for me that at the root of it is the counterpart of dissociation, ie splitting from body experience often caused by trauma. Not sure that’s much help. I do think embodiment exists and its not just having a body but very hard to point to it via language.
+
+and asked myself how it might help understand the discrepanci And it was by robbing de Sousa Santos of his thinking for one context (that of higher and lower resolution levels between theories and methods) that I tore the term _resolution_ from one context and linked it together 
+
+although perhaps if I were really desperate I might make some claims about the inappropriately clumsy role of the smartphone in the practice.
