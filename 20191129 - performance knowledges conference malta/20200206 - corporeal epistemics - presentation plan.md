@@ -26,11 +26,11 @@ What can be said about what happened in that space during those six weeks of pra
 
 One person had their eyes closed all of the time, or close to all of the time. While they had their eyes closed they moved around the space, sometimes this movement was more like a series of stillnesses, other times it was very everyday: like walking, or sitting, or lying. Still other times this person might shake or do things that were a little less everyday. These movements were sometimes strung together; most of us in this room would call that -- or recognise it as -- contemporary dance, or somatically informed contemporary dance. But it was definitely not the kind of contemporary dancing I've seen on "So You Think You Can Dance", or even at bigger Western dance venues around. I would say this person looked a little like they were *feeling* or perhaps *sensing*, or searching. But I couldn't be sure, and nor do I think we could all agree on this. **Finish the description -- other person what they are doing.**
 
-Build photos in here. So, what we can agree on based on you trusting my description. but here is all that is left for us to look at. how many photos. randomly taken. in some ways its rich material compared with my description -- we see clothing, shapes, the room, positions on the floor, the light, faces, postures, hints of gestures, expressions. but in other ways I'd suggest these images are low-resolution documents from the activity itself. that an enormous quantity of experiential data have not made it from what was in the room, to what you can see here. we certainly can infer some things from these photos, not least of all the movements or actions of Shaun or me. We are inferring movement.  
+Build photos in here. So, what we can agree on based on you trusting my description? but here is all that is left for us to look at. how many photos. randomly taken. in some ways its rich material compared with my description -- we see clothing, shapes, the room, positions on the floor, the light, faces, postures, hints of gestures, expressions. but in other ways I'd suggest these images are low-resolution documents from the activity itself. that an enormous quantity of experiential data have not made it from what was in the room, to what you can see here. we certainly can infer some things from these photos, not least of all the movements or actions of Shaun or me. We are inferring movement.  
 
 mention something about it not requiring expertise. that anyone could do this. its inordinately simple in form, but vastly open-ended in possible experiential complexity.
 
-## diversion: embodied knowledge
+## embodied knowledge as a proxy
 
 >Here, the somatic intelligence is prioritized as the main tool in this research process. As one of the forms of the physical intelligence, it is an experiential corporal modality, a form of embodied knowledge that can be described as an increased skill to sense, to perceive and to relate. [@choiniere_somatic/embodiment/technology_2018 p.195]
 
@@ -56,7 +56,7 @@ The problem gets messier still. Because, as a participant in these simple dance 
 But was there embodied knowledge zipping around in that room? If we can agree -- can we agree? -- that embodied knowledge is ...
 then yes, with my experience as a dancer and a watcher of others dancing, I would say I saw those qualities: of understanding, experience, decision making, attention. But how did I see them? And what was it I was seeing? Things get pretty hairy then. And it would be much harder to agree on how it was that I was seeing such things, and what I was seeing that made me think or feel those things. It makes me think that what we are dealing with is an epistemic house of cards and I am quite happy with that idea. 
 
->Why is it then that dance, with its legitimate claim to specialized knowledge of the body, has never been consulted in these debates? d[@davidson_somatics_2013 p.4]
+>Why is it then that dance, with its legitimate claim to specialized knowledge of the body, has never been consulted in these debates? [@davidson_somatics_2013 p.4]
 
 >For dance practitioners, somatic intelligence constitutes a model of corporeal experience: a form of embodied knowledge that can also be described as a skill for sensing, relating and ‘revealing’.[@davidson_somatics_2013 p.6]
 
@@ -73,33 +73,51 @@ that phronesis is “a creative sensitivity to circumstances as they present the
 
 >And if – like Pakes – we try and make epistemic sense of practice-as-research through the work of Aristotle, David Carr and Gilbert Ryle43 then this only accounts for the phronetic know-how that underpins all practice-as-research projects by any given group or individual. Such know-how is common to all research (not just the creative kind)
 
-Can we all agree that there was embodied knowledge in that laboratory space? But this in itself is an absurd question. I mean when is there not embodied knowledge in any room? It's here now. We don't have to be moving. So, do we then mean a certain level or quantity of embodied knowledge? Is there some kind of threshold when embodied knowledge becomes useful or noticeable? Or when we use the term 'embodied research' do we just mean research that focuses on the body by people with bodies sensitised to the complexities of the moving, sensing body? Perhaps I am being provocatively simplistic here but sometimes it sure feels as if that embodied emperor isn't wearing any clothes; not that I'd want to point that out.
+I wonder if we can we all agree that there was embodied knowledge in that laboratory dance space? But this in itself is an absurd question. I mean when is there not embodied knowledge in any room? It's here now. We don't have to be moving. So, do we then mean a certain level or quantity of embodied knowledge? Is there some kind of threshold when embodied knowledge becomes useful or noticeable? Or when we use the term 'embodied research' do we just mean research that focuses on the body by people with bodies trained and sensitised to the complexities of the moving, sensing body? Perhaps I am being provocatively simplistic or stubborn here but sometimes it sure feels as if that embodied emperor isn't wearing any clothes; not that I'd want to point that out.
 
-Yet even given the vagaries and ambiguities of doing embodied research that yields embodied knowledge, the key questions for any of us involved in any research practice of any kind is: 
-
->What do we understand differently as a consequence of this practice? How might those understandings be important to our research community? How might these ideas be shared? 
-
-## insights
-
-How have our thinking/practices changed? How might they be useful to others? These differences were circumstantial. Came about through the practice -- something unable to be described/working with photos. But then also reading/thinking. 
+proxy of embodied knowledge devalues rich experiences that are unable to be discussed. finger pointing moon.
 
 research is fundamentally about noticing change. that we understand something differently as a consequence of spending time with it. could be intervention, could be a phenomenon. caveat that noticing no change is something as well.
 
-What we care about _and_ what matters most.
+Yet even given the vagaries and ambiguities of doing embodied research that yields embodied knowledge, the key questions for any of us involved in any research practice of any kind is: 
 
-I think there are three key insights -- or ideas -- from this work that I care about and that I think might matter to us in our current conversations. These are (in order of coming to mind or "development"!): 1) the body as an analogue site able to resist datafication; 2) resolution of experience; 3) embodied knowledge as a proxy.
+>What do we understand differently as a consequence of this practice?  
+>How might those understandings be important to our research community?  
+>How might these ideas be shared?  
 
-Shift from the work we were doing to the work I have been doing. This is messy. For instance, reading Zuboff at the same time. Just an accident. 
+## insights
 
-What I now understand differently was not about embodiment, or insights into the nature and experience of our sensitised and sensitising bodies. The state, quality or even quantity of 'embodiment' in this research was merely a thing. But it wasn't any _thing_ special, and wasn't anything that people haven't already been doing for a long long time in authentic movement. I can make no claims about the uniqueness of the practice itself.
+I suspect that any research insights -- perhaps more so in the arts and humanities – reveal what we care about as individuals, and what might matter to us most as a community. The following insights (or emergent understandings) are no different. 
 
-These differences -- or understandings -- were, in reality an accident. A series of unlinked ideas and possibilities that happened to end up, like two people sitting in the same room at a party. No predetermined insight or outcomes eminating from a detailed research design. Just change, or circumstance. This is not to diminish these ideas, I care about them and I think they are important. Rather, I just want to acknowlege that Shaun and I were lost in the "mangle of practice".[@pickering_mangle_1995] And, to a certain, extent, I still am lost in that same mangle.  
+I could say that they came about through the practice over six weeks last August and September; a practice of process-based movement experiments that involved a discipline of non-judgement, invisible experiences and automated photography. But that would not be the entire truth at all. Because the substantially greater proportion of my understanding evolved in the weeks and months after the practice while I was reading and thinking _about other things_. This, in part, also feels odd because it was as if the intensely collaborative practice of movement became a far more isolated and individualistic practice of words and thought. 
 
-### the body and datafication
+In this respect, these insights -- or differences or understandings -- were, in reality, circumstantial and implausibly arbitrary. A series of seemingly un-related ideas and possibilities that happened to end up together, like two people sitting in the same room at a party. They are not predetermined insights or outcomes emanating from a detailed research design. Just change, or happenstance. This is not to diminish these ideas, I care about them and I think they are important. Rather, I just want to acknowledge that in the late northern summer last year Shaun and I were fabulously lost in the "mangle of practice".[@pickering_mangle_1995] 
+
+And it's also important to note that what I now understand differently was not about embodiment, or insights into the nature and experience of our sensitised and sensitising bodies. The state, quality or even quantity of 'embodiment' in this research was merely a thing. But it wasn't any _thing_ special, and it wasn't anything that people haven't already been doing for a long long time in authentic movement. I make no claims about the uniqueness of the practice itself.
+
+I think there are two key insights -- or ideas -- from this work that I care about and that I think might matter to us in our current conversations. These are (in order of coming to mind or _development_): 1) the body as an analogue site able to resist datafication; and 2) resolution of experience.
+
+### 1. the analogue body and datafication
 
 analogueness of the human body. (in relation to datafication)
 
-### resolution of experience
+I was reading Zuboff then but it seemed to chime with ideas about individuation. But later, while still reading her (I am indeed a slow reader) ... datafication. (for a different project).
+
+There is an epistemic crisis in body-based practice-research. It is a crisis revealed by the sharp rise in scholarship exploring the nature of embodied knowledge.[^ek] In much of that research, the idea that the body _knows_ acts as a proxy for the epistemic limitations of practice-research investigations. In other words, artist-scholars who research through movement practices are valorising the concept of embodied knowledge while failing to address the key epistemic paradox of creative practice-research: that its ontology lies at least in part in what is _not_ able to be known, understood or articulated as a consequence of body-based creative practices.[^ttp1] This is a humbling limitation for any research method or process, and a crucial problem in the development of practice-research in the Academy.
+
+The contemporary cultural backdrop for the tension between embodied knowledge, the unknowable, and the inarticulable is the datafication of human experience. In 2017 _The Economist_ declared that the "world’s most valuable resource is no longer oil, but data".[^econ] This age of _surveillance capitalism_ is founded on "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[^zub1] The cultural and financial capital of understanding the world-as-data means it is not surprising that precarious and delicate artistic practices and processes located in and through the body – like dance and somatics – have also become enamoured by the doctrine of datafication. The rapidly growing number of online archives, digital forms of documentation, and virtual and augmented reality projects are all implicit or explicit attempts by dance scholars to transform the radically analogue nature of embodied experiences into data.[^plethora] 
+
+I am increasingly interested in these two phenomena: the limitations of body-based practice-research, and the datafication of experience. These phenomena are related because the construction and production of knowledge in any scholarly field is never based on the simple and objective observation of worldly phenomena. Rather, to understand what we say we know and do not know, the vital epistemic question is in fact "who, when, [and] why is constructing knowledges?"[^mig1] If the overwhelming contemporary phenomenon is the extraction of data from human experiences, then the question of _who, when and why is constructing knowledges_ necessitates an encounter with the limits and excesses of datafication. 
+
+I want to propose that complex and radically analogue human experiences like experimental choreographic and movement practices have ontologies that are underpinned by two key characteristics: a) they defy the capacity to be accurately and wholly articulated and shared; and b) they exceed "algorithmic description".[^odell1] My curiosity is positioned squarely at the intersection of the datafication of human experience and the limitations of body-based practice-research. 
+
+### 2. resolution of experience
+
+(archiving or documenting the invisible) An accident of thinking and iteration -- what if we insert a camera into this predominantly invisible experience/practice? What might the ocular-centric recording device of our time (the smartphone) do to the unseen? That was a question that occurred to us early in the practice. add here about reading Zuboff. A coincidence. 
+
+But then, one or two months after we finished the work together, I happened to be reading -- for an entirely different project -- Boaventura de Sousa Santos's 2001 article _Toward an Epistemology of Blindness_ [-@santos_toward_2001]. de Sousa Santos's thinking was simply that "the resolution level of our [scientific] methods is higher than the resolution level of our theories." (p.261) In effect, I robbed de Sousa Santos of his thinking in a particular field and for a particular context, to help make sense of the relationship between experience and representation in the work with Shaun. Or perhaps I just borrowed his thinking. It's different though from a citation because he was writing for an utterly different context, and with utterly different ambitions for how the thinking might be met and used. It's not a loan either. More like a digital theft when the owner doesn't lose any materials or things, after all his thinking as presented in that writing is endlessly reproducible. But perhaps some of its aura or value is diluted as it is dropped into a different world, with different ideologies, different practices, and different needs. But I digress.
+
+long history of this kind of thinking: from my PhD days: what we referred to the 1990s when applying for public funding as "death by video". But the concept of resolution is useful.
 
 Problem 1: what we can observe bears little or no relationship to experiential complexity of what happened. high resolution experience, low resolution representation of that experience (regardless of how sophisticated the website is: bring up motionbank, etc). AM as paradigmatic case?
 
@@ -113,47 +131,17 @@ It was, I think, about resolution; or resolutions of experience. It
 
 "coarse-grain"
 
-### embodied knowledge as a proxy
-
-proxy of embodied knowledge devalues rich experiences that are unable to be discussed. finger pointing moon.
-
-
-
-(archiving or documenting the invisible) An accident of thinking and iteration -- what if we insert a camera into this predominantly invisible experience/practice? What might the ocular-centric recording device of our time (the smartphone) do to the unseen? That was a question that occurred to us early in the practice. add here about reading Zuboff. A coincidence. 
-
-But then, one or two months after we finished the work together, I happened to be reading -- for an entirely different project -- Boaventura de Sousa Santos's 2001 article _Toward an Epistemology of Blindness_ [-@santos_toward_2001]. de Sousa Santos's thinking was simply that "the resolution level of our [scientific] methods is higher than the resolution level of our theories." (p.261) In effect, I robbed de Sousa Santos of his thinking in a particular field and for a particular context, to help make sense of the relationship between experience and representation in the work with Shaun. Or perhaps I just borrowed his thinking. It's different though from a citation because he was writing for an utterly different context, and with utterly different ambitions for how the thinking might be met and used. It's not a loan either. More like a digital theft when the owner doesn't lose any materials or things, after all his thinking as presented in that writing is endlessly reproducible. But some of its aura or value is diluted as it is dropped into a different world, with different ideologies, different practices, and different needs. But I digress.
-
-
-
-
-
-
-
-
-1. resolution
-2. 
-3. 
-
-
+## staking claims and humility
 
 >If the key epistemic question is "who, when, why is constructing knowledges?"[^3] then in this presentation I will attempt to discuss the epistemic _why_ of experiences that are unable to be discussed. They are experiences of politics and humility that underpin the radically analogue nature of the human body; they are experiences that exceed "algorithmic description";[^4] perhaps they are even experiences or _acts_ of "epistemic disobedience".[^5]
 
 - detail (one more time) how they are unable to be discussed
 - discuss why this is important epistemic concept: that the University is also a place for things we cannot know, the sublime, the unsayable; that we approach the body and the context for its deployment in the construction of knowledges with humility. why humility? because the body can also be a site that is not for staking claims (like we all do in academia). that the politics of humility demand collaborative inquiry, an excess of community (the 'we'), a deep engagement with (and love for) uncertainty, a dance with the unknown. it is humility that resists reductive datafication. These beautiful bodies: going on in their project of resisting the extractive processes of Zuboff's surveillance capitalism.  
 
-Finish by getting people to turn back on their phones. 
+I'm going to finish now so we can all stop our embodied fidgeting and turn our phones back on.
 
-## ideas for assets
 
-<iframe src="https://giphy.com/embed/p6rh3yrSPF7Fe" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-https://media.giphy.com/media/QvXe5wq8w94A0/giphy.gif
-https://media.giphy.com/media/XWBgzVcODRNSw/giphy.gif
-https://media.giphy.com/media/HkQ3Amj9DViec/giphy.gif
-https://media.giphy.com/media/8hFJfKMGbbwCQ/giphy.gif
-https://media.giphy.com/media/cgj76CJbkhcSA/giphy.gif
-
-## edit bin
+# edit bin
 
 Except one experiment with music when Shaun had what can only be described as a bad trip. 
 
