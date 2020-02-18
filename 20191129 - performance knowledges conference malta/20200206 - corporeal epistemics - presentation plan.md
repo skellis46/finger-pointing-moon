@@ -68,6 +68,18 @@ The problem gets messier still. Because, as a participant in these simple dance 
 But was there embodied knowledge zipping around in that room? If we can agree -- can we agree? -- that embodied knowledge is ...
 then yes, with my experience as a dancer and a watcher of others dancing, I would say I saw those qualities: of understanding, experience, decision making, attention. But how did I see them? And what was it I was seeing? Things get pretty hairy then. And it would be much harder to agree on how it was that I was seeing such things, and what I was seeing that made me think or feel those things. It makes me think that what we are dealing with is an epistemic house of cards and I am quite happy with that idea. 
 
+>Why is it then that dance, with its legitimate claim to specialized knowledge of the body, has never been consulted in these debates? d[@davidson_somatics_2013 p.4]
+
+>For dance practitioners, somatic intelligence constitutes a model of corporeal experience: a form of embodied knowledge that can also be described as a skill for sensing, relating and ‘revealing’.[@davidson_somatics_2013 p.6]
+
+>the body’s role as privileged site in the construction of knowledge [@davidson_somatics_2013 p.11]
+
+>Furthermore, Damásio’s theory emphasizes that notions like experience, consciousness and perception are not abstract concepts, but are active embodied practices resulting from a continuous, recursive interaction with the environment.[@de_lima_trans-meaning_2013 p.24]
+
+>technologies that extend perception, allowing human beings to see, touch, feel, hear, manipulate and understand what to date has remained invisible to the senses or hidden in matter, the body and the universe. [@davidson_somatics_2013 p.5] 
+- am I describing or imagining the limits of tech? the directionality of this quote is odd in context of this research
+
+
 Placing my scepticism aside, I feel comfortable to suggest that Shaun and I both _showed_ or _formed_ examples of people deploying or revealing embodied knowledge. That the experiences were rich for us. And not occasionally rich; _always_ rich; it happened every time. It was no fluke. They were consistently rich and complex experiences. Variable, but always rich. Except one experiment with music when Shaun had what can only be described as a bad trip. We kept going back to them like children wanting to go back into the water -- excited to try again, to go back in to that state of wildly still abandon. 
 
 Problem 1: what we can observe bears little or no relationship to experiential complexity of what happened. high resolution experience, low resolution representation of that experience (regardless of how sophisticated the website is: bring up motionbank, etc). AM as paradigmatic case?
