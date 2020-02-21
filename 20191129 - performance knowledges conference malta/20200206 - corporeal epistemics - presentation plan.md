@@ -1,98 +1,71 @@
-# Corporeal epistemics
+# corporeal epistemics
 
-## phones, feeling and our radically analogue bodies
+## phones, feelings and our radically analogue bodies
 
 In February 2020 the German artist Simon Weckert put 99 smartphones into a small red trolley, walked around Berlin and created what he called a "virtual traffic jam" in Google Maps.[@weckert_google_2020]
 
-In January 2019, the social psychologist Shoshana Zuboff published a book called _Surveillance Capitalism_. In it she uses the word _rendition_ to describe a two-sided process. On one side are the technologies of surveillance capitalism that are designed to "render our experience into data, as in rendering oil from fat".[@zuboff_age_2019 Chapter 8.1] On the other side is that "every time we encounter a digital interface we make our experience available to 'datafication'".[@zuboff_age_2019 Chapter 8.1] We _render_ "unto surveillance capitalism" a continuous supply of raw materials. 
+In January 2019, the social psychologist Shoshana Zuboff published a book called _Surveillance Capitalism_. In it she uses the word _rendition_ to describe a two-sided process. On one side are the technologies of surveillance capitalism that are designed to "render our experience into data, as in rendering oil from fat".[@zuboff_age_2019 Chapter 8.1] On the other side is the fact that "every time we encounter a digital interface we make our experience available to 'datafication'".[@zuboff_age_2019 Chapter 8.1] We _render_ "unto surveillance capitalism" a continuous supply of raw materials. 
 
 According to Zuboff, the rendition of our bodies begins quite simply with our phones.[@zuboff_age_2019 Chapter 8.2] 
 
-So, let's begin by turning off our mobile phones. Turning them off completely. Humour me. There's no need to be jaded or cynical. There's time for that in the next session. We can quietly create the opposite of Weckert's virtual traffic jam, and in its place create a gap in the map. A small absence. A silence. It's just us. Untracked for 15 minutes. Going dark. Bliss. We can create a wild space. Like the body. A wild space: unpredictable and inextractable. A place for our analogue selves and our radically analogue bodies. A place where something is not simply yes or no, this or that, 1 or 0, anything but boolean, untouched, untouchable. A body that, even just briefly, resists the facts and fictions of sampling, the logic and ideology of data, and the datafication of the world. It is wild space of feelings. Yes feelings. [gif] Those things that drive all conversations, all experiences. Nuanced, primitive, primal. All that we are saying, all that we are hearing, all that we are communicating and proposing, is driven by feelings: 
+So, let's begin by turning off our mobile phones. Turning them off completely. Humour me. There's no need to be jaded or cynical. There's time for that in the next session. We can quietly create the opposite of Weckert's virtual traffic jam, and in its place create a gap in the geolocation map. A small absence. A silence. It's just us. Untracked for 15 minutes. Going dark. Bliss. We can create a wild space. Like the body. A wild space: unpredictable and inextractable. A place for our analogue selves and our radically analogue bodies. A place where something is not simply yes or no, this or that, 1 or 0, anything but boolean, untouched, untouchable. A body that, even just briefly, resists the facts and fictions of sampling, the logic and ideology of data, and the datafication of the world. It is wild space of feelings. Yes feelings. [gif] Those things that drive all conversations, all experiences. Nuanced, primitive, primal. All that we are saying, all that we are hearing, all that we are communicating and proposing, is driven by feelings: 
 
 >conversations do not just involve feelings, they are at their very core about feelings" [@stone_difficult_2003 p.13]
 
 Feelings. To feel smart, to feel less clumsy, to feel busy, to avoid the fear of failure, to feel wanted or needed, to feel successful, to be repelled by ambition, to feel less lonely, to be respected, valued, loved even. To feel superior, less inferior, to feel astonished, eager, energetic, confused, excited, significant or insignificant. 
 
-The wild spaces of our analogue bodies understand these things. I am never just this or that, never just busy or needy, nor superior or inferior. And with all these feelings, all these states and traits, memories and traumas, the ghosts of our pasts, we are all dancing some kind of dance. They are dances of self-loathing, dances of love and laughter, dances of patience and care, dances of pride and pleasure, of honesty and lies. I mean, who _are you_ if there's nothing wrong with you? 
+The wild spaces of our analogue bodies understand these things. I am never just this or that, never just busy or needy, nor superior or inferior. And with all these feelings, all these states and traits, memories and traumas, the ghosts of our pasts, we are all dancing some kind of dance. They are dances of love and laughter, dances of shame and embarrassment, dances of patience and care, dances of pride and pleasure, of honesty and lies. I mean, _who are you_ if there's nothing wrong with you? 
  
 [dance - for camera - Bowie's sound and vision, playback on computer - just through the speakers] 
 
 ## authentic movement and a camera
 
-In August and September 2019 the New Zealand born dancer-choreographer Shaun McLeod and I (also, and not coincidentally a New Zealand born dancer-choreographer) started working together with a well-known dance-based practice called Authentic Movement. 
+In August and September 2019 the New Zealand born dancer-choreographer Shaun McLeod and I (also a New Zealand born dancer-choreographer) started working together with a well-known dance-based practice called Authentic Movement. 
 
 What can be said about what happened in that space during those six weeks of practice? That is, what could we -- meaning all of us in this room -- agree on? What would have been available to your senses from the outside if you had been there? What could we hear or see? 
 
-One person had their eyes closed all of the time, or close to all of the time. While they had their eyes closed they moved around the space, sometimes this movement was more like a series of stillnesses, other times it was very everyday: like walking, or sitting, or lying. Still other times this person might shake or do things that were a little less everyday. These movements were sometimes strung together; most of us in this room would call that -- or recognise it as -- contemporary dance, or somatically informed contemporary dance. But it was definitely not the kind of contemporary dancing I've seen on "So You Think You Can Dance", or even at bigger Western dance venues. I would say this person looked a little like they were *feeling* or perhaps *sensing*, or searching. But I couldn't be sure, and nor do I think we could all agree on this. **Finish the description -- other person what they are doing.**
+One person -- the mover -- had their eyes closed pretty much all of the time. The other person -- the watcher -- was watching the mover. He also was taking care of the mover by making sure he didn't bump into anything but I'm not sure we would necessarily realise this or agree on it. The watcher was also holding a smartphone _directed_ at the mover, but not paying any attention to the screen. 
 
-Build photos in here. So, what we can agree on based on you trusting my description? but here is all that is left for us to look at. how many photos. randomly taken. in some ways its rich material compared with my description -- we see clothing, shapes, the room, positions on the floor, the light, faces, postures, hints of gestures, expressions. but in other ways I'd suggest that an enormous quantity of experiential data have not made it from what was in the room, to what you can see here. we certainly can infer some things from these photos, not least of all our movements. But we are inferring movement. And by inferring I mean _leading to_ or _implying_. And we'd then be inferring understanding, and we are most likely inferring embodied knowledge.
+While the mover had their eyes closed they moved around the space, sometimes this movement was more like a series of stillnesses, other times it was very everyday: like walking, or sitting, or lying. Still other times the mover might shake or do things that were a little less everyday. These movements were sometimes strung together; most of us in this room would call that -- or recognise it as -- contemporary dance, or maybe somatically informed contemporary dance if we were being a bit fancy. But it was definitely not the kind of contemporary dancing I've seen on "So You Think You Can Dance", or at bigger mainstream Western dance venues. I would say the mover looked a little like they were *feeling* or perhaps *sensing*, maybe _looking inside_ or maybe searching. But I couldn't be sure, and nor do I think we could all agree on this.
 
+It turns out that the smartphone was taking a photograph every 30 seconds, and the screen was darkened so the watcher (who I guess we could say was also the photographer) wouldn't know when a photo was being taken nor how anything might be framed in the lens of the camera. 
+
+Here is a set of 31 photos from one 20 minute authentic movement session with Shaun as the mover.
+
+And here is another with me as the mover. 
+
+These photos are all that is visually left of the practice from last year. Thirty-one photos, randomly taken, and presented here as a collection -- as if to represent wholeness. Each strip seems aestheticised to me -- some care has been taken in laying out the images. In some ways each strip is probably quite rich compared with how I've just verbally described what was happening in the studio. We can see clothing, shapes, the room, positions on the floor, the light, faces, postures, hints of gestures, expressions. But in other ways I'd suggest that an enormous quantity of experiential data have not made it from what was in the room, to what you can see here. We certainly can infer some things from these photos, the most seductive being what kind of movement occurred. But we are _inferring_ movement. And by inferring I mean _leading to_ or _implying_. And we'd then be inferring understanding, and we would almost certainly be inferring the presence or absence or quantity of _embodied knowledge_.
 
 ## embodied knowledge as a proxy
 
-In dance scholarship we seem to use the verb _to embody_ rather loosely and confusingly. Of the various definitions in the OED---and putting aside some of the military-oriented etymologies as in "the number of embodied troops" from 1803---the closest to our common use seems to be "to put into a body" or "invest or clothe (a spirit) with a body".[@noauthor_embody_2019] A soul or spirit is embodied when it has a body or is "invested with a body"[@noauthor_embodied_2019] Perhaps this suggests a process of holding or containing in the body something that is not normally thought of as being of the body. And so when we (dance scholars) use the phrase "embodied knowledge" perhaps we are simply drawing attention to a form of understanding that is distinct from common understandings of knowledge, and that is _held_ in the body. The same with embodied intelligence, and even embodied awareness. It gets more messy too because we seem to use words interchangeably as if they might be the same thing: somatic for embodied or physical, somatic or physical for body, intelligence for knowledge, 
+In dance scholarship we seem to use the verb _to embody_ rather loosely and confusingly. Of the various definitions in the OED---and putting aside some of the military-oriented etymologies as in "the number of embodied troops" from 1803---the closest to our common use seems to be "to put into a body" or "invest or clothe (a spirit) with a body".[@noauthor_embody_2019] A soul or spirit is embodied when it has a body or is "invested with a body"[@noauthor_embodied_2019] Perhaps this suggests a process of holding or containing in the body something that is not normally thought of as being of the body. And so when we (dance scholars) use the phrase "embodied knowledge" perhaps we are simply drawing attention to a form of understanding that is distinct from common understandings of knowledge, and that is _held_ in the body. The same with embodied intelligence, and even embodied awareness. It gets more messy too because we often seem to use words interchangeably as if they might be the same thing: somatic for embodied or physical, somatic or physical for body, intelligence for knowledge, 
 
 As dance scholars we seem to be extraordinarily comfortable with tying ourselves in knots trying to make sense of _embodied knowledge_. Recently, the dance and technology specialist Isabelle Choinière wrote this:
 
 >... somatic intelligence is prioritized as the main tool in this research process. As one of the forms of the physical intelligence, it is an experiential corporal modality, a form of embodied knowledge that can be described as an increased skill to sense, to perceive and to relate. [@choiniere_somatic/embodiment/technology_2018 p.195]
 
-Choinière is suggesting that somatic intelligence is a form of embodied knowledge _and_ is a subset of physical intelligence. Three abstract terms in one sentence that refer to each other in an intricate choreography of circular logic. But this is not at all about Choinière -- at least she attempted to make sense of the terms. Search for the word 'embodied' in a random selection of dance scholarship and there will few if any attempts to be clear about its meaning and use. 
+Choinière is suggesting that somatic intelligence is a form of embodied knowledge _and_ is a subset of physical intelligence. Three abstract terms that refer to each other in an intricate choreography of circular logic. 
 
-
-
-
-"current _embodiments_ serve reductionist interests and goals" [@sheets-johnstone_primacy_2011 p.501]
-
-Add how Ingold refutes this idea of 'holding'. (and Sheets-Johnstone)
-
-For Sheets-Johnstone, the term _embodiment_ "is little more than a lexical band-aid covering a three-hundred year old Western wound" -- the Cartesian split of mind and body.[@sheets-johnstone_primacy_2011 pp.301-311] And she suggests that this split remains "part of our thinking because we have not yet fathomed what it is to be the bodies we are".[@sheets-johnstone_primacy_2011 p.310] 
-
-
-
->To unmuddle our thinking, we must go back to everyday human experience. Thus, with respect to embodiment, we must ask ourselves not only what it is that is embodied and challenge ourselves to describe it, but ask ourselves how it is embodied and challenge ourselves to describe in experiential terms just how the what we believe to be embodied — a mind, a soul, a spirit, a self, our organism, or whatever — is embodied by the body.[@sheets-johnstone_primacy_2011 p.312]
-
-"When we have recourse to “embodiment,” we avoid coming to terms with bodies, with what is actually there, sensuously present in our experience ..."[@sheets-johnstone_primacy_2011 p.312]
-
-Embodied knowledge: knowledge held in or by the body. To communicate it we must disembody it. But if disembodied where does it reside? In 
+Or what about Andrea Davidson: 
 
 >For dance practitioners, somatic intelligence constitutes a model of corporeal experience: a form of embodied knowledge that can also be described as a skill for sensing, relating and ‘revealing’.[@davidson_somatics_2013 p.6]
 
+It fascinates me that both of these experienced artists include the word _skill_ in their descriptions, as if calling on the phronetic know-how of Aristotle, David Carr and Gilbert Ryle.[@ellis_that_2018]
 
+But I'm not trying to pick on Isabella Choinière and Andrea Davidson here -- at least they attempted to make sense of the terms. Search for the word 'embodied' in a random selection of dance scholarship and there will be few if any attempts to be clear about its meaning and use. 
 
+This absence -- or less kindly -- total mess is not really surprising. In _The Primacy of Movement_ the philosopher Maxine Sheets-Johnstone describes the term _embodiment_ as "little more than a lexical band-aid covering a three-hundred year old Western wound" -- the Cartesian split of mind and body.[@sheets-johnstone_primacy_2011 pp.301-311] And she suggests that this split remains "part of our thinking because we have not yet fathomed what it is to be the bodies we are".[@sheets-johnstone_primacy_2011 p.310]. The various _embodiments_ only "serve reductionist interests and goals" [@sheets-johnstone_primacy_2011 p.501]. In other words, "When we have recourse to 'embodiment,' we avoid coming to terms with bodies, with what is actually there, sensuously present in our experience ..."[@sheets-johnstone_primacy_2011 p.312] 
 
-But the clincher is that we assuming an enormous amount based on what is available to our senses. What if we -- meaning dance researchers -- are simply projecting a whole lot of desire onto what we can see? That in some respects our livelihoods and identities are dependent on the existence of a concept like embodied knowledge. And if we say enough times "this is embodied knowledge, this is embodied knowledge, this is embodied knowledge, this is embodied knowledge" -- like a deep mantra to the academic gods -- then we start to accept it as the truth. Not even _a_ truth, but _the_ truth. It's not unlike taking a deep inhalation of a glass of red wine, and saying the words "cinnamon and blackcurrant". Others in the room are infected by these ideas, not the scents themselves, but nevertheless will swear blind they can taste cinnamon and blackcurrent. We are, after all, beautifully suggestible beings. 
+With what is actually there, sensuously present in our experience. 
 
-relate 'the truth' to OED definition of embodied.
+For dance scholars, the temptation to assume what is there is enormous; to project our desire, ambition and indeed feelings onto what we can see. That in some respects our livelihoods and identities are dependent on the existence of a concept like embodied knowledge. And if we say enough times "this is embodied knowledge, this is embodied knowledge, this is embodied knowledge, this is embodied knowledge" -- like a deep mantra to the academic gods -- then we start to accept it as the truth. Not even _a_ truth, but _the_ truth. It's not unlike taking a deep inhalation of a glass of red wine, and saying the words "cinnamon and blackcurrant". Others in the room are infected by these ideas, not the scents themselves, but nevertheless will swear blind they can taste cinnamon and blackcurrent. We are, after all, beautifully suggestible beings. 
 
-Ben Spatz recently advertised a workshop in which he describes ... 
-Journal of Embodied Research.
-Does that mean all the other journals only handle disembodied research? 
+The problem gets messier still. Because, as a participant in these simple authentic movement dance experiments I can -- I want to say _testify_ -- that there is something quite profound going on that is not at all visible from the outside. The key -- and utterly invisible -- idea is that in authentic movement both the mover and the watcher are working with a discipline of non-judgement. The discipline underpins all that is radical about the practice. And so if I were to describe the experience from the privileged position of a participant, I would use words like freedom, agency, patience, calmness, pleasure, openness, capacity, possibility, sillyness, playfulness, carefreeness, effortless, and energised. And it goes without saying that just because these qualities were not able to be seen does not mean I did not experience them. This is key: invisibility. The photographs carry none of that experiential information. Zero. Nada. Nulla. Niente. 
 
-The problem gets messier still. Because, as a participant in these simple dance experiments I can -- I want to say _testify_ -- that there is something quite profound going on that is not at all visible from the outside.  describe experience: freedom, non-judgement, agency, patience, calm, pleasure, openness, capacity, possibility, sillyness, playfulness, carefreeness, effortless, energised. And just because these qualities are not able to be seen does not mean I did not experience them. This is key: invisibility. The photographs carry none of that experiential information. Zero. Nada. Nulla. Niente. 
+But I also like to imagine there is a middle ground as well; phenomena that are sensuously present in the experience _and_ visible to the watcher. Would we be able to agree on these things? I would say that with my experience as a dancer and a watcher of others dancing, I would say I saw qualities of understanding, experience, decision making, attention and perhaps even know-how. But how did I see them? And what was it I was seeing? I suspect it would be much harder to agree on how it was that I was seeing such things, and what I was seeing that made me think or feel those things. It makes me think that what we are dealing with is an epistemic house of cards and I am quite happy with that idea. 
 
-But was there embodied knowledge zipping around in that room? If we can agree -- can we agree? -- that embodied knowledge is ...
-then yes, with my experience as a dancer and a watcher of others dancing, I would say I saw those qualities: of understanding, experience, decision making, attention. But how did I see them? And what was it I was seeing? Things get pretty hairy then. And it would be much harder to agree on how it was that I was seeing such things, and what I was seeing that made me think or feel those things. It makes me think that what we are dealing with is an epistemic house of cards and I am quite happy with that idea. 
-
->Why is it then that dance, with its legitimate claim to specialized knowledge of the body, has never been consulted in these debates? [@davidson_somatics_2013 p.4]
-
->For dance practitioners, somatic intelligence constitutes a model of corporeal experience: a form of embodied knowledge that can also be described as a skill for sensing, relating and ‘revealing’.[@davidson_somatics_2013 p.6]
-
->the body’s role as privileged site in the construction of knowledge [@davidson_somatics_2013 p.11]
-
->Furthermore, Damásio’s theory emphasizes that notions like experience, consciousness and perception are not abstract concepts, but are active embodied practices resulting from a continuous, recursive interaction with the environment.[@de_lima_trans-meaning_2013 p.24]
-
-I wonder if we can we all agree that there was embodied knowledge in that laboratory dance space? But this in itself is an absurd question. I mean when is there not embodied knowledge in any room? It's here now. We don't have to be moving. So, do we then mean a certain level or quantity of embodied knowledge? Is there some kind of threshold when embodied knowledge becomes useful or noticeable? Or when we use the term 'embodied research' do we just mean research that focuses on the body by people with bodies trained and sensitised to the complexities of the moving, sensing body? Perhaps I am being provocatively simplistic or stubborn here but sometimes it sure feels as if that embodied emperor isn't wearing any clothes; not that I'd want to point that out.
-
-proxy of embodied knowledge devalues rich experiences that are unable to be discussed. Sheets-Johnstone and Ingold. finger pointing moon.
 
 I'm going to abandon the term _embody_ (or any of its constructions) now. I suggest you try it. It's like being let off some crazy circular train that has no stops. But, I do feel comfortable to suggest that Shaun and I both _showed_ or _formed_ examples of people deploying or revealing attention to---and sensitivity _of_---the body. These were rich and complex experiences ... every time. I suspect, but do not know, that part of their richness was because of our _availability_ to movement experiences that though simple in form and appearance, are wildly complex in how they are generated. We kept going back to these non-judgemental improvisations like children wanting to go back into the water -- excited to try again, to go back in to that state of wildly still abandon. 
-
-that phronesis is “a creative sensitivity to circumstances as they present themselves.”[@pakes_knowing_2009 p.10]
-
->And if – like Pakes – we try and make epistemic sense of practice-as-research through the work of Aristotle, David Carr and Gilbert Ryle then this only accounts for the phronetic know-how that underpins all practice-as-research projects by any given group or individual. Such know-how is common to all research (not just the creative kind)
-
-
 
 research is fundamentally about noticing change. that we understand something differently as a consequence of spending time with it. could be intervention, could be a phenomenon. caveat that noticing no change is something as well.
 
@@ -101,9 +74,6 @@ Yet even given the vagaries and ambiguities of doing embodied research that yiel
 >What do we understand differently as a consequence of this practice?  
 >How might those understandings be important to our research community?  
 >How might these ideas be shared?  
-
-
-"sentient, practising, tool-wielding body" -- [@marchand_making_2010 p.S2]
 
 ## insights
 
@@ -165,10 +135,38 @@ It was, I think, about resolution; or resolutions of experience. It
 
 -- Stanley Aronwitz, foreward in Martin's *Performance as a Political Act* [-@martin_performance_1990 p.viii] 
 
+"sentient, practising, tool-wielding body" -- [@marchand_making_2010 p.S2]
+
 I'm going to finish now so we can all stop our embodied fidgeting and turn our phones back on.
 
 
 # edit bin
+
+I wonder if we can we all agree that there was embodied knowledge in that laboratory dance space? But this in itself is an absurd question. I mean when is there not embodied knowledge in any room? It's here now. We don't have to be moving. So, do we then mean a certain level or quantity of embodied knowledge? Is there some kind of threshold when embodied knowledge becomes useful or noticeable? Or when we use the term 'embodied research' do we just mean research that focuses on the body by people with bodies trained and sensitised to the complexities of the moving, sensing body? Perhaps I am being provocatively simplistic or stubborn here but sometimes it sure feels as if that embodied emperor isn't wearing any clothes; not that I'd want to point that out.
+
+proxy of embodied knowledge devalues rich experiences that are unable to be discussed. Sheets-Johnstone and Ingold. finger pointing moon.
+
+
+>Why is it then that dance, with its legitimate claim to specialized knowledge of the body, has never been consulted in these debates? [@davidson_somatics_2013 p.4]
+
+>For dance practitioners, somatic intelligence constitutes a model of corporeal experience: a form of embodied knowledge that can also be described as a skill for sensing, relating and ‘revealing’.[@davidson_somatics_2013 p.6]
+
+>the body’s role as privileged site in the construction of knowledge [@davidson_somatics_2013 p.11]
+
+>Furthermore, Damásio’s theory emphasizes that notions like experience, consciousness and perception are not abstract concepts, but are active embodied practices resulting from a continuous, recursive interaction with the environment.[@de_lima_trans-meaning_2013 p.24]
+
+
+relate 'the truth' to OED definition of embodied.
+
+Ben Spatz recently advertised a workshop in which he describes ... 
+Journal of Embodied Research.
+Does that mean all the other journals only handle disembodied research? 
+
+But the clincher is that we assuming an enormous amount based on what is available to our senses. What if we -- meaning dance researchers -- are simply projecting a whole lot of 
+
+Embodied knowledge: knowledge held in or by the body. To communicate it we must disembody it. But if disembodied where does it reside? In 
+
+Add how Ingold refutes this idea of 'holding'. (and Sheets-Johnstone)
 
 from Choinere quote:
 
