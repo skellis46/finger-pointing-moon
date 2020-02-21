@@ -11,6 +11,16 @@ csl:
 
 - notes organised by date
 
+## Sheets-Johnstone on embodiment
+
+>In a pivotally central but also ironic way, “embodied minds,” like other current “embodiments,” serve reductionist interests and goals, occluding the reality of mindful bodies. [@sheets-johnstone_primacy_2011 p.501]
+
+>Serious examination of such affirmations and proclamations on behalf of “embodiment” shows that the term is little more than a lexical band-aid covering a [p.311] three-hundred year old Western wound. In using the term, we are actually perpetuating a divide that has not healed and will never heal so long as the terms of the division remain part of our thinking. They remain part of our thinking because we have not yet fathomed what it is to be the bodies we are.[@sheets-johnstone_primacy_2011 p.310]
+
+>speak of “embodied movement” in an attempt to specify the relationship between affect and movement (Varela & Depraz 2005:68, 69, respectively). The latter locution, we should note, is an epistemological tautology of the first order. It highlights the basic challenge of languaging experience.[@sheets-johnstone_primacy_2011 p.470]
+
+>When we have recourse to “embodiment,” we avoid coming to terms with bodies, with what is actually there, sensuously present in our experience, precisely as with the experience of moving and changing shape — or with the experience of a front and a back and of moving more easily forward than backward.[@sheets-johnstone_primacy_2011 p.312]
+
 ## embodied knowledge
 
 >This primordial consideration of the experiential – here, a starting point for creating artistic work and one of the main axes of my research – can be related back to a definition of aesthetics by ancient Greeks as a reference to sensation and the ability to perceive. My experimentation thus sought to develop accrued sensory and perceptual awareness and also, to invest in a dimension of the relationship somatics/technology that could potentially lead to a transformation of self, of relationship to others and to the world. Here, the somatic intelligence is prioritized as the main tool in this research process. As one of the forms of the physical intelligence, it is an experiential corporal modality, a form of embodied knowledge that can be described as an increased skill to sense, to perceive and to relate.[@choiniere_somatic/embodiment/technology_2018 p.195]
