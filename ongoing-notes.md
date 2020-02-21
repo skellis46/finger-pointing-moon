@@ -21,6 +21,8 @@ csl:
 
 >When we have recourse to “embodiment,” we avoid coming to terms with bodies, with what is actually there, sensuously present in our experience, precisely as with the experience of moving and changing shape — or with the experience of a front and a back and of moving more easily forward than backward.[@sheets-johnstone_primacy_2011 p.312]
 
+>To unmuddle our thinking, we must go back to everyday human experience. Thus, with respect to embodiment, we must ask ourselves not only what it is that is embodied and challenge ourselves to describe it, but ask ourselves how it is embodied and challenge ourselves to describe in experiential terms just how the what we believe to be embodied — a mind, a soul, a spirit, a self, our organism, or whatever — is embodied by the body.[@sheets-johnstone_primacy_2011 p.312]
+
 ## embodied knowledge
 
 >This primordial consideration of the experiential – here, a starting point for creating artistic work and one of the main axes of my research – can be related back to a definition of aesthetics by ancient Greeks as a reference to sensation and the ability to perceive. My experimentation thus sought to develop accrued sensory and perceptual awareness and also, to invest in a dimension of the relationship somatics/technology that could potentially lead to a transformation of self, of relationship to others and to the world. Here, the somatic intelligence is prioritized as the main tool in this research process. As one of the forms of the physical intelligence, it is an experiential corporal modality, a form of embodied knowledge that can be described as an increased skill to sense, to perceive and to relate.[@choiniere_somatic/embodiment/technology_2018 p.195]
