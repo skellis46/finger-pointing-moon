@@ -83,6 +83,9 @@ Yet even given the vagaries and ambiguities of doing embodied research that yiel
 >How might those understandings be important to our research community?  
 >How might these ideas be shared?  
 
+
+"sentient, practising, tool-wielding body" -- [@marchand_making_2010 p.S2]
+
 ## insights
 
 I suspect that any research insights -- perhaps more so in the arts and humanities – reveal what we care about as individuals, and what might matter to us most as a community. The following insights (or emergent understandings) are no different. 
