@@ -4,11 +4,13 @@ csl: /Users/skellis/Dropbox/pandoc/chicago-note-bibliography-16th-edition.csl
 
 # corporeal epistemics
 
+---
+
 ## authentic movement and a camera
 
-In August and September 2019 the dancer-choreographer Shaun McLeod and I started working together with the movement practice called Authentic Movement. What can be said about what happened in that space during those six weeks of practice? What would have been available to _your_ senses from the outside if you had been there? What could we all hear and/or see that we could agree on?
+In August and September 2019 the dancer-choreographer Shaun McLeod and I started working together with the movement practice called Authentic Movement. What can be said about what happened in that space during those six weeks of practice? What would have been available to _your_ senses from the outside if you had been there? What would we all have heard or seen that we could agree on?
 
-One person -- the mover -- had their eyes closed. The other person -- the watcher -- was watching the mover. The watcher was also holding a smartphone _directed_ at the mover, but was not paying attention to the phone's screen. The phone hyphen camera bit is not a usual part of Authentic Movement but you might not know that.
+One person -- the mover -- had their eyes closed. The other person -- the watcher -- was watching the mover. The watcher was also holding a smartphone _directed_ at the mover, but was not paying attention to the phone's screen. A phone hyphen camera is not a usual part of Authentic Movement but you might not know that.
 
 The mover moved around the space; sometimes this was more like a series of stillnesses, other times it was very everyday: like walking, sitting or lying. Still other times the mover might shake or do things that were a little less everyday. These movements were sometimes strung together; most of us in this room would call that -- or recognise it as -- contemporary dance, or maybe somatically informed contemporary dance if we were being a bit fancy. But it was definitely not the kind of contemporary dance I've seen on "So You Think You Can Dance". I would say the mover looked a little like they were _feeling_ or _sensing_, maybe _looking inside_ or _searching_. But I couldn't be sure, and nor do I think we would agree on this.
 
@@ -18,7 +20,7 @@ Here is a set of 31 photos from one 20 minute Authentic Movement session with Sh
 
 And here is another with me as the mover. 
 
-These collections of photos are the visual remains of the practice. Each set is thirty-one photos, randomly framed, systematically taken and turned into a collection -- as if to represent wholeness. Each strip is probably quite rich compared with how I've just verbally described what was happening in the studio. We can see the room, positions on the floor, clothing, the light, postures, hints of gestures, expressions. But an enormous quantity of experiential data have not made it from what was in the room to what you can see here. 
+These collections of photos are the visual remains of the practice. Each set is thirty-one photos, randomly framed, systematically taken and turned into a collection -- as if to seem complete. Each strip is probably quite rich compared with how I've just verbally described what was happening in the studio. We can see the room, positions on the floor, clothing, the light, postures, hints of gestures, expressions. But an enormous quantity of experiential data have not made it from what was in the room to what you can see here. 
 
 We can also infer some things from these photos, the most seductive being what kind of movement occurred. But we are _inferring_ movement, and by that I mean _implying_. We'd also be inferring or implying understanding, and we would be inferring the presence or absence of this thing that gets called _embodied knowledge_.
 
@@ -28,7 +30,7 @@ In dance scholarship we seem to use the verb _to embody_ rather loosely. Of the 
 
 As dance scholars we seem tie ourselves in knots trying to make sense of _embodied knowledge_. Here's an example: 
 
->... somatic intelligence is prioritized as the main tool in this research process. As one of the forms of the physical intelligence, it is an experiential corporal modality, a form of embodied knowledge ... [@choiniere_somatic/embodiment/technology_2018 p.195]
+>... somatic intelligence is prioritized as the main tool in this research process. As one of the forms of the physical intelligence, it is an experiential corporal modality, a form of embodied knowledge ...[@choiniere_somatic/embodiment/technology_2018 p.195]
 
 The author is suggesting that somatic intelligence is a form of embodied knowledge _and_ is a subset of physical intelligence. Three abstract terms that refer to each other in an intricate choreography of circular logic. 
 
@@ -36,16 +38,16 @@ But I'm not trying to pick on this person -- at least they attempted to make sen
 
 This absence is not really surprising. The philosopher Maxine Sheets-Johnstone describes the term _embodiment_ as "little more than a lexical band-aid covering a three-hundred year old Western wound" -- that is, the Cartesian split of mind and body.[@sheets-johnstone_primacy_2011 pp.301-311] And she suggests that this split remains "part of our thinking because we have not yet fathomed what it is to be the bodies we are".[@sheets-johnstone_primacy_2011 p.310]. In other words, "When we have recourse to [the word] 'embodiment,' we avoid coming to terms with bodies, with what is actually there, sensuously present in our experience ..."[@sheets-johnstone_primacy_2011 p.312] 
 
-But being sensuously present in our experience as artist-scholars is not likely to be as simple as it sounds. The philosopher Alva Noë wrote that "hearing, perceiving, learning, is always a matter of using what you know to make sense of what is on offer."[@noe_art_2015] How then are we to notice difference or change when we can only know what we know and "don't know what we are looking for?"[@ellis_not_2016] 
+But being sensuously present in our experience as artist-scholars is not likely to be as simple as it might sound. The philosopher Alva Noë wrote that "hearing, perceiving, learning, is always a matter of using what you know to make sense of what is on offer."[@noe_art_2015] How then are we to notice difference or change when we can only know what we know and "don't know what we are looking for?"[@ellis_not_2016] 
 
-The temptation to assume to know what is there is enormous; to project our desires, ambitions and feelings onto what we can see. In some respects our livelihoods and identities as dance scholars are dependent on the existence of a concept like embodied knowledge. And if we say enough times "this is embodied knowledge, this is embodied knowledge, this is embodied knowledge" -- like a deep mantra to the academic gods -- then we start to accept it as the truth. We are beautifully suggestible beings. 
+The temptation to assume to know what is there is enormous; to project our desires, ambitions and feelings onto what we can see. In some respects our livelihoods and identities as dance scholars are dependent on the existence of a concept like embodied knowledge. And if we say enough times "this is embodied knowledge, this is embodied knowledge, this is embodied knowledge" -- like a deep mantra to the academic gods -- then we start to accept it as the truth. We are, after all, beautifully suggestible beings. 
 
 The problem gets trickier still because, as a participant in these simple Authentic Movement dance experiments, I can -- I want to say -- _testify_ that there was something quite profound going on that is not at all visible from the outside. In Authentic Movement both the mover and the watcher are working with a discipline of non-judgement. The discipline of non-judgement underpins all that is radical about the practice. If I were to describe the experience from the inside I would use words like freedom, patience, calmness, pleasure and playfulness. These were rich and complex experiences for us. We kept going back to these improvisations working with non-judgement like children wanting to go back into the water -- excited to try again, to re-enter that state of wildly still abandon. The photographic strips carry none of that experiential information. None.
 
-The temptation to want to make this research about embodied _something_ is strong. But, what I now understand differently is not about the nature and experience of our sensitised and sensitising bodies. In this research, the state, quality or even quantity of body-based understanding -- sensuous presence in experience -- was merely a thing. But it wasn't any _thing_ special, and it wasn't anything that people haven't already been doing for a long long time in Authentic Movement. What I do think is critical is how I might respond to the following fundamental questions. And they are fundamental to any research practice in any discipline: 
+The temptation to want to make this research about embodied _something_ is strong. But, what I now understand differently is not about the nature and experience of our sensitised and sensitising bodies. In this research, the state, quality or even quantity of body-based understanding -- sensuous presence in experience -- was merely a thing. But it wasn't any _thing_ special, and it wasn't anything that people haven't already been doing for a long long time in Authentic Movement. What I _do_ think is critical is how I might respond to the following fundamental questions. And they are fundamental to any research practice in any discipline: 
 
 >What do we understand differently as a consequence of this practice?  
->How might those understandings be important to our research community?    
+>How might those understandings be important to our research and professional community?    
 >How might these ideas be shared?
 
 ## two insights
@@ -74,11 +76,11 @@ I see Authentic Movement as an experimental practice that foregrounds radically 
 
 When Shaun and I were working together in the summer we were aware early on of the gap or discrepancy between the complex and rich internal experiences (for the mover _and_ the watcher) and what was visible. It seemed obvious to ask: "What if we insert a camera into this predominantly invisible experience? What might _the_ ocular-centric recording device of our time -- the smartphone -- do to the unseen?" 
 
-But then, one or two months after we finished the work together, I happened to be reading -- for an entirely different project -- Boaventura de Sousa Santos's 2001 article _Toward an Epistemology of Blindness_ [-@santos_toward_2001]. In that article de Sousa Santos states that "the resolution level of our [scientific] methods is higher than the resolution level of our theories."[-@santos_toward_2001 p.261]
+But then, one or two months after we finished the work together, I happened to be reading -- for an entirely different project -- Boaventura de Sousa Santos's 2001 article _Toward an Epistemology of Blindness_.[-@santos_toward_2001] In that article de Sousa Santos states that "the resolution level of our [scientific] methods is higher than the resolution level of our theories."[-@santos_toward_2001 p.261]
 
 I think his concept of resolution is useful, even if, in effect, I have robbed him of his thinking in a particular field and for a particular context, to help make sense of the relationship between experience and representation in the work with Shaun. 
 
-My digital theft of de Sousa Santos' thinking is to remind us that when we are dealing with body-based practices what we can observe bears little or no relationship to the experiential complexity of what happened. That is, we have high resolution experiences, and low resolution representations of those experiences. And that gap or difference applies irrespective of how fancy our technocratic-ally inclined web-based archives of dance artists and their work.
+My digital theft of de Sousa Santos' thinking is to remind us that when we are dealing with body-based practices what we can observe bears little or no relationship to the experiential complexity of what happened. That is, we have high resolution experiences, and low resolution representations of those experiences. And that gap or difference applies irrespective of how fancy, large or expensive our technocratic-ally inclined web-based archives of dance artists and their work.
 
 In dance and the performing arts there's a long history of scholarship and experience exploring the relationship and differences between the _liveness_ of movement practices and those practices as mediated or mediatized on film or video. I used to imagine Philip Auslander and Peggy Phelan scrapping it out in a kick-boxing bout. Phil appeared to be on odds-on favourite for a tech nerd like me, but Peggy packed some serious punch. In my dreams, it was carnage; there was blood on the dance floor. 
 
@@ -92,75 +94,8 @@ The photo so directly and beautifully captures the hyper-visual nature of our ti
 
 If it's not already clear, I'm profoundly interested in experiences that are not really able to be articulated. They are experiences with, in and around our bodies that resist description. They are experiences that are cloaked and revealed in movement and stillness. This is not to say that we shouldn't keep seeking ways to articulate that which cannot be articulated. That in such a paradox we might inadvertently step into alternative tangles and mangles. 
 
-The epistemics of a paradox around resolutions of experience and articulating the inarticulable are important because I understand the Academy to be the ideal place to attempt to contain or hold the things we cannot know: the sublime, the unsayable. But to strain to keep this paradox alive, and not to dilute it with imprecision, or "reductionist interests and goals" [@sheets-johnstone_primacy_2011 p.501]. To keep the paradox alive demands that we approach the body and the context for its deployment in the construction of knowledges with humility. 
+The epistemics of a paradox around resolutions of experience and articulating the inarticulable are important because I understand the Academy to be the ideal place to attempt to contain or hold the things we cannot know: the sublime, the unsayable. But to strain to keep this paradox alive, and not to dilute it with imprecision, or "reductionist interests and goals".[@sheets-johnstone_primacy_2011 p.501] To keep the paradox alive demands that we approach the body and the context for its deployment in the construction of knowledges with humility. 
 
 And why humility? Because the body can also be a site that is not for staking claims like we all do in Academia, and that perhaps I am guilty of right this moment. That the politics of humility demand collaborative inquiry, an excess of community (the 'we'), a deep engagement with (and love for) uncertainty, a dance with the unknown. It is humility that resists reductive datafication; these beautiful bodies: refusing to disappear as they go on in their vital project of denying the extractive processes of Zuboff's surveillance capitalism.
 
-# edit bin
-
-; a practice of process-based movement experiments that involved a discipline of non-judgement, invisible experiences and semi-automated photography
-
-But I also like to imagine there is a middle ground as well; phenomena that are sensuously present in the experience _and_ visible to the watcher. For example, would I be able to say that with my experience as a dancer and watcher of others dancing, I saw qualities of understanding, decision making, attention and perhaps even know-how when Shaun was dancing? And if so, what was it I was seeing? I imagine it would be difficult to agree on what I was seeing that made me think or feel those things. It makes me think we are dealing with an epistemic house of cards and I am quite happy with that idea. 
-
-With these cards falling all around me I remain comfortable thinking -- or should that be _believing_ -- that Shaun and I both _formed_ examples of two people revealing attention and sensitivity to the body. 
-
-It fascinates me that Choinière also includes the word _skill_ in her description, as if implicitly calling on the phronetic know-how of Aristotle, David Carr and Gilbert Ryle.[@ellis_that_2018]
-
-It's like that scene in Annie Hall where a movie producer says, "Right now it's only a notion, but I think I can get money to make it into a concept, and later turn it into an idea."[@pinker_sense_2014] 
-
-The same with embodied intelligence, and even embodied awareness. We often also use words interchangeably as if they might be the same thing: somatic for embodied or physical, somatic or physical for body, intelligence for knowledge.
-
-A number of seemingly un-related ideas and possibilities that happened to end up together. 
-
->For the body cannot be easily contained by the consumption imperative. It discovers its own sexual and political being and overflows autonomously in many other directions as well. Or, as in the case of the state policies of economic and cultural austerity that have increasingly been imposed upon a recalcitrant underlying population, the body refuses to disappear as a subject.
-
--- Stanley Aronwitz, foreward in Martin's *Performance as a Political Act* [-@martin_performance_1990 p.viii] 
-
-
-
-In effect, I robbed de Sousa Santos of his thinking in a particular field and for a particular context, to help make sense of the relationship between experience and representation in the work with Shaun. Or perhaps I just borrowed his thinking. It's definitely different though from a citation because he was writing for an utterly different context, and with utterly different ambitions for how the thinking might be met and used. It's not a loan either. More like digital theft when the owner doesn't lose any materials or things, after all his thinking as presented in that writing is endlessly reproducible. But perhaps some of his writing's aura or value is diluted as it is dropped into a different world, with different ideologies, different practices, and different needs? But I digress.
-
-And it's also important to note that what I now understand differently are not insights into the nature and experience of our sensitised and sensitising bodies. In this research, the state, quality or even quantity of body-based understanding -- sensuous presence in experience -- was merely a thing. But it wasn't any _thing_ special, and it wasn't anything that people haven't already been doing for a long long time in Authentic Movement. 
-
-like two people sitting in the same room at a party who end up deeply in love for the rest of their lives. 
-
-Research insights invariably reveal what we care about as individuals, and what might matter to us most as a community. The following insights (or emergent understandings) are no different. 
-
-It's not unlike sniffing deeply into a glass of red wine and saying the words "cinnamon and blackcurrant" as some friends are about to try the same wine. They are infected by the idea of the scents, not the scents themselves, but nevertheless will swear blind they can taste cinnamon and blackcurrent. 
-
-Or here is the artist-scholar Andrea Davidson: 
-
->For dance practitioners, somatic intelligence constitutes a model of corporeal experience: a form of embodied knowledge that can also be described as a skill for sensing, relating and ‘revealing'.[@davidson_somatics_2013 p.6]
-
-## phones, feelings and our radically analogue bodies
-
-I imagine the body as a wild space of feelings. [gif] Yes feelings. Those things that drive all conversations, all experiences. Nuanced, primitive, primal. All that we are saying, all that we are hearing, all that we are communicating and proposing, is driven by feelings: 
-
->conversations do not just involve feelings, they are at their very core about feelings" [@stone_difficult_2003 p.13]
-
-To feel smart, to feel less clumsy, to feel busy, to avoid the fear of failure, to feel wanted or needed, to feel successful, to be repelled by ambition, to feel less lonely, to be respected, valued, loved even. To feel superior, less inferior, to feel astonished, eager, energetic, confused, excited, significant or insignificant. 
-
-The wild spaces of our analogue bodies understand these things. I am never just this or that, never just busy or needy, never just superior or inferior. And with all these feelings, all these states and traits, memories and traumas, the ghosts of our pasts, we are all dancing some kind of dance. They are dances of love and laughter, dances of shame and embarrassment, dances of patience and care, dances of pride and pleasure, of honesty and lies. I mean, _who are you_ if there's nothing wrong with you? 
- 
-[dance - for camera - Bowie's sound and vision, playback on computer - just through the speakers] 
-
-
-In February 2020 the German artist Simon Weckert put 99 smartphones into a small red trolley, walked around Berlin and created what he called a "virtual traffic jam" in Google Maps.[@weckert_google_2020]
-
-In January 2019, the social psychologist Shoshana Zuboff published a book called _Surveillance Capitalism_. In it she uses the word _rendition_ to describe a two-sided process. On one side are the technologies of surveillance capitalism that are designed to "render our experience into data, as in rendering oil from fat".[@zuboff_age_2019 Chapter 8.1] On the other side is the fact that "every time we encounter a digital interface we make our experience available to 'datafication'".[@zuboff_age_2019 Chapter 8.1] We _render_ "unto surveillance capitalism" a continuous supply of raw materials. 
-
-According to Zuboff, the rendition of our bodies begins quite simply with our phones.[@zuboff_age_2019 Chapter 8.2] 
-
-Let's begin by turning off our mobile phones. Turning them off completely. Humour me. There's no need to be jaded or cynical. There's time for that in the next session. We can quietly create the opposite of Weckert's virtual traffic jam: we can create a gap in the geolocation map. A small absence. A silence. It's just us. Untracked for 15 minutes. Going dark. Bliss. We can create a wild space. Like the body. A wild space: unpredictable and inextractable. A place for our analogue selves and our radically analogue bodies. A place where something is not simply yes or no, this or that, 1 or 0, anything but boolean, untouched, untouchable. A body that, even just briefly, resists the facts and fictions of sampling, the logic and ideology of data, and the datafication of the world. 
-
-## phones, feelings and our radically analogue bodies
-
-I imagine the body as a wild space of feelings. [gif] Yes feelings. Those things that drive all conversations, all experiences. Nuanced, primitive, primal. All that we are saying, all that we are hearing, all that we are communicating and proposing, is driven by feelings: 
-
->conversations do not just involve feelings, they are at their very core about feelings" [@stone_difficult_2003 p.13]
-
-To feel smart, to feel less clumsy, to feel busy, to avoid the fear of failure, to feel wanted or needed, to feel successful, to be repelled by ambition, to feel less lonely, to be respected, valued, loved even. To feel superior, less inferior, to feel astonished, eager, energetic, confused, excited, significant or insignificant. 
-
-The wild spaces of our analogue bodies understand these things. I am never just this or that, never just busy or needy, never just superior or inferior. And with all these feelings, all these states and traits, memories and traumas, the ghosts of our pasts, we are all dancing some kind of dance. They are dances of love and laughter, dances of shame and embarrassment, dances of patience and care, dances of pride and pleasure, of honesty and lies. I mean, _who are you_ if there's nothing wrong with you? 
- 
-[dance - for camera - Bowie's sound and vision, playback on computer - just through the speakers] 
+## References
