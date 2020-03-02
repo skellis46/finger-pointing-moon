@@ -2,6 +2,74 @@
 
 # edit bin
 
+
+; a practice of process-based movement experiments that involved a discipline of non-judgement, invisible experiences and semi-automated photography
+
+But I also like to imagine there is a middle ground as well; phenomena that are sensuously present in the experience _and_ visible to the watcher. For example, would I be able to say that with my experience as a dancer and watcher of others dancing, I saw qualities of understanding, decision making, attention and perhaps even know-how when Shaun was dancing? And if so, what was it I was seeing? I imagine it would be difficult to agree on what I was seeing that made me think or feel those things. It makes me think we are dealing with an epistemic house of cards and I am quite happy with that idea. 
+
+With these cards falling all around me I remain comfortable thinking -- or should that be _believing_ -- that Shaun and I both _formed_ examples of two people revealing attention and sensitivity to the body. 
+
+It fascinates me that Choinière also includes the word _skill_ in her description, as if implicitly calling on the phronetic know-how of Aristotle, David Carr and Gilbert Ryle.[@ellis_that_2018]
+
+It's like that scene in Annie Hall where a movie producer says, "Right now it's only a notion, but I think I can get money to make it into a concept, and later turn it into an idea."[@pinker_sense_2014] 
+
+The same with embodied intelligence, and even embodied awareness. We often also use words interchangeably as if they might be the same thing: somatic for embodied or physical, somatic or physical for body, intelligence for knowledge.
+
+A number of seemingly un-related ideas and possibilities that happened to end up together. 
+
+>For the body cannot be easily contained by the consumption imperative. It discovers its own sexual and political being and overflows autonomously in many other directions as well. Or, as in the case of the state policies of economic and cultural austerity that have increasingly been imposed upon a recalcitrant underlying population, the body refuses to disappear as a subject.
+
+-- Stanley Aronwitz, foreward in Martin's *Performance as a Political Act* [-@martin_performance_1990 p.viii] 
+
+
+
+In effect, I robbed de Sousa Santos of his thinking in a particular field and for a particular context, to help make sense of the relationship between experience and representation in the work with Shaun. Or perhaps I just borrowed his thinking. It's definitely different though from a citation because he was writing for an utterly different context, and with utterly different ambitions for how the thinking might be met and used. It's not a loan either. More like digital theft when the owner doesn't lose any materials or things, after all his thinking as presented in that writing is endlessly reproducible. But perhaps some of his writing's aura or value is diluted as it is dropped into a different world, with different ideologies, different practices, and different needs? But I digress.
+
+And it's also important to note that what I now understand differently are not insights into the nature and experience of our sensitised and sensitising bodies. In this research, the state, quality or even quantity of body-based understanding -- sensuous presence in experience -- was merely a thing. But it wasn't any _thing_ special, and it wasn't anything that people haven't already been doing for a long long time in Authentic Movement. 
+
+like two people sitting in the same room at a party who end up deeply in love for the rest of their lives. 
+
+Research insights invariably reveal what we care about as individuals, and what might matter to us most as a community. The following insights (or emergent understandings) are no different. 
+
+It's not unlike sniffing deeply into a glass of red wine and saying the words "cinnamon and blackcurrant" as some friends are about to try the same wine. They are infected by the idea of the scents, not the scents themselves, but nevertheless will swear blind they can taste cinnamon and blackcurrent. 
+
+Or here is the artist-scholar Andrea Davidson: 
+
+>For dance practitioners, somatic intelligence constitutes a model of corporeal experience: a form of embodied knowledge that can also be described as a skill for sensing, relating and ‘revealing'.[@davidson_somatics_2013 p.6]
+
+## phones, feelings and our radically analogue bodies
+
+I imagine the body as a wild space of feelings. [gif] Yes feelings. Those things that drive all conversations, all experiences. Nuanced, primitive, primal. All that we are saying, all that we are hearing, all that we are communicating and proposing, is driven by feelings: 
+
+>conversations do not just involve feelings, they are at their very core about feelings" [@stone_difficult_2003 p.13]
+
+To feel smart, to feel less clumsy, to feel busy, to avoid the fear of failure, to feel wanted or needed, to feel successful, to be repelled by ambition, to feel less lonely, to be respected, valued, loved even. To feel superior, less inferior, to feel astonished, eager, energetic, confused, excited, significant or insignificant. 
+
+The wild spaces of our analogue bodies understand these things. I am never just this or that, never just busy or needy, never just superior or inferior. And with all these feelings, all these states and traits, memories and traumas, the ghosts of our pasts, we are all dancing some kind of dance. They are dances of love and laughter, dances of shame and embarrassment, dances of patience and care, dances of pride and pleasure, of honesty and lies. I mean, _who are you_ if there's nothing wrong with you? 
+ 
+[dance - for camera - Bowie's sound and vision, playback on computer - just through the speakers] 
+
+
+In February 2020 the German artist Simon Weckert put 99 smartphones into a small red trolley, walked around Berlin and created what he called a "virtual traffic jam" in Google Maps.[@weckert_google_2020]
+
+In January 2019, the social psychologist Shoshana Zuboff published a book called _Surveillance Capitalism_. In it she uses the word _rendition_ to describe a two-sided process. On one side are the technologies of surveillance capitalism that are designed to "render our experience into data, as in rendering oil from fat".[@zuboff_age_2019 Chapter 8.1] On the other side is the fact that "every time we encounter a digital interface we make our experience available to 'datafication'".[@zuboff_age_2019 Chapter 8.1] We _render_ "unto surveillance capitalism" a continuous supply of raw materials. 
+
+According to Zuboff, the rendition of our bodies begins quite simply with our phones.[@zuboff_age_2019 Chapter 8.2] 
+
+Let's begin by turning off our mobile phones. Turning them off completely. Humour me. There's no need to be jaded or cynical. There's time for that in the next session. We can quietly create the opposite of Weckert's virtual traffic jam: we can create a gap in the geolocation map. A small absence. A silence. It's just us. Untracked for 15 minutes. Going dark. Bliss. We can create a wild space. Like the body. A wild space: unpredictable and inextractable. A place for our analogue selves and our radically analogue bodies. A place where something is not simply yes or no, this or that, 1 or 0, anything but boolean, untouched, untouchable. A body that, even just briefly, resists the facts and fictions of sampling, the logic and ideology of data, and the datafication of the world. 
+
+## phones, feelings and our radically analogue bodies
+
+I imagine the body as a wild space of feelings. [gif] Yes feelings. Those things that drive all conversations, all experiences. Nuanced, primitive, primal. All that we are saying, all that we are hearing, all that we are communicating and proposing, is driven by feelings: 
+
+>conversations do not just involve feelings, they are at their very core about feelings" [@stone_difficult_2003 p.13]
+
+To feel smart, to feel less clumsy, to feel busy, to avoid the fear of failure, to feel wanted or needed, to feel successful, to be repelled by ambition, to feel less lonely, to be respected, valued, loved even. To feel superior, less inferior, to feel astonished, eager, energetic, confused, excited, significant or insignificant. 
+
+The wild spaces of our analogue bodies understand these things. I am never just this or that, never just busy or needy, never just superior or inferior. And with all these feelings, all these states and traits, memories and traumas, the ghosts of our pasts, we are all dancing some kind of dance. They are dances of love and laughter, dances of shame and embarrassment, dances of patience and care, dances of pride and pleasure, of honesty and lies. I mean, _who are you_ if there's nothing wrong with you? 
+ 
+[dance - for camera - Bowie's sound and vision, playback on computer - just through the speakers] 
+
 He writes:
 
 >In sum, metadata can tell your surveillant virtually everything they’d ever want or need to know about you, except what’s actually going on inside your head.
