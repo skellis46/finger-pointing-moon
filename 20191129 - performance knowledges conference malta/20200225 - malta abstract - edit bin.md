@@ -2,6 +2,14 @@
 
 # edit bin
 
+I just want to acknowledge that in the late northern summer last year Shaun and I were fabulously lost in the "mangle of practice"[@pickering_mangle_1995] and not so able to see the wood for the trees.
+
+to be datafied  Zuboff uses the word _rendition_ to describe a two-sided process. On one side are the technologies of surveillance capitalism that are designed to "render our experience into data, as in rendering oil from fat".[@zuboff_age_2019 Chapter 8.1] On the other side is the fact that "every time we encounter a digital interface we make our experience available to 'datafication'".[@zuboff_age_2019 Chapter 8.1] We _render_ "unto surveillance capitalism" a continuous supply of raw materials. 
+
+But being sensuously present in our experience as artist-scholars is not likely to be as simple as it might sound. The philosopher Alva Noë wrote that "hearing, perceiving, learning, is always a matter of using what you know to make sense of what is on offer."[@noe_art_2015] How then are we to notice difference or change when we can only know what we know and "don't know what we are looking for?"[@ellis_not_2016] 
+
+This also feels odd because it was as if the intensely collaborative practice of movement with Shaun morphed into a more isolated practice of words and thought. Which is not to say that these ideas belong to me. As Judith Butler has said, "We are worldless without one another".[@butler_we_2017]
+
 
 ; a practice of process-based movement experiments that involved a discipline of non-judgement, invisible experiences and semi-automated photography
 
