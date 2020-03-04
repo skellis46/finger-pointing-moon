@@ -73,9 +73,9 @@ There is an epistemic crisis in body-based practice-research that is underlined 
 
 The contemporary cultural backdrop for the tension between so-called embodied knowledge, the unknowable, and the inarticulable is the datafication of human experience. [expand: valuable.jpg] In 2017 _The Economist_ declared that the "world's most valuable resource is no longer oil, but data".[@noauthor_worlds_2017] Around 2014, the social psychologist Shoshana Zuboff [expand: shoshana.jpg] popularised the term _surveillance capitalism_ [expand: surveillance.jpg] to describe the "extractive operations in which our personal experiences are scraped and packaged"[@zuboff_age_2019 Chapter 1] as raw materials -- a process of datafication in which the end game is more than the prediction of our future desires as consumers, but the control of those futures. 
 
-The cultural and financial capital of seeing and understanding the world-as-data means it is not surprising that delicate and fiscally precarious artistic practices and processes located in and through the body -- like dance and somatics -- have also become enamoured by the doctrine of datafication. The growing number of online archives, digital forms of documentation, and virtual and augmented reality projects are all implicit or explicit attempts by dance scholars to transform the radically analogue nature of bodily experiences into data.
+The cultural and financial capital of seeing and understanding the world-as-data means it is not surprising that delicate and fiscally precarious artistic practices and processes located in and through the body -- like dance and somatics -- have also become enamoured by the doctrine of datafication. The growing number of online archives, digital forms of documentation, and virtual and augmented reality projects are all implicit or explicit attempts by dance scholars to transform the radically analogue nature of bodily experiences into data.[type: ⇪2] 
 
-The datafication of human experience and the limitations of body-based practice-research are related because the construction and production of knowledge is never based on the simple observation of worldly things. Rather, to understand what we say we know and do not know, the vital epistemic question is, according to the social scientist Walter Mignolo, "who, when, [and] why is constructing knowledges?"[-@mignolo_epistemic_2009 p.160] If the overwhelming contemporary phenomenon is the extraction of data from human experiences, then the question of _who, when and why is constructing knowledges_ necessitates an encounter with the limits and excesses of datafication. 
+The datafication of human experience and the limitations of body-based practice-research are related because the construction and production of knowledge is never based on the simple observation of worldly things. Rather, to understand what we say we know and do not know, the vital epistemic question is, [expand: walter.jpg] according to the social scientist Walter Mignolo, "who, when, [and] why is constructing knowledges?"[-@mignolo_epistemic_2009 p.160] If the overwhelming contemporary phenomenon is the extraction of data from human experiences, then the question of _who, when and why is constructing knowledges_ necessitates an encounter with the limits and excesses of datafication. 
 
 I want to propose that complex and radically analogue human experiences like experimental choreographic and movement practices have ontologies that are underpinned by two key characteristics: 1) they defy the capacity to be accurately and wholly articulated and shared; and 2) they exceed "algorithmic description".[@odell_how_2019 p.xvi] 
 
@@ -83,21 +83,26 @@ I see Authentic Movement as an experimental practice that foregrounds radically 
 
 ### 2. resolution of experience
 
+[type: ⇥+ ;i2]
+
 Shaun and I were aware early on of the discrepancy between the complex and rich internal experiences for the mover _and_ the watcher, and what was visible. We asked: "What if we insert a camera into this predominantly invisible experience? How might _the_ ocular-centric recording device of our time -- the smartphone -- relate to the unseen?" 
 
-A couple of months after we finished, I happened to read Boaventura de Sousa Santos's 2001 article _Toward an Epistemology of Blindness_.[-@santos_toward_2001] In it, he states that "the resolution level of our [scientific] methods is higher than the resolution level of our theories."[-@santos_toward_2001 p.261]
+A couple of months after we finished, I happened to read Boaventura de Sousa Santos's 2001 article _Toward an Epistemology of Blindness_.[-@santos_toward_2001] [expand: boaventura.jpg] In it, he states that "the resolution level of our [scientific] methods is higher than the resolution level of our theories."[-@santos_toward_2001 p.261]
 
 I think his concept of resolution is useful, even if I am robbing him of his thinking that was written for a particular context in a particular field. My digital theft of de Sousa Santos' thinking is to remind us that when we are dealing with body-based practices what we can observe bears little or no relationship to the experiential complexity of what happened. That is, we have high resolution experiences, and low resolution representations of those experiences. And that gap applies irrespective of how fancy our technocratic solutions are to the problem of archiving movement and choreography.
 
-In dance and the performing arts there's a long history of scholarship exploring the relationship and differences between the _liveness_ of movement practices and those practices as mediatized on video. I used to imagine Philip Auslander and Peggy Phelan scrapping it out in a kick-boxing bout. In my dreams, it was carnage; there was blood on the dance floor. 
+In dance and the performing arts there's a long history of scholarship exploring the relationship and differences between the _liveness_ of movement practices and those practices as mediatized on video. I used to imagine Philip Auslander and Peggy Phelan scrapping it out in a kick-boxing bout. [expand: kickboxing.jpg] In my dreams, it was carnage; there was blood on the dance floor. 
 
-What I think I'm doing here is re-packaging an old idea with a history as old as the advent of recording technologies. _That_ history has tended to speak of loss or death when describing the transmutation of live performance into some digital other. But I propose that the word transmutation -- to change into another nature, substance, form, or condition -- is inaccurate. Those photographs of Shaun practising Authentic Movement are coarse-grain materials that tell us plenty about how that world looked. These photographs -- at least in their original digital form on my hard drive or on servers around the world -- also possess an enormous quantity of metadata. And metadata is not -- as Edward Snowden says -- "some benign abstraction" but "the very essence of content".[@snowden_permanent_2019 Chapter 16] 
+What I think I'm doing here is re-packaging an old idea with a history as old as the advent of recording technologies. _That_ history has tended to speak of loss or death when describing the transmutation of live performance into some digital other. But I propose that the word transmutation -- to change into another nature, substance, form, or condition -- is inaccurate. [expand: 31shaun.jpg] Those photographs of Shaun practising Authentic Movement are coarse-grain materials that tell us plenty about how that world looked. These photographs -- at least in their original digital form on my hard drive or on servers around the world -- also possess an enormous quantity of metadata. [expand ed.jpg] And metadata is not -- as Edward Snowden says -- "some benign abstraction" but "the very essence of content".[@snowden_permanent_2019 Chapter 16] 
 
 These photos tell us everything, _and_ they tell us nothing. 
 
 These photos so directly and beautifully capture the hyper-visual nature of our time, as well as the power and seductiveness of superficiality. These visual data are both thick and thin. They are everything and nothing. They are both sides of a boolean operator. On _and_ off. Zero _and_ one. Yes _and_ no. They provide all of the answers _and_ none of the answers. They are knowing _and_ not knowing. They represent an epistemic paradox. 
 
 ## staking claims and humility
+
+[type: ## ]
+[;p4 : part 4: staking claims and humility]
 
 If it's not already clear, my curiosity lies with experiences that are not really able to be articulated. They are experiences with, in and around our bodies that resist description. They are experiences that are cloaked and revealed in movement and stillness. This is not to say that we shouldn't keep seeking ways to articulate that which cannot be articulated. That in such a paradox we might inadvertently step into alternative tangles and mangles. 
 
@@ -106,3 +111,7 @@ The epistemics of a paradox around resolutions of experience and articulating th
 And why humility? Because the body can also be a site that is not for staking claims like we all do in Academia, and that perhaps I am guilty of right this moment. That the politics of humility demand collaborative inquiry, an excess of community (the 'we'), a deep engagement with (and love for) uncertainty, a dance with the unknown. It is humility that resists reductive datafication; these beautiful bodies: refusing to disappear as they go on in their vital project of denying the extractive processes of surveillance capitalism. And the stakes are high; what Shoshana Zuboff describes as "our fight for a human future"[@zuboff_age_2019 Chapter 2.8]
 
 ## References
+
+[⇧⌘N]
+[type: references]
+[type: ;lis]
