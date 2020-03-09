@@ -11,6 +11,32 @@ csl:
 
 - notes organised by date
 
+## 20200309 - ungobehindable and the uncomptuer
+
+mention in relation to Galloway's uncomputer? and also Batson's mention of the ungobehindable? 
+
+>The gist is that there exists a mode of being in which discrete symbols do not take hold, or at least do not hold sway.[@galloway_uncomputer_2020]
+
+
+## 20200309 - exoteric knowledge
+
+https://en.wikipedia.org/wiki/Exoteric
+>knowledge that is outside, and independent from, a person's experience and can be ascertained by anyone
+(related to common sense)
+
+## 20200306 - marchand on anthropology of practice
+
+>But despite decades of meticulous study about the ways in which knowledge is articulated and made manifest in innumerable contexts, the majority of anthropological analyses stop short of providing satisfying explanation (or approximations) of how learning, knowing, and practice actually occur, take shape, and continually transform with situated bodies and minds. Field- workers customarily record what their subjects know, but they are less inclined to delve into questions of how we come to know as humans. The relevance of Malcolm Crick’s observation made more than a quarter-century ago endures: ‘[A]nthropologists speak of the creation of knowledge, of thought, and consciousness without detailing any processes or mechanisms’ (1982: 291). 
+
+- compare this with Mignolo's 'who, when and why is constructing knowledges'. 
+
+three parts:
+    - how we come to know
+    - how we come to know differently (in practice-research this is so much about reflection (I think)
+    - who, when, why (which are about context and sensitivity to the ways worldly contexts shape what we come to understand or know)
+
+- what is it that I understand differently? what conditions might I create to generate and experience these (potential) differences? 
+
 ## Sheets-Johnstone on embodiment
 
 >In a pivotally central but also ironic way, “embodied minds,” like other current “embodiments,” serve reductionist interests and goals, occluding the reality of mindful bodies. [@sheets-johnstone_primacy_2011 p.501]
