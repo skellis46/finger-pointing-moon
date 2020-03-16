@@ -15,11 +15,13 @@ This research leadership project called _Finger Pointing Moon_ is underpinned by
 
 In this project, I propose that complex and radically analogue human experiences like experimental choreographic and movement practices have ontologies that are underpinned by two key characteristics: a) they defy the capacity to be accurately and wholly articulated and shared; and b) they exceed "algorithmic description".[^odell1] _Finger Pointing Moon_ is positioned squarely at the intersection of the datafication of human experience and the limitations of embodied practice-research. 
 
-But _Finger Pointing Moon_ is also a project in which the possibilities and limitations of leadership are built into the research design. It is a project _about_ leadership -- "a word to describe significant actions enabling change that is welcomed by affected people."[@bendell_leadership_2019] The concept and potential status of leadership is not a funding-led _container_ to bolster my claims to be a practice-research disciplinary leader. Rather, the overarching design is built around leadership that involves _actions_, _change_ and _people_. 
+But _Finger Pointing Moon_ is also a project in which the possibilities and limitations of leadership are built into the research design. It is a project _about_ leadership -- "a word to describe significant _actions_ enabling _change_ that is welcomed by affected _people_."[@bendell_leadership_2019] The concept and potential status of leadership is not a funding-led _container_ to bolster my claims to be a practice-research disciplinary leader. Rather, the overarching design is built around leadership that involves _actions_, _change_ and _people_. 
 
-- add something here (or in paragraph after) about these three things (actions, change, people)
+- add something here (or in paragraph after) about these three things (actions, change, people) - something about Bendell's thinking is about responding to the climate crisis. 
 
-_Finger Pointing Moon_ is a project designed around creative practices that resist datafication, understanding and articulation, and the overarching purpose of the design is to create the conditions in which to develop an original set of practice-research epistemic principles. 
+>we can be clearer about the kinds of actions that are useful to describe as “leadership” rather than something else, like “management” or “organising”. Leadership actions are those that help shift the way groups, networks or whole communities of people relate and so such actions generate effects over time. [@bendell_leadership_2019]
+
+_Finger Pointing Moon_ is a project designed around creative practices that resist datafication, understanding and articulation, and the overarching purpose of the design is to create the conditions in which to develop an original set of practice-research epistemic principles (and also set of values). 
 
 To generate a flexible set of epistemic principles able to be used across disciplines and practices is a bold aim. It is also an aim that is founded on two seemingly paradoxical values that underpin the nature of leadership: authority and humility. In other words, _who_ has the authority to know, and _how_ might humility act to attenuate such authority? In _Finger Pointing Moon_ I will scrutinise the nature of authority in leadership by working with the radically analogue nature of the human body to examine _who_ gets to know, and _how_ they get to know. The project will be built on first-person research methods to deepen our understanding of two broad areas: creative practice-research, and leadership.
 
@@ -45,6 +47,8 @@ To generate a flexible set of epistemic principles able to be used across discip
 - leadership/practice connected by corporeal actions: what the body can do, and what the body does (fare: to make and to do)
 - focus on collective organising; strategies for collective organising: collecting practice? (this is the bit about 'people' from Bendell)
 
+
+
 ## Research context 
 
 >You should describe the research context for your project/programme of work. Why is it important that these questions or issues are explored? What other research is being or has been conducted in this area? What contribution will your project make to improving, enhancing, or developing creativity, insights, knowledge or understanding in your chosen area of study? To whom will the outcomes of your research be of particular interest?
@@ -63,6 +67,20 @@ To generate a flexible set of epistemic principles able to be used across discip
 >Under the Research Methods heading you should also outline how any copyright or intellectual property issues relating to the project and the production of any outputs will be addressed.
 
 >convince decision makers that ‘this is the best solution’ and feel compelled to fund it – (approx >50% of content); 
+
+
+- recognising limit of that which is countable
+develop emerging research areas, methods or approaches
+    - traditionally we have focused on what can be seen, but what if we use occuolocentric tools to focus on that which cannot be seen?
+    - building an epistemology of practice
+    - methods and outcomes through the visual but what is not there
+foster interdisciplinary research in your field
+    - epistemologies of the south
+    - critical race theory / black studies / 
+    - visibility / invisibility
+be creative and inspire creativity in other researchers
+    - continue pushing alternative methods of representation
+    - exploring alternative methods for dialogue / sharing
 
 ### Overview
 
@@ -163,7 +181,7 @@ How do you propose to maximise the value of the proposed research outputs?
     + auxiliary-output: OA visual trace (e.g. photo series from authentic movement practice with RC - building on work with Shaun McLeod in 2019)
 - website:
     + tied to 2, 3 and 1
-    a) annotated bibliography  
+    a) annotated bibliography (figure out plan for publication of annotated bibliography: one page? summary at top? print to PDF function? how searchable? is this a database to be built into wordpress site?) 
     b) bi-weekly blog post  
     c) collecting materials and traces of project and the project practices  
 - github site for all text materials: radically transparent and OA
