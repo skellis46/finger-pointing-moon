@@ -7,4 +7,5 @@ This is an ongoing list of people who have helped (in even the smallest way) the
 - Sarah Whatley  
 - Scott deLahunta  
 - Hetty Blades  
-- 
+- Jonathan Burrows
+- Rosemary Lee
