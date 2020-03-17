@@ -7,11 +7,26 @@
 
 >You should describe clearly the research questions, issues or problems that you intend to address. What are the issues that you will be exploring in the course of your research?
 
-This is a research leadership project called _Finger Pointing Moon_. It address three key problems to do with what is meant by 'new knowledge' or 'new understandings' in body-based practice-research. By _body-based_ I mean artistic-scholarly practices like dance, performance and somatics where the body underpins the practices and the development of new understandings. Such practices are predicated on movement, gesture, posture and stillness. 
+This is a research leadership project called _Finger Pointing Moon_. It addresses four fundamental epistemic problems to do with 'new knowledge' or 'new understandings' in body-based practice-research. By _body-based_ I mean artistic-scholarly practices like dance and somatics where the body underpins both the practices and the development of new understandings. Such practices are predicated on movement, gesture, posture and stillness. 
 
-The three epistemic problems are: 1) The problem of the proxy; 2. The problem of what cannot be known; 3) The (old) problem of what can be known.
+The four epistemic problems are: 1) The problem of the proxy; 2. The problem of what cannot be known; 3) The problem of what can be known; 4) The problem of generalisability.
 
-### 1. The Problem of the Proxy
+### 1. The Problem of the Proxy
+
+Need to ask this as a question. That is -- not something I already think/believe. Recognise that embody is a term used loosely (can draw on definitions here), but analysis of how it is used, and potentially what is not being said. This is a kind of 'meta' or high-level approach.
+
+objectives:  
+    + identity key uses and characteristics of 'embodied knowledge' in artistic-scholarly literature, focusing on dance and somatics  
+    + identify and critique any ambiguities/limitations/possibilities in this scholarship
+
+methods:  
+    + traditional scholarship: literature review  
+    + traditional scholarship: analysis of materials  
+
+outcomes:  
+    + glossary of terms critical to current use of 'embodied knowledge' in artistic-scholarly practices of dance and somatics 
+    + annotated bibliography of key references regarding embodiment and embodied knowledge
+    + critical reflection on this analysis published as scholarly journal article 
 
 (comes to stand in for the thing, but it is not the thing)
 finger pointing moon
@@ -20,14 +35,38 @@ finger pointing moon
 
 There is an epistemic crisis in body-based practice-research. It is a crisis revealed by the sharp rise in scholarship exploring the nature of embodied knowledge.[^ek] In much of that research, the idea that the body _knows_ acts as a proxy for the epistemic limitations of practice-research investigations. In other words, artist-scholars who research through movement practices are valorising and reifying the concept of embodied knowledge 
 
-### 2. The Problem of What Cannot Be Known
+### 2 and 3. The Problem of What Can and Cannot Be Known
 
-problem of what can't be known: problem of unknown (and certainty unarticulated) epistemic limitations of practice-research -- what are the things that can't be known, understood or articulated? 
+- problem of what can't be known: problem of unknown (and certainty unarticulated) epistemic limitations of practice-research -- what are the things that can't be known, understood or articulated?  
+- (old) problem of what can be understood (or known) differently through practice-research
 
-### 3. The (Old) Problem of What Can Be Known 
+objectives:  
+    + identify qualities of experience in body-based practice that resist being known, are deeply uncertain, or are unable to be articulated  
+    + identify qualities of experience in body-based practice that assist being known, display some quality of certainty, and are able to be articulated  
 
-(old) problem of what can be understood (or known) differently through practice-research
+methods:  
+    + traditional scholarship: literature and field (practice) review of published materials that implicitly and/or explicitly examine epistemics of body-based practice    
+    + practice-research: process-driven experimental movement practice
+    + practice-research: collecting practice of 'unforgettable experiences'  
+    + practice-research: solitude practice (speculative _wildcard_)
+    + practice-research: collecting practice of epistemic materials focusing on 'what dance knows'
 
+outcomes:  
+    + 
+
+
+
+
+### 4. The Problem of Generalisability
+
+objectives:  
+
+methods:  
+
+outcomes:  
+    + develop and publish a set of epistemic principles for body-based practice-research
+    + develop and publish a set of epistemic values for body-based practice-research
+    + journal article exploring these findings (values and principles)
 
 By addressing these problems I aim to produce epistemic values and principles for body-based practice-research (but might be able to be extended beyond )
 
