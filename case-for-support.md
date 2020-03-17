@@ -7,23 +7,41 @@
 
 >You should describe clearly the research questions, issues or problems that you intend to address. What are the issues that you will be exploring in the course of your research?
 
-There is an epistemic crisis in body-based practice-research. It is a crisis revealed by the sharp rise in scholarship exploring the nature of embodied knowledge.[^ek] In much of that research, the idea that the body _knows_ acts as a proxy for the epistemic limitations of practice-research investigations. In other words, artist-scholars who research through movement practices are valorising and reifying the concept of embodied knowledge while failing to address the key epistemic paradox of creative practice-research: that its nature lies at least in part in what is _not_ able to be known, understood or articulated as a consequence of body-based creative practices.[^ttp1] This is a humbling limitation for any research method or process, and a crucial problem in the development of practice-research in the Academy.
+This is a research leadership project called _Finger Pointing Moon_. It address three key problems to do with what is meant by 'new knowledge' or 'new understandings' in body-based practice-research. By _body-based_ I mean artistic-scholarly practices like dance, performance and somatics where the body underpins the practices and the development of new understandings. Such practices are predicated on movement, gesture, posture and stillness. 
+
+The three epistemic problems are: 1) The problem of the proxy; 2. The problem of what cannot be known; 3) The (old) problem of what can be known.
+
+### 1. The Problem of the Proxy
+
+(comes to stand in for the thing, but it is not the thing)
+finger pointing moon
+
+>they see that language is only a finger pointing at the moon and not the moon itself.[@johnston_cloud_2012 p.2]
+
+There is an epistemic crisis in body-based practice-research. It is a crisis revealed by the sharp rise in scholarship exploring the nature of embodied knowledge.[^ek] In much of that research, the idea that the body _knows_ acts as a proxy for the epistemic limitations of practice-research investigations. In other words, artist-scholars who research through movement practices are valorising and reifying the concept of embodied knowledge 
+
+### 2. The Problem of What Cannot Be Known
+
+problem of what can't be known: problem of unknown (and certainty unarticulated) epistemic limitations of practice-research -- what are the things that can't be known, understood or articulated? 
+
+### 3. The (Old) Problem of What Can Be Known 
+
+(old) problem of what can be understood (or known) differently through practice-research
+
+
+By addressing these problems I aim to produce epistemic values and principles for body-based practice-research (but might be able to be extended beyond )
+
+what do I mean by 'epistemic values'? e.g. transparency and rigour of who, when and why is creating knowledge
+
+while failing to address the key epistemic paradox of creative practice-research: that its nature lies at least in part in what is _not_ able to be known, understood or articulated as a consequence of body-based creative practices.[^ttp1] This is a humbling limitation for any research method or process, and a crucial problem in the development of practice-research in the Academy.
 
 The contemporary cultural backdrop for the tension between embodied knowledge, the unknowable, and the inarticulable is the datafication of human experience. In 2017 _The Economist_ declared that the "world’s most valuable resource is no longer oil, but data".[^econ] We live in the age of _surveillance capitalism_ that is founded on "extractive operations in which our personal experiences are scraped and packaged as the means to others’ ends".[^zub1] The cultural and financial capital of understanding the world-as-data means it is not surprising that precarious and delicate artistic practices and processes located in and through the body – like dance and somatics – have also become enamoured by the doctrine of datafication. The rapidly growing number of online archives, digital forms of documentation, and virtual and augmented reality projects are all implicit or explicit attempts by dance scholars to transform the radically analogue nature of embodied experiences into data.[^plethora] 
 
-This research leadership project called _Finger Pointing Moon_ is underpinned by these two phenomena: the limitations of embodied practice-research, and the datafication of experience. These phenomena are related because the construction and production of knowledge in any scholarly field is never based on the simple and objective observation of worldly phenomena. Rather, to understand what we say we know and do not know, the vital epistemic question is in fact "who, when, [and] why is constructing knowledges?"[^mig1] If the overwhelming contemporary phenomenon is the extraction of data from human experiences, then the question of _who, when and why is constructing knowledges_ necessitates an encounter with the limits and excesses of datafication. 
+is underpinned by these two phenomena: the limitations of embodied practice-research, and the datafication of experience. These phenomena are related because the construction and production of knowledge in any scholarly field is never based on the simple and objective observation of worldly phenomena. Rather, to understand what we say we know and do not know, the vital epistemic question is in fact "who, when, [and] why is constructing knowledges?"[^mig1] If the overwhelming contemporary phenomenon is the extraction of data from human experiences, then the question of _who, when and why is constructing knowledges_ necessitates an encounter with the limits and excesses of datafication. 
 
 In this project, I propose that complex and radically analogue human experiences like experimental choreographic and movement practices have ontologies that are underpinned by two key characteristics: a) they defy the capacity to be accurately and wholly articulated and shared; and b) they exceed "algorithmic description".[^odell1] _Finger Pointing Moon_ is positioned squarely at the intersection of the datafication of human experience and the limitations of embodied practice-research. 
 
-But _Finger Pointing Moon_ is also a project in which the possibilities and limitations of leadership are built into the research design. It is a project _about_ leadership -- "a word to describe significant _actions_ enabling _change_ that is welcomed by affected _people_."[@bendell_leadership_2019] The concept and potential status of leadership is not a funding-led _container_ to bolster my claims to be a practice-research disciplinary leader. Rather, the overarching design is built around leadership that involves _actions_, _change_ and _people_. 
-
-- add something here (or in paragraph after) about these three things (actions, change, people) - something about Bendell's thinking is about responding to the climate crisis. 
-
->we can be clearer about the kinds of actions that are useful to describe as “leadership” rather than something else, like “management” or “organising”. Leadership actions are those that help shift the way groups, networks or whole communities of people relate and so such actions generate effects over time. [@bendell_leadership_2019]
-
-_Finger Pointing Moon_ is a project designed around creative practices that resist datafication, understanding and articulation, and the overarching purpose of the design is to create the conditions in which to develop an original set of practice-research epistemic principles (and also set of values). 
-
-To generate a flexible set of epistemic principles able to be used across disciplines and practices is a bold aim. It is also an aim that is founded on two seemingly paradoxical values that underpin the nature of leadership: authority and humility. In other words, _who_ has the authority to know, and _how_ might humility act to attenuate such authority? In _Finger Pointing Moon_ I will scrutinise the nature of authority in leadership by working with the radically analogue nature of the human body to examine _who_ gets to know, and _how_ they get to know. The project will be built on first-person research methods to deepen our understanding of two broad areas: creative practice-research, and leadership.
+_Finger Pointing Moon_ is a project designed around creative practices that resist datafication, understanding and articulation, and the overarching purpose of the design is to create the conditions in which to develop an original set of practice-research epistemic principles (and also set of values). How does this aim relate to datafication? More like it's something to push against -- that it acts as a 'measure' of utility and function. That if something resists that process, it reveals things about the nature of that _something_. This makes the concept of datafication a methodological (and conceptual/theoretical?) strategy. A kind of thought experiment.   
 
 ### Project Aims 
 
@@ -31,22 +49,13 @@ To generate a flexible set of epistemic principles able to be used across discip
 
 1. To explore the limits of embodied practice-research, situated within the broad contemporary context of the datafication of human experience.
 
-2. To interrogate leadership as a practice of humility, and examine how practices of humility, patience and listening play a role in construction of knowledge.  
-
-
 ### Objectives
 
 - to develop an original and comprehensive set of practice-research epistemic principles
-- to understand leadership as a practice of humility  
-- to build leadership as humility into understanding _who, when and why_ is constructing knowledge  
-- to generate and critically examine three research practices for which their epistemic possibilities are radically different. Also come from different positions of "leadership" 
+- to generate and critically examine three research practices for which their epistemic possibilities are radically different. 
 - research and produce annotated bibliography of PaR literature that refers to its history and its epistemic possibilities and limits
-- examine through practice the role of solitude in understanding leadership, action and change (contrast this with 'group epistemics' from That Thing Produced – actually, not in contrast. I think they sit together quite clearly. (see [@sennett_together_2012 p.21] -- about getting outside yourself)
 - epistemic principles in practice-research
 - epistemic values in practice-research 
-- leadership/practice connected by corporeal actions: what the body can do, and what the body does (fare: to make and to do)
-- focus on collective organising; strategies for collective organising: collecting practice? (this is the bit about 'people' from Bendell)
-
 
 
 ## Research context 
@@ -88,7 +97,7 @@ Intro here about the nature of the design, why it's appropriate. Multi-modal. pr
 
 The areas overlap because of potential for leadership to be understood as a practice of epistemic humility. add something here about affecting change (Bendell). something about it being comprehensive.
 
-#### Research Area 1: practice-research and epistemics
+#### Research Area: knowledge production, uncertainty, practice-research and epistemics
 
 This area contains experimental practice-research fieldwork and traditional scholarly research to approach experiences and understandings of practice-research epistemics from the inside (through practice) and the outside (through scholarship).
 
@@ -112,9 +121,9 @@ literature and field review focusing on (analysis of historical and current lite
 
 3. any examples of creative practice projects that explicitly or implicitly explore epistemology
 
-#### Research Area 2: leadership, uncertainty and humility
+##### + __Case-studies/ethnographic interviews__ 
 
-case-studies/ethnographic interviews - exploring leadership, uncertainty and knowledge production (in a range of practices and disciplines). + leadership/epistemics/uncertainty/humility/epistemic limits. how to identify these cases? Cases ought also to be current practitioners working with PaR -- who would these be? (who are the key figures in dance? (and perhaps beyond). 
+case-studies/ethnographic interviews - exploring , uncertainty and knowledge production (in a range of practices and disciplines). + leadership/epistemics/uncertainty/humility/epistemic limits. how to identify these cases? Cases ought also to be current practitioners working with PaR -- who would these be? (who are the key figures in dance? (and perhaps beyond). 
 
 Possibilities could be:
     + Bob and Lee
@@ -146,6 +155,22 @@ Possibilities could be:
 ## Leadership development plan 
 
 >This section of the Case for Support should include details of your proposed leadership activities, and an explanation of why these activities are appropriate to exercising research leadership in your field. You should make clear how these activities enhance the transformational potential of the research and its broader influence and importance. Please refer to Research and leadership activities for further details on what is requirement for this section.
+
+But _Finger Pointing Moon_ is also a project in which the possibilities and limitations of leadership are built into the research design. It is a project _about_ leadership -- "a word to describe significant _actions_ enabling _change_ that is welcomed by affected _people_."[@bendell_leadership_2019] The concept and potential status of leadership is not a funding-led _container_ to bolster my claims to be a practice-research disciplinary leader. Rather, the overarching design is built around leadership that involves _actions_, _change_ and _people_. 
+
+- add something here (or in paragraph after) about these three things (actions, change, people) - something about Bendell's thinking is about responding to the climate crisis. 
+
+>we can be clearer about the kinds of actions that are useful to describe as “leadership” rather than something else, like “management” or “organising”. Leadership actions are those that help shift the way groups, networks or whole communities of people relate and so such actions generate effects over time. [@bendell_leadership_2019]
+
+To generate a flexible set of epistemic principles able to be used across disciplines and practices is a bold aim. It is also an aim that is founded on two seemingly paradoxical values that underpin the nature of leadership: authority and humility. In other words, _who_ has the authority to know, and _how_ might humility act to attenuate such authority? In _Finger Pointing Moon_ I will scrutinise the nature of authority in leadership by working with the radically analogue nature of the human body to examine _who_ gets to know, and _how_ they get to know. The project will be built on first-person research methods to deepen our understanding of two broad areas: creative practice-research, and leadership.
+
+2. To interrogate leadership as a practice of humility, and examine how practices of humility, patience and listening play a role in construction of knowledge. 
+
+- to understand leadership as a practice of humility  
+- to build leadership as humility into understanding _who, when and why_ is constructing knowledge 
+- focus on collective organising; strategies for collective organising: collecting practice? (this is the bit about 'people' from Bendell)
+- leadership/practice connected by corporeal actions: what the body can do, and what the body does (fare: to make and to do)
+- examine through practice the role of solitude in understanding leadership, action and change (contrast this with 'group epistemics' from That Thing Produced – actually, not in contrast. I think they sit together quite clearly. (see [@sennett_together_2012 p.21] -- about getting outside yourself)
 
 ## Project management 
 
