@@ -7,13 +7,19 @@
 
 >You should describe clearly the research questions, issues or problems that you intend to address. What are the issues that you will be exploring in the course of your research?
 
-_Finger Pointing Moon_ is a research leadership project. Its aim is to address practice-research's fundamental, long-standing and most controversial epistemic question: **What can we know or understand differently as a consequence of practice-research?**[^sh] That is, what change is made possible by practice-research and how might we recognise those changes? Any research process in any discipline demands adopting the most suitable methods to recognise change or difference in the materials (or data) of that discipline. When artist-scholars adopt or use practice-research methods it is _implied_ that these methods are best able to reveal change and difference in the creative and artistic materials that underpin the research process. 
+_Finger Pointing Moon_ is a research leadership project. Its aim is to address practice-research's fundamental, long-standing and most controversial epistemic question: **What can we know or understand differently as a consequence of practice-research?**[^sh] That is, what types of changes are made possible by practice-research and how might we recognise those changes? Any research process in any discipline demands adopting the most suitable methods to recognise change or difference in the materials (or data) of that discipline. When artist-scholars adopt or use practice-research methods it is therefore _implied_ that these methods are best able to reveal change and difference in the artistic materials and experiences that underpin the research process.
 
-The research uses body-based practice-research as a precise lens through which to examine the diverse collection of methods that are variously known as practice-research, practice-led research, artistic research, practice-based research and practice-as-research. By _body-based_ I mean artistic-scholarly practices like dance and somatics where the body underpins both the practices and the development of new understandings. Such practices are predicated on movement, gesture, posture and stillness. I use body-based practice as a research lens because practices of and through the body represent an edge-case of the epistemic limits and possibilities of practice-research: they have a complex and often fraught relationship with language; many of the experiential nuances are not seen, but _felt_; they intersect with contested issues of embodiment; and they have an equally contested relationship to disappearance, ephemerality and documentation. 
+The research uses body-based practice-research as a lens through which to critically examine the diverse collection of methods that are variously known as practice-research, practice-led research, artistic research, practice-based research and practice-as-research. By _body-based_ I mean artistic-scholarly practices like dance and somatics where the body underpins both the practices and the development of new understandings. Such practices are predicated on movement, gesture, posture and stillness. I use body-based practice as a research lens because practices through the body represent an edge-case of the epistemic limits and possibilities of practice-research: they have a complex and often fraught relationship with language; many of the experiential nuances are not seen, but _felt_; they intersect with contested issues of embodiment and tacit awareness; and they have an equally contested relationship to disappearance, ephemerality and documentation. 
 
-To address the overarching research aim, I will examine body-based practice-research to explore four underpinning epistemic problems in practice-research to do with 'new knowledge' or 'new understandings': 1) The problem of the proxy; 2) The problem of what cannot be known; 3) The problem of what can be known; 4) The problem of generalisability.
+To address the overarching research aim I will use body-based practice-research as a type of case-study to examine and understand three underpinning epistemic problems in practice-research to do with 'new knowledge' or 'new understandings': 1) The problem of the proxy; 2) The problem of what can and cannot be known; 3) The problem of generalisability. These three problems act as a methodological design or structure for the research.
 
-### 1. The Problem of the Proxy
+### Overarching aim
+
+To address practice-research's fundamental epistemic question: _What can we know or understand differently as a consequence of practice-research?_
+
+### Three underpinning epistemic problems in practice-research
+
+#### 1. The Problem of the Proxy
 
 >they see that language is only a finger pointing at the moon and not the moon itself.[@johnston_cloud_2012 p.2]
 
@@ -22,72 +28,22 @@ Danger of the proxy (Cathy O'Neil)
 Hunch that it's a proxy
 Investigate this hunch
 Why is hunch important? Because the proxy blinds us to the limits and possibilities of practice-research epistemics
-
-objectives:  
-    + identity key uses and characteristics of 'embodied knowledge' in artistic-scholarly literature, focusing on dance and somatics practice-research  
-    + identify and critique any ambiguities/limitations/possibilities in this scholarship  
-    + if required propose precise, clear alternatives that speak directly to the epistemic limits and possibilities of body-based practice-research  
-
-methods:  
-    + traditional scholarship: literature review  
-    + traditional scholarship: critical analysis of materials  
-
-problem specific outcomes:  
-    + glossary of terms central to current use of 'embodied knowledge' in dance and somatics practice-research  
-    + annotated bibliography of key references regarding embodiment and embodied knowledge
-    + propose possible alternatives/clarification (depending on findings)
-    + critical reflection on this analysis published as scholarly journal article (e.g. CP or J of Qualitative Research)
-
 (comes to stand in for the thing, but it is not the thing)
 finger pointing moon
 
-
 There is an epistemic crisis in body-based practice-research. It is a crisis revealed by the sharp rise in scholarship exploring the nature of embodied knowledge.[^ek] In much of that research, the idea that the body _knows_ acts as a proxy for the epistemic limitations of practice-research investigations. In other words, artist-scholars who research through movement practices are valorising and reifying the concept of embodied knowledge 
 
-### 2 and 3. The Problems of What Can and Cannot Be Known
+#### 2 The Problem of What Can and Cannot Be Known
 
 - problem of what can't be known: problem of unknown (and certainty unarticulated) epistemic limitations of practice-research -- what are the things that can't be known, understood or articulated?  
 - (old) problem of what can be understood (or known) differently through practice-research
 
-objectives:  
-    + identify qualities of experience in body-based practice that resist being known, are deeply uncertain, or are unable to be articulated  
-    + identify qualities of experience in body-based practice that assist being known, display some quality of certainty, and are able to be articulated  
 
-methods:  
-    + traditional scholarship: literature and field (practice) review of published materials that implicitly and/or explicitly examine epistemics of body-based practice (some overlap of materials examined in Problem 1)  
-    + practice-research: process-driven experimental movement practice as paradigmatically complex and experientially driven  
-    + practice-research: collecting practice of 'unforgettable experiences'  
-    + practice-research: collecting practice of epistemic materials, traces, ideas, notes, thoughts focusing on 'The Unknowable Body'
 
-problem specific outcomes:  
-    + annotated bibliography (published online) of 50-100 key published materials that examine epistemics of body-based practice  
-    + open access 'visual trace' (e.g. photo series from experimental movement practice with RC)  
-    + exhibition of analogue "unforgettable experiences of performance" letters  
-    + _The (un)knowable body_ exhibition: resources, insights, notes, images  
+#### 3. The Problem of Generalisability
 
-### 4. The Problem of Generalisability
 
-objectives:  
-    + examine language of epistemic outcomes (or 'findings, failures and undesribables') in body-based practice-research
-    + collate and share linguistic possibilities 
 
-methods:  
-    + traditional scholarship: collect representative sample of body-based practice-research outcomes (exploring range from those that describe explicit findings to those in which the practice-outputs are presented to 'speak for themselves') -- could use sample from REF2021 in UK?
-    + traditional scholarship: critical analysis of this sample to understand the language artist-scholars use to describe their findings. 
-
-problem specific outcomes:  
-    + white paper (published on project site) discussing common (and uncommon) language used to describe artistic-scholarly findings. A summary of findings as well as a series of broad principles/proposals that articulate ranges of 'articulating new understandings'
-    
-
-project level outcomes (from all methods)
-
-- project blog - fortnightly post with updates, speculations, key ideas, quotes, insights, emerging understandings
-- github site for all text materials: radically transparent and OA
-- symposium: using Radhoc’s Unpanel or another Unconference idea)[^1]
-- open access desktop documentary exploring practice-research epistemic principles and values (connected to all four research problems and all methods)
-- develop and publish a set of epistemic principles for body-based practice-research
-- develop and publish a set of epistemic values for body-based practice-research
-- journal article exploring these findings (values and principles)
 
 
 
@@ -105,20 +61,28 @@ In this project, I propose that complex and radically analogue human experiences
 
 _Finger Pointing Moon_ is a project designed around creative practices that resist datafication, understanding and articulation, and the overarching purpose of the design is to create the conditions in which to develop an original set of practice-research epistemic principles (and also set of values). How does this aim relate to datafication? More like it's something to push against -- that it acts as a 'measure' of utility and function. That if something resists that process, it reveals things about the nature of that _something_. This makes the concept of datafication a methodological (and conceptual/theoretical?) strategy. A kind of thought experiment.   
 
-### Project Aims 
+### Project Aim
 
-- make the language of these match with end of previous paragraph
-
-1. To explore the limits of embodied practice-research, situated within the broad contemporary context of the datafication of human experience.
+To address practice-research's fundamental epistemic question: _What can we know or understand differently as a consequence of practice-research?_
 
 ### Objectives
 
-- to develop an original and comprehensive set of practice-research epistemic principles
-- to generate and critically examine three research practices for which their epistemic possibilities are radically different. 
-- research and produce annotated bibliography of PaR literature that refers to its history and its epistemic possibilities and limits
-- epistemic principles in practice-research
-- epistemic values in practice-research 
+_1. The problem of the proxy:_
 
+1. identity key uses and characteristics of 'embodied knowledge' in artistic-scholarly literature, focusing on dance and somatics practice-research
+2. identify and critique any ambiguities/limitations/possibilities in this scholarship
+3. if required propose precise, clear alternatives that speak directly to the epistemic limits and possibilities of body-based practice-research 
+
+_2 and 3. The Problems of What Can and Cannot Be Known:_
+
+4. identify qualities of experience in body-based practice that resist being known, are deeply uncertain, or are unable to be articulated
+5. identify qualities of experience in body-based practice that assist being known, display some quality of certainty, or are able to be articulated  
+
+_4. The Problem of Generalisability:_
+
+6. examine language of epistemic outcomes (or 'findings, failures and undescribables') in body-based practice-research
+7. collate and share this 'language of findings' 
+8. systematically develop alternative linguistic possibilities for describing ways of knowing in practice-research 
 
 ## Research context 
 
@@ -162,6 +126,22 @@ The areas overlap because of potential for leadership to be understood as a prac
 #### Research Area: knowledge production, uncertainty, practice-research and epistemics
 
 This area contains experimental practice-research fieldwork and traditional scholarly research to approach experiences and understandings of practice-research epistemics from the inside (through practice) and the outside (through scholarship).
+
+Problem 1 methods:  
+    + traditional scholarship: literature review  
+    + traditional scholarship: critical analysis of materials  
+
+Problem 2 methods:  
+    + traditional scholarship: literature and field (practice) review of published materials that implicitly and/or explicitly examine epistemics of body-based practice (some overlap of materials examined in Problem 1)  
+    + practice-research: process-driven experimental movement practice as paradigmatically complex and experientially driven  
+    + practice-research: collecting practice of 'unforgettable experiences of body-based performance'  
+    + practice-research: collecting practice of epistemic materials, traces, ideas, notes, thoughts focusing on 'The Unknowable Body'
+
+Problem 3 methods:  
+    + traditional scholarship: collect representative sample of body-based practice-research outcomes (exploring range from those that describe explicit findings to those in which the practice-outputs are presented to 'speak for themselves') -- could use sample from REF2021 in UK?
+    + traditional scholarship: critical analysis of this sample to understand the language artist-scholars use to describe their understandings or 'findings'. 
+
+
 
 ##### + __Practice-research fieldwork__ 
 
@@ -257,9 +237,34 @@ Researchers. More information about the Concordat and what it entails can be fou
 
 ## Dissemination
 
->Information under this heading should build on the details given in the Academic Beneficiaries and Impact Summary sections of the Je-S form. Please provide examples of the kinds of outputs you propose to produce during the award and their proposed focus. Please explain further how the research will benefit other researchers in the field 
-and – where relevant – academic beneficiaries in other disciplines.
-How do you propose to maximise the value of the proposed research outputs? 
+>Information under this heading should build on the details given in the Academic Beneficiaries and Impact Summary sections of the Je-S form. Please provide examples of the kinds of outputs you propose to produce during the award and their proposed focus. Please explain further how the research will benefit other researchers in the field and – where relevant – academic beneficiaries in other disciplines. How do you propose to maximise the value of the proposed research outputs? 
+
+problem 1 specific outcomes:  
+    + glossary of terms central to current use of 'embodied knowledge' in dance and somatics practice-research  
+    + annotated bibliography of key references regarding embodiment and embodied knowledge
+    + propose possible alternatives/clarification (depending on findings)
+    + critical summation of this analysis published as scholarly journal article (e.g. CP or J of Qualitative Research)
+
+problem 2 specific outcomes:  
+    + annotated bibliography (published online) of 50-100 key published materials that examine epistemics of body-based practice  
+    + open access 'visual trace' (e.g. photo series from experimental movement practice with RC)  
+    + exhibition of collected "unforgettable experiences of body-based performance"  
+    + _The (un)knowable body_ exhibition: resources, insights, notes, images  
+
+
+problem 3 specific outcomes:  
+    + white paper (published on project site) discussing common (and uncommon) language used to describe artistic-scholarly findings. A summary of findings as well as a series of broad principles/proposals that articulate ranges of 'articulating new understandings'
+    
+
+project level outcomes (from all methods)
+
+- project blog - fortnightly post with updates, speculations, key ideas, quotes, insights, emerging understandings
+- github site for all text materials: radically transparent and OA
+- symposium: using Radhoc’s Unpanel or another Unconference idea)[^1]
+- open access desktop documentary exploring practice-research epistemic principles and values (connected to all four research problems and all methods)
+- develop and publish a set of epistemic principles for body-based practice-research
+- develop and publish a set of epistemic values for body-based practice-research
+- journal article exploring these findings (values and principles)
 
 + Outputs and Dissemination (what you will do with the knowledge) for your audience:
     * To Beneficiaries – who are they
@@ -298,6 +303,16 @@ How do you propose to maximise the value of the proposed research outputs?
 
 
 ## edit bin
+
+- make the language of these match with end of previous paragraph
+
+1. To explore the limits of embodied practice-research, situated within the broad contemporary context of the datafication of human experience.
+
+- to develop an original and comprehensive set of practice-research epistemic principles
+- to generate and critically examine three research practices for which their epistemic possibilities are radically different. 
+- research and produce annotated bibliography of PaR literature that refers to its history and its epistemic possibilities and limits
+- epistemic principles in practice-research
+- epistemic values in practice-research 
 
 - Primarily a first person investigation:[^1st] to grapple with first person experiences in, through and around the body (my body) – to fully wrestle with the uncertainty and unsayable experiences that carve into our flesh
 
