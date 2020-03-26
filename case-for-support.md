@@ -4,13 +4,11 @@
 
 >You should describe clearly the research questions, issues or problems that you intend to address. What are the issues that you will be exploring in the course of your research?
 
-All research processes in all disciplines involve adopting the most suitable methods to recognise change or difference in the materials or data of that discipline. When artist-scholars adopt or use practice-research methods it is therefore _implied_ but rarely stated that these methods are best able to reveal change and difference in the artistic materials and experiences that underpin the research process. _Finger Pointing Moon_ aims to address practice-research's fundamental, long-standing and most controversial epistemic question: **What can we know or understand differently as a consequence of practice-research?**[^sh] That is, what types of changes are made possible by practice-research and how might we recognise those changes?
+All research processes in all disciplines adopt the most suitable methods to recognise change or difference in the materials or data of those processes. When artist-scholars adopt practice-research methods it is therefore _implied_ but rarely stated that these methods are best able to reveal change and difference in the artistic materials and experiences that underpin the research. Yet what types of changes or differences are _really_ made possible by practice-research and how might we recognise them? _Finger Pointing Moon_ aims to address practice-research's fundamental, long-standing and most controversial epistemic question: **What can we know or understand differently as a consequence of practice-research?**[^sh] 
 
-Practice-research is not a singular method but rather a broad approach to integrating creative practice into research/scholarly contexts. The approach has a common set of principles, while the underpinning practices are diverse, distinct and often singular or one-off entities. The approach is fundamentally first-person and involves self-critical reflection and analysis, and an often unstable or complex relationship to language and articulation. Given these characteristics it stands to reason that the diverse range of outcomes artist-scholars state as research _findings_ are often at best conceived _a priori_, or at worst simply made up. add here about thesis as quintessential example (from Australian guy)
+Practice-research is not a singular method but rather a broad approach to integrating creative practice into scholarly contexts. The underpinning practices are diverse, distinct and often singular or one-off entities. Broadly speaking, the approach is characterised by the following: it is first-person; it has a prolonged engagement with repetition through artistic practice; it involves self-critical reflection and analysis; it often has an unstable or complex relationship to language and dissemination; and it deals with experiences that are often ambiguous and hidden from our traditional research senses. Given these characteristics -- and the historically tenuous footing of practice-research inside the Academy -- it is not surprising that the diverse range of outcomes artist-scholars state as research _findings_ are often at best conceived _a priori_, or at worst simply made up. In other words, I propose that there is a systemic failure in practice-research to directly address the changes and differences made possible through research-focused artistic practices.
 
-The early period of practice-research generated complex thinking and ideas about the epistemic underpinnings of creative practice[^under]. This line of inquiry has fallen away or disappeared and it is not clear why. In more embodied creative practices (like dance, performance, live-art), the concept of _embodied knowledge_ has emerged as a form of epistemic proxy or red herring, as if to say, 'the body knows and _ipso facto_ practice-research generates knowledge'. But even if it is correct to suggest that the 'body knows' (whatever this might mean), such a statement sheds little if any light on understanding the effects of working with and through practice-research. An epistemic proxy does not solve the epistemic complexity of practice-research, and the problem of what can be understood differently as a result of practice-research is kept at arm's length. Therefore, the epistemic limits and possibilities of practice-research remain profoundly unclear. Without clarity, practice-research's development and value as a key approach to understanding our embodied lives and practices will be diminished. 
-
-The research uses body-based practice-research as a lens through which to critically examine the diverse collection of methods that are variously known as practice-research, practice-led research, artistic research, practice-based research and practice-as-research. By _body-based_ I mean artistic-scholarly practices like dance and somatics where the body underpins both the practices and the development of new understandings. Such practices are predicated on movement, gesture, posture and stillness. I will use body-based practice as a research lens because practices through the body represent an edge-case of the epistemic limits and possibilities of practice-research: they have a complex and often fraught relationship with language; many of the experiential nuances are not seen, but _felt_; they intersect with contested issues of embodiment and tacit awareness; and they have an equally contested relationship to disappearance, ephemerality and documentation. Body-based practice-research will function as a type of case-study through which to examine and understand three underpinning epistemic problems in practice-research to do with 'new knowledge' or 'new understandings': 1) The problem of the proxy; 2) The problem of what can and cannot be known; 3) The problem of generalisability. These three problems sit under the overarching project aim to address practice-research's fundamental epistemic question: _What can we know or understand differently as a consequence of practice-research?_. The problems also act as a conceptual structure for the research design.
+_Finger pointing moon_ uses body-based practice-research as a lens through which to critically examine the diverse collection of methods that are variously known as practice-research, practice-led research, artistic research, practice-based research and practice-as-research. By _body-based_ I mean artistic-scholarly practices like dance and somatics where the body underpins both the practices and the development of new understandings. Such practices are predicated on movement, gesture, posture and stillness. I propose to use body-based practice as a research lens because practices through the body represent an edge-case of the epistemic limits and possibilities of practice-research: they have a complex and often fraught relationship with language; many of the experiential nuances are not seen, but _felt_; they intersect with contested issues of embodiment and tacit awareness; and they have an equally contested relationship to disappearance, ephemerality and documentation. In _Finger pointing moon_ body-based practice-research will function as a type of case-study through which to examine and understand three underpinning epistemic problems in practice-research to do with 'new knowledge' or 'new understandings': 1) The problem of the proxy; 2) The problem of what can and cannot be known; 3) The problem of generalisability. These three problems act as a conceptual structure for the research design and sit under the overarching project aim to address practice-research's fundamental epistemic question: _What can we know or understand differently as a consequence of practice-research?_. 
 
 ### Three underpinning epistemic problems in practice-research
 
@@ -18,20 +16,14 @@ The research uses body-based practice-research as a lens through which to critic
 
 >they see that language is only a finger pointing at the moon and not the moon itself.[@johnston_cloud_2012 p.2]
 
-Need to ask this as a question. That is -- not something I already think/believe. Recognise that embody is a term used loosely (can draw on definitions here), but analysis of how it is used, and potentially what is not being said. This is a kind of 'meta' or high-level approach.
-Danger of the proxy (Cathy O'Neil)
-Hunch that it's a proxy
-Investigate this hunch
-Why is hunch important? Because the proxy blinds us to the limits and possibilities of practice-research epistemics
-(comes to stand in for the thing, but it is not the thing)
-finger pointing moon
-
-There is an epistemic crisis in body-based practice-research. It is a crisis revealed by the sharp rise in scholarship exploring the nature of embodied knowledge.[^ek] In much of that research, the idea that the body _knows_ acts as a proxy for the epistemic limitations of practice-research investigations. In other words, artist-scholars who research through movement practices are valorising and reifying the concept of embodied knowledge while failing to address the key epistemic paradox of creative practice-research: that its nature lies at least in part in what is _not_ able to be known, understood or articulated as a consequence of body-based creative practices.[^ttp1] This is a humbling limitation for any research method or process, and a crucial problem in the development of practice-research in the Academy.
+The complexities -- and sometimes impossibilities -- of articulating what is understood differently through practice-research has potentially created another distinct problem. Whereas in the earlier stages of the development of practice-research there was considerable focus on its epistemic underpinnings,[^under] since 2011 this scholarship has all but disappeared. At the same time there has been a sharp rise in scholarship using embodied knowledge -- the idea that the body _knows_ -- as a concept to describe the epistemic value of (body-based) practice-research. Could it be that these two phenomena are related: that in the place of scholarship directly exploring the epistemics of practice-research, artist-scholars have replaced it with a proxy? This would be an epistemic proxy, as if to say, the body knows and _ipso facto_ practice-research generates knowledge. Perhaps artist-scholars who research through movement practices are failing to address the experiential changes and differences generated through practice, while valorising and reifying the concept of embodied knowledge. An epistemic proxy does not solve the epistemic complexity of practice-research, and the problem of what can be understood differently as a result of practice-research is kept at arm's length. After all, "proxies are easier to manipulate than the complicated reality they represent"[@oneil_weapons_2016 Chapter 3]. In this case is it possible that the proxy of embodied knowledge is blinding artist-scholars to the _reality_ of the underlying limits and possibilities of body-based practice-research? Without clarity, practice-research's development and value as a key approach to understanding our embodied lives and practices will be diminished. 
 
 #### 2 The Problem of What Can and Cannot Be Known
 
 - problem of what can't be known: problem of unknown (and certainty unarticulated) epistemic limitations of practice-research -- what are the things that can't be known, understood or articulated?  
 - (old) problem of what can be understood (or known) differently through practice-research
+key epistemic paradox of creative practice-research: that its nature lies at least in part in what is _not_ able to be known, understood or articulated as a consequence of body-based creative practices.[^ttp1] This is a humbling limitation for any research method or process, and a crucial problem in the development of practice-research in the Academy.
+
 
 #### 3. The Problem of Generalisability
 
@@ -208,6 +200,20 @@ project level outcomes (from all methods)
 
 ## edit bin
 
+This line of inquiry has fallen away or disappeared and it is not clear why. In more embodied creative practices (like dance, performance, live-art), the concept of _embodied knowledge_ has emerged as a form of epistemic proxy or red herring, 
+
+. But even if it is correct to suggest that the 'body knows' (whatever this might mean), such a statement sheds little if any light on understanding the effects of working with and through practice-research. Therefore, the epistemic limits and possibilities of practice-research remain profoundly unclear. 
+
+There is an epistemic crisis in body-based practice-research.  In much of that research, the idea that the body _knows_ acts as a proxy for the epistemic limitations of practice-research investigations. In other words, 
+
+Need to ask this as a question. That is -- not something I already think/believe. Recognise that embody is a term used loosely (can draw on definitions here), but analysis of how it is used, and potentially what is not being said. This is a kind of 'meta' or high-level approach.
+
+Hunch that it's a proxy
+Investigate this hunch
+Why is hunch important? Because the proxy blinds us to the limits and possibilities of practice-research epistemics
+(comes to stand in for the thing, but it is not the thing)
+finger pointing moon
+
 >Have we somehow conspired to arrange matters so that knowledge is always what we say about something rather than what we show about it? [@biggs_editorial_2002]
 
 By addressing these problems I aim to produce epistemic values and principles for body-based practice-research (but might be able to be extended beyond )
@@ -291,11 +297,9 @@ The areas overlap because of potential for leadership to be understood as a prac
 
 ## References
 
-[^sh]: There is a second fundamental question in practice-research that has had far greater resources and time spent on it through projects about documentation and archives: 'How might these [new] understandings be shared and articulated?'
+[^sh]: There is a second fundamental (but far less controversial) question in practice-research: 'How might these [new] understandings be shared and articulated?' This question has had far greater resources and time spent on it through projects about documentation and archives.
 
 [^1]: <https://fulcra.design/science-conferences-are-stuck-in-the-dark-ages> and other options here: <https://unconference.net/methods/>
-
-[^ek]: Recent examples include 
 
 [^under]: See for example Pakes, Scrivener ...
 
