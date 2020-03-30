@@ -12,7 +12,7 @@ All research processes in all disciplines adopt the most suitable methods to rec
 
 Practice-research is variously known as practice-research, practice-led research, artistic research, practice-based research and practice-as-research. It is not a singular method but rather a broad approach to integrating creative practice into scholarly contexts. The underpinning practices are diverse, distinct and often singular or one-off entities. Broadly speaking, the approach is characterised by the following: it is first-person, and involves self-critical reflection and analysis; it has a prolonged engagement with repetition through artistic practice; it often has an unstable or complex relationship to language and dissemination; and it deals with experiences that are commonly ambiguous and hidden. Given these characteristics -- and the historically tenuous footing of practice-research inside the Academy -- it is not surprising that the diverse range of outcomes artist-scholars state as research _findings_ are often at best conceived _a priori_, or at worst simply made up. _Finger Pointing Moon_ is predicated on the possibility that there is a systemic failure in practice-research to directly address the changes and differences made possible through research-focused artistic practices.
 
-In this research I propose to use body-based practice-research as a lens through which to critically examine the diverse collection of methods that comprise practice-research. By _body-based_ I mean artistic-scholarly practices like dance and somatics where the body underpins both the practices and the development of new understandings. Such practices are predicated on movement, gesture, posture and stillness. I propose to use body-based practice as a research lens because practices through the body represent an edge-case of the epistemic limits and possibilities of practice-research: they have a complex and often fraught relationship with language; many of the experiential nuances are not seen, but _felt_; they intersect with contested issues of embodiment and tacit awareness; and they have an equally contested relationship to disappearance, ephemerality and documentation. In _Finger pointing moon_ body-based practice-research will function as a type of case-study through which to examine and understand three underpinning epistemic problems in practice-research to do with 'new knowledge' or 'new understandings': 1) The problem of the proxy; 2) The problem of what can and cannot be known; 3) The problem of generalisability. These three problems act as a conceptual structure for the research design and sit under the overarching project aim to address practice-research's fundamental epistemic question: _What can we know or understand differently as a consequence of practice-research?_
+In this research I propose to use body-based practice-research as a lens through which to critically examine the diverse collection of methods that comprise practice-research. By _body-based_ I mean artistic-scholarly practices like dance and somatics where the body underpins both the practices and the development of new understandings. Such practices are predicated on movement, gesture, posture and stillness. I propose to use body-based practice as a research lens because practices through the body represent an edge-case of the epistemic limits and possibilities of practice-research: they have a complex and often fraught relationship with language; many of the experiential nuances are not seen, but _felt_; they intersect with contested issues of embodiment and tacit awareness; and they have an equally contested relationship to disappearance, ephemerality and documentation. In _Finger pointing moon_ body-based practice-research will function as a type of case-study through which to examine and understand three underpinning epistemic problems in practice-research to do with 'new knowledge' or 'new understandings': 1) The problem of the proxy; 2) The problem of what can and cannot be known; 3) The problem of specificity. These three problems act as a conceptual structure for the research design and sit under the overarching project aim to address practice-research's fundamental epistemic question: _What can we know or understand differently as a consequence of practice-research?_
 
 ### Three underpinning epistemic problems in practice-research
 
@@ -20,50 +20,46 @@ In this research I propose to use body-based practice-research as a lens through
 
 >they see that language is only a finger pointing at the moon and not the moon itself.[@johnston_cloud_2012 p.2]
 
-The complexities -- and sometimes impossibilities -- of articulating what is understood differently through practice-research may have created another distinct problem. Whereas in the early stages of the development of practice-research there was considerable focus on its epistemic underpinnings,[^under] since 2011 this scholarship has all but disappeared. At the same time there has been a sharp rise in scholarship using the ill-defined term _embodied knowledge_ as a concept to describe the epistemic value of (body-based) practice-research. Could it be that these two phenomena are related: that in the place of scholarship directly exploring the epistemics of practice-research, artist-scholars have replaced it with a proxy? That artist-scholars who research through movement practices are failing to address the profound experiential changes and differences generated through practice, while valorising and reifying the concept of embodied knowledge; as if to say, the body knows and _ipso facto_ practice-research generates knowledge. An epistemic proxy does not address the epistemic complexity of practice-research, but rather what can be understood differently through practice-research is kept at arm's length. After all, "proxies are easier to manipulate than the complicated reality they represent".[@oneil_weapons_2016 Chapter 3] In this case is it possible that the proxy of embodied knowledge is blinding artist-scholars to the _reality_ of the underlying limits and possibilities of body-based practice-research? Without epistemic clarity, practice-research's value as an approach to understanding the ambiguous, messy and complex experiences of human artistic endeavour will be diminished. 
+The complexities -- and sometimes impossibilities -- of articulating what is understood differently through practice-research may have created another distinct problem. Whereas in the early stages of the development of practice-research there was considerable focus on its epistemic underpinnings,[^under] since 2011 this scholarship has all but disappeared. At the same time there has been a sharp rise in scholarship using the ill-defined term _embodied knowledge_ as a concept to describe the epistemic value of (body-based) practice-research. Could it be that these two phenomena are related: that in the place of scholarship directly exploring the epistemics of practice-research, artist-scholars have replaced it with a proxy? That artist-scholars who research through movement practices are failing to address the profound experiential changes and differences generated through practice, while valorising and reifying the concept of embodied knowledge; as if to say, the body knows and _ipso facto_ practice-research generates knowledge. An epistemic proxy does not address the epistemic complexity of practice-research, but rather what can be understood differently through practice-research is kept at arm's length. After all, "proxies are easier to manipulate than the complicated reality they represent".[@oneil_weapons_2016 Chapter 3] In this case is it possible that the proxy of embodied knowledge is blinding artist-scholars to the _reality_ of the underlying limits and possibilities of body-based practice-research? Without epistemic clarity, practice-research's value as an approach to understanding the ambiguous, messy and complex experiences of human artistic endeavour are diminished. 
 
 #### 2 The Problem of What Can and Cannot Be Known
 
-- problem of what can't be known: problem of unknown (and certainty unarticulated) epistemic limitations of practice-research -- what are the things that can't be known, understood or articulated?  
-- (old) problem of what can be understood (or known) differently through practice-research
-key epistemic paradox of creative practice-research: that its nature lies at least in part in what is _not_ able to be known, understood or articulated as a consequence of body-based creative practices.[^ttp1] This is a humbling limitation for any research method or process, and a crucial problem in the development of practice-research in the Academy.
+Practice-research has a long and important history with ambiguity. The _ways of knowing_ as represented by artistic artefacts inevitably involve messy and productive uncertainty; that when we are doing practice-research we are lost in the "mangle of practice".[@pickering_mangle_1995] This is the suggestion -- sometimes implicit, other times explicit -- that the epistemic essence of practice-research has only the _potential_ for meaning as a feature, and not a bug.[@ellis_that_2018] In other words, that the epistemic work of artistic-research artefacts is to set in motion the possibility of understanding, the possibility of apprehension, the possibility of knowing differently. There are strong and important reasons for valuing research that pedals ambiguity. At the same time, there has been little if any concerted effort to recognise and/or articulate the epistemic limitations of practice-research: what are the things, experiences and sensations that cannot be known, understood or articulated? Between these two situations -- the ambiguity and messiness of what _might_ be known differently and what is not able to be known differently through practice-research lies the second problem underpinning _Finger Pointing Moon_. This second problem is the key epistemic paradox of creative practice-research: that its nature lies at least in part in what is _not_ able to be known, understood or articulated as a consequence of creative practices.[^ttp1] This is a humbling limitation for any research method or process. But it is also a limitation that is vital to examine and articulate in order to prevent _anything being possible or conceived of as 'knowledge'_ in practice-research. In other words, in order to understand what can be known and articulated through practice-research, we must attempt to understand what cannot. 
 
+#### 3. The Problem of Specificity
 
-#### 3. The Problem of Generalisability
+Generalisability is a key aspect of positivist research methods. That if we know _this thing or state_ about one (smaller) population or sample we can generalise that same thing or state to another (larger) population. Generalisability provides limited but vital powers of prediction. The flip side of generalisability is specificity. For example, in medical research specificity is generated by the power of case-studies. That if a single case of a medical condition exists then it not able to tell us anything about a population, but it does tell us that this problem exists and that it is _very_ likely that it will exist in other people. 
 
-- the power of specificity (case-studies in medicine)
-- danger in research ideas, practices and projects that are not in dialogue with each other
-- what do I mean by 'epistemic values'? e.g. transparency and rigour of who, when and why is creating knowledge
-
+Practice-research projects are, by and large, a series of hyper-specific case-studies. Each practice-research project is a single case-study that is able to say only certain things about the experiences, practices and understandings in that specific project. At its best such specificity affords clarity, nuance, and profound understanding. At its worst it creates insularity: an extraordinary series of research bubbles that rarely touch each other, rarely talk to each other, and rarely even know of each other's existence. Research, by definition, involves critical and open dialogue with other similar or overlapping practices. The problem of specificity in practice-research is that its various ideas, methodological practices and understandings (or 'findings') are rarely if ever in open and critical dialogue with each other.  
 
 ### Objectives
 
-- based on three epistemic problems underpinning the project aim
+The aim of _Finger Pointing Moon_ is to address practice-research's fundamental epistemic question: _What can we know or understand differently as a consequence of practice-research?_ I focus on this wide-angle question by creating objectives that address what I've described as the three underpinning problems of practice-research. A schematic of the research design -- and the inter-relationships between aim, problems, objectives, methods and outcomes -- is presented on page XX. 
 
 _1. The problem of the proxy:_
 
-1. identity key uses and characteristics of 'embodied knowledge' in artistic-scholarly literature, focusing on dance and somatics practice-research
+1. identify key uses and characteristics of 'embodied knowledge' in artistic-scholarly literature, focusing on dance and somatics practice-research
 2. identify and critique any ambiguities/limitations/possibilities in this scholarship
 3. if required propose precise, clear alternatives that speak directly to the epistemic limits and possibilities of body-based practice-research 
 
-_2. The Problems of What Can and Cannot Be Known:_
+_2. The Problem of What Can and Cannot Be Known:_
 
 4. identify qualities of experience in body-based practice that resist being known, are deeply uncertain, or are unable to be articulated
 5. identify qualities of experience in body-based practice that assist being known, display some quality of certainty, or are able to be articulated  
 
-_3. The Problem of Generalisability:_
+_3. The Problem of Specificity:_
 
 6. examine language of epistemic outcomes (or 'findings, failures and indescribables') in body-based practice-research
 7. collate and share this 'language of findings' 
 8. systematically develop alternative linguistic possibilities for describing ways of knowing ('language of findings') in practice-research 
-9. generate epistemic principles
-10. epistemic values
+9. generate set of epistemic principles underpinning practice-research
+10. generate set of epistemic values in practice-research that transparently and rigorous detail examples of "who, when [and] why is creating knowledge."[@mignolo_epistemic_2009 p.160]
+
+- need to clarify where these principles and values things came from. At the moment they just jump in (but are clearly related to specificity/generalisability)
 
 ## Research context 
 
 >You should describe the research context for your project/programme of work. Why is it important that these questions or issues are explored? What other research is being or has been conducted in this area? What contribution will your project make to improving, enhancing, or developing creativity, insights, knowledge or understanding in your chosen area of study? To whom will the outcomes of your research be of particular interest?
-
-
 
 ## Research design and methods 
 
@@ -75,15 +71,18 @@ _3. The Problem of Generalisability:_
 
 >convince decision makers that ‘this is the best solution’ and feel compelled to fund it – (approx >50% of content); 
 
-### Overview
+### Research design
 
-Intro here about the nature of the design, why it's appropriate. Multi-modal. practice and The research design comprises 
+Figure 1: Schematic of project research design to make transparent how the research aim, problems, objectives, methods and outcomes inter-relate. 
 
-create the conditions in which to develop an original set of practice-research epistemic principles (and also set of values). 
 
-### Research problems as methodological design
+### Research methods
 
-This area contains experimental practice-research fieldwork and traditional scholarly research to approach experiences and understandings of practice-research epistemics from the inside (through practice) and the outside (through scholarship).
+The research methods are designed to create the conditions in which to directly respond to and _achieve_ the project objectives. The multi-modal methods comprise experimental practice-research fieldwork and traditional scholarly research to understand experiences and understandings of practice-research epistemics from the inside (through practice) and the outside (through scholarship). 
+
+statement here about why these methods, why they are best to address these problems
+
+The methods are detailed below, and are organised under which of the three overarching problems they directly address.  
 
 Problem 1 methods:  
     + traditional scholarship: literature review  
@@ -203,6 +202,19 @@ project level outcomes (from all methods)
 
 
 ## edit bin
+
+develop an original set of practice-research epistemic principles (and also set of values).
+
+- the power of specificity (case-studies in medicine)
+- danger in research ideas, practices and projects that are not in dialogue with each other
+- what do I mean by 'epistemic values'? e.g. transparency and rigour of who, when and why is creating knowledge
+
+We -- artistic-researchers -- have inadvertently created an enormous array of garishly coloured boats filled with important bits and pieces, each of which is bobbing up and down blissfully unaware of the other shiny boats that are so so close.
+
+and a crucial problem in the development of practice-research in the Academy.
+
+- problem of what can't be known: problem of unknown (and certainly unarticulated) epistemic limitations of practice-research --  
+key epistemic paradox of 
 
 This line of inquiry has fallen away or disappeared and it is not clear why. In more embodied creative practices (like dance, performance, live-art), the concept of _embodied knowledge_ has emerged as a form of epistemic proxy or red herring, 
 
