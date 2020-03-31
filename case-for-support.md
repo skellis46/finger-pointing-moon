@@ -8,11 +8,18 @@ csl: /Users/skellis/Dropbox/pandoc/oxford-university-press-scimed-numeric.csl
 
 >You should describe clearly the research questions, issues or problems that you intend to address. What are the issues that you will be exploring in the course of your research?
 
-All research processes in all disciplines adopt the most suitable methods to recognise change or difference in the materials or data of those processes. When artist-scholars adopt practice-research methods it is therefore _implied_ but rarely stated that these methods are best able to reveal change and difference in the artistic materials and experiences that underpin the research. Yet what types of changes or differences are _really_ made possible by practice-research and how might we recognise them? _Finger Pointing Moon_ aims to address practice-research's fundamental, long-standing and most controversial epistemic question: **What can we know or understand differently as a consequence of practice-research?**[^sh] 
+_Finger Pointing Moon_ aims to address practice-research's fundamental, long-standing and most controversial epistemic question: **What can we know or understand differently as a consequence of practice-research?**[^sh] 
 
-Practice-research is variously known as practice-research, practice-led research, artistic research, practice-based research and practice-as-research. It is not a singular method but rather a broad approach to integrating creative practice into scholarly contexts. The underpinning practices are diverse, distinct and often singular or one-off entities. Broadly speaking, the approach is characterised by the following: it is first-person, and involves self-critical reflection and analysis; it has a prolonged engagement with repetition through artistic practice; it often has an unstable or complex relationship to language and dissemination; and it deals with experiences that are commonly ambiguous and hidden. Given these characteristics -- and the historically tenuous footing of practice-research inside the Academy -- it is not surprising that the diverse range of outcomes artist-scholars state as research _findings_ are often at best conceived _a priori_, or at worst simply made up. _Finger Pointing Moon_ is predicated on the possibility that there is a systemic failure in practice-research to directly address the changes and differences made possible through research-focused artistic practices.
+add something in this first paragraph of why it matters?  Why is it important?
 
-In this research I propose to use body-based practice-research as a lens through which to critically examine the diverse collection of methods that comprise practice-research. By _body-based_ I mean artistic-scholarly practices like dance and somatics where the body underpins both the practices and the development of new understandings. Such practices are predicated on movement, gesture, posture and stillness. I propose to use body-based practice as a research lens because practices through the body represent an edge-case of the epistemic limits and possibilities of practice-research: they have a complex and often fraught relationship with language; many of the experiential nuances are not seen, but _felt_; they intersect with contested issues of embodiment and tacit awareness; and they have an equally contested relationship to disappearance, ephemerality and documentation. In _Finger pointing moon_ body-based practice-research will function as a type of case-study through which to examine and understand three underpinning epistemic problems in practice-research to do with 'new knowledge' or 'new understandings': 1) The problem of the proxy; 2) The problem of what can and cannot be known; 3) The problem of specificity. These three problems act as a conceptual structure for the research design and sit under the overarching project aim to address practice-research's fundamental epistemic question: _What can we know or understand differently as a consequence of practice-research?_
+
+All research processes in all disciplines adopt the most suitable methods to recognise change or difference in the materials or data of those processes. When artist-scholars adopt practice-research methods it is therefore _implied_ but rarely stated that these methods are best able to reveal change and difference in the artistic materials and experiences that underpin the research. Yet what types of changes or differences are _really_ made possible by practice-research and how might we recognise them?  
+
+Practice-research is variously known as practice-research, practice-led research, artistic research, practice-based research and practice-as-research. It is not a singular method but rather a broad approach to integrating creative practice into scholarly contexts. The underpinning practices are diverse, distinct and often singular or one-off entities. Broadly speaking, the approach is characterised by the following: it is first-person, and involves self-critical reflection and analysis; it has a prolonged engagement with repetition through artistic practice; it often has an unstable or complex relationship to language and dissemination; and it deals with experiences that are commonly ambiguous and hidden. Given these characteristics -- and the historically tenuous footing of practice-research inside the Academy -- it is not surprising that the diverse range of outcomes artist-scholars state as research _findings_ are often at best conceived _a priori_, or at worst simply made up. _Finger Pointing Moon_ is predicated on the possibility that there is a systemic failure in practice-research to directly address the changes and differences made possible through research-focused artistic practices. 
+
+**change this last sentence to make it a question (something to 'prove')**.
+
+In this research I propose to use body-based practice-research as a lens through which to critically examine the diverse collection of methods that comprise practice-research. By _body-based_ I mean the artistic-scholarly practices of dance and somatics where the body underpins both the practices and the development of new understandings. These practices are predicated on movement, gesture, posture and stillness. I propose to use body-based practice as a research lens because they represent an edge-case of the epistemic limits and possibilities of practice-research: they have a complex and often fraught relationship with language; the experiential nuances are not seen, but _felt_; they intersect with contested issues of embodiment and tacit awareness; and they have an equally contested relationship to disappearance, ephemerality and documentation. **Somewhere you need to talk about the importance of these things** In _Finger pointing moon_ body-based practice-research will function as a case-study through which to examine and understand three underpinning epistemic problems **Why are these problems?** in practice-research to do with 'new knowledge' or 'new understandings': 1) The problem of the proxy; 2) The problem of what can and cannot be known; 3) The problem of specificity. These three problems act as a conceptual structure for the research design and sit under the overarching project aim to address practice-research's fundamental epistemic question: _What can we know or understand differently as a consequence of practice-research?_ **I think this is really important and needs to be brought to the fore.  It speaks to the importance of the research.**
 
 ### Three underpinning epistemic problems in practice-research
 
@@ -20,7 +27,7 @@ In this research I propose to use body-based practice-research as a lens through
 
 >they see that language is only a finger pointing at the moon and not the moon itself.[@johnston_cloud_2012 p.2]
 
-The complexities -- and sometimes impossibilities -- of articulating what is understood differently through practice-research may have created another distinct problem. Whereas in the early stages of the development of practice-research there was considerable focus on its epistemic underpinnings,[^under] since 2011 this scholarship has all but disappeared. At the same time there has been a sharp rise in scholarship using the ill-defined term _embodied knowledge_ as a concept to describe the epistemic value of (body-based) practice-research. Could it be that these two phenomena are related: that in the place of scholarship directly exploring the epistemics of practice-research, artist-scholars have replaced it with a proxy? That artist-scholars who research through movement practices are failing to address the profound experiential changes and differences generated through practice, while valorising and reifying the concept of embodied knowledge; as if to say, the body knows and _ipso facto_ practice-research generates knowledge. An epistemic proxy does not address the epistemic complexity of practice-research, but rather what can be understood differently through practice-research is kept at arm's length. After all, "proxies are easier to manipulate than the complicated reality they represent".[@oneil_weapons_2016 Chapter 3] In this case is it possible that the proxy of embodied knowledge is blinding artist-scholars to the _reality_ of the underlying limits and possibilities of body-based practice-research? Without epistemic clarity, practice-research's value as an approach to understanding the ambiguous, messy and complex experiences of human artistic endeavour are diminished. 
+The complexities -- and sometimes impossibilities -- of articulating what is understood differently through practice-research may have created another distinct problem. Whereas in the early stages of the development of practice-research there was considerable focus on its epistemic underpinnings,[^under] since 2011 this scholarship has all but disappeared. At the same time there has been a sharp rise in scholarship using the ill-defined term _embodied knowledge_ as a concept to describe the epistemic value of (body-based) practice-research. Could it be that these two phenomena are related: that in the place of scholarship directly exploring the epistemics of practice-research, artist-scholars have replaced it with a proxy? That artist-scholars who research through movement practices are failing to address the profound experiential changes and differences generated through practice, while valorising and reifying the concept of embodied knowledge; as if to say, the body knows and _ipso facto_ practice-research generates knowledge. An epistemic proxy does not address the epistemic complexity of practice-research, but rather what can be understood differently through practice-research is kept at arm's length. After all, "proxies are easier to manipulate than the complicated reality they represent".[@oneil_weapons_2016 Chapter 3] In _Finger Pointing Moon_ I seek to understand the extent to which the proxy of embodied knowledge is blinding artist-scholars to the _reality_ of the underlying limits and possibilities of body-based practice-research. Without epistemic clarity, practice-research's value as an approach to understanding the ambiguous, messy and complex experiences of human artistic endeavour are diminished. **You hint at value here. I think you need something upfront on value/impact/importance etc.**
 
 #### 2 The Problem of What Can and Cannot Be Known
 
@@ -39,7 +46,7 @@ The aim of _Finger Pointing Moon_ is to address practice-research's fundamental 
 _1. The problem of the proxy:_
 
 1. identify key uses and characteristics of 'embodied knowledge' in artistic-scholarly literature, focusing on dance and somatics practice-research
-2. identify and critique any ambiguities/limitations/possibilities in this scholarship
+2. identify and critique any epistemic ambiguities/limitations/possibilities in this scholarship
 3. if required propose precise, clear alternatives that speak directly to the epistemic limits and possibilities of body-based practice-research 
 
 _2. The Problem of What Can and Cannot Be Known:_
@@ -78,34 +85,33 @@ Figure 1: Schematic of project research design to make transparent how the resea
 
 ### Research methods
 
-The research methods are designed to create the conditions in which to directly respond to and _achieve_ the project objectives. The multi-modal methods comprise experimental practice-research fieldwork and traditional scholarly research to understand experiences and understandings of practice-research epistemics from the inside (through practice) and the outside (through scholarship). 
+The research methods are designed to create the conditions in which to directly respond to and _achieve_ the project objectives. These objectives, in turn, feed directly into the three research problems. The research problems -- _proxy_, _can and cannot be known_, and _specificity_ -- are 'meta' or wide-angle problems in practice-research. The following methods are appropriate to the breadth of these problems, while affording detail where necessary. The methods are multi-modal, and comprise practice-research fieldwork and scholarly research to understand experiences and understandings of practice-research epistemics from the inside (through experimental practice) and the outside (through traditional scholarship). They are detailed below, and are organised under the three overarching problems they directly address.   
 
-statement here about why these methods, why they are best to address these problems
+**Problem 1 'proxy':**
 
-The methods are detailed below, and are organised under which of the three overarching problems they directly address.  
+- Comprehensive literature review of body-based practice-research scholarship that emphasises embodied and tacit knowledge
+- Critical and theoretical analysis of the language used in these scholarly (and practice-oriented) materials to identify any epistemic patterns, ambiguities and oversights
+- Creative and analytical 'reconfiguration' (where necessary or appropriate) of these linguistic patterns that reveal the presence or absence of the epistemic proxy
 
-Problem 1 methods:  
-    + traditional scholarship: literature review  
-    + traditional scholarship: critical analysis of materials  
+**Problem 2 'can and cannot be known':**  
 
-Problem 2 methods:  
-    + traditional scholarship: literature and field (practice) review of published materials that implicitly and/or explicitly examine epistemics of body-based practice (some overlap of materials examined in Problem 1)  
-    + practice-research: process-driven experimental movement practice as paradigmatically complex and experientially driven 
-        * paradigmatic cases of the problem of knowledge production in practice-research generally, and in dance specifically
-        * Dance and choreographic practices are paradigmatic in this method, because "The body is both a question and an inaccessible answer ... [where] the unseen shimmers, the unheard whispers, the unfelt is caressed and we intuit the unknown."[@heathfield_what_2011] 
-    + practice-research: collecting practice of 'unforgettable experiences of body-based practice/performance'
-        * collecting hand-written notes/letters of others about memories of watching dance/performance. Key: analogue, experience of watching (vs 'doing' in experimental movement practice above) 
-        * watching and/or doing (not sure whether to focus on watching only)
-        * cataloguing of collected letters/responses (sorting into various kinds of works, responses, years, etc)
-    + practice-research: collecting practice of epistemic materials, traces, ideas, notes, thoughts focusing on 'The Unknowable Body'
++ traditional scholarship: literature and field (practice) review of published materials that implicitly and/or explicitly examine epistemics of body-based practice (some overlap of materials examined in Problem 1)  
++ practice-research: process-driven experimental movement practice as paradigmatically complex and experientially driven 
+    * paradigmatic cases of the problem of knowledge production in practice-research generally, and in dance specifically | Use of body-based practice as a edge-case example -- to go into heart of problem that makes broader/wider principles possible.
+    * Dance and choreographic practices are paradigmatic in this method, because "The body is both a question and an inaccessible answer ... [where] the unseen shimmers, the unheard whispers, the unfelt is caressed and we intuit the unknown."[@heathfield_what_2011] 
++ practice-research: collecting practice of 'unforgettable experiences of body-based practice/performance'
+    * collecting hand-written notes/letters of others about memories of watching dance/performance. Key: analogue, experience of watching (vs 'doing' in experimental movement practice above) 
+    * watching and/or doing (not sure whether to focus on watching only)
+    * cataloguing of collected letters/responses (sorting into various kinds of works, responses, years, etc)
++ practice-research: collecting practice of epistemic materials, traces, ideas, notes, thoughts focusing on 'The Un/knowable Body'
 
-Problem 3 methods:  
-    + traditional scholarship: collect representative sample of body-based practice-research outcomes (exploring range from those that describe explicit findings to those in which the practice-outputs are presented to 'speak for themselves') -- could use sample from REF2021 in UK?
-    + traditional scholarship: critical analysis of this sample to understand the language artist-scholars use to describe their understandings or 'findings'. 
+**Problem 3 'specificity':**  
++ traditional scholarship: collect representative sample of body-based practice-research outcomes (exploring range from those that describe explicit findings to those in which the practice-outputs are presented to 'speak for themselves') -- could use sample from REF2021 in UK?
++ traditional scholarship: critical analysis of this sample to understand the language artist-scholars use to describe their understandings or 'findings'. 
 
 ## Project plan and timetable 
 
-(you are expected to be confident and specific about what you will do, who will do it, when you will do it, and how long it will take – in a realistic approximation)
+>you are expected to be confident and specific about what you will do, who will do it, when you will do it, and how long it will take – in a realistic approximation
 
 
 ## Leadership development plan 
