@@ -10,6 +10,9 @@ csl: /Users/skellis/Dropbox/pandoc/oxford-university-press-scimed-numeric.csl
 
 _Finger Pointing Moon_ aims to address practice-research's fundamental, long-standing and most controversial epistemic question: **What can we know or understand differently as a consequence of practice-research?**[^sh] 
 
+this is because it hasn't yet happened. built on assumptions and proxies.
+it's important because currently we generate undefendable outcomes in which anyone can say anything. but what do we get or gain from something different? 
+
 add something in this first paragraph of why it matters?  Why is it important?
 
 
@@ -27,7 +30,9 @@ In this research I propose to use body-based practice-research as a lens through
 
 >they see that language is only a finger pointing at the moon and not the moon itself.[@johnston_cloud_2012 p.2]
 
-The complexities -- and sometimes impossibilities -- of articulating what is understood differently through practice-research may have created another distinct problem. Whereas in the early stages of the development of practice-research there was considerable focus on its epistemic underpinnings,[^under] since 2011 this scholarship has all but disappeared. At the same time there has been a sharp rise in scholarship using the ill-defined term _embodied knowledge_ as a concept to describe the epistemic value of (body-based) practice-research. Could it be that these two phenomena are related: that in the place of scholarship directly exploring the epistemics of practice-research, artist-scholars have replaced it with a proxy? That artist-scholars who research through movement practices are failing to address the profound experiential changes and differences generated through practice, while valorising and reifying the concept of embodied knowledge; as if to say, the body knows and _ipso facto_ practice-research generates knowledge. An epistemic proxy does not address the epistemic complexity of practice-research, but rather what can be understood differently through practice-research is kept at arm's length. After all, "proxies are easier to manipulate than the complicated reality they represent".[@oneil_weapons_2016 Chapter 3] In _Finger Pointing Moon_ I seek to understand the extent to which the proxy of embodied knowledge is blinding artist-scholars to the _reality_ of the underlying limits and possibilities of body-based practice-research. Without epistemic clarity, practice-research's value as an approach to understanding the ambiguous, messy and complex experiences of human artistic endeavour are diminished. **You hint at value here. I think you need something upfront on value/impact/importance etc.**
+The complexities -- and sometimes impossibilities -- of articulating what is understood differently through practice-research may have created another distinct problem. Whereas in the early stages of the development of practice-research there was considerable focus on its epistemic underpinnings,[^under] since 2011 this scholarship has all but disappeared. At the same time there has been a sharp rise in scholarship using the ill-defined term _embodied knowledge_ (and its cousin _tacit knowledge_) as a concept to describe the epistemic value of (body-based) practice-research.[^ek1] Could it be that these two phenomena are related: that in the place of scholarship directly exploring the epistemics of practice-research, artist-scholars have replaced it with a proxy? That artist-scholars who research through movement practices are failing to address the profound experiential changes and differences generated through practice, while valorising and reifying the concept of embodied knowledge; as if to say, the body knows and _ipso facto_ practice-research generates knowledge. An epistemic proxy does not address the epistemic complexity of practice-research, but rather what can be understood differently through practice-research is kept at arm's length. After all, "proxies are easier to manipulate than the complicated reality they represent".[@oneil_weapons_2016 Chapter 3] In _Finger Pointing Moon_ I seek to understand the extent to which the proxy of embodied knowledge is blinding artist-scholars to the _reality_ of the underlying limits and possibilities of body-based practice-research. Without epistemic clarity, practice-research's value as an approach to understanding the ambiguous, messy and complex experiences of human artistic endeavour are diminished. **You hint at value here. I think you need something upfront on value/impact/importance etc.**
+
+[^ek1]: e.g Midgelow [-@midgelow_introduction_2019]; 
 
 #### 2 The Problem of What Can and Cannot Be Known
 
@@ -83,6 +88,11 @@ _3. The Problem of Specificity:_
 Figure 1: Schematic of project research design to make transparent how the research aim, problems, objectives, methods and outcomes inter-relate. 
 
 
+>"Epistemic things are the unknown, or vaguely known, objects of investigation that are the counterparts of experimental conditions (the technical objects). They do not simply yield in docile fashion to the technologies of investigation" (Mody and Lynch 2010, 3; see also Rheinberger 1997, 30-31). [@gramelsberger_laboratory_2013 p.104]
+
+- what might the technologies of investigation be in par? 
+- what do I imagine the objects of investigation to be in this work?
+
 ### Research methods
 
 The research methods are designed to create the conditions in which to directly respond to and _achieve_ the project objectives. These objectives, in turn, feed directly into the three research problems. The research problems -- _proxy_, _can and cannot be known_, and _specificity_ -- are 'meta' or wide-angle problems in practice-research. The following methods are appropriate to the breadth of these problems, while affording detail where necessary. The methods are multi-modal, and comprise practice-research fieldwork and scholarly research to understand experiences and understandings of practice-research epistemics from the inside (through experimental practice) and the outside (through traditional scholarship). They are detailed below, and are organised under the three overarching problems they directly address.   
@@ -117,6 +127,10 @@ The research methods are designed to create the conditions in which to directly 
 ## Leadership development plan 
 
 >This section of the Case for Support should include details of your proposed leadership activities, and an explanation of why these activities are appropriate to exercising research leadership in your field. You should make clear how these activities enhance the transformational potential of the research and its broader influence and importance. Please refer to Research and leadership activities for further details on what is requirement for this section.
+
+>First let’s establish that the concept of “individualization” should not be confused with the neoliberal ideology of “individualism” that shifts all responsibility for success or failure to a mythical, atomized, isolated individual, doomed to a life of perpetual competition and disconnected from relationships, community, and society. Neither does it refer to the psychological process of “individuation” that is associated with the lifelong exploration of self-development. Instead, individualization is a consequence of long-term processes of modernization.[@zuboff_age_2019 Chapter 2.2]
+
+- thinking about individuation (relating to solitude) v individualism (opposite of Bendell)
 
 solitude and collective
 use a practice -- it's how I come to understand things
