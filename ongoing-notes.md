@@ -11,6 +11,37 @@ csl:
 
 - notes organised by date
 
+## 20200403 - gramelsberger - epistemic things
+
+>"Epistemic things are the unknown, or vaguely known, objects of investigation that are the counterparts of experimental conditions (the technical objects). They do not simply yield in docile fashion to the technologies of investigation" (Mody and Lynch 2010, 3; see also Rheinberger 1997, 30-31). [@gramelsberger_laboratory_2013 p.104]
+
+- what might the technologies of investigation be in par? 
+- what do I imagine the objects of investigation to be in this work?
+
+## 20200403 - galloway - discrete qualities
+
+>Even as the world is scanned and digitized, the types of things listed -- properties, characteristics, and qualities -- are themselves indexes for extra-digital phenomena. A quality is precisely the thing that hasn't yet been converted into discrete code. A characteristic refers to some detail, empirical or practical, that helps explain this particular thing, as opposed to the general abstract class in which it belongs. And properties are similar to characteristics; properties are something like "free variables" that fill out the particular instantiation of an entity. For this reason, software applications will frequently "externalize" properties, housing them in non-executable preference files, classifying them essentially as constants. So many adjectives--the trouble being that computer languages have plenty of nouns and verbs but very few adjectives.[@galloway_list_2020 n.p.]
+
+- got me thinking about the danger in this project of going so far out (ie requiring such a wide-angle) in understanding principles of properties that they become useless. that it is specificity that is utterly critical to practice-research. 
+- good reason to delimit to body-based ... 
+
+
+>The list represents a collection of things that don't go together -- even when placed in apposition -- and that can't, in principle, be reduced to a single concept that would subsume them. The list resembles the category or the type, but only superficially -- as in Borges' notorious fabulation, those animals "(a) belonging to the Emperor, (b) embalmed, (c) tame, (d) sucking pigs, (e) sirens, (f) fabulous, (g) stray dogs..." -- proving instead the failure of the category, the insufficiency of a symbolic order that can only be approximated through a series of depictions. (This version of the list, recounted at the start of Michel Foucault's The Order of Things, is the object of some consternation regarding its explicit orientalism. Indeed there is something orientalist about all lists.)
+
+-- this is the problem of the list
+
+## 20200403 - midgelow - tacit knowlege
+
+>AR intertwines movement and art practices with/as reflexive methods to generate, reveal, articulate the tacit knowledges that are situated and embodied in specific artworks and artistic processes.[@midgelow_introduction_2019 n.p.]
+
+- but what if it doesn't? 
+
+>Artistic researchers might be said to pursue ‘hybrid enquiries combining creative doing with reflexive being’ (Kershaw 2011, 64), deeply informed by ‘expert practitioner knowledge’ (see Melrose 2005).2 So, whilst many approaches to research have sought to place a distance between the researcher and the researched, artistic researchers tend toward tacit approaches, wherein the researcher is very much caught up in the particularities of the/their situation and their own agency.[@midgelow_introduction_2019 n.p.]
+
+- it is not clear what tacit approaches have to do with reflexivity
+- that Kershaw is super super useful
+
+
 ## 20200309 - ungobehindable and the uncomptuer
 
 mention in relation to Galloway's uncomputer? and also Batson's mention of the ungobehindable? 
