@@ -2,7 +2,7 @@
 
 Project aim: to address an old and big question: What can we know or understand differently as a consequence of practice-research? 
 
-Project method: to use body-based practice (through practices as well as conventional scholarship) as a case-study by which to address the aim. Body-based practice is an ideal case-study for a number of reasons, mostly to with the inherent ambiguities of the moving body. 
+Project method: to use body-based practice (through practices as well as conventional scholarship) as a case-study by which to address the aim. Body-based practice is an ideal case-study for a number of reasons, mostly to do with the inherent ambiguities of the moving body. 
 
 My problem: has these two aspects: 
 
