@@ -30,7 +30,9 @@ delimit to body-based. but make an aim to consider relationship to practice-rese
 >My intention in this book is to zoom out from the individuals to better see interlocking systems that surround them. I will use specific politicians as examples, but only insofar as they are marionettes of broader forces. What I seek isn’t a story but a blueprint, a map to the machine that shapes political decisions. - Ezra Klein -- methods?
 - hints at 'why, who' etc from Mignolo
 
-All research processes in all disciplines adopt the most suitable methods to recognise change or difference in the materials or data of those processes. When artist-scholars adopt practice-research methods it is therefore _implied_ but rarely stated that these methods are best able to reveal change and difference in the artistic materials and experiences that underpin the research. **add here "When body-based practitioners ..."** add note about the method is often simply assumed -- I'm an artist, I therefore do practice-research. Yet what types of changes or differences are _really_ made possible by (body-based?) practice-research and how might we recognise them?  
+All research processes in all disciplines adopt the most suitable methods to recognise change or difference in the materials or data of those processes. When artist-scholars adopt practice-research methods it is therefore _implied_ but rarely stated that these methods are best able to reveal change and difference in the artistic materials and experiences that underpin the research. **add here "When body-based practitioners ..."** add note about the method is often simply assumed -- I'm an artist, I therefore do practice-research. Yet what types of changes or differences are _really_ made possible by (body-based?) practice-research and how might we recognise them? 
+
+mention two schools of thought: one that the artefact does the work, the other that requires some kind of contextual document (these are fundamentally different epistemic things) 
 
 Practice-research is variously known as practice-research, practice-led research, artistic research, practice-based research and practice-as-research. It is not a singular method but rather a general approach to integrating creative practice into scholarly contexts. The underpinning practices are diverse, distinct and often singular or one-off entities. Broadly speaking, the approach is characterised by the following: it is first-person, and involves self-critical reflection and analysis; it has a prolonged engagement with repetition through artistic practice; it often has an unstable or complex relationship to language and dissemination; and it deals with experiences that are commonly ambiguous and hidden. Given these characteristics -- and the historically tenuous footing of practice-research inside the Academy -- it is not surprising that the diverse range of outcomes artist-scholars state as research _findings_ are often at best conceived _a priori_, or at worst simply made up. _Finger Pointing Moon_ is predicated on the possibility that there is a systemic failure in practice-research to directly address the changes and differences made possible through research-focused artistic practices. and that this systemic failure is particularly problematic in body-based work (for what reasons).
 
@@ -38,7 +40,7 @@ Practice-research is variously known as practice-research, practice-led research
 
 make a case for the 'special case' of body-based work (and therefore delimited focus of this project)
 
-In this research I propose to use body-based practice-research as a lens through which to critically examine the diverse collection of methods that comprise practice-research. By _body-based_ I mean the artistic-scholarly practices of dance and somatics where the body underpins both the practices and the development of new understandings. These practices are predicated on movement, gesture, posture and stillness. I propose to use body-based practice as a research lens because they represent an edge-case of the epistemic limits and possibilities of practice-research: they have a complex and often fraught relationship with language; the experiential nuances are not seen, but _felt_; they intersect with contested issues of embodiment and tacit awareness; and they have an equally contested relationship to disappearance, ephemerality and documentation. **Somewhere you need to talk about the importance of these things** In _Finger pointing moon_ body-based practice-research will function as a case-study through which to examine and understand three underpinning epistemic problems **Why are these problems? These problems are more aimed at body-based, not practice-research in general** in practice-research to do with 'new knowledge' or 'new understandings': 1) The problem of the immutable proxy; 2) The problem of what can and cannot be known; 3) The problem of specificity. These three problems act as a conceptual structure for the research design and sit under the overarching project aim to address practice-research's fundamental epistemic question: _What can we know or understand differently as a consequence of practice-research?_ **I think this is really important and needs to be brought to the fore.  It speaks to the importance of the research.**
+In this research I propose to use body-based practice-research as a lens through which to critically examine the diverse collection of methods that comprise practice-research. By _body-based_ I mean the artistic-scholarly practices of dance and somatics where the body underpins both the practices and the development of new understandings. These practices are predicated on movement, gesture, posture and stillness. I propose to use body-based practice as a research lens because they represent an edge-case of the epistemic limits and possibilities of practice-research: they have a complex and often fraught relationship with language; the experiential nuances are not seen, but _felt_; they intersect with contested issues of embodiment and tacit awareness; and they have an equally contested relationship to disappearance, ephemerality and documentation. **Somewhere you need to talk about the importance of these things** In _Finger pointing moon_ body-based practice-research will function as a case-study through which to examine and understand three underpinning epistemic problems **Why are these problems? These problems are more aimed at body-based, not practice-research in general** in practice-research to do with 'new knowledge' or 'new understandings': 1) The problem of the proxy; 2) The problem of what can and cannot be known; 3) The problem of specificity. These three problems act as a conceptual structure for the research design and sit under the overarching project aim to address practice-research's fundamental epistemic question: _What can we know or understand differently as a consequence of practice-research?_ **I think this is really important and needs to be brought to the fore.  It speaks to the importance of the research.**
 
 ### Three underpinning epistemic problems in practice-research
 
@@ -58,9 +60,9 @@ Practice-research has a long and important history with ambiguity. The _ways of 
 
 #### 3. The Problem of Specificity
 
-Generalisability is a key aspect of positivist research methods. That if we know _this thing or state_ about one (smaller) population or sample we can generalise that same thing or state to another (larger) population. Generalisability provides limited but vital powers of prediction. The flip side of generalisability is specificity. For example, in medical research specificity is generated by the power of case-studies. If a single case of a medical condition exists then it not able to tell us anything about a population, but it does tell us that this problem exists and that it is _very_ likely that it will exist in other people. 
+Generalisability is a key aspect of positivist research methods. That if we know _this thing or state_ about one (smaller) population or sample we can generalise that same thing or state to another (larger) population. Generalisability provides limited but vital powers of prediction. The flip side of generalisability is specificity. For example, in medical research specificity is generated by the power of case-studies. If a single case of a medical condition exists then it not able to tell us anything about a population, but it does tell us that this problem exists and that it is probable that it will exist in other people. 
 
-Practice-research projects are, by and large, a series of hyper-specific case-studies. Each practice-research project is a single case-study that is able to say only certain things about the experiences, practices and understandings in that specific project. At its best such specificity affords clarity, nuance, and profound understanding. At its worst it creates insularity: an extraordinary series of research bubbles that rarely touch each other, rarely talk to each other, and rarely even know of each other's existence. Research, by definition, involves critical and open dialogue with other similar or overlapping practices. The problem of specificity in practice-research is that its various ideas, methodological practices and understandings (or 'findings') are rarely if ever in open and critical dialogue with each other, and that this is a feature of the overly specific nature of individual research projects. A potential alternative to mitigate the problem of specificity in practice-research is to develop sets of epistemic principles and values that facilitate critical dialogues across projects and disciplines.  
+Practice-research projects are, by and large, a series of hyper-specific case-studies. Each practice-research project is a single case-study that is able to say only certain things about the experiences, practices and understandings in that specific project. At its best such specificity affords clarity, nuance, and profound understanding. At its worst it creates insularity: an extraordinary series of research bubbles that rarely touch each other, rarely talk to each other, and rarely even know of each other's existence. Research, by definition, involves critical and open dialogue with other similar or overlapping practices. The problem of specificity in practice-research is that its various ideas, methodological practices and understandings (or 'findings') are rarely if ever in open and critical dialogue with each other, and that this is inevitable given the overly specific nature of individual research projects. A potential alternative to mitigate the problem of specificity in practice-research is to develop sets of epistemic principles and values that facilitate critical dialogues across projects and disciplines.  
 
 ### Objectives
 
@@ -76,7 +78,7 @@ _2. The Problem of What Can and Cannot Be Known:_
 
 4. identify qualities of experience from personal body-based practice experiments that resist being known, are deeply uncertain, or are unable to be articulated
 5. identify qualities of experience from personal body-based practice experiments that assist being known, display some quality of certainty, or are able to be articulated 
-6. categorise and organise these qualities of experience into a "lexicon of un/knowing in body-based practice-research" (this could be like that emotion wheel?) -- would love to get Bob in on this 
+6. categorise and organise these qualities of experience into a "lexicon of un/knowing in body-based practice-research"  
 
 _3. The Problem of Specificity:_
 
@@ -117,24 +119,25 @@ The research methods are designed to create the conditions in which to directly 
 
 - Comprehensive literature review of body-based practice-research scholarship that emphasises embodied and tacit knowledge
 - Critical and theoretical analysis of the language used in these scholarly (and practice-oriented) materials to identify any epistemic patterns, ambiguities and oversights
-- Creative and analytical 'reconfiguration' (where necessary or appropriate) of these linguistic patterns that reveal the presence or absence of an epistemic proxy
+- Creative and analytical 'reconfiguration' (where necessary or appropriate) of these linguistic patterns that reveal the presence or absence of an epistemic proxy (in other words, what epistemic possibilities are not being discussed or are being glossed over?)   
 
 **Problem 2 'can and cannot be known':**  
 
-- traditional scholarship: literature and field (practice) review of published materials that implicitly and/or explicitly examine epistemics of body-based practice (some overlap of materials examined in Problem 1)**What do I do with this review? Need to add something here to this method**  
+- traditional scholarship: literature and field (practice) review of published materials that implicitly and/or explicitly examine epistemics of body-based practice (some overlap of materials examined in Problem 1)**What do I do with this review? Need to add something here to this method**
+    + develop annotated bibliography of 50-100 key published materials and present on project website [output] 
 - practice-research: process-driven experimental movement practice as paradigmatic (or edge-case) example of epistemics limits and possibilities in practice-research 
     + practice will be 4 x 2 week sessions of Authentic Movement (four hours per day, 5 days per week = 20 hours per week). Authentic Movement is an edge-case example of practice-research because it is clearly process-orientated, dwells deeply in ambiguous or hard to pin-down feelings and thoughts, presents movement experiences that are not obviously visible and thereby effectively impossible to document, and has an ambivalent relationship to the written word
-    + includes speculative and/or experimental documentation practices using still and moving images and written responses
+    + includes speculative and/or experimental documentation practices using still and moving images and written responses [output]
     + analytical reflection on the practice in order to propose what can and cannot be known about experiences in this practice, and other body-based practices more generally 
-    + categorise and organise these qualities of experience into a "lexicon of un/knowing in body-based practice-research"[^wheel]
+    + categorise and organise these qualities of experience into a "lexicon of un/knowing in body-based practice-research"[^wheel] [output]
 - practice-research: collecting practice of 'unforgettable experiences of body-based practice/performance'
-    + invite and collect notes and letters from scholars and wider public about first-hand memories of watching and doing dance and/or performance
+    + invite and collect notes and letters from scholars, artists and wider public about first-hand memories of watching and doing dance and/or performance
     + catalogue these collected letters and responses into various kinds of works, responses, years, etc
-    + cataloguing process will result in a small-scale exhibition to be presented at various performance spaces in the UK
+    + cataloguing process will result in a small-scale exhibition to be presented at various performance spaces in the UK [output]
 - practice-research: collecting practice of materials, traces, ideas, notes, and thoughts on corporeal epistemics: _The Un/knowable Body_
     + gather materials throughout the research project
     + organise these materials into emergent patterns (based on not yet known characteristics) 
-    + develop exhibition of these materials to be presented at movement research centres nationally and internationally 
+    + develop exhibition of these materials to be presented at movement research centres nationally and internationally [output]
 
 
 [^wheel]: e.g. Something like this: <https://www.skellis.net/blog/emotions>
@@ -143,8 +146,8 @@ The research methods are designed to create the conditions in which to directly 
 
 - traditional scholarship: critically analyse the data sets from problem 2 to propose broad-ranging epistemic values and principles for body-based practice-research
     + pay particular attention to language of findings, failures and indescribables from literature and field review in problem 2 
-    + collate this 'language of findings' in relation to Mignolo's proposition that we must focus on the knower (and not the known), or the "who, when [and] why is creating knowledge."[@mignolo_epistemic_2009 p.160]
-    + propose sets of epistemic principles and values underpinning body-based practice-research
+    + collate this 'language of findings' in relation to Mignolo's proposition that we must focus on the knower (and not the known), and in particular "who, when [and] why is creating knowledge."[@mignolo_epistemic_2009 p.160]
+    + propose sets of epistemic principles and values underpinning body-based practice-research [output]
 
 
 ## Project plan and timetable 
@@ -206,45 +209,30 @@ See page 20, section Research Assistance. (from Amy)
 
 >Information under this heading should build on the details given in the Academic Beneficiaries and Impact Summary sections of the Je-S form. Please provide examples of the kinds of outputs you propose to produce during the award and their proposed focus. Please explain further how the research will benefit other researchers in the field and – where relevant – academic beneficiaries in other disciplines. How do you propose to maximise the value of the proposed research outputs? 
 
-problem 1 specific outcomes:  
-    + glossary of terms central to current use of 'embodied knowledge' in dance and somatics practice-research  
-    + annotated bibliography of key references regarding embodiment and embodied knowledge
-    + propose possible alternatives/clarification (depending on findings)
-    + critical summation of this analysis published as scholarly journal article (e.g. CP or J of Qualitative Research)
+**problem 1 specific outcomes:** 
 
-problem 2 specific outcomes:  
-    + annotated bibliography (published online) of 50-100 key published materials that examine epistemics of body-based practice  
-        * figure out plan for publication of annotated bibliography: one page? summary at top? print to PDF function? how searchable? is this a database to be built into wordpress site?
-    + open access 'visual trace' (e.g. photo series from experimental movement practice with RC)  
-    + exhibition of collected "unforgettable experiences of body-based performance"  
-    + _The (un)knowable body_ exhibition: resources, insights, notes, images
-        - consists of resources, insights, notes, images
-        - need to consider budget and practicalities for collecting and storing
-        - any copyright issues?
-        - broaden beyond the practices
-        - installed at 2-3 locations: SDD, Dance4, The Workroom -- elsewhere in world? (maybe talk with Sue about this or?) 
++ glossary of terms central to current use of 'embodied knowledge' in dance and somatics practice-research, published on project website
++ propose possible alternatives/clarification (depending on findings), and critical summation of this analysis published as scholarly journal article (e.g. CP or J of Qualitative Research)
 
-problem 3 specific outcomes:  
-    + white paper (published on project site) discussing common (and uncommon) language used to describe artistic-scholarly findings. A summary of findings as well as a series of broad principles/proposals that articulate ranges of 'articulating new understandings'
+**problem 2 specific outcomes:**
 
-- video essay? 
++ annotated bibliography (published online) of 50-100 key published materials that examine epistemics of body-based practice  
++ open access 'visual trace' (e.g. photo series from experimental movement practice with RC)  
++ exhibition of collected "unforgettable experiences of body-based performance"
++ _The (un)knowable body_ exhibition
+    - consists of resources, insights, notes, images
+    - installed at 2-3 locations: SDD, Dance4, The Workroom -- elsewhere in world? (maybe talk with Sue about this or?) 
+
+**problem 3 specific outcomes:**
+
++ journal article discussing common (and uncommon) language used to describe artistic-scholarly findings. A summary of findings as well as a series of broad principles/proposals that articulate ranges of 'articulating new understandings'
++ open access video essay (or desktop documentary) that reflexively collates and examines the development of epistemic principles and values. Also draws on data and understandings emerging from problems 1 and 2.
  
-think about using word lexicon -- create and analyse/critique lexicon
-glossary?
-
->A glossary is a collection of ideas, of clues. It does not confront its elusive objects head on, but this collection invites readers to take the long way, trusting that elusive objects (like imaginative journeys and relations) can only be known unexpectedly. - Emiliie p.157
-
-like a glossary of terms of epistemic terms — sensitised to the world of practice-research? 
-
-project level outcomes (from all methods)
+**project level outcomes (from all methods):**
 
 - project blog - fortnightly post with updates, speculations, key ideas, quotes, insights, emerging understandings
 - github site for all text materials: radically transparent and OA
-- symposium: using Radhoc’s Unpanel or another Unconference idea)[^1] - maybe make it some kind of online community thing - publish presentations online; invite responses, comments
-- open access desktop documentary exploring practice-research epistemic principles and values (connected to all three research problems and all methods)
-- develop and publish a set of epistemic principles for body-based practice-research
-- develop and publish a set of epistemic values for body-based practice-research
-- journal article exploring these findings (values and principles)
+- unconference? - maybe make it some kind of online community thing - publish presentations online; invite responses, comments
 - project website
 
 + Outputs and Dissemination (what you will do with the knowledge) for your audience:
@@ -261,6 +249,11 @@ project level outcomes (from all methods)
 
 
 ## edit bin
+
+>A glossary is a collection of ideas, of clues. It does not confront its elusive objects head on, but this collection invites readers to take the long way, trusting that elusive objects (like imaginative journeys and relations) can only be known unexpectedly. - Emilie p.157
+
+
+* figure out plan for publication of annotated bibliography: one page? summary at top? print to PDF function? how searchable? is this a database to be built into wordpress site?
 
 7. generate set of epistemic principles underpinning body-based practice-research, with particular attention on findings, failures and indescribables
 8. generate set of epistemic values in body-based practice-research that transparently and rigorously detail examples of "who, when [and] why is creating knowledge."[@mignolo_epistemic_2009 p.160]
