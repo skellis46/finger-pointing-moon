@@ -17,5 +17,6 @@ My problem: has these two aspects:
 - body-based as paradigmatic example of complexity of problem
 - generate claims/principles that speak directly to body-based
 - such claims may be useful or appropriate to practice-research generally but cannot know this. My desire yes. but can't be sure. if the principles and values are so zoomed out then they might become useless. specificity is a key principle -- could use this as example.
+- question of delimiting 
 
 >The list represents a collection of things that don't go together -- even when placed in apposition -- and that can't, in principle, be reduced to a single concept that would subsume them. The list resembles the category or the type, but only superficially -- as in Borges' notorious fabulation, those animals "(a) belonging to the Emperor, (b) embalmed, (c) tame, (d) sucking pigs, (e) sirens, (f) fabulous, (g) stray dogs..." -- proving instead the failure of the category, the insufficiency of a symbolic order that can only be approximated through a series of depictions. (This version of the list, recounted at the start of Michel Foucault's The Order of Things, is the object of some consternation regarding its explicit orientalism. Indeed there is something orientalist about all lists.) [@galloway_list_2020]
