@@ -27,7 +27,8 @@ _Finger Pointing Moon_ is predicated on the possibility that there is a systemic
 
 To date, no research has directly examined the margins and intersections of these two positions in practice-research. 
 
-
+- proxy is very different from staring into the belly of not knowing. Accepting the possibility of not knowing or there are things that are not able to be known 
+- I am not proposing evidence evidence evidence. 
 
 The aim of _Finger Pointing Moon_ is to directly examine the margins and intersections of intrinsic and extrinsic epistemics in body-based practice. 
 
