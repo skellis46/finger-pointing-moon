@@ -29,6 +29,17 @@ To date, no research has directly examined the margins and intersections of thes
 
 - proxy is very different from staring into the belly of not knowing. Accepting the possibility of not knowing or there are things that are not able to be known 
 - I am not proposing evidence evidence evidence. 
+- make clear that so much focus of practice-research has been on techne (know-how). Have argued already that this is a given in any research practice: the capacity to do something, to have the know-how. But this is not the interests of any research method (or ought not to be).
+- to address the idea that practice-research's place is an epistemic place (and not to stay within realm of techne). to know something differently. to know-that. this is not to reduce or displace know-how or craft.
+- but what is the nature of this epistemic place? can something that is unknowable (akin to Berry's thinking) be an epistemic thing? 
+
+>The distinction may not perfectly map onto the distinction between knowledge-how and knowledge-that, especially if Aristotle is taken at his word that what distinguishes epistêmê is what it is knowledge of: what “cannot be otherwise than it is” (Nic. Eth. 1139b.20). 
+
+>epistêmê in Aristotle's strict sense: scientific knowledge of what cannot be otherwise than it is—what is necessarily so.[@fantl_knowledge_2012]
+
+>For Ryle, then, to know how to do something is to be disposed to behave in certain ways, and it's going to be very hard to specify in advance what those ways are. It will depend on the situation and on what the goals of the knower are.[@fantl_knowledge_2012]
+
+-- points to my research know-how but not knowing specifically those ways. To be adaptive. 
 
 The aim of _Finger Pointing Moon_ is to directly examine the margins and intersections of intrinsic and extrinsic epistemics in body-based practice. 
 
