@@ -47,6 +47,9 @@ practice-research to directly address practice-research's fundamental, long-stan
 
 as both research method and case-study 
 
+- proxy is very different from staring into the belly of not knowing. Accepting the possibility of not knowing or there are things that are not able to be known 
+- I am not proposing evidence evidence evidence. 
+
 Body-based practices represent an edge-case of the epistemic limits and possibilities of practice-research
 
 I propose to use body-based practice as a research lens because they represent : they have a complex and often fraught relationship with language; the experiential nuances are not seen, but _felt_; they intersect with contested issues of embodiment and tacit awareness; and they have an equally contested relationship to disappearance, ephemerality and documentation. **Somewhere you need to talk about the importance of these things** 
@@ -199,6 +202,7 @@ The research methods are designed to create the conditions in which to directly 
     + gather materials throughout the research project
     + organise these materials into emergent patterns (based on not yet known characteristics) 
     + develop exhibition of these materials to be presented at movement research centres nationally and internationally [output]
+
 
 
 [^wheel]: e.g. Something like this: <https://www.skellis.net/blog/emotions>
