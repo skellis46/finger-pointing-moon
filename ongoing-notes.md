@@ -11,6 +11,12 @@ csl:
 
 - notes organised by date
 
+## 20200501 - hawley - knowledge how
+
+>It seems plausible that, if Shula has heard of Russian, and knows of her language learning skills, then she does know how to speak-Russian-after-five-years-in-Moscow; it's just that this is widespread and relatively useless knowledge-how, and thus not usually worth mentioning.[@hawley_success_2003 p.29]
+
+-- this underpins my argument about know-how and it being widespread. Therefore, the question is why such interest in the question of tacit-knowledge in dance? It might be that this is about wanting to prove to the world that it has value. Nothing wrong with this. How to be transparent with our rationale for why it is that we are doing something? 
+
 ## 20200403 - gramelsberger - epistemic things
 
 >"Epistemic things are the unknown, or vaguely known, objects of investigation that are the counterparts of experimental conditions (the technical objects). They do not simply yield in docile fashion to the technologies of investigation" (Mody and Lynch 2010, 3; see also Rheinberger 1997, 30-31). [@gramelsberger_laboratory_2013 p.104]
