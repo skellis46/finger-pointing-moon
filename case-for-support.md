@@ -2,6 +2,10 @@
 csl: /Users/skellis/Dropbox/pandoc/oxford-university-press-scimed-numeric.csl
 ---
 
+>When applying to this scheme, fellows will be required to articulate a set of development activities, to demonstrate how they will enhance their profile or status within their field, and how they will develop their research and its broader influence and importance.(p.101 Guide 4.9)
+
+>It must define a series of research questions, issues or problems that will be addressed in the course of the research. It must also define its aims and objectives in terms of seeking to enhance knowledge and understanding relating to the questions, issues or problems to be addressed (p.10)
+
 # Case for Support - Finger Pointing Moon
 
 ## The Research Problem and Questions
@@ -155,7 +159,7 @@ _3. The Problem of Specificity:_
 
 >You should describe the research context for your project/programme of work. Why is it important that these questions or issues are explored? What other research is being or has been conducted in this area? What contribution will your project make to improving, enhancing, or developing creativity, insights, knowledge or understanding in your chosen area of study? To whom will the outcomes of your research be of particular interest?
 
-## Research design and methods 
+## Research methods 
 
 >What research methods will you be using to address the questions or issues that you have set yourself, or solve the problems you have identified, or to explore the matters you intend to investigate? Why have you chosen these methods? Why are they the best way to answer the research questions or problems you have identified? What will be your role? If there are other people involved, what will their roles be and why are they the appropriate people to be involved? 
 
@@ -164,6 +168,9 @@ _3. The Problem of Specificity:_
 >Under the Research Methods heading you should also outline how any copyright or intellectual property issues relating to the project and the production of any outputs will be addressed.
 
 >convince decision makers that ‘this is the best solution’ and feel compelled to fund it – (approx >50% of content); 
+
+
+>Creative output can be produced, or practice undertaken, as an integral part of a research process as defined above. The Council would expect, however, this practice to be accompanied by some form of documentation of the research process, as well as some form of textual analysis or explanation to support its position and as a record of your critical reflection. Equally, creativity or practice may involve no such process at all, in which case it would be ineligible for funding from the Arts and Humanities Research Council.(p.11)
 
 ### Research design
 
@@ -215,12 +222,10 @@ The research methods are designed to create the conditions in which to directly 
     + propose sets of epistemic principles and values underpinning body-based practice-research [output]
 
 
-## Project plan and timetable 
-
->you are expected to be confident and specific about what you will do, who will do it, when you will do it, and how long it will take – in a realistic approximation
 
 
-## Leadership development plan 
+
+## Development plan 
 
 >This section of the Case for Support should include details of your proposed leadership activities, and an explanation of why these activities are appropriate to exercising research leadership in your field. You should make clear how these activities enhance the transformational potential of the research and its broader influence and importance. Please refer to Research and leadership activities for further details on what is requirement for this section.
 
@@ -270,9 +275,13 @@ Researchers. More information about the Concordat and what it entails can be fou
 In other words, RA can work up to the maximum at (12/18) FTE for 18 months or 1.0 FTE for 12 months. 
 See page 20, section Research Assistance. (from Amy)
 
-## Dissemination
+## Outputs, Dissemination and Impact
 
->Information under this heading should build on the details given in the Academic Beneficiaries and Impact Summary sections of the Je-S form. Please provide examples of the kinds of outputs you propose to produce during the award and their proposed focus. Please explain further how the research will benefit other researchers in the field and – where relevant – academic beneficiaries in other disciplines. How do you propose to maximise the value of the proposed research outputs? 
+>The Outputs, Dissemination and Impact section is your opportunity to describe in more detail how the potential impacts of the research will be realised. Information under this heading should build on details given in the Summary and Academic Beneficiaries sections of the Je-S form whilst also elaborating further on other areas of the Case for Support. You should address two main questions: who might benefit from the research and how might they benefit?
+
+>Taking into account what is reasonable and appropriate given the nature of the research you propose to conduct, please provide examples of how the proposed research will be managed to engage any users and befeciaries that have been identified, or to identify potential users and beneficiaries as the research progresses, and to increase the likelihood of achieveing impacts. In presenting your plans, you should tailor and target your dissemination activities to ensure that they are relevant to the specific user and beneficiary groups likely to be interested in your research and appropriate for supporting the potential research impacts outlined.
+
+>You should consider (and address if appropriate) methods for communications and engagement, collaboration and development. You should also detail who will be undertaking any dissemination activities and include any resource implications in the financial summary and in the separate Justification of Resources attachment. Please also explain further how the research will benefit other researchers in the field and – where relevant – academic beneficiaries in other disciplines.
 
 **problem 1 specific outcomes:** 
 
@@ -307,6 +316,8 @@ See page 20, section Research Assistance. (from Amy)
     * Will there be Public Engagement?
 
   
+
+
 ## other things to consider
 
 - my skills and experience (competence)
