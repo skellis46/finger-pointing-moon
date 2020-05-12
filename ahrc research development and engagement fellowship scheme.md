@@ -53,7 +53,7 @@ _On the Research Project_
 # Activities
 
 - activities should be innovative, collaborative and bold
-- research proposal with 'career enhancement activities' integrated
+- research proposal with 'career enhancement activities' (or "Enhancing research capabilities" p.27) integrated
 - benefits to my discipline and beyond
 	+ what is my discipline?
 	+ what are the benefits? 
@@ -66,11 +66,42 @@ _On the Research Project_
 - overarching theme: noticing change. What is different? 
 - development activities to demonstrate how they will enhance their profile or status within their field
 
+### My career and discipline
+
+- dance artist: choreographer, dancer, film-maker
+- my discipline is dance (but intersects to differing degrees with performance and live art, visual art, theatre, film)
+- focus on artistic practice-research
+- making small scale art works and understanding them as research
+	+ improvisation
+	+ film (screendance)
+	+ dramaturgy
+	+ race/masculinity
+	+ identity
+- reflective praxis
+- positioning artistic practice as a way to generate insight (both through the art practice, and reflection on the practice)
+- understanding PaR
+	+ first PaR PhD in Melbourne Uni (liveness, documenting the undocumentable)
+	+ consolidated by 7 years teaching MA-level DPaR and practice-research PhD supervision
+- a professional artist in the academy
+- sustained professional practice while working in academy 
+
+- summary: dance artist, with deep expertise in practice-research, focused on creating small-scale artistic research projects in and around personal identity. centripetal. bubble. inward. little to no concern with expanding or enhancing my career. (other than to make my work accessible -- available -- to people -- ie long-term commitment to OA)
+- what have I done? what contributions have I made? Ask some people: Erica, Carol, Bagryana, Sarah, Hetty, Scott, Paul, Hamish, Bob, Lee
+- what has changed? feeling of responsibility? comfort with expertise?
+- two opposing agendas in this research: tighter tighter focus in research inquiry -- very specific, precise even. career enhancement focused on serving communities of scholarship, practice, and professionals. More than public engagement (although that's part of it): methods and practices of communication (for academic and non-academic audiences)
+- career enhancement: in a way my focus has up to now been about me. That the goal here ought not to be about my skillset, my career enhancement. That these are putting the cart before the horse. Bendell useful here. 
+- what would I want my career to become? clarity of communication to academic and non-academic audiences. To serve my community of practice by trialling and building various communication methods. To not make me the centre of these practices: who to partner to help me here? At the heart of this is the hunch that there is remarkable value in attempting to communicate the things that cannot be said. That there is implicit value in this research agenda.  
+
+### Formulating a Proposal 
+
+1. Solitude
+2. Research into difference (using edge-case study)
+3. Capability development: communications
 
 ## Research Agenda
 
 - shaping research agendas
-	+ noticing difference
+	+ noticing difference/change and communicating change
 	+ move away from tacit
 	+ the biggest dance of all: between allowing the work to do its work, and taking some epistemic responsibility. how to ride that line?
 - developing emerging research areas, methods or approaches
@@ -83,6 +114,8 @@ _On the Research Project_
 	+ C-DaRE
 	+ research assistant
 	+ science
+	+ Lupe re language and comms (also drawing)
+	+ Katrina re video essays/documentary? 
 - new lines of enquiry
 - new methodologies
 - new techniques/new technologies
@@ -139,6 +172,7 @@ _On the Research Project_
 - PaR generally
 - philosophy (epistemology)
 - fields with alternative modes of presenting research
+- git technologies 
 
 
 ## Other possible lists (thinking about change underpinning them)
