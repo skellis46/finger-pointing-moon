@@ -50,21 +50,107 @@ _On the Research Project_
 >When applying to this scheme, fellows will be required to articulate a set of development activities, to demonstrate how they will enhance their profile or status within their field, and how they will develop their research and its broader influence and importance. (p.101)
 
 
-- 6-18 months
-- 50 and 300k
-- 50-100% of my normal time (if over 12 months some most be part of my normal time)
-- keep it at 50% (makes me available to do other stuff)
+# Activities
+
+- activities should be innovative, collaborative and bold
+- research proposal with 'career enhancement activities' integrated
+- benefits to my discipline and beyond
+	+ what is my discipline?
+	+ what are the benefits? 
+	+ who and what is the 'beyond'?
+- together these activities are about research and career enhancement
+- how to enhance my role within the field?
+- how to develop my research? 
+- broaden influence and importance of my research 
+- benefits to my discipline and beyond 
+- overarching theme: noticing change. What is different? 
+- development activities to demonstrate how they will enhance their profile or status within their field
+
+
+## Research Agenda
+
+- shaping research agendas
+	+ noticing difference
+	+ move away from tacit
+	+ the biggest dance of all: between allowing the work to do its work, and taking some epistemic responsibility. how to ride that line?
+- developing emerging research areas, methods or approaches
+- fostering interdisciplinary research 
+- new research collaboration and partnerships
+	+ cross disciplines
+	+ Bob
+	+ audiences
+	+ partners
+	+ C-DaRE
+	+ research assistant
+	+ science
+- new lines of enquiry
+- new methodologies
+- new techniques/new technologies
+- continue pushing alternative methods of representation
+- exploring alternative methods for dialogue / sharing
+- recognising limit of that which is countable
+- traditionally we have focused on what can be seen, but what if we use occuolocentric tools to focus on that which cannot be seen?
+- building an epistemology of practice
+- methods and outcomes through the visual but what is not there
+- solitude practice
+- collecting practice: the un/knowable body
+	+ cross with science?
+	+ experiential body
+	+ objective body
+- collecting practice: being changed by watching/doing dance
+- the photograph and dance
+- experimental documentation practices (continuum a long long way away from social dancing)
+- 50 words (lexicon - epistemic wheel/wheel of un/knowing)
+- 
+
+## Increased skill-set
+
+- professional development
+- moving into a new field (or practices maybe?)
+	+ video essays
+	+ collection and exhibition practices 
+	+ live conversations
+		* people outside of field: e.g. Hawley on know-that
+		* recorded
+		* people can comment/ask questions
+- outside of my bubble: building unlikely partnerships/alliances
+- broadening beyond the "self" - methods of the collective/community (beyond dance as well)
+
+
+## Non-academic audiences
+
+- public impact
+- fostering wider impact from research
+- links with industry
+	+ Dance4
+	+ SDD
+	+ Olafur Eliasson
+	+ The School of Life
+	+ other places? 
+ - writing post for an organisation each month (about dance/research)
+
+
+## Academic Audiences 
+
+- inspiring creativity in other researchers  
+- intellectual leadership
+- leading research networks 
+- dance research
+- PaR generally
+- philosophy (epistemology)
+- fields with alternative modes of presenting research
+
+
+## Other possible lists (thinking about change underpinning them)
+
+- potential impacts
+- outputs
+- outcomes
+- disciplines
+- partners -- other groups, bodies, organisations
+- audiences?
+- career enhancements
 
 
 
-foster wider impact from your research
-	- e.g. building the wicked problem into other research agendas
-	- recognising limit of that which is countable
-develop emerging research areas, methods or approaches
-	- traditionally we have focused on what can be seen, but what if we use occuolocentric tools to focus on that which cannot be seen?
-	- building an epistemology of practice
-	- methods and outcomes through the visual but what is not there
-be creative and inspire creativity in other researchers
-	- continue pushing alternative methods of representation
-	- exploring alternative methods for dialogue / sharing
 
