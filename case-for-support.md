@@ -227,7 +227,12 @@ The research methods are designed to create the conditions in which to directly 
 
 ## Development plan 
 
->This section of the Case for Support should include details of your proposed leadership activities, and an explanation of why these activities are appropriate to exercising research leadership in your field. You should make clear how these activities enhance the transformational potential of the research and its broader influence and importance. Please refer to Research and leadership activities for further details on what is requirement for this section.
+>This section of the Case for Support should include details of your proposed development activities, and an explanation as to why these activities are appropriate to helping you enhance capabilities as research specialists in your field. You should make clear how these activities enhance the transformational potential of the research and its broader influence and importance. Please refer to the Enhancing Research Capabilities in section 1.5 for further details on what is requirement for this section.(p.73)
+
+>In framing your proposal, you will need to clearly articulate a set of activities and to demonstrate both how they will enhance your role within your field, and how they significantly develop your research and its broader influence and importance.(p.26)
+
+>The activities outlined, which should be commensurate with your current career stage and trajectory, should go beyond the kinds of activities that researchers generally undertake in establishing themselves in their disciplines or in the ordinary course of their duties. In other words, the Fellowship offers the opportunity to be innovative in the types of activity which might be taken forward and allows Fellows to explore new avenues. Fellowship proposals should include a substantial programme of collaborative activities and you should be bold in thinking about what is needed to support them.
+
 
 >First let’s establish that the concept of “individualization” should not be confused with the neoliberal ideology of “individualism” that shifts all responsibility for success or failure to a mythical, atomized, isolated individual, doomed to a life of perpetual competition and disconnected from relationships, community, and society. Neither does it refer to the psychological process of “individuation” that is associated with the lifelong exploration of self-development. Instead, individualization is a consequence of long-term processes of modernization.[@zuboff_age_2019 Chapter 2.2]
 
