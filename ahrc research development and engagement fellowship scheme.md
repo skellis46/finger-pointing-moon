@@ -92,6 +92,7 @@ _On the Research Project_
 - two opposing agendas in this research: tighter tighter focus in research inquiry -- very specific, precise even. career enhancement focused on serving communities of scholarship, practice, and professionals. More than public engagement (although that's part of it): methods and practices of communication (for academic and non-academic audiences). **would it be possible to involve or collaborate with 2 people/organisations that focus on comms). e.g. The School of Life??
 - career enhancement: in a way my focus has up to now been about me (or, rather, my work: just doing projects). That the goal here ought not to be about my skillset, my career enhancement. That these are putting the cart before the horse. Bendell useful here. 
 - what would I want my career to become? clarity of communication to academic and non-academic audiences. To serve my community of practice by trialling and building various communication methods. To not make me the centre of these practices: who to partner to help me here? At the heart of this is the hunch that there is remarkable value in attempting to communicate the things that cannot be said. That there is implicit value in this research agenda.  
+- but it's possible to imagine I'm thinking about changing the culture of PaR. See Schein in zettel slip-box. 
 
 ### Formulating a Proposal 
 
