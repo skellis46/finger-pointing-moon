@@ -22,9 +22,11 @@ The intrinsic position -- that knowledge is intrinsic to artistic-research artef
 
 These intrinsic and extrinsic epistemic positions also share one other serious problem. Both positions explicitly fail to recognise that research processes in all disciplines adopt the most suitable methods to recognise change or difference in the materials or data of those processes. When artist-scholars adopt practice-research methods it is therefore _implied_ but rarely stated that these methods are best able to reveal change and difference in the artistic materials and experiences that underpin the research. Yet what types of changes or differences are _really_ made possible by practice-research and how are they able to be recognised if at all? 
 
-We have situation where most practice-research is becomes about sharing what happened (or what they did). Circulations of process. 
+We have situation where most practice-research is becomes about sharing what happened (or what they did). Circulations of process. Fetishization of process (e.g. REF -- pick your year). JER does this for sure -- except it's process that has been videoed. 
 
-The tension between intrinsic and extrinsic epistemics is felt most sharply in body-based practice-research like dance and somatics. These are practices predicated on the movements, gestures, postures and stillnesses of bodies, and where those same bodies underpin the development of new understandings. Body-based practices acutely feel the tension between intrinsic and extrinsic ways of knowing for four reasons: i) they have a complex and often fraught relationship with language; ii) the experiential nuances of the practices are rarely seen, and more often _felt_; iii) the practices intersect with contested issues of embodiment and tacit awareness; and iv) the practices have an equally contested relationship to disappearance, ephemerality and documentation. Therefore, body-based practices = ideal vehicle.
+The tension between intrinsic and extrinsic epistemics is felt most sharply in body-based practice-research like dance and somatics. These are practices predicated on the movements, gestures, postures and stillnesses of bodies, and where those same bodies underpin the development of new understandings. Body-based practices acutely feel the tension between intrinsic and extrinsic ways of knowing for four reasons: i) they have a complex and often fraught relationship with language; ii) the experiential nuances of the practices are rarely seen, and more often _felt_; iii) the practices intersect with contested issues of embodiment and tacit awareness; and iv) the practices have an equally contested relationship to disappearance, ephemerality and documentation. Therefore, body-based practices = ideal vehicle. Langer's thinking about experience without symbolic mediation is pretty important here: <without symbolic mediation.md>: 
+
+>It may seem strange that the most immediate experiences in our lives should be the least recognized, but there is a reason for this apparent paradox, and the reason is precisely their immediacy. They pass unrecorded because they are known without any symbolic mediation, and therefore without conceptual form. -- Susanne Langer, Mind: An Essay on Human Feeling, Vol. 1, 1967.
 
 
 _Finger Pointing Moon_ is predicated on the possibility that there is a systemic failure in practice-research to directly address the changes and differences made possible through research-focused artistic practices. and that this systemic failure is particularly problematic in body-based work (for what reasons).
@@ -33,7 +35,7 @@ To date, no research has directly examined the margins and intersections of thes
 
 - proxy is very different from staring into the belly of not knowing. Accepting the possibility of not knowing or there are things that are not able to be known 
 - I am not proposing evidence evidence evidence. 
-- make clear that so much focus of practice-research has been on techne (know-how). Have argued already that this is a given in any research practice: the capacity to do something, to have the know-how. But this is not the interests of any research method (or ought not to be).
+- make clear that so much focus of practice-research has been on techne (know-how). Have argued already that this is a given in any research practice: the capacity to do something, to have the know-how. But this is not the interests of any research method (or ought not to be). Example of science: know-how to filter chemical or run a regression. 
 - to address the idea that practice-research's place is an epistemic place (and not to stay within realm of techne). to know something differently. to know-that. this is not to reduce or displace know-how or craft.
 - but what is the nature of this epistemic place? can something that is unknowable (akin to Berry's thinking) be an epistemic thing? 
 
@@ -86,7 +88,7 @@ delimit to body-based. but make an aim to consider relationship to practice-rese
 **add here "When body-based practitioners ..."** add note about the method is often simply assumed -- I'm an artist, I therefore do practice-research. 
 
 
-
+link between first-person-ness of PaR and somatics; soma -- first person: <the field of somatics.md>.
 
 Practice-research is variously known as practice-research, practice-led research, artistic research, practice-based research and practice-as-research. It is not a singular method but rather a general approach to integrating creative practice into scholarly contexts. The underpinning practices are diverse, distinct and often singular or one-off entities. Broadly speaking, the approach is characterised by the following: it is first-person, and involves self-critical reflection and analysis; it has a prolonged engagement with repetition through artistic practice; it often has an unstable or complex relationship to language and dissemination; and it deals with experiences that are commonly ambiguous and hidden. Given these characteristics -- and the historically tenuous footing of practice-research inside the Academy -- it is not surprising that the diverse range of outcomes artist-scholars state as research _findings_ are often at best conceived _a priori_, or at worst simply made up. _Finger Pointing Moon_ is predicated on the possibility that there is a systemic failure in practice-research to directly address the changes and differences made possible through research-focused artistic practices. and that this systemic failure is particularly problematic in body-based work (for what reasons).
 
@@ -103,9 +105,11 @@ In _Finger pointing moon_ body-based practice-research will function as a case-s
 
 #### 1. The Problem of the Proxy
 
+- it's possible that the aim of this part is about understanding and revealing the proxies implicit to PaR, and offering alternatives, or strategies for recognising, or strategies for acknowledging. But proxy of embodied knowledge (closely related to know-how) is perhaps the biggest of them all. 
+
 >they see that language is only a finger pointing at the moon and not the moon itself.[@johnston_cloud_2012 p.2]
 
-Is embodied knowledge the only proxy I can think of? Are there others? That this is just an example of one -- that is peculiar to body-based practice-research? actually, "knowledge" is the real proxy. we generate knowledge. we are knowledge producers!
+Is embodied knowledge the only proxy I can think of? Are there others? That this is just an example of one -- that is peculiar to body-based practice-research? actually, "knowledge" is the real proxy. we generate knowledge. we are knowledge producers! I'd say "process" is a proxy as well. Also "video evidence". What other 'fingers' are there pointing at the moon? Berry suggests language is also such a proxy: <human experience and language.md>. We forget that they are proxies (akin to Heidegger's enframing, and relationship to Borgmann's _focal things_
 
 The complexities -- and sometimes impossibilities -- of articulating what is understood differently through practice-research may have created another distinct problem. Whereas in the early stages of the development of practice-research there was considerable focus on its epistemic underpinnings,[^under] since 2011 this scholarship has all but disappeared. At the same time there has been a sharp rise in scholarship using the ill-defined term _embodied knowledge_ (and its cousin _tacit knowledge_) as a concept to describe the epistemic value of (body-based) practice-research.[^ek1] Could it be that these two phenomena are related: that in the place of scholarship directly exploring the epistemics of practice-research, artist-scholars have replaced it with a proxy? That artist-scholars who research through movement practices are failing to address the profound experiential changes and differences generated through practice, while valorising and reifying the concept of embodied knowledge; as if to say, the body knows and _ipso facto_ practice-research generates knowledge. An epistemic proxy does not address the epistemic complexity of practice-research, but rather what can be understood differently through practice-research is kept at arm's length. After all, "proxies are easier to manipulate than the complicated reality they represent".[@oneil_weapons_2016 Chapter 3] In _Finger Pointing Moon_ I seek to understand the extent to which the proxy of embodied knowledge is blinding artist-scholars to the _reality_ of the underlying limits and possibilities of body-based practice-research. Without epistemic clarity, practice-research's value as an approach to understanding the ambiguous, messy and complex experiences of human artistic endeavour are diminished. **You hint at value here. I think you need something upfront on value/impact/importance etc.**
 
@@ -122,6 +126,7 @@ changes in a cell wall — while also being the cell wall
 inside and outside - feeling and felt - taster and tasted - 
 
 think through this.
+had to do with habits -- the capacity to notice change from first-person perspective. but even in somatics it's founded on support of external person. hence value of the observer in authentic movement.
 
 we are not just inside and outside, we are inside something as it undergoing change. 
 how do we experience change when it is happening to us? how do we apprehend difference (difference limen)? like frogs in water being heated up
@@ -184,7 +189,7 @@ Figure 1: Schematic of project research design to make transparent how the resea
 
 ### Research methods
 
-The research methods are designed to create the conditions in which to directly respond to and _achieve_ the project objectives. These objectives, in turn, feed directly into the three research problems, which underpin the primary research aim. The research problems -- _proxy_, _can and cannot be known_, and _specificity_ -- are 'meta' or wide-angle problems in body-based practice-research. The following methods are appropriate to the breadth of these problems, while affording detail where necessary. The methods are multi-modal, and comprise practice-research fieldwork and scholarly research to understand experiences and understandings of practice-research epistemics from the inside (through experimental practice) and the outside (through traditional scholarship). They are detailed below, and are organised under the three overarching problems they directly address.   
+The research methods are designed to create the conditions in which to directly respond to and _achieve_ the project objectives. These objectives, in turn, feed directly into the three research problems, which underpin the primary research aim. The research problems -- _proxy_, _can and cannot be known_, and _specificity_ -- are 'meta' or wide-angle problems in body-based practice-research. The following methods are appropriate to the breadth of these problems, while affording detail where necessary. The methods are multi-modal, and comprise practice-research fieldwork, lived experience as a dance artist-researcher, personal communications, interviews with key thinkers-practitioners and supplemental scholarly research to understand experiences and understandings of practice-research epistemics from the inside (through experimental practice) and the outside (through traditional scholarship). They are detailed below, and are organised under the three overarching problems they directly address.   
 
 **Problem 1 'proxy':**
 
@@ -200,8 +205,9 @@ The research methods are designed to create the conditions in which to directly 
     + practice will be 4 x 2 week sessions of Authentic Movement (four hours per day, 5 days per week = 20 hours per week). Authentic Movement is an edge-case example of practice-research because it is clearly process-orientated, dwells deeply in ambiguous or hard to pin-down feelings and thoughts, presents movement experiences that are not obviously visible and thereby effectively impossible to document, and has an ambivalent relationship to the written word
     + includes speculative and/or experimental documentation practices using still and moving images and written responses [output]
     + analytical reflection on the practice in order to propose what can and cannot be known about experiences in this practice, and other body-based practices more generally 
-    + categorise and organise these qualities of experience into a "lexicon of un/knowing in body-based practice-research"[^wheel] [output]
+    + categorise and organise these qualities of experience into a "lexicon of un/knowing in body-based practice-research"[^wheel] [output] -- maybe this ought to be for problem 3?
 - practice-research: collecting practice of 'unforgettable experiences of body-based practice/performance'
+    + not at all clear how this practice relates to the RQs
     + invite and collect notes and letters from scholars, artists and wider public about first-hand memories of watching and doing dance and/or performance
     + catalogue these collected letters and responses into various kinds of works, responses, years, etc
     + cataloguing process will result in a small-scale exhibition to be presented at various performance spaces in the UK [output]
@@ -284,9 +290,12 @@ See page 20, section Research Assistance. (from Amy)
 
 >The Outputs, Dissemination and Impact section is your opportunity to describe in more detail how the potential impacts of the research will be realised. Information under this heading should build on details given in the Summary and Academic Beneficiaries sections of the Je-S form whilst also elaborating further on other areas of the Case for Support. You should address two main questions: who might benefit from the research and how might they benefit?
 
->Taking into account what is reasonable and appropriate given the nature of the research you propose to conduct, please provide examples of how the proposed research will be managed to engage any users and befeciaries that have been identified, or to identify potential users and beneficiaries as the research progresses, and to increase the likelihood of achieveing impacts. In presenting your plans, you should tailor and target your dissemination activities to ensure that they are relevant to the specific user and beneficiary groups likely to be interested in your research and appropriate for supporting the potential research impacts outlined.
+>Taking into account what is reasonable and appropriate given the nature of the research you propose to conduct, please provide examples of how the proposed research will be managed to engage any users and beneficiaries that have been identified, or to identify potential users and beneficiaries as the research progresses, and to increase the likelihood of achieving impacts. In presenting your plans, you should tailor and target your dissemination activities to ensure that they are relevant to the specific user and beneficiary groups likely to be interested in your research and appropriate for supporting the potential research impacts outlined.
 
 >You should consider (and address if appropriate) methods for communications and engagement, collaboration and development. You should also detail who will be undertaking any dissemination activities and include any resource implications in the financial summary and in the separate Justification of Resources attachment. Please also explain further how the research will benefit other researchers in the field and – where relevant – academic beneficiaries in other disciplines.
+
+
+- key question for me here is how do non-academics benefit from this work? this is probably why that practice for theatre exhibitions is useful. It gets back to the Snowden thing.
 
 **problem 1 specific outcomes:** 
 

@@ -3,9 +3,10 @@
 _p.25 of Guide v4.9:_
 
 >The aims of the Fellowship Scheme are to provide time and support for researchers:
-• to carry out high-quality individual research which has the potential to generate a significant impact on their discipline;
-• to develop capabilities as research specialists and to create opportunities for outreach beyond their research field;
-• to undertake innovative and collaborative development activities, including the initiation of new research, which will result in benefits for their own discipline(s) and beyond.
+
+>- to carry out high-quality individual research which has the potential to generate a significant impact on their discipline;
+>-to develop capabilities as research specialists and to create opportunities for outreach beyond their research field;
+>-to undertake innovative and collaborative development activities, including the initiation of new research, which will result in benefits for their own discipline(s) and beyond.
 
 >It should be noted that this scheme is intended to support an integrated package of research and career enhancement activities which cannot effectively be supported through the routine provision of sabbaticals or other forms of research leave commonly funded through QR.
 
@@ -88,8 +89,8 @@ _On the Research Project_
 - summary: dance artist, with deep expertise in practice-research, focused on creating small-scale artistic research projects in and around personal identity. centripetal. bubble. inward. little to no concern with expanding or enhancing my career. (other than to make my work accessible -- available -- to people -- ie long-term commitment to OA)
 - what have I done? what contributions have I made? Ask some people: Erica, Carol, Bagryana, Sarah, Hetty, Scott, Paul, Hamish, Bob, Lee
 - what has changed? feeling of responsibility? comfort with expertise?
-- two opposing agendas in this research: tighter tighter focus in research inquiry -- very specific, precise even. career enhancement focused on serving communities of scholarship, practice, and professionals. More than public engagement (although that's part of it): methods and practices of communication (for academic and non-academic audiences)
-- career enhancement: in a way my focus has up to now been about me. That the goal here ought not to be about my skillset, my career enhancement. That these are putting the cart before the horse. Bendell useful here. 
+- two opposing agendas in this research: tighter tighter focus in research inquiry -- very specific, precise even. career enhancement focused on serving communities of scholarship, practice, and professionals. More than public engagement (although that's part of it): methods and practices of communication (for academic and non-academic audiences). **would it be possible to involve or collaborate with 2 people/organisations that focus on comms). e.g. The School of Life??
+- career enhancement: in a way my focus has up to now been about me (or, rather, my work: just doing projects). That the goal here ought not to be about my skillset, my career enhancement. That these are putting the cart before the horse. Bendell useful here. 
 - what would I want my career to become? clarity of communication to academic and non-academic audiences. To serve my community of practice by trialling and building various communication methods. To not make me the centre of these practices: who to partner to help me here? At the heart of this is the hunch that there is remarkable value in attempting to communicate the things that cannot be said. That there is implicit value in this research agenda.  
 
 ### Formulating a Proposal 

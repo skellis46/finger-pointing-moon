@@ -2,13 +2,13 @@
 # timeline
 
 
-- Project Start: Monday 7 June 2021
-- Project End: Tuesday 6 December 2022
+- Project Start: Monday 8 November 2021
+- Project End: Tuesday 8 May 2023
 
 
 ## Project management 
 
-- Advisor meeting: June 2021
+- Advisor meeting:  2021
 - Project team meetings: weekly check-ins?
 
 ## Data collection and research
@@ -19,7 +19,7 @@
 - Solitude leadership practice: daily from 7 June 2021 to 6 June 2022 (12 months)
 - Public workshops
 - Interdisciplinary meetings
-- Resarch interviews
+- Research interviews
 - Research analysis
 - Theoretical analysis
 - Cross-disciplinary analysis and discussions
@@ -29,7 +29,7 @@
 
 ## Dissemination and engagement
 
-- social media? / communications
+- social media? / communications (RA does a lot of this, and also admin at C-DaRE -- cost this? )
 - podcasts
 - symposium
 - OA workbook?

@@ -2,6 +2,7 @@
 
 ### Title of Proposed Research (150 xters)
 
+Finger pointing moon: the limits of practice-research
 
 ### Start Date and Duration 
 
@@ -46,7 +47,7 @@ _Researcher, Technician, Other_
 
 ### Project partners  ###
 
->If appropriate, the project may be delivered in collaboration with one or more non- academic partner organisations. Both UK and International organisations are eligible and must be existing organisations, although there is no minimum period stipulated for which they must have been operating. When collaborating with international partners you must demonstrate that the UK research is at the international leading edge. (p.59)
+>If appropriate, the project may be delivered in collaboration with one or more non-academic partner organisations. Both UK and International organisations are eligible and must be existing organisations, although there is no minimum period stipulated for which they must have been operating. When collaborating with international partners you must demonstrate that the UK research is at the international leading edge. (p.59)
 
 ### Data management ###
 

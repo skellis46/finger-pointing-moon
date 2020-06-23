@@ -1,18 +1,18 @@
 # project partners
 
-from Je-S help:
+>from Je-S help:
 
-Project Partners
+>Project Partners
 
-Details should be given of project partners and their contributions. An organisation should only be named as a project partner if it is providing specific contributions (either direct or indirect) to the research project.
+>Details should be given of project partners and their contributions. An organisation should only be named as a project partner if it is providing specific contributions (either direct or indirect) to the research project.
 
-Research Councils will pay Research Councils' % contribution of the total costs of the project excluding the project partner contribution. Project partner contributions in cash or in-kind should be seen as additional to the Research Councils' % contribution and are not considered part of the fEC of the project. BBSRC operates an exception for Industrial Partnership Awards (see BBSRC Research Grants Guide for details).
+>Research Councils will pay Research Councils' % contribution of the total costs of the project excluding the project partner contribution. Project partner contributions in cash or in-kind should be seen as additional to the Research Councils' % contribution and are not considered part of the fEC of the project. BBSRC operates an exception for Industrial Partnership Awards (see BBSRC Research Grants Guide for details).
 
-Attach a letter to the proposal (attachment type "letter of support") from each partner.
+>Attach a letter to the proposal (attachment type "letter of support") from each partner.
 
-The content of the letter should:
+>The content of the letter should:
 
-Confirm commitment to the proposed project;
+>Confirm commitment to the proposed project;
 Clearly explain the value, relevance and possible benefits of the work to the project partner;
 Give the nature and equivalent value of any in-kind contribution, and/or declare the value of a cash contribution, and period of support; and
 Describe the added value to the project of the project partner’s involvement.
