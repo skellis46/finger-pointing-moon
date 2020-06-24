@@ -200,6 +200,9 @@ The research methods are designed to create the conditions in which to directly 
 
 **Problem 2 'can and cannot be known':**  
 
+
+- clarify use of AM: what is it's function? how does it work? what claims can be made? the concept of efficacy is critical here? why this technique/practice and not another or others? This is based on reading [@ginot_shustermans_2010 p.]
+
 - traditional scholarship: literature and field (practice) review of published materials that implicitly and/or explicitly examine epistemics of body-based practice (some overlap of materials examined in Problem 1)**What do I do with this review? Need to add something here to this method**
     + develop annotated bibliography of 50-100 key published materials and present on project website [output] 
 - practice-research: process-driven experimental movement practice as paradigmatic (or edge-case) example of epistemics limits and possibilities in practice-research 

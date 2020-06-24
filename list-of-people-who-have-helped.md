@@ -11,3 +11,4 @@ This is an ongoing list of people who have helped (in even the smallest way) the
 - Rosemary Lee
 - Rosemary Cisneros
 - Rowan McLelland
+- Emma Meehan
