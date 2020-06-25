@@ -8,9 +8,13 @@ csl: /Users/skellis/Dropbox/pandoc/oxford-university-press-scimed-numeric.csl
 
 # Case for Support - Finger Pointing Moon
 
+Finger pointing moon: recognising change in practice-research
+
 ## The Research Problem and Questions
 
 >You should describe clearly the research questions, issues or problems that you intend to address. What are the issues that you will be exploring in the course of your research?
+
+_Finger Pointing Moon_ aims to address the fundamental epistemic question in practice-research: What can be known or understood differently as a consequence of practice-research?
 
 Practice-research has been dogged by epistemic uncertainty since its beginnings in the UK, Scandinavia and Australia in the 1990s. This uncertainty can be broadly characterised by two fundamentally different epistemic positions: 1) artistic artefacts require a written reflective or analytical statement that synthesises and reveals the epistemic status or findings of the research; 2) artistic artefacts themselves contain and communicate research findings. 
 
@@ -18,13 +22,13 @@ Both positions have inherent problems.
 
 The extrinsic position -- that knowledge in practice-research is revealed or clarified through written forms -- sets no margins or limits on the epistemic claims that artistic-scholars make on behalf of their practices. Such claims are rarely able to be falsified. If it is "the search for truth that underpins research"[@ingold_search_2018] then, even under the conditions in which "truth is aspirational",[@ingold_search_2018] practice-research's relaxed attitude towards falsifiability (and the truth) is a serious problem. This has led to the situation where the diverse range of outcomes artist-scholars state as research _findings_ are often at best conceived _a priori_, or at worst simply made up. 
 
-The intrinsic position -- that knowledge is intrinsic to artistic-research artefacts -- is dominated by vagueness and ambiguity. These attributes are viewed as strengths and/or weaknesses. The intrinsic position is also vulnerable to the development of epistemic proxies that stand in for the epistemic complexity, nuances and possibilities of practice-research. For example, in much practice-research, there has been a sharp rise in scholarship using the ill-defined term _embodied knowledge_ (and its cousin _tacit knowledge_) as a concept to describe the epistemic value of that research.[^ek1] Artist-scholars who research through movement practices have valorised and reified the concept of embodied knowledge; as if to say, the body knows and _ipso facto_ practice-research generates knowledge. An epistemic proxy does not address the epistemic complexity of practice-research, and keeps genuine changes in understanding at arm's length. This is because "proxies are easier to manipulate than the complicated reality they represent".[@oneil_weapons_2016 Chapter 3] 
+The intrinsic position -- that knowledge is intrinsic to artistic-research artefacts -- is dominated by vagueness and ambiguity. These attributes are viewed as strengths and/or weaknesses. The intrinsic position is also vulnerable to the development of epistemic proxies that stand in for the epistemic complexity, nuances and possibilities of practice-research. For example, in much practice-research, there has been a sharp rise in scholarship using the ill-defined term _embodied knowledge_ (and its cousin _tacit knowledge_) as a concept to describe the epistemic value of that research.[^ek1] Artist-scholars who research through movement practices have valorised and reified the concept of embodied knowledge; as if to say, the body knows and _ipso facto_ practice-research generates knowledge. An epistemic proxy does not address the epistemic complexity and limitations of practice-research, and keeps genuine changes in understanding at arm's length. This is because "proxies are easier to manipulate than the complicated reality they represent".[@oneil_weapons_2016 Chapter 3] 
 
 These intrinsic and extrinsic epistemic positions also share one other serious problem. Both positions explicitly fail to recognise that research processes in all disciplines adopt the most suitable methods to recognise change or difference in the materials or data of those processes. When artist-scholars adopt practice-research methods it is therefore _implied_ but rarely stated that these methods are best able to reveal change and difference in the artistic materials and experiences that underpin the research. Yet what types of changes or differences are _really_ made possible by practice-research and how are they able to be recognised if at all? 
 
-We have situation where most practice-research is becomes about sharing what happened (or what they did). Circulations of process. Fetishization of process (e.g. REF -- pick your year). JER does this for sure -- except it's process that has been videoed. 
+We have situation where most practice-research is about sharing what happened (or what they did). Circulations of process. Fetishization of process (e.g. REF -- pick your year). JER does this for sure -- except it's process that has been videoed. 
 
-The tension between intrinsic and extrinsic epistemics is felt most sharply in body-based practice-research like dance and somatics. These are practices predicated on the movements, gestures, postures and stillnesses of bodies, and where those same bodies underpin the development of new understandings. Body-based practices acutely feel the tension between intrinsic and extrinsic ways of knowing for four reasons: i) they have a complex and often fraught relationship with language; ii) the experiential nuances of the practices are rarely seen, and more often _felt_; iii) the practices intersect with contested issues of embodiment and tacit awareness; and iv) the practices have an equally contested relationship to disappearance, ephemerality and documentation. Therefore, body-based practices = ideal vehicle. Langer's thinking about experience without symbolic mediation is pretty important here: <without symbolic mediation.md>: 
+The tension between intrinsic and extrinsic epistemics is felt most sharply in body-focused practice-research like dance and somatics. These are practices predicated on the movements, gestures, postures and stillnesses of bodies, and where those same bodies underpin the development of new understandings. Body-based practices acutely feel the tension between intrinsic and extrinsic ways of knowing for four reasons: i) they have a complex and often fraught relationship with language; ii) the experiential nuances of the practices are rarely seen, and more often _felt_; iii) the practices are prone to epistemic proxies like embodiment and tacit awareness; and iv) the practices have an equally contested relationship to disappearance, ephemerality and documentation. Therefore, body-based practices = ideal vehicle. Langer's thinking about experience without symbolic mediation is pretty important here: <without symbolic mediation.md>: 
 
 >It may seem strange that the most immediate experiences in our lives should be the least recognized, but there is a reason for this apparent paradox, and the reason is precisely their immediacy. They pass unrecorded because they are known without any symbolic mediation, and therefore without conceptual form. -- Susanne Langer, Mind: An Essay on Human Feeling, Vol. 1, 1967.
 
@@ -36,12 +40,12 @@ To date, no research has directly examined the margins and intersections of thes
 - proxy is very different from staring into the belly of not knowing. Accepting the possibility of not knowing or there are things that are not able to be known 
 - I am not proposing evidence evidence evidence. 
 - make clear that so much focus of practice-research has been on techne (know-how). Have argued already that this is a given in any research practice: the capacity to do something, to have the know-how. But this is not the interests of any research method (or ought not to be). Example of science: know-how to filter chemical or run a regression. 
-- to address the idea that practice-research's place is an epistemic place (and not to stay within realm of techne). to know something differently. to know-that. this is not to reduce or displace know-how or craft.
+- to address the idea that practice-research's place is an epistemic place (and not to stay within realm of techne). to know something differently. to know-that. this is not to reduce or displace know-how or craft. ties to Rheinberger and building epistemic things.
 - but what is the nature of this epistemic place? can something that is unknowable (akin to Berry's thinking) be an epistemic thing? 
 
 >The distinction may not perfectly map onto the distinction between knowledge-how and knowledge-that, especially if Aristotle is taken at his word that what distinguishes epistêmê is what it is knowledge of: what “cannot be otherwise than it is” (Nic. Eth. 1139b.20). 
 
->epistêmê in Aristotle's strict sense: scientific knowledge of what cannot be otherwise than it is—what is necessarily so.[@fantl_knowledge_2012]
+>epistêmê in Aristotle's strict sense: scientific knowledge of what cannot be otherwise than it is -- what is necessarily so.[@fantl_knowledge_2012]
 
 >For Ryle, then, to know how to do something is to be disposed to behave in certain ways, and it's going to be very hard to specify in advance what those ways are. It will depend on the situation and on what the goals of the knower are.[@fantl_knowledge_2012]
 
@@ -53,8 +57,6 @@ practice-research to directly address practice-research's fundamental, long-stan
 
 as both research method and case-study 
 
-- proxy is very different from staring into the belly of not knowing. Accepting the possibility of not knowing or there are things that are not able to be known 
-- I am not proposing evidence evidence evidence. 
 
 Body-based practices represent an edge-case of the epistemic limits and possibilities of practice-research
 
@@ -99,7 +101,7 @@ make a case for the 'special case' of body-based work (and therefore delimited f
 In this research I propose to use body-based practice-research as a lens through which to critically examine the diverse collection of methods that comprise practice-research. 
 
 
-In _Finger pointing moon_ body-based practice-research will function as a case-study through which to examine and understand three underpinning epistemic problems **Why are these problems? These problems are more aimed at body-based, not practice-research in general** in practice-research to do with 'new knowledge' or 'new understandings': 1) The problem of the proxy; 2) The problem of what can and cannot be known; 3) The problem of specificity. These three problems act as a conceptual structure for the research design and sit under the overarching project aim to address practice-research's fundamental epistemic question: _What can we know or understand differently as a consequence of practice-research?_ **I think this is really important and needs to be brought to the fore.  It speaks to the importance of the research.**
+In _Finger pointing moon_ body-based practice-research will function as a case-study through which to examine and understand three underpinning epistemic problems **Why are these problems? These problems are more aimed at body-based, not practice-research in general** in practice-research to do with 'new knowledge' or 'new understandings': 1) The problem of the proxy; 2) The problem of what can and cannot be known; 3) The problem of specificity. These three problems act as a conceptual structure for the research design and sit under the overarching project aim to address practice-research's fundamental epistemic question: 
 
 ### Three underpinning epistemic problems in practice-research
 
@@ -127,13 +129,14 @@ inside and outside - feeling and felt - taster and tasted -
 
 think through this.
 had to do with habits -- the capacity to notice change from first-person perspective. but even in somatics it's founded on support of external person. hence value of the observer in authentic movement.
+- do I need a third-person perspective in the room? what about an anthropologist? or sociologist? someone trained in observation? 
 
 we are not just inside and outside, we are inside something as it undergoing change. 
 how do we experience change when it is happening to us? how do we apprehend difference (difference limen)? like frogs in water being heated up
 
 #### 3. The Problem of Specificity
 
-Generalisability is a key aspect of positivist research methods. That if we know _this thing or state_ about one (smaller) population or sample we can generalise that same thing or state to another (larger) population. Generalisability provides limited but vital powers of prediction. The flip side of generalisability is specificity. For example, in medical research specificity is generated by the power of case-studies. If a single case of a medical condition exists then it not able to tell us anything about a population, but it does tell us that this problem exists and that it is probable that it will exist in other people. 
+Generalisability is a key aspect of positivist research methods. That if we know _this thing or state_ about one (smaller) population or sample we can generalise that same thing or state to another (larger) population. Generalisability provides limited but vital powers of prediction. The flip side of generalisability is specificity. For example, in medical research specificity is generated by the power of case-studies. **Ginot's examination of this in somatics is useful here**. If a single case of a medical condition exists then it not able to tell us anything about a population, but it does tell us that this problem exists and that it is probable that it will exist in other people. 
 
 Practice-research projects are, by and large, a series of hyper-specific case-studies. Each practice-research project is a single case-study that is able to say only certain things about the experiences, practices and understandings in that specific project. At its best such specificity affords clarity, nuance, and profound understanding. At its worst it creates insularity: an extraordinary series of research bubbles that rarely touch each other, rarely talk to each other, and rarely even know of each other's existence. Research, by definition, involves critical and open dialogue with other similar or overlapping practices. The problem of specificity in practice-research is that its various ideas, methodological practices and understandings (or 'findings') are rarely if ever in open and critical dialogue with each other, and that this is inevitable given the overly specific nature of individual research projects. A potential alternative to mitigate the problem of specificity in practice-research is to develop sets of epistemic principles and values that facilitate critical dialogues across projects and disciplines. (focus on language here -- like emotion wheel) 
 - Batson[@batson_body_2014 p.8] mentions ungeneralizable nature of somatics experience
@@ -209,8 +212,9 @@ The research methods are designed to create the conditions in which to directly 
     + practice will be 4 x 2 week sessions of Authentic Movement (four hours per day, 5 days per week = 20 hours per week). Authentic Movement is an edge-case example of practice-research because it is clearly process-orientated, dwells deeply in ambiguous or hard to pin-down feelings and thoughts, presents movement experiences that are not obviously visible and thereby effectively impossible to document, and has an ambivalent relationship to the written word
     + includes speculative and/or experimental documentation practices using still and moving images and written responses [output]
     + analytical reflection on the practice in order to propose what can and cannot be known about experiences in this practice, and other body-based practices more generally 
+    + scholarly journal article that takes a quasi third-person perspective on this research: its limits, misses, problems, mistakes [output]
     + categorise and organise these qualities of experience into a "lexicon of un/knowing in body-based practice-research"[^wheel] [output] -- maybe this ought to be for problem 3?
-- practice-research: collecting practice of 'unforgettable experiences of body-based practice/performance'
+- practice-research: collecting practice of 'unforgettable experiences of body-based practice/performance', called _Unforgettable_
     + not at all clear how this practice relates to the RQs
     + invite and collect notes and letters from scholars, artists and wider public about first-hand memories of watching and doing dance and/or performance
     + catalogue these collected letters and responses into various kinds of works, responses, years, etc
@@ -310,7 +314,7 @@ See page 20, section Research Assistance. (from Amy)
 
 + annotated bibliography (published online) of 50-100 key published materials that examine epistemics of body-based practice  
 + open access 'visual trace' (e.g. photo series from experimental movement practice with RC)  
-+ exhibition of collected "unforgettable experiences of body-based performance"
++ exhibition of collected "unforgettable experiences of body-based performance": _Unforgettable_
 + _The (un)knowable body_ exhibition
     - consists of resources, insights, notes, images
     - installed at 2-3 locations: SDD, Dance4, The Workroom -- elsewhere in world? (maybe talk with Sue about this or?) 
