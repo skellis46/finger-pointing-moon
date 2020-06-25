@@ -213,7 +213,7 @@ The research methods are designed to create the conditions in which to directly 
     + includes speculative and/or experimental documentation practices using still and moving images and written responses [output]
     + analytical reflection on the practice in order to propose what can and cannot be known about experiences in this practice, and other body-based practices more generally 
     + scholarly journal article that takes a quasi third-person perspective on this research: its limits, misses, problems, mistakes [output]
-    + categorise and organise these qualities of experience into a "lexicon of un/knowing in body-based practice-research"[^wheel] [output] -- maybe this ought to be for problem 3?
+    
 - practice-research: collecting practice of 'unforgettable experiences of body-based practice/performance', called _Unforgettable_
     + not at all clear how this practice relates to the RQs
     + invite and collect notes and letters from scholars, artists and wider public about first-hand memories of watching and doing dance and/or performance
@@ -234,7 +234,7 @@ The research methods are designed to create the conditions in which to directly 
     + pay particular attention to language of findings, failures and indescribables from literature and field review in problem 2 
     + collate this 'language of findings' in relation to Mignolo's proposition that we must focus on the knower (and not the known), and in particular "who, when [and] why is creating knowledge."[@mignolo_epistemic_2009 p.160]
     + propose sets of epistemic principles and values underpinning body-based practice-research [output]
-
+    + categorise and organise these qualities of experience into a "lexicon of epistemology in body-based practice-research"[^wheel] [output] -- 
 
 
 
