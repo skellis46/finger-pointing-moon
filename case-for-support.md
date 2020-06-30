@@ -328,7 +328,7 @@ See page 20, section Research Assistance. (from Amy)
 
 - project blog - fortnightly post with updates, speculations, key ideas, quotes, insights, emerging understandings
 - github site for all text materials: radically transparent and OA
-- unconference? - maybe make it some kind of online community thing - publish presentations online; invite responses, comments
+- unconference (asynchronous?) - maybe make it some kind of online community thing - publish presentations online; invite two responses per provocation, comments
 - project website
 
 + Outputs and Dissemination (what you will do with the knowledge) for your audience:
