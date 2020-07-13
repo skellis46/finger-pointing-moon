@@ -8,11 +8,17 @@ csl: /Users/skellis/Dropbox/pandoc/oxford-university-press-scimed-numeric.csl
 
 # Case for Support - Finger Pointing Moon
 
-Finger pointing moon: recognising change in practice-research
+Finger pointing moon: recognising change in practice-research (or searching for truth in practice-research)
 
 ## The Research Problem and Questions
 
 >You should describe clearly the research questions, issues or problems that you intend to address. What are the issues that you will be exploring in the course of your research?
+
+- what types of changes or differences are _really_ made possible by practice-research and how are they able to be recognised if at all? (case-report)
+- question about proxies (expert opinion, literature-based research) 
+- specificity: findings and failures (systematic review and meta-analysis)
+
+aim: pursuit of accuracy. "Epistemic rationality is about building accurate maps instead." <https://www.lesswrong.com/s/5g5TkQTe9rmPS5vvM/p/RcZCwxFiZzE6X7nsv>
 
 _Finger Pointing Moon_ aims to address the fundamental epistemic question in practice-research: What can be known or understood differently as a consequence of practice-research?
 
@@ -22,7 +28,7 @@ Both positions have inherent problems.
 
 The extrinsic position -- that knowledge in practice-research is revealed or clarified through written forms -- sets no margins or limits on the epistemic claims that artistic-scholars make on behalf of their practices. Such claims are rarely able to be falsified. If it is "the search for truth that underpins research"[@ingold_search_2018] then, even under the conditions in which "truth is aspirational",[@ingold_search_2018] practice-research's relaxed attitude towards falsifiability (and the truth) is a serious problem. This has led to the situation where the diverse range of outcomes artist-scholars state as research _findings_ are often at best conceived _a priori_, or at worst simply made up. 
 
-The intrinsic position -- that knowledge is intrinsic to artistic-research artefacts -- is dominated by vagueness and ambiguity. These attributes are viewed as strengths and/or weaknesses. The intrinsic position is also vulnerable to the development of epistemic proxies that stand in for the epistemic complexity, nuances and possibilities of practice-research. For example, in much practice-research, there has been a sharp rise in scholarship using the ill-defined term _embodied knowledge_ (and its cousin _tacit knowledge_) as a concept to describe the epistemic value of that research.[^ek1] Artist-scholars who research through movement practices have valorised and reified the concept of embodied knowledge; as if to say, the body knows and _ipso facto_ practice-research generates knowledge. An epistemic proxy does not address the epistemic complexity and limitations of practice-research, and keeps genuine changes in understanding at arm's length. This is because "proxies are easier to manipulate than the complicated reality they represent".[@oneil_weapons_2016 Chapter 3] 
+The intrinsic position -- that knowledge is intrinsic to artistic-research artefacts -- is dominated by vagueness and ambiguity. These attributes are viewed as strengths and/or weaknesses. The intrinsic position is particularly vulnerable to the development of epistemic proxies that stand in for the epistemic complexity, nuances and possibilities of practice-research. For example, in much practice-research, there has been a sharp rise in scholarship using the ill-defined term _embodied knowledge_ (and its cousin _tacit knowledge_) as a concept to describe the epistemic value of that research.[^ek1] Artist-scholars who research through movement practices have valorised and reified the concept of embodied knowledge; as if to say, the body knows and _ipso facto_ practice-research generates knowledge. An epistemic proxy does not address the epistemic complexity and limitations of practice-research, and keeps genuine changes in understanding at arm's length. Add point here about documentation being the critical proxy in practice-research. This is because "proxies are easier to manipulate than the complicated reality they represent".[@oneil_weapons_2016 Chapter 3] -- related also to maps and territory, e.g. [lesswrong.com/s/5g5TkQTe9rmPS5vvM/p/RcZCwxFiZzE6X7nsv](https://www.lesswrong.com/s/5g5TkQTe9rmPS5vvM/p/RcZCwxFiZzE6X7nsv)
 
 These intrinsic and extrinsic epistemic positions also share one other serious problem. Both positions explicitly fail to recognise that research processes in all disciplines adopt the most suitable methods to recognise change or difference in the materials or data of those processes. When artist-scholars adopt practice-research methods it is therefore _implied_ but rarely stated that these methods are best able to reveal change and difference in the artistic materials and experiences that underpin the research. Yet what types of changes or differences are _really_ made possible by practice-research and how are they able to be recognised if at all? 
 
@@ -39,9 +45,9 @@ To date, no research has directly examined the margins and intersections of thes
 
 - proxy is very different from staring into the belly of not knowing. Accepting the possibility of not knowing or there are things that are not able to be known 
 - I am not proposing evidence evidence evidence. 
-- make clear that so much focus of practice-research has been on techne (know-how). Have argued already that this is a given in any research practice: the capacity to do something, to have the know-how. But this is not the interests of any research method (or ought not to be). Example of science: know-how to filter chemical or run a regression. 
+- make clear that so much focus of practice-research has been on techne (know-how). Have argued previously that this is a given in any research practice: the capacity to do something, to have the know-how. But this is not the interests of any research method (or ought not to be). Example of science: know-how to filter chemical or run a regression. 
 - to address the idea that practice-research's place is an epistemic place (and not to stay within realm of techne). to know something differently. to know-that. this is not to reduce or displace know-how or craft. ties to Rheinberger and building epistemic things.
-- but what is the nature of this epistemic place? can something that is unknowable (akin to Berry's thinking) be an epistemic thing? 
+- but what is the nature of this epistemic place? can something that is unknowable (akin to Berry's thinking) be an epistemic thing? And if not, what kind of _thing_ is it? 
 
 >The distinction may not perfectly map onto the distinction between knowledge-how and knowledge-that, especially if Aristotle is taken at his word that what distinguishes epistêmê is what it is knowledge of: what “cannot be otherwise than it is” (Nic. Eth. 1139b.20). 
 
@@ -55,7 +61,7 @@ The aim of _Finger Pointing Moon_ is to directly examine the margins and interse
 
 practice-research to directly address practice-research's fundamental, long-standing and most controversial epistemic question: **What and how do we understand differently as a consequence of practice-research?**[^sh] 
 
-as both research method and case-study 
+as both research method and case-study: see LessWrong about hierarchy of evidence: [lesswrong.com/posts/A6AoB2t4NgGGuiFjX/hierarchy-of-evidence](https://www.lesswrong.com/posts/A6AoB2t4NgGGuiFjX/hierarchy-of-evidence)
 
 
 Body-based practices represent an edge-case of the epistemic limits and possibilities of practice-research
@@ -71,7 +77,7 @@ _Finger Pointing Moon_ examines what we can come to know or understand different
 
 
 this is because it hasn't yet happened built on assumptions and proxies.
-it's important because currently we generate undefendable outcomes in which anyone can say anything. but what do we get or gain from something different? 
+it's important because currently we generate unfalsifiable outcomes in which anyone can say anything, and that are rarely explicitly built on or around other overlapping practices.  but what do we get or gain from something different? 
 
 add something in this first paragraph of why it matters?  Why is it important?
 
@@ -108,6 +114,7 @@ In _Finger pointing moon_ body-based practice-research will function as a case-s
 #### 1. The Problem of the Proxy
 
 - it's possible that the aim of this part is about understanding and revealing the proxies implicit to PaR, and offering alternatives, or strategies for recognising, or strategies for acknowledging. But proxy of embodied knowledge (closely related to know-how) is perhaps the biggest of them all. 
+- they are also efficient (like maps and territory), and useful. But need to be questioned
 
 >they see that language is only a finger pointing at the moon and not the moon itself.[@johnston_cloud_2012 p.2]
 
@@ -183,7 +190,9 @@ _3. The Problem of Specificity:_
 
 ### Research design
 
-Figure 1: Schematic of project research design to make transparent how the research aim, problems, objectives, methods and outcomes inter-relate. 
+Figure 1: Schematic of project research design to make transparent how the research aim, problems, objectives, methods and outcomes inter-relate.
+
+could add public engagement (beyond academia) and academic outcomes  
 
 
 >"Epistemic things are the unknown, or vaguely known, objects of investigation that are the counterparts of experimental conditions (the technical objects). They do not simply yield in docile fashion to the technologies of investigation" (Mody and Lynch 2010, 3; see also Rheinberger 1997, 30-31). [@gramelsberger_laboratory_2013 p.104]
@@ -251,6 +260,7 @@ The research methods are designed to create the conditions in which to directly 
 >First let’s establish that the concept of “individualization” should not be confused with the neoliberal ideology of “individualism” that shifts all responsibility for success or failure to a mythical, atomized, isolated individual, doomed to a life of perpetual competition and disconnected from relationships, community, and society. Neither does it refer to the psychological process of “individuation” that is associated with the lifelong exploration of self-development. Instead, individualization is a consequence of long-term processes of modernization.[@zuboff_age_2019 Chapter 2.2]
 
 - thinking about individuation (relating to solitude) v individualism (opposite of Bendell)
+- communications development will be key aspect of my approach/desire. why? within academy? what do we gain/lose from improved communications? wrestling with the bubbles. Comms will demand 
 
 solitude and collective
 use a practice -- it's how I come to understand things
@@ -362,7 +372,7 @@ See page 20, section Research Assistance. (from Amy)
 9. examine the potential of proposed body-based epistemic principles and values to be generalisable to other forms of practice-research
 
 collect representative sample of body-based practice-research outcomes (exploring range from those that describe explicit findings to those in which the practice-outputs are presented to 'speak for themselves') -- could use sample from REF2021 in UK?
-+ traditional scholarship: critical analysis of this sample to understand the language artist-scholars use to describe their understandings or 'findings'. 
++ traditional scholarship: critical analysis of this sample to understand the language artist-scholars use to describe their understandings or 'findings'. (this is meta-level research -- very very useful)
 
 7. examine language of epistemic outcomes (or 'findings, failures and indescribables') from sample of published body-based practice-research
 8. collate and share this 'language of findings' 
@@ -381,7 +391,7 @@ develop an original set of practice-research epistemic principles (and also set 
 
 - the power of specificity (case-studies in medicine)
 - danger in research ideas, practices and projects that are not in dialogue with each other
-- what do I mean by 'epistemic values'? e.g. transparency and rigour of who, when and why is creating knowledge
+- what do I mean by 'epistemic values'? e.g. transparency and rigour of who, when and why is creating knowledge. Also revealing about what can and can't be said (that is, relationship to 'truth')
 
 We -- artistic-researchers -- have inadvertently created an enormous array of garishly coloured boats filled with important bits and pieces, each of which is bobbing up and down blissfully unaware of the other shiny boats that are so so close.
 
