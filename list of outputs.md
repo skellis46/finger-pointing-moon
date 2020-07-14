@@ -12,7 +12,7 @@ _1. proxies_
 _2. can and can't be known_
 
 - OUTPUT 2: authentic movement: speculative and/or experimental documentation practices through writing and still and moving images [2] RES
-- OUTPUT 3: third-person scholarly article [2] - in collaboration with SdH (or philosopher Katherine Hawley?) [2] RES
+- OUTPUT 3: third-person scholarly article [2] about epistemic limits - in collaboration with philosopher Katherine Hawley? or Alva Noe? or Tim Ingold or Guy Claxton or Adriana Cavarero) [2] RES
 - OUTPUT 4: _Unforgettable_ exhibition [2] DEV
 - OUTPUT 5: _The Un/knowable Body_ exhibition [2] DEV
 
@@ -28,20 +28,17 @@ _4. W = whole project_
 
 - OUTPUT 7: video essay: collates and articulates key concerns/findings of project [W] RES
 - OUTPUT 8: 8-10 podcasts (transcribed) [W] DEV
-    + Bob and Lee
     + Vida Midgelow
-    + Carol Brown
     + Paul Magee
     + Harmony Bench (scepticism)
     + Rachel Hann
     + Henk Borgdorff
     + Erik Knudsen
     + Finland? Sweden? Canada? 
-    + HK
     + Singapore
     + Katherine Hawley?
     + look at PRAG group?
-    + interviews with wider public (e.g. Jo Fidgin!) - is she worth asking about possible communications thinking? ask to read a short document outlining finger pointing moon (the concept).
+    + interviews with wider public (e.g. Jo Fidgin, Lupe, ) - is she worth asking about possible communications thinking? ask to read a short document outlining finger pointing moon project (the concept).
     + School of Life? 
     + LessWrong? 
 
@@ -56,6 +53,20 @@ _4. W = whole project_
 - OUTPUT 13: github site (radical transparency) [W] DEV
     + basically a downloadable version of all texts from the website
 
+
+# possible partners/people to work with
+
+- another scholar (from other discipline) to act as third-person perspective: involve watching authentic movement, note taking, development of journal about epistemic limits (or hyper-visuality or analogue practices ...)
+- organisations or people interested in communicating scholarly/academic research to wider public? 
+- value of artistic practice
+- things that are not able to be counted
+- name of that Doctor that Rosie worked with (un/knowing body? or podcast?)
+
+- all people must be willing and able to travel by train (no air travel in this grant)
+
+- Btihaj Ajana: https://kclpure.kcl.ac.uk/portal/btihaj.ajana.html
+- Adriana Cavarero: https://www.dsu.univr.it/?ent=persona&id=727&lang=en
+- 
 
 ## edit bin
 
