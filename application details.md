@@ -10,6 +10,7 @@ Finger pointing moon: the limits of practice-research
 18 months
 
 ### Objectives [up to 4000 chars] ###
+
 _List the main objectives of the proposed research in order of priority_
 
 
@@ -25,36 +26,37 @@ _List the main objectives of the proposed research in order of priority_
 
 
 ### Academic Beneficiaries [4000 xters] ###
+
 _Describe who will benefit from the research_
 
 >The Academic Beneficiaries section asks you to summarise how your research will benefit other researchers in your field and – where relevant – academic beneficiaries in other disciplines. Academic communication and dissemination plans should be elaborated further in your Case for Support. Academic Beneficiaries is a section to complete within the proposal form. (p.58 guide)
 
 ### Other support 
 
-### Resource summary ###
+### Resource summary
 
-### Related proposals ###
+### Related proposals
 
 ### Staff 
 
 _Researcher, Technician, Other_
 
-### Resources  ###
+### Resources
 
 ### Estates and Indirect Costs 
 
 
 
-### Project partners  ###
+### Project partners
 
 >If appropriate, the project may be delivered in collaboration with one or more non-academic partner organisations. Both UK and International organisations are eligible and must be existing organisations, although there is no minimum period stipulated for which they must have been operating. When collaborating with international partners you must demonstrate that the UK research is at the international leading edge. (p.59)
 
-### Data management ###
+### Data management
 
-### Proposal classifications  ###
+### Proposal classifications 
 
-### Classification  ###
+### Classification
 
-### Notes and comments  ###
+### Notes and comments
 
 
