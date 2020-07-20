@@ -1,5 +1,12 @@
 # project partners
 
+
+_un/knowing body_
+- Siobhan Davies Dance or different gallery?
+- Australia: Dancehouse? (need to pay someone to install it there)
+- Scotland? ask Katrina
+
+
 >from Je-S help:
 
 >Project Partners
