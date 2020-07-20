@@ -1,5 +1,9 @@
 # Aims
 
+>When applying to this scheme, fellows will be required to articulate a set of development activities, to demonstrate how they will enhance their profile or status within their field, and how they will develop their research and its broader influence and importance.(p.101 Guide 4.9)
+
+>It must define a series of research questions, issues or problems that will be addressed in the course of the research. It must also define its aims and objectives in terms of seeking to enhance knowledge and understanding relating to the questions, issues or problems to be addressed (p.10)
+
 _p.25 of Guide v4.9:_
 
 >The aims of the Fellowship Scheme are to provide time and support for researchers:
