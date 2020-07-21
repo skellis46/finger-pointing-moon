@@ -38,7 +38,7 @@ _4. W = whole project_
     + Singapore
     + Katherine Hawley?
     + look at PRAG group?
-    + interviews with wider public (e.g. Jo Fidgin, Lupe, ) - is she worth asking about possible communications thinking? ask to read a short document outlining finger pointing moon project (the concept).
+    + interviews with wider public (e.g. Jo Fidgen, Lupe, ) - is she worth asking about possible communications thinking? ask to read a short document outlining finger pointing moon project (the concept).
     + School of Life? 
     + LessWrong? 
 
