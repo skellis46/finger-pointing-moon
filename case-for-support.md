@@ -28,6 +28,8 @@ In this research I propose to use body-based practice-research as a lens through
 
 _Finger Pointing Moon_ is predicated on two propositions: i) that there is a systemic failure in practice-research to even attempt to address the changes and differences made possible through research-focused artistic practices; ii) that this systemic failure has unique problems for artist-scholars working with body-based practices.
 
+- is anything not able to be claimed? is anything not 'presentable as truth'? what are the limits? at what point would a reader guffaw? (reminded here of that experiemnt to get fake papers published)
+
 ### why is it important that these questions are explored?
 
 this is because it hasn't yet happened built on assumptions and proxies.
