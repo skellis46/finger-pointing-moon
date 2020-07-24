@@ -8,7 +8,7 @@ Finger pointing moon: recognising change through practice-research
 
 ## The Research Problem and Questions
 
-Practice-research has two fundamental epistemic questions: 1) What is known or understood differently as a consequence of practice-research methods? 2) How might these understandings be shared and articulated? The second question has been examined in depth through research into documentation and archives.[^doc] However, the first question has been largely ignored and remains practice-research's most difficult and controversial epistemic question. _Finger Pointing Moon_ aims to tackle this first fundamental question: what we can know or understand differently through practice-research?
+Practice-research has two fundamental epistemic questions: 1) What is known or understood differently as a consequence of practice-research methods? 2) How might these understandings be shared and articulated? The second question has been examined in depth through research into documentation and archives.[^doc] However, the first question has been largely ignored and remains practice-research's most difficult and controversial epistemic question. _Finger Pointing Moon_ aims to tackle this first fundamental question: what can be known or understood differently through practice-research?
 
 There are three epistemic issues underpinning the research aim (I discuss these in detail in _Research Context_): i) _proxies_, in which artist-scholars rely on epistemic proxies to circumvent the complexity and messiness of noticing difference or change in practice-research; ii) _limits_, in which artist-scholars fail to attempt to recognise and examine the limits of what can and cannot be known through practice-research; and iii) _hyper-specificity_, in which practice-research methodological practices and understandings (or 'findings') are rarely in open and critical dialogue with each other.  
 
@@ -18,15 +18,18 @@ The research has three primary research questions that reflect these issues:
 
 2. _Limits:_ What are the epistemic limits of practice-research? What experiences and aspects of practices are not able to be known, understood or articulated? (first-person and third-person case-report)
 
-3. _Hyper-specificity_: What language is typically used to express findings and failures in practice-research? How might this language be adapted or reconfigured in order to create increased critical dialogue between practice-research artist-scholars and their projects? (systematic review and meta-analysis)
+3. _Hyper-specificity_: What language is typically used to express findings and failures in practice-research? How might this language be developed, adapted or reconfigured in order to create increased critical dialogue between practice-research artist-scholars and their projects? (systematic review and meta-analysis)
 
 ## Research context 
 
-Practice-research is variously known as practice-research, practice-led research, artistic research, practice-based research and practice-as-research. It is not a singular method but rather a loose set of approaches for integrating creative practice into scholarly contexts. The underpinning practices are diverse, distinct and often singular or one-off entities. The approach is usually characterised by the following: it is first-person, and involves self-critical reflection and analysis; it has a prolonged engagement with repetition through artistic practice; it often has an unstable or complex relationship to language and dissemination; and it deals with experiences that are commonly ambiguous and hidden. Given these characteristics -- and the historically tenuous footing of practice-research inside the Academy -- it is not surprising that the diverse range of outcomes artist-scholars state as research _findings_ are often at best conceived _a priori_, or at worst simply made up. _Finger Pointing Moon_ is predicated on my proposal that there is a systemic failure in practice-research to directly address the changes and differences made possible through research-focused artistic practices. and that this systemic failure is particularly problematic in body-based work (for what reasons).
+Practice-research is not a singular method but rather an overarching approach for working with creative practices in scholarly contexts. The approach is  characterised by the following: it is first-person, and involves self-critical reflection and analysis; it has a prolonged engagement with repetition through artistic practice; it has a contested relationship to language and dissemination; and it involves experiences that are commonly ambiguous and hidden. Given these characteristics which mangle analysis, creative practice, mesearch, it stands to reason that we artist-scholars tend to conceive our research findings _a priori_, and then present them _a posteriori_ as _reflective spaces_ using vague, hopeful and sensitive language: "I hope this serves adequately";[@jeremy_bubb_missing_2020] "hopefully as you continue to read and listen, it will become gradually clearer";[@andrew_miller_exploring_2020] "the open-endedness of artistic research allows the possibility for the ongoing development of new insights among the wider community of creative practitioners";[@edmund_hunt_composition_2020] and "with this text I’m really not trying to make any grand statements. It is a collection of words and decisions that function more as a demonstration".[@paul_norman_click_2020]
+
+**insert here something about body based uniqueness**: These characteristics are uniquely amplified for artist-scholars working with body-based practices. For instance
+
+In _Finger Pointing Moon_ I propose two things: i) that there is a systemic failure in practice-research to directly address the changes and differences made possible through research-focused artistic practices; ii) that this systemic failure has complex ramifications for artist-scholars working with body-based practices.
 
 In this research I propose to use body-based practice-research as a lens through which to critically examine the diverse collection of methods that comprise practice-research. 
 
-_Finger Pointing Moon_ is predicated on two propositions: i) that there is a systemic failure in practice-research to even attempt to address the changes and differences made possible through research-focused artistic practices; ii) that this systemic failure has unique problems for artist-scholars working with body-based practices.
 
 - is anything not able to be claimed? is anything not 'presentable as truth'? what are the limits? at what point would a reader guffaw? (reminded here of that experiemnt to get fake papers published)
 
@@ -41,7 +44,7 @@ it's important because currently we generate unfalsifiable outcomes in which any
 
 ### who will be most interested in the outcomes? 
 
-The history of practice-research has been dogged by epistemic uncertainty. This uncertainty can be characterised by two distinct epistemic positions: 1) artistic artefacts require a written reflective or analytical statement that synthesises and reveals the epistemic status or findings of the research;[e.g. @nelson_practice_2013; @noauthor_ref2021_2019] 2) artistic artefacts themselves contain and communicate research findings. 
+The history of practice-research has been dogged by epistemic uncertainty that can be characterised by two distinct positions: 1) artistic artefacts require a written statement that synthesises the epistemic status or findings of the research;[e.g. @nelson_practice_2013; @noauthor_ref2021_2019] 2) artistic artefacts themselves contain and communicate research findings.[e.g. @borgdorff_conflict_2012]  
 
 Both positions have inherent problems.
 
@@ -338,6 +341,14 @@ See page 20, section Research Assistance. (from Amy)
 
 
 ## edit bin
+
+The underpinning practices are diverse, distinct and often presented as singular or one-off projects. 
+
+variously known as practice-research, practice-led research, artistic research, practice-based research and practice-as-research. It is 
+
+_Finger Pointing Moon_ is predicated on two propositions: i) that there is a systemic failure in practice-research to even attempt to address the changes and differences made possible through research-focused artistic practices; ii) 
+
+-- and the historically tenuous footing of practice-research inside the Academy -- 
 
 In _Finger pointing moon_ body-based practice-research will function as a case-study through which to examine and understand three underpinning epistemic problems **Why are these problems? These problems are more aimed at body-based, not practice-research in general** in practice-research to do with 'new knowledge' or 'new understandings': 1) The problem of the proxy; 2) The problem of what can and cannot be known; 3) The problem of specificity. These 
 
