@@ -55,9 +55,9 @@ The tension between intrinsic and extrinsic epistemics is felt most sharply in b
 
 To date, no research has directly examined the margins and intersections of these two positions in practice-research. 
 
-### my contribution to improving, enhancing, or developing creativity, insights, knowledge or understanding in the area
+### My contribution to improving, enhancing, or developing creativity, insights, knowledge or understanding in the area
 
-### who will be most interested in the outcomes? 
+### Who will be most interested in the outcomes? 
 
 
 
