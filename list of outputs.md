@@ -9,14 +9,14 @@ _1. proxies_
 
 - OUTPUT 1: journal article on proxies [1] RES
 
-_2. can and can't be known_
+_2. limits_
 
 - OUTPUT 2: authentic movement: speculative and/or experimental documentation practices through writing and still and moving images [2] RES
-- OUTPUT 3: third-person scholarly article [2] about epistemic limits - in collaboration with philosopher Katherine Hawley? or Alva Noe? or Tim Ingold or Guy Claxton or Adriana Cavarero) [2] RES
+- OUTPUT 3: third-person scholarly article [2] about epistemic limits - in collaboration with philosopher Katherine Hawley? Anna Pakes? Anthropologist? or Alva Noe? or Tim Ingold or Guy Claxton or Adriana Cavarero) [2] RES
 - OUTPUT 4: _Unforgettable_ exhibition [2] DEV
 - OUTPUT 5: _The Un/knowable Body_ exhibition [2] DEV
 
-_3. specificity_
+_3. hyper-specificity_
 
 - OUTPUT 6: lexicon of epistemological "findings and failures" [3] RES
     + like the emotion wheel
