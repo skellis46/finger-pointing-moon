@@ -38,38 +38,27 @@ In short, if all practice-research is presentable as _truth_ -- even in the sens
 
 ### Other research in this area
 
-The epistemological project in practice-research has been a process of reverse-engineering since its beginning. In 1992 the UK Higher Education Funding Councils first recognised the work of artists as research. Art and artists became interested in knowledge and knowledge production when artists. Project of justification and validation. Scepticism. 
+In 1992 the UK Higher Education Funding Councils first recognised the work of artists as research and, unsurprisingly given the potential "access to highly lucrative government funding"[@magee_introduction._2012 n.p.], art and artists quickly became invested in the production of knowledge. Since then, the epistemological project in practice-research has comprised various attempts to reverse-engineer making art through an epistemological lens. That is, once art was recognised as research it became necessary to justify and validate its knowledge producing bona fides, and to avoid a situation in which "the entire history of art [became] eligible for a postgraduate research degree"[@frayling_research_1993 p.5] 
 
-- Scrivener
-- Pakes (know-how)
+This project of creating epistemic justifications for practice-research is characterised by two contested positions: 1) artistic artefacts require a written statement that synthesises the epistemic status (findings) of the research;[e.g. @noauthor_ref2021_2019; @nelson_practice_2013] 2) artistic artefacts themselves contain and communicate research findings.[e.g. @borgdorff_conflict_2012]  
 
-the key ideological project of practice-as-research has been to get art "on the books as research"[@magee_introduction._2012]
+Both positions have inherent problems. The extrinsic position -- that knowledge in practice-research is only revealed or clarified through written contextualisation[@bolt_magic_2007; @smith_practice-led_2009; @candy_role_2010] -- limits the role and importance of the artefact,[@magee_introduction._2012; @borgdorff_debate_2006; @candlin_proper_2000] and sets no margins on the epistemic claims that artistic-scholars make on behalf of their practices. Such claims are rarely "made available for sustained and verifiable peer review".[@haseman_tightrope_2007 n.p.; see also @candy_role_2010] The intrinsic position -- that knowledge is intrinsic to artistic-research artefacts[@ellis_that_2018; @borgdorff_conflict_2012] -- positions ambiguity and uncertainty as epistemic values that usefully produce "less identifiable knowledge products."[@butt_performance_2014 p.114]. Such products act as points of epistemic resistance, or "ways of knowing that are not able to shape -- or be shaped by -- the various tools and systems of the knowledge economy."[@ellis_that_2018 p.490]  
 
-This project of determining epistemic justifications for practice-research remains characterised by two distinct positions: 1) artistic artefacts require a written statement that synthesises the epistemic status (findings) of the research;[e.g. @noauthor_ref2021_2019; @nelson_practice_2013] 2) artistic artefacts themselves contain and communicate research findings.[e.g. @borgdorff_conflict_2012]  
 
-Note REF's solution is 300 word statement (but the contextual information "Bucket"). Doesn't align with Doctoral requirements. 
 
-Both positions have inherent problems. The extrinsic position -- that knowledge in practice-research is revealed or clarified through written contextualisation;[@bolt_magic_2007; @smith_practice-led_2009] -- sets no margins or limits on the epistemic claims that artistic-scholars make on behalf of their practices. Such claims are rarely "made available for sustained and verifiable peer review".[@haseman_tightrope_2007 n.p.] The intrinsic position -- that knowledge is intrinsic to artistic-research artefacts -- is dominated by vagueness and ambiguity. These attributes -- vagueness and ambiguity -- are viewed as strengths and/or weaknesses.[@ellis_that_2018; @borgdorff_conflict_2012] 
+curious contradiction: Note REF's solution is 300 word statement (but the contextual information "Bucket"). Doesn't align with Doctoral requirements. 
 
--- add Candlin (2000) from Magee, and Borgdorff 2006 (in Magee - but have PDF) -- both worried about status of the artefact. And Magee himself
 
-Intrinsic and extrinsic epistemic positions also explicitly fail to recognise that research processes in all disciplines adopt the most suitable methods to recognise change or difference in the materials or data of those processes. When artist-scholars adopt practice-research methods it is therefore _implied_ but rarely stated that these methods are best able to reveal change and difference in the artistic materials and experiences that underpin the research. Yet what types of changes or differences are _really_ made possible by practice-research and how are they able to be recognised if at all? 
+Intrinsic and extrinsic epistemic positions also explicitly fail to recognise that research processes in all disciplines adopt the most suitable methods to recognise change or difference in the materials or data of those processes. When artist-scholars adopt practice-research methods it is therefore _implied_ but rarely stated that these methods are best able to reveal change and difference in the artistic materials, experiences and practices that underpin the research. Yet what types of changes or differences are _really_ made possible by practice-research and how are they able to be recognised if at all? 
 
 artists just do practice-research because they are artists and p-r is what artists do in the university. **add here "When body-based practitioners ..."** add note about the method is often simply assumed -- I'm an artist, I therefore do practice-research. 
-
-- make clear that so much focus of practice-research has been on techne (know-how). Have argued previously that this is a given in any research practice: the capacity to do something, to have the know-how. But this is not the interests of any research method (or ought not to be). Example of science: know-how to filter chemical or run a regression. (unless process changes: development of epistemic thing)
 
 To date, no research has directly examined the margins and intersections of these two positions in practice-research. 
 The aim of _Finger Pointing Moon_ is to use a range of methods -- name them -- to examine the margins and intersections of intrinsic and extrinsic epistemics in body-based practice. 
 
-- early efforts: Pakes (know-how) Scrivener (apprehension)
-
-Whereas in the early stages of the development of practice-research there was considerable focus on its epistemic underpinnings,[^under] since 2011 this scholarship has all but disappeared. At the same time there has been a sharp rise in scholarship using the ill-defined term _embodied knowledge_ (and its cousin _tacit knowledge_) as a concept to describe the epistemic value of (body-based) practice-research.[^ek1] 
+interested not only in what we can agree on but what we can clearly disagree about on. what can't be said? some things must be open to debate (other than just methodology). Where is there legitimate disagreement? (heterotopic discourse -- ways of arguing) -- similar to Biggs and Buchler (2011) approach, p.83 of the chapter in their edited volume.
 
 
-The intrinsic position is particularly vulnerable to the development of epistemic proxies that stand in for the epistemic complexity, nuances and possibilities of practice-research. For example, in much practice-research, there has been a sharp rise in scholarship using the ill-defined term _embodied knowledge_ (and its cousin _tacit knowledge_) as a concept to describe the epistemic value of that research.[^ek1] Artist-scholars who research through movement practices have valorised and reified the concept of embodied knowledge; as if to say, the body knows and _ipso facto_ practice-research generates knowledge. An epistemic proxy does not address the epistemic complexity and limitations of practice-research, and keeps genuine changes in understanding at arm's length. Add point here about documentation being the critical proxy in practice-research (and connect to digital technologies? surveillance). This is because "proxies are easier to manipulate than the complicated reality they represent".[@oneil_weapons_2016 Chapter 3] -- related also to maps and territory, e.g. [lesswrong.com/s/5g5TkQTe9rmPS5vvM/p/RcZCwxFiZzE6X7nsv](https://www.lesswrong.com/s/5g5TkQTe9rmPS5vvM/p/RcZCwxFiZzE6X7nsv)
-
-interested not only in what we can agree on but what we can clearly disagree about on. what can't be said? some things must be open to debate (other than just methodology). Where is there legitimate disagreement? (heterotopic discourse -- ways of arguing)
 
 ### My contribution to improving, enhancing, or developing creativity, insights, knowledge or understanding in the area
 
@@ -318,6 +307,26 @@ _4. W = whole project_
 
 
 ## edit bin
+
+- early efforts: Pakes (know-how) Scrivener (apprehension)
+
+Whereas in the early stages of the development of practice-research there was considerable focus on its epistemic underpinnings,[^under] since 2011 this scholarship has all but disappeared. At the same time there has been a sharp rise in scholarship using the ill-defined term _embodied knowledge_ (and its cousin _tacit knowledge_) as a concept to describe the epistemic value of (body-based) practice-research.[^ek1] 
+
+
+The intrinsic position is particularly vulnerable to the development of epistemic proxies that stand in for the epistemic complexity, nuances and possibilities of practice-research. For example, in much practice-research, there has been a sharp rise in scholarship using the ill-defined term _embodied knowledge_ (and its cousin _tacit knowledge_) as a concept to describe the epistemic value of that research.[^ek1] Artist-scholars who research through movement practices have valorised and reified the concept of embodied knowledge; as if to say, the body knows and _ipso facto_ practice-research generates knowledge. An epistemic proxy does not address the epistemic complexity and limitations of practice-research, and keeps genuine changes in understanding at arm's length. Add point here about documentation being the critical proxy in practice-research (and connect to digital technologies? surveillance). This is because "proxies are easier to manipulate than the complicated reality they represent".[@oneil_weapons_2016 Chapter 3] -- related also to maps and territory, e.g. [lesswrong.com/s/5g5TkQTe9rmPS5vvM/p/RcZCwxFiZzE6X7nsv](https://www.lesswrong.com/s/5g5TkQTe9rmPS5vvM/p/RcZCwxFiZzE6X7nsv)
+
+- make clear that so much focus of practice-research has been on techne (know-how). Have argued previously that this is a given in any research practice: the capacity to do something, to have the know-how. But this is not the interests of any research method (or ought not to be). Example of science: know-how to filter chemical or run a regression. (unless process changes: development of epistemic thing)
+
+>New knowledge generated by research, whether practice-based or not, is expected to have two characteristics: first that it is shared and second that it can be verified or challenged.[@candy_role_2010 p.121]
+
+
+>This is how art has, on the one hand, got on the books as research these last twenty-five years, albeit by way of the artist-researcher’s exegetical accompaniment, with all sorts of pernicious effects on the artwork actually produced for the exercise and largely withdrawn from judgement in the process. It is also why there is so little love for the thing.[@magee_introduction._2012 n.p.]
+
+In the early 2000s scholars attempted to make epistemic sense of practice-research through the standard account of knowledge as justified, true, belief, and through its relationship to phronetic know-how.[] Since then, 
+
+>as Biggs argues, the artwork, and hence, the apprehensions, only exist within a context (Biggs 2003). The artwork alone, without text, cannot be seen as a research outcome.[@candy_role_2010 p.125]
+
+>Practice-based art research can be about the creation of new apprehensions but any art object made as part of that research does not, by itself, embody knowledge. However, the text that accompanies the work may indeed illuminate new apprehensions or a new way of creating apprehensions that we can claim as the new knowledge produced.[@candy_role_2010 p.121]
 
 could add public engagement (beyond academia) and academic outcomes  
 
