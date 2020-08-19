@@ -6,13 +6,15 @@ csl: /Users/skellis/Dropbox/pandoc/oxford-university-press-scimed-numeric.csl
 
 Finger pointing moon: recognising change through practice-research
 
->they see that language is only a finger pointing at the moon and not the moon itself.[@johnston_cloud_2012 p.2]
+>... they see that language is only a finger pointing at the moon and not the moon itself.[@johnston_cloud_2012 p.2]
+
+>Some aspects of the world may even be beyond the limits of our thought, so that we cannot form intelligible descriptions of them, let alone know that a particular description is true.[@markie_rationalism_2017 n.p.]
 
 ## The Research Problem and Questions
 
 Practice-research has two fundamental epistemic questions: 1) What is known or understood differently as a consequence of practice-research methods? 2) How might these understandings be shared and articulated? The second question has been examined in detail through research into documentation and archives.[^doc] The first question remains practice-research's most controversial and under-examined. The aim of _Finger Pointing Moon_ is to tackle this first fundamental epistemic question. 
 
-The project's aim is underpinned by three epistemic conditions: i) _proxies_, in which artist-scholars rely on epistemic proxies to circumvent the messiness of noticing change in practice-research; ii) _limits_, in which artist-scholars fail to examine the limits of what can and cannot be known through practice-research; and iii) _hyper-specificity_, in which practice-research understandings and methods are rarely in critical dialogue with each other. 
+The project's aim is underpinned by three epistemic conditions: i) _proxies_, in which artist-scholars rely on epistemic proxies to circumvent the messiness of noticing change (that is, acquiring knowledge or observing ways in which "our seeing, our expectations, and our thinking" are reorganised[@noe_strange_2015, Chapter 11, n.p.]) in practice-research; ii) _limits_, in which artist-scholars fail to examine the limits of what can and cannot be known through practice-research; and iii) _hyper-specificity_, in which practice-research understandings and methods are rarely in critical dialogue with each other. 
 
 _Finger Pointing Moon_ has three research questions built on these conditions:
 
@@ -30,37 +32,39 @@ Practice-research is not a singular method but rather an overarching approach fo
 
 The four characteristics outlined above are uniquely amplified for artist-scholars working with body-based practices. By _body-based_ I mean practices like dance and somatics predicated on the movements, gestures, postures and stillnesses of bodies, and where those same bodies underpin the development of new understandings. What is unique for body-based practices in relation to the key characteristics of practice-research described above is that they have a particularly complex and often fraught relationship with language;[@bauer_no_2019] the experiential nuances are not seen, but _felt_;[@ellis_corporeal_2020] the practices intersect with contested issues of embodiment and tacit awareness;[@sheets-johnstone_primacy_2011; @kampe_body-soma-self_2019] and they further complicate problems to do with disappearance, ephemerality and documentation.[@ellis_indelible_2005; @ledger_question_2011] 
 
-The conception, context and research design of _Finger Pointing Moon_ is founded on two propositions: i) that there is a systemic failure in practice-research to address the changes and differences made possible through research-focused artistic practices; ii) body-based practices provide a unique and focused lens through which to understand the possibilities and limitations of practice-research.
+The conception, context and research design of _Finger Pointing Moon_ is therefore founded on two propositions: i) that there is a systemic failure in practice-research to attempt to apprehend the changes and differences made possible through research-focused artistic practices; ii) body-based practices provide a unique and focused methodological lens through which to understand the possibilities and limitations of practice-research.
 
 The three research questions form the spine of the project's focus for practice-research to adopt a more lucid relationship with its own epistemic possibilities, limitations and failings. The alternative to not addressing these questions is the status quo in which endless variations of process are circulated and fetishized,[^fetish] representational proxies are assumed to stand in for epistemic things,[@rheinberger_toward_1997] outcomes are rarely explicitly made in dialogue with overlapping practices,[^theory] and there are no limits to unfalsifiable[^popper] claims to understanding and no limits to the vagueness of these claims. 
 
-In short, if all practice-research is presentable as _truth_ -- even in the sense that "truth is aspirational"[@ingold_search_2018] -- then it is broken as an approach to generating understanding. These research questions -- _proxies_, _limits_ and _hyper-specificity_ -- have been developed to help address and clarify the epistemic limits and possibilities of practice-research. Without epistemic edges, we diminish practice-research's value as an approach to recognising changes in understanding afforded by the complex experiences of human artistic endeavour. 
+In short, if all practice-research is presentable as _truth_ -- even in the sense that "truth is aspirational"[@ingold_search_2018] -- then it is broken as an approach to generating understanding. I have developed the research questions -- _proxies_, _limits_ and _hyper-specificity_ -- to help address and clarify the epistemic limits and possibilities of practice-research. Without epistemic edges, we diminish practice-research's value as an approach to recognising changes in understanding afforded by the complex experiences of human artistic endeavour. 
 
 ### Other research in this area
 
-In 1992 the UK Higher Education Funding Councils first recognised the work of artists as research and, unsurprisingly given the potential "access to highly lucrative government funding"[@magee_introduction._2012 n.p.], art and artists quickly became invested in the production of knowledge. Since then, the epistemological project in practice-research has comprised various attempts to reverse-engineer making art through an epistemological lens. That is, once art was recognised as research it became necessary to justify and validate its knowledge producing bona fides, and to avoid a situation in which "the entire history of art [became] eligible for a postgraduate research degree"[@frayling_research_1993 p.5] 
+In 1992 the UK Higher Education Funding Councils first recognised the work of artists as research and, unsurprisingly given the potential "access to highly lucrative government funding",[@magee_introduction._2012 n.p.] art and artists quickly became invested in the production of knowledge. Since then, the epistemological project in practice-research has comprised various attempts to reverse-engineer art-making through an epistemological lens. That is, once art was recognised as research it became necessary to justify and validate its knowledge-producing bona fides, and to avoid a situation in which "the entire history of art [became] eligible for a postgraduate research degree."[@frayling_research_1993 p.5] 
 
-This project of creating epistemic justifications for practice-research is characterised by two contested positions: 1) artistic artefacts require a written statement that synthesises the epistemic status (findings) of the research;[e.g. @noauthor_ref2021_2019; @nelson_practice_2013] 2) artistic artefacts themselves contain and communicate research findings.[e.g. @borgdorff_conflict_2012]  
+This project of creating epistemic justifications for practice-research has  been characterised by two conflicting positions:[^40k] 1) artistic artefacts require a written statement that synthesises the epistemic status (findings) of the research;[e.g. @noauthor_ref2021_2019; @nelson_practice_2013] 2) artistic artefacts themselves contain and communicate research findings.[e.g. @borgdorff_conflict_2012]
 
-Both positions have inherent problems. The extrinsic position -- that knowledge in practice-research is only revealed or clarified through written contextualisation[@bolt_magic_2007; @smith_practice-led_2009; @candy_role_2010] -- limits the role and importance of the artefact,[@magee_introduction._2012; @borgdorff_debate_2006; @candlin_proper_2000] and sets no margins on the epistemic claims that artistic-scholars make on behalf of their practices. Such claims are rarely "made available for sustained and verifiable peer review".[@haseman_tightrope_2007 n.p.; see also @candy_role_2010] The intrinsic position -- that knowledge is intrinsic to artistic-research artefacts[@ellis_that_2018; @borgdorff_conflict_2012] -- positions ambiguity and uncertainty as epistemic values that usefully produce "less identifiable knowledge products."[@butt_performance_2014 p.114]. Such products act as points of epistemic resistance, or "ways of knowing that are not able to shape -- or be shaped by -- the various tools and systems of the knowledge economy."[@ellis_that_2018 p.490]  
+[^40k]: For example, there is a curious contradiction in the UK that a practice-research PhD normally requires +/-40k words of contextual writing, while a submission to the REF only requires a 300 word statement. 
 
+Both positions have inherent problems. The extrinsic position -- that knowledge in practice-research is only revealed or clarified through written contextualisation[@bolt_magic_2007; @smith_practice-led_2009; @candy_role_2010] -- limits the role and importance of the artefact,[@magee_introduction._2012; @borgdorff_debate_2006; @candlin_proper_2000] and sets no margins on the epistemic claims that artistic-scholars make on behalf of their practices. Such claims are rarely "made available for sustained and verifiable peer review".[@haseman_tightrope_2007 n.p.; see also @candy_role_2010] The intrinsic position -- that knowledge is intrinsic to or "embodied in"[@borgdorff_foreword_2017 p.vi] artistic-research artefacts[@ellis_that_2018; @borgdorff_conflict_2012] -- positions ambiguity and uncertainty as epistemic values that usefully produce "less identifiable knowledge products."[@butt_performance_2014 p.114]. Such products act as points of epistemic resistance: they "resist academic conventions of accountability"[@borgdorff_foreword_2017 p.ix] or "ways of knowing that are not able to shape -- or be shaped by -- the various tools and systems of the knowledge economy."[@ellis_that_2018 p.490]  
 
+>Any added discursive outcome is there to support, not replace, the artistic contribution the research claims to make.[@borgdorff_foreword_2017 p.vi]
 
-curious contradiction: Note REF's solution is 300 word statement (but the contextual information "Bucket"). Doesn't align with Doctoral requirements. 
+>I must credit my colleague Michael Schwab from the Royal College of Art in London for coining the term ‘exposition’ for this form of writing. Exposing practice as research amounts to assembling material—images, sounds, texts, artefacts— which together make a case, a claim, whereby the balance between words and other articulations may vary.[@borgdorff_foreword_2017 p.x]
 
+That Foreword by Borgdorff is great -- but the discrepancy between the claims he is making and the quality/value of the work presented in JAR is worth considering. 
 
-Intrinsic and extrinsic epistemic positions also explicitly fail to recognise that research processes in all disciplines adopt the most suitable methods to recognise change or difference in the materials or data of those processes. When artist-scholars adopt practice-research methods it is therefore _implied_ but rarely stated that these methods are best able to reveal change and difference in the artistic materials, experiences and practices that underpin the research. Yet what types of changes or differences are _really_ made possible by practice-research and how are they able to be recognised if at all? 
+The tension between intrinsic and extrinsic _claims to knowledge_ in practice-research looms over all practical and theoretical work in the field.[e.g. @borgdorff_foreword_2017 p.ix] It is a conflict founded on: i) the extent to which scholars _believe_ that language is needed to describe and justify claims to knowledge;[@berry_life_2001; @williams_mindfulness_2012] ii) differing perspectives on the limits of artistic practice outcomes to _hold_ and communicate understanding;[@stephen_scrivener_art_2002; @borgdorff_debate_2006] and iii) the contested relationship between artistic-scholarly outcomes and the pursuit of truth.[e.g. @noe_strange_2015; @ingold_search_2018] 
 
-artists just do practice-research because they are artists and p-r is what artists do in the university. **add here "When body-based practitioners ..."** add note about the method is often simply assumed -- I'm an artist, I therefore do practice-research. 
-
-To date, no research has directly examined the margins and intersections of these two positions in practice-research. 
-The aim of _Finger Pointing Moon_ is to use a range of methods -- name them -- to examine the margins and intersections of intrinsic and extrinsic epistemics in body-based practice. 
-
-interested not only in what we can agree on but what we can clearly disagree about on. what can't be said? some things must be open to debate (other than just methodology). Where is there legitimate disagreement? (heterotopic discourse -- ways of arguing) -- similar to Biggs and Buchler (2011) approach, p.83 of the chapter in their edited volume.
-
-
+In _Finger Pointing Moon_ the intrinsic-extrinsic conflict will likewise loom over the project's methods, analysis and outcomes. The conflict is not a question to be addressed, but more akin to the historical epistemic air that the project will breathe. 
 
 ### My contribution to improving, enhancing, or developing creativity, insights, knowledge or understanding in the area
+
+
+- draw together large range of ideas, opinions and histories that have attempted to handle the epistemology of practice-research
+- where the large body of work has used (often by default) a relativist approach to making epistemic claims, my ambition is to incorporate rationalism, and empiricism
+- to speak directly to the problems -- push through the fuzziness
+- 
 
 - proxy is very different from staring into the belly of not knowing. Accepting the possibility of not knowing or there are things that are not able to be known 
 - I am not proposing evidence evidence evidence. Tension between evidence, and allowing the creative work to do its work.
@@ -69,15 +73,14 @@ interested not only in what we can agree on but what we can clearly disagree abo
 - but what is the nature of this epistemic place? can something that is unknowable (akin to Berry's thinking) be an epistemic thing? And if not, what kind of _thing_ is it? 
 - some kind of line between what is observable and standpoint epistemology
 
+interested not only in what we can agree on but what we can clearly disagree about on. what can't be said? some things must be open to debate (other than just methodology). Where is there legitimate disagreement? (heterotopic discourse -- ways of arguing) -- similar to Biggs and Buchler (2011) approach, p.83 of the chapter in their edited volume.
+
 ### Who will be most interested in the outcomes? 
 
 - artist-scholars from various disciplines working in and through practice-research
-- graduate and postgraduate students working in practice-research
+- graduate and postgraduate students working in practice-research across disciplines
 - philosophers / epistemologists
-- 
-
-
-
+- body-based specialists grappling with understanding their work as potentially epistemic things (and claims to knowledge)
 
 
 ### Research objectives
@@ -104,11 +107,13 @@ and discuss if required propose precise, clear alternatives that speak directly 
 
 _3. Hyper-specificity:_
 
-3. _Hyper-specificity_: What language is typically used to express findings and failures in practice-research? How might this language be developed, adapted or reconfigured in order to create increased critical dialogue between practice-research artist-scholars and their projects?
+7. _Hyper-specificity_: What language is typically used to express findings and failures in practice-research? How might this language be developed, adapted or reconfigured in order to create increased critical dialogue between practice-research artist-scholars and their projects?
 
-7. generate set of epistemic principles underpinning body-based practice-research, with particular attention on findings, failures and indescribables
-8. generate set of epistemic values in body-based practice-research that transparently and rigorously detail examples of "who, when [and] why is creating knowledge."[@mignolo_epistemic_2009 p.160]
-9. examine the potential of proposed body-based epistemic principles and values to be generalisable to other forms of practice-research
+8. generate set of epistemic principles underpinning body-based practice-research, with particular attention on findings, failures and indescribables
+
+9. generate set of epistemic values in body-based practice-research that transparently and rigorously detail examples of "who, when [and] why is creating knowledge."[@mignolo_epistemic_2009 p.160]
+
+10. examine the potential of proposed body-based epistemic principles and values to be generalisable to other forms of practice-research
 
 ## Research methods 
 
@@ -116,17 +121,21 @@ _3. Hyper-specificity:_
 
 >In describing your research methods it is not sufficient to state, for example, that you intend to visit a particular archive, or an exhibition abroad. You must provide adequate details of sources to be consulted, and you should state briefly what kinds of material you will be consulting, why they are relevant to your programme of research, and how you will interrogate them. Depending on the approach you are using throughout your research, you may also need to explain clearly the creative and/or performative aspects of the work, explain how you will develop a new process, product or tool, or provide details of who you have consulted or will be involved in the process of research.
 
->Under the Research Methods heading you should also outline how any copyright or intellectual property issues relating to the project and the production of any outputs will be addressed.
+
 
 >convince decision makers that ‘this is the best solution’ and feel compelled to fund it – (approx >50% of content); 
 
 >Creative output can be produced, or practice undertaken, as an integral part of a research process as defined above. The Council would expect, however, this practice to be accompanied by some form of documentation of the research process, as well as some form of textual analysis or explanation to support its position and as a record of your critical reflection. Equally, creativity or practice may involve no such process at all, in which case it would be ineligible for funding from the Arts and Humanities Research Council.(p.11)
 
+### Why these methods? 
+
+The research methods are designed to create the conditions in which to directly respond to and _achieve_ the project objectives. These objectives, in turn, feed directly into the three research problems, which underpin the primary research aim. The research questions -- _proxies_, _limits_, and _hyper-specificity_ -- are 'meta' or wide-angle problems in practice-research. The following methods are appropriate to the breadth of these problems, while affording detail where necessary. The methods are multi-modal, and comprise empirical practice-research fieldwork, lived experience as a dance artist-researcher, personal communications, interviews with key thinkers-practitioners and supplemental scholarly research to understand experiences and understandings of practice-research epistemics from the inside (through experimental practice) and the outside (through traditional scholarship). They are detailed below, and are organised under the three overarching problems they directly address.  
+
+discuss body-based in this paragraph above
+
+The three issues -- _proxies_, _limits_, and _hyper-specificity_ -- also act as a conceptual structure for the research design.
+
 ### Methods
-
-The research methods are designed to create the conditions in which to directly respond to and _achieve_ the project objectives. These objectives, in turn, feed directly into the three research problems, which underpin the primary research aim. The research questions -- _proxies_, _limits_, and _hyper-specificity_ -- are 'meta' or wide-angle problems in practice-research. The following methods are appropriate to the breadth of these problems, while affording detail where necessary. The methods are multi-modal, and comprise practice-research fieldwork, lived experience as a dance artist-researcher, personal communications, interviews with key thinkers-practitioners and supplemental scholarly research to understand experiences and understandings of practice-research epistemics from the inside (through experimental practice) and the outside (through traditional scholarship). They are detailed below, and are organised under the three overarching problems they directly address.  
-
-The three issues -- proxies, limits, and hyper-specificity -- also act as a conceptual structure for the research design.
 
 1. _Proxies_: expert opinion, literature-based research
 
@@ -174,13 +183,14 @@ systematic review and meta-analysis
     + propose sets of epistemic principles and values underpinning body-based practice-research [output]
     + categorise and organise these qualities of experience into a "lexicon of epistemology in body-based practice-research"[^wheel] [output] -- 
 
-### Why these methods? 
+
 
 ### People and roles
 
 
 ### Copyright or intellectual property issues
 
+>Under the Research Methods heading you should also outline how any copyright or intellectual property issues relating to the project and the production of any outputs will be addressed.
 
 ## Development plan 
 
@@ -307,6 +317,24 @@ _4. W = whole project_
 
 
 ## edit bin
+
+"the three defining questions of epistemology"[@markie_rationalism_2017 n.p.]
+- what is nature of knowledge?
+- how do we gain it?
+- what are the limits? 
+
+To date, no research has directly examined the margins and intersections of these two positions in practice-research. 
+The aim of _Finger Pointing Moon_ is to use a range of methods -- name them -- to examine the margins and intersections of intrinsic and extrinsic epistemics in body-based practice. 
+
+I will use a range of methods -- empirical practice-research fieldwork, lived experience as a dance artist-researcher, personal communications, interviews with key thinkers-practitioners and supplemental scholarly research -- to examine the margins and intersections the intrinsic-extrinsic tension will percolate throughout the methods, analysis and outcomes.  
+
+**What is missing from this section? Need to address proxies, limits and hyper-specificity in “other research” section?**
+
+It reveals itself in common questions like, what work can the artistic work do?; what is the role of the writing in my practice? Do artistic artefacts communicate underis the relationship between the writing and the practice?  
+
+Intrinsic and extrinsic epistemic positions also explicitly fail to recognise that research processes in all disciplines adopt the most suitable methods to recognise change or difference in the materials or data of those processes. When artist-scholars adopt practice-research methods it is therefore _implied_ but rarely stated that these methods are best able to reveal change and difference in the artistic materials, experiences and practices that underpin the research. Yet what types of changes or differences are _really_ made possible by practice-research and how are they able to be recognised if at all? 
+
+artists just do practice-research because they are artists and p-r is what artists do in the university. **add here "When body-based practitioners ..."** add note about the method is often simply assumed -- I'm an artist, I therefore do practice-research. 
 
 - early efforts: Pakes (know-how) Scrivener (apprehension)
 
