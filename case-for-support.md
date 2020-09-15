@@ -53,7 +53,7 @@ Both positions have inherent problems. The extrinsic position -- that knowledge 
 
 The tension between intrinsic and extrinsic _claims to knowledge_ in practice-research looms over all practical and theoretical work in the field.[e.g. @borgdorff_foreword_2017 p.ix] It is a conflict founded on: i) the extent to which scholars and regulatory bodies _believe_ that language is needed to describe and justify claims to knowledge;[e.g. @berry_life_2001; @williams_mindfulness_2012] ii) differing perspectives on the limits of artistic practice outcomes to _hold_ and communicate understanding;[e.g. @stephen_scrivener_art_2002; @borgdorff_debate_2006] and iii) the contested relationship between artistic-scholarly outcomes and the pursuit of truth.[e.g. @noe_strange_2015; @ingold_search_2018] 
 
-In _Finger Pointing Moon_ the intrinsic-extrinsic conflict will likewise loom over the project's methods, analysis and outcomes. The conflict is not a question to be addressed, but more akin to the historical epistemic air that the project is compelled to breathe. 
+In _Finger Pointing Moon_ the intrinsic-extrinsic conflict will likewise loom over the project's methods, analysis and outcomes. The conflict is the historical epistemic air that the project will breathe. 
 
 #### Past efforts to describe an epistemology of practice-research
 
@@ -63,37 +63,32 @@ Knudsen has pushed for equivalence in practice-research epistemology. This means
 
 ##### Know-how and technê
 
-One solution to the epistemic problem in practice-research has been to invoke the concepts of practical knowledge (technê) and know-how.[^techne] This work has rarely made it clear -- or maintained the clarity -- as to where understanding or knowledge is _located:_ in the work of art or with the researcher. Regardless, It also fails to distinguish know-how in practice-research from the kind of know-how present in any research discipline. Researc
-
-
-Borgdorff unequivocal in saying it's located in the art:
-
->With what kind of knowledge and understanding does research in the arts concern itself? And how does that knowledge relate to more conventional forms of scholarly knowledge? The short answer to the first question is: knowledge embodied in art practices (objects, processes). The answer to the second question will provide a closer understanding of what ‘embodied knowledge’ may be.[@borgdorff_debate_2006 p.13]
+One early solution to the epistemic problem in practice-research was to invoke the concepts of practical knowledge (technê) and know-how as a way of understanding artistic-research specific epistemics.[^techne] It has suffered from three problems: 1) This work has rarely made it clear where understanding or knowledge is _located:_ in the work of art or with the researcher. 2) It has failed to distinguish know-how in practice-research from the kind of know-how present in any research discipline. That is, what is peculiar to the concept of know-how in artistic practice-research as compared with, for example, engineering or bioethics? 3) It does not explicitly address change(s) as a consequence of research processes -- in any research process the question of what we understand or know differently as a consequence of that process is fundamental. 
 
 [^techne]: This draws on the work of Aristotle, Ryle, Carr and Polanyi, and more recently Pakes. See Borgdorff for an overview.[-@borgdorff_debate_2006]
 
 ##### Apprehension
 
-- scrivener: shifts to role of the public/audience. 
-- ellis
-- magee
+Scrivener wrote that the "art object does not embody a form of knowledge."[@stephen_scrivener_art_2002 n.p.] Yet Borgdorff stated that knowledge is "embodied in art practices (objects, processes)."[@borgdorff_debate_2006 p.13] Even in clear disagreement Borgdorff and Scrivener pushed the practice-research epistemic question towards the intrinsic end of the intrinsic-extrinsic continuum, and in doing so pulled the audience into the conflict. 
+
+Curiously, even in disagreement, both scholars (inadvertently in Borgdorff's case) ended up focusing on the limits of the artefact in practice-research. 
+
+In so doing they draw the art object's audience into the issue -- Borgdorff through his focus on hermeneutics, and Scrivener through his detailed analysis of the role of apprehension in understanding an epistemology of practice-research.
+
+##### The work of the (art) work
+
+More recently ... Magee, Ellis - relativist. drawing on Borgdorff's later work. 
+
+
 
 ##### Messiness
 
 - see that thing produced for overview
 
 
-write this following paragraph as lead in to next section.
-Borgdorff states that artistic research is concerned with knowledge embodied in artistic objects and processes.[@borgdorff_debate_2006] His summary is that the "distinctive character of art knowledge" is cognitive and rational, though non-conceptual and non-discursive.[@borgdorff_debate_2006 p.15] 
+These past efforts to describe an epistemology of practice-research reveal the complexity of the problem. There are effectively three _agents_ at play -- the artefact, the artist and the audience -- and the extent to which a scholar foregrounds the role of each has determined their position in attempting to understand the epistemic limits and possibilities of practice-research. What is shared is relativist constructivist framework: anything goes. relaxed attitude to truth (not surprising given the pomo epoch from whence it came). 
 
-He suggests that practice-research's 
-
-- borgdorff (debate, 2006) -- good overview
->The epistemological issue of the distinctive character of art knowledge is also addressed by phenomenology, by hermeneutics and by the cognitive sciences.[@borgdorff_debate_2006 p.14]
-
-Mention (for each) how they might touch on the extrinsic-intrinsic continuum
-
->In sum, the knowledge embodied in art, which has been variously analysed as tacit, practical knowledge, as ‘knowing-how’ and as sensory knowledge, is cognitive, though nonconceptual; and it is rational, though nondiscursive. The distinctive nature of the knowledge content has been analysed in depth in phenomenology, hermeneutics and cognitive psychology.[@borgdorff_debate_2006 p.15]
+Mention Ingold here about truth. What can be said? What can't be said? What are the edges? The failures? How might the language of practice-research be radically re-shaped?  
 
 ### My contribution to improving, enhancing, or developing creativity, insights, knowledge or understanding in the area
 
@@ -354,6 +349,23 @@ _4. W = whole project_
 
 
 ## edit bin
+
+write this following paragraph as lead in to next section.
+Borgdorff states that artistic research is concerned with knowledge embodied in artistic objects and processes.[@borgdorff_debate_2006] His summary is that the "distinctive character of art knowledge" is cognitive and rational, though non-conceptual and non-discursive.[@borgdorff_debate_2006 p.15] 
+
+He suggests that practice-research's 
+
+- borgdorff (debate, 2006) -- good overview
+>The epistemological issue of the distinctive character of art knowledge is also addressed by phenomenology, by hermeneutics and by the cognitive sciences.[@borgdorff_debate_2006 p.14]
+
+Mention (for each) how they might touch on the extrinsic-intrinsic continuum
+
+>In sum, the knowledge embodied in art, which has been variously analysed as tacit, practical knowledge, as ‘knowing-how’ and as sensory knowledge, is cognitive, though nonconceptual; and it is rational, though nondiscursive. The distinctive nature of the knowledge content has been analysed in depth in phenomenology, hermeneutics and cognitive psychology.[@borgdorff_debate_2006 p.15]
+
+>With what kind of knowledge and understanding does research in the arts concern itself? And how does that knowledge relate to more conventional forms of scholarly knowledge? The short answer to the first question is: knowledge embodied in art practices (objects, processes). The answer to the second question will provide a closer understanding of what ‘embodied knowledge’ may be.[@borgdorff_debate_2006 p.13]
+
+
+In research instances where an artist-scholar's understanding of their know-how is changed through artistic-research then  
 
 Use of the term exposition by Schwab and JAR. e.g. "Michael Schwab from the Royal College of Art in London for coining the term ‘exposition’ for this form of writing. Exposing practice as research amounts to assembling material—images, sounds, texts, artefacts— which together make a case, a claim, whereby the balance between words and other articulations may vary."[@borgdorff_foreword_2017 p.x]
 
