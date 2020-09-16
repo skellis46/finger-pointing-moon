@@ -4,8 +4,15 @@
 _un/knowing body_
 - Siobhan Davies Dance or different gallery?
 - Australia: Dancehouse? (need to pay someone to install it there)
-- Scotland? ask Katrina
+- The Work Room
+- S'ALA? 
 
+_unforgettable_
+
+- The Place: contacted Eddie 20200916
+- Yorkshire Dance: contacted Wieke 20200916
+- San Francisco space? -- contacted Christian Burns 20200916
+- Malmo? - Bahar
 
 >from Je-S help:
 
