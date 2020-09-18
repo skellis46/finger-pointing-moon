@@ -10,9 +10,11 @@ _un/knowing body_
 _unforgettable_
 
 - The Place: contacted Eddie 20200916
-- Yorkshire Dance: contacted Wieke 20200916
+- Yorkshire Dance: confirmed
 - San Francisco space? -- contacted Christian Burns 20200916
 - Malmo? - Bahar
+- contacted Debbie Williams about Choreomundus contacts
+- S'ALA
 
 >from Je-S help:
 
