@@ -2,19 +2,30 @@
 
 
 _un/knowing body_
+
+confirmed:
+- S'ALA: require translation of materials? 
+
+yet to approach:
 - Siobhan Davies Dance or different gallery?
 - Australia: Dancehouse? (need to pay someone to install it there)
 - The Work Room
-- S'ALA? 
+
 
 _unforgettable_
 
-- The Place: contacted Eddie 20200916
+confirmed:
 - Yorkshire Dance: confirmed
+
+contacted:
+- The Place: contacted Eddie 20200916
 - San Francisco space? -- contacted Christian Burns 20200916
-- Malmo? - Bahar
 - contacted Debbie Williams about Choreomundus contacts
-- S'ALA
+
+possible: 
+- Malmo? - Bahar
+
+
 
 >from Je-S help:
 
