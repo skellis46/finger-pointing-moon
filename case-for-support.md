@@ -304,27 +304,39 @@ _4. W = whole project_
 - these outputs should address (in some form) the overall aim. Can this aim allude to key aspect of communications or is that separate to the 'research'?
 
 - OUTPUT 7: video essay: collates and articulates key concerns/findings of project [W] RES
-- OUTPUT 8: 8-10 podcasts (transcribed) [W] DEV
-    + Vida Midgelow
-    + Paul Magee
-    + Harmony Bench (scepticism)
-    + Rachel Hann
-    + Henk Borgdorff
-    + Erik Knudsen
-    + Finland? Sweden? Canada? 
-    + Singapore
-    + Katherine Hawley?
-    + look at PRAG group?
-    + interviews with wider public (e.g. Jo Fidgen, Lupe, ) - is she worth asking about possible communications thinking? ask to read a short document outlining finger pointing moon project (the concept).
-    + School of Life? 
-    + LessWrong? 
+- OUTPUT 8: 2 series of 8 episodes of podcast [W] DEV
+    - 1. Series 1: limits of knowledge
+        + experimental failures
+        + what it means to know something
+        + know-how: craft and practice
+        + contradictory research
+        + perception and perceptual error
+        + describing what we know
+        + the things we will never know
+        + machine learning and AI
+        + contemplation, meditation and enlightenment
+        + taste (aesthetic knowledge)
+        + conspiracy
+        + truth and belief
+    - 2. Series 2: limits of language
+        + unsayable things
+        + dance and language
+        + gaps between different languages
+        + when words fail us
+        + swearing and cussing
+        + language v direct experience
+        + silence and contemplation
+        + mutism
+        + sign language
+        + science of language
+        + computer languages and coding
 
 - OUTPUT 9: discourse forum: a site for students, potential students, artist-researchers, other disciplines; create with group of people from around the world: look to get 50-100 active users in first year [W] DEV
     + plan for maintenance and sustainability
 - OUTPUT 10: 5 curated talks online (micro-conferences) [W - but curated towards each of 3 problems] DEV
     + e.g. [lesswrong.com/posts/9m9SniwdKsKyfjrMw/inviting-curated-authors-to-give-5-min-online-talks](https://www.lesswrong.com/posts/9m9SniwdKsKyfjrMw/inviting-curated-authors-to-give-5-min-online-talks)
     + these could be held by people who have contributed to the project blog or the podcasts? 
-- OUTPUT 11: article for The Conversation [W] RES / DEV
+- OUTPUT 11: article for The Conversation [W] RES / DEV - **remove this**
 - OUTPUT 12: project website and blog [W] RES
 
 - OUTPUT 13: github site (radical transparency) [W] DEV
@@ -349,6 +361,20 @@ _4. W = whole project_
 
 
 ## edit bin
+
++ Vida Midgelow
+    + Paul Magee
+    + Harmony Bench (scepticism)
+    + Rachel Hann
+    + Henk Borgdorff
+    + Erik Knudsen
+    + Finland? Sweden? Canada? 
+    + Singapore
+    + Katherine Hawley?
+    + look at PRAG group?
+    + interviews with wider public (e.g. Jo Fidgen, Lupe, ) - is she worth asking about possible communications thinking? ask to read a short document outlining finger pointing moon project (the concept).
+    + School of Life? 
+    + LessWrong? 
 
 write this following paragraph as lead in to next section.
 Borgdorff states that artistic research is concerned with knowledge embodied in artistic objects and processes.[@borgdorff_debate_2006] His summary is that the "distinctive character of art knowledge" is cognitive and rational, though non-conceptual and non-discursive.[@borgdorff_debate_2006 p.15] 
