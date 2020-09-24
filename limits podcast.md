@@ -54,20 +54,10 @@ Most of these are about going beyond limits: psychological, personal, business.
 - No Limit Inside
 - Three presents The Sky’s The Limit
 
-## possible series themes (with quick thoughts on possible episodes)
+## possible series themes (with quick thoughts on possible episodes)
 
 - limits of language
-    + unsayable things
-    + dance and language
-    + gaps between different languages
-    + when words fail us
-    + swearing and cussing
-    + language v direct experience
-    + silence and contemplation
-    + mutism
-    + sign language
-    + science of language
-    + computer languages and coding
+
 - limits of the body
     + gymnasts
     + circus performers
