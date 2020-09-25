@@ -126,20 +126,64 @@ _3. Hyper-specificity: What language is used to express approaches, findings and
 
 ## Research methods 
 
->What research methods will you be using to address the questions or issues that you have set yourself, or solve the problems you have identified, or to explore the matters you intend to investigate? Why have you chosen these methods? Why are they the best way to answer the research questions or problems you have identified? What will be your role? If there are other people involved, what will their roles be and why are they the appropriate people to be involved? 
+### Which research methods?
 
->In describing your research methods it is not sufficient to state, for example, that you intend to visit a particular archive, or an exhibition abroad. You must provide adequate details of sources to be consulted, and you should state briefly what kinds of material you will be consulting, why they are relevant to your programme of research, and how you will interrogate them. Depending on the approach you are using throughout your research, you may also need to explain clearly the creative and/or performative aspects of the work, explain how you will develop a new process, product or tool, or provide details of who you have consulted or will be involved in the process of research.
+>What research methods will you be using to address the questions or issues that you have set yourself, or solve the problems you have identified, or to explore the matters you intend to investigate?
 
+I will use the following research methods, organised under the three overarching problems they address. 
 
->convince decision makers that ‘this is the best solution’ and feel compelled to fund it – (approx >50% of content); 
+1. _Proxies_:
 
->Creative output can be produced, or practice undertaken, as an integral part of a research process as defined above. The Council would expect, however, this practice to be accompanied by some form of documentation of the research process, as well as some form of textual analysis or explanation to support its position and as a record of your critical reflection. Equally, creativity or practice may involve no such process at all, in which case it would be ineligible for funding from the Arts and Humanities Research Council.(p.11)
+- **Literature and field research and review** of practice-research scholarship and practice to identify any epistemic patterns, ambiguities and proxies
+- **Critical-analysis** of these materials to develop a theoretical argument regarding the use of epistemic proxies in practice-research 
+- **Scholarly writing** to communicate findings
+
+2. _Limits:_ 
+
+- **Empirical and experiential practice-research fieldwork** 
+- **First and third-person case-report** that involves experimental documentation; critical reflection; textual analysis (Pakes, Whalley, Ellis)
++ practice will be 4 x 2 week sessions of Authentic Movement (four hours per day, 5 days per week = 20 hours per week). 
++ includes speculative and/or experimental documentation practices using still and moving images and written responses [output]
++ analytical reflection on the practice in order to propose what can and cannot be known about experiences in this practice, and other body-based practices more generally 
++ scholarly journal article that takes a quasi third-person perspective on this research: its limits, misses, problems, mistakes [output]
+
+3. _Hyper-specificity_: 
+
+- **Systematic review and meta-analysis** 
+
+- critical analysis
+
+    + pay particular attention to language of findings, failures and indescribables from literature and field review in problem 2 
+
+    + categorise and organise these qualities of experience into a "lexicon of epistemology in body-based practice-research"[^wheel] [output] -- 
 
 ### Why these methods? 
 
-The research methods are designed to create the conditions in which to directly respond to and _achieve_ the project objectives. These objectives, in turn, feed directly into the three research problems, which underpin the primary research aim. The research questions -- _proxies_, _limits_, and _hyper-specificity_ -- are 'meta' or wide-angle problems in practice-research. The following methods are appropriate to the breadth of these problems, while affording detail where necessary. The methods are multi-modal, and comprise empirical practice-research fieldwork, lived experience as a dance artist-researcher, personal communications, dialogic exchange with key scholars, and supplemental scholarly research to understand experiences and understandings of practice-research epistemics from the inside (through experimental practice) and the outside (through traditional scholarship). They are detailed below, and are organised under the three overarching problems they directly address.  
+>Why have you chosen these methods? Why are they the best way to answer the research questions or problems you have identified? 
+
+>Depending on the approach you are using throughout your research, you may also need to explain clearly the creative and/or performative aspects of the work, explain how you will develop a new process, product or tool, or provide details of who you have consulted or will be involved in the process of research.
+
+>convince decision makers that ‘this is the best solution’ and feel compelled to fund it – (approx >50% of content); 
+
+- makes me 
+
+The research methods are designed to create the conditions in which to directly respond to and _achieve_ the project objectives. These objectives, in turn, feed directly into the three research problems, which underpin the primary research aim. The research questions -- _proxies_, _limits_, and _hyper-specificity_ -- are 'meta' or wide-angle problems in practice-research. The following methods are appropriate to the breadth of these problems, while affording detail where necessary. 
 
 discuss body-based in this paragraph above
+
+- akin to Borgdorff's research _for_ the arts -- an instrumental perspective that produces "insights and instruments", "the tools and the knowledge of materials" that are needed by artists[@borgdorff_debate_2006 p.6]. But also _in_ the arts: Research in the arts "does not observe a distance between the researcher and the practice of art"[p.7]. It is where the artistic practices is a vital part of the research process and outcome. 
+
+link between first-person-ness of PaR and somatics; soma -- first person: <the field of somatics.md>.
+Authentic Movement is a process-oriented movement practice that specifically distinguishes the body as observed from the outside (third-person perspective) and the soma as perceived from the inside (first-person perception).[@hanna_what_1995 p.341] Its methodological value in _Finger Pointing Moon_ is to serve as a paradigmatic _edge-case_ for examining the epistemic limits, possibilities and failings of practice-research. 
+
+Authentic Movement is an edge-case example of practice-research because it is clearly process-orientated, dwells deeply in ambiguous or hard to pin-down feelings and thoughts, presents movement experiences that are not obviously visible and thereby effectively impossible to document, and has an ambivalent relationship to the written word
+
+provide a structured process of empirical (visible) and sensorial (non-visible) observation that it is a body-based practice that 
+
+- clarify use of AM: what is it's function? how does it work? what claims can be made? the concept of efficacy is critical here? why this technique/practice and not another or others? This is based on reading [@ginot_shustermans_2010]
+- look up efficacy here
+
+are multi-modal, lived experience as a dance artist-researcher, personal communications, dialogic exchange with key scholars, and supplemental scholarly research to understand experiences and understandings of practice-research epistemics from the inside (through experimental practice) and the outside (through traditional scholarship).
 
 - what might the "technologies of investigation"[@gramelsberger_laboratory_2013 p.104] be in par? 
 - what do I imagine the objects of investigation to be in this work?
@@ -147,51 +191,10 @@ discuss body-based in this paragraph above
 
 The three issues -- _proxies_, _limits_, and _hyper-specificity_ -- also act as a conceptual structure for the research design.
 
-How do I include methods that are part of Development plan? Describe the overlap? 
-
-### Methods
-
-1. _Proxies_: expert opinion, literature-based research and analysis
-
-- Comprehensive literature and field (practice) review of practice-research scholarship, and critical and theoretical analysis of the language used in these materials to identify any epistemic patterns, ambiguities and oversights
-- Creative and analytical 'reconfiguration' (where necessary or appropriate) of these linguistic patterns that reveal the presence or absence of an epistemic proxy (in other words, what epistemic possibilities are not being discussed or are being glossed over?)  
-
-2. _Limits:_ first-person and (second?) third-person case-report
-
-
-link between first-person-ness of PaR and somatics; soma -- first person: <the field of somatics.md>.
-Authentic Movement is a process-oriented movement practice that specifically distinguishes the body as observed from the outside (third-person perspective) and the soma as perceived from the inside (first-person perception).[@hanna_what_1995 p.341] Its methodological value in _Finger Pointing Moon_ is to serve as a paradigmatic _edge-case_ for examining the epistemic limits, possiblities and failings of practice-research. 
-
-provide a structured process of empirical (visible) and sensorial (non-visible) observation that it is a body-based practice that 
-
-- clarify use of AM: what is it's function? how does it work? what claims can be made? the concept of efficacy is critical here? why this technique/practice and not another or others? This is based on reading [@ginot_shustermans_2010]
-- look up efficacy here
-
-    + practice will be 4 x 2 week sessions of Authentic Movement (four hours per day, 5 days per week = 20 hours per week). Authentic Movement is an edge-case example of practice-research because it is clearly process-orientated, dwells deeply in ambiguous or hard to pin-down feelings and thoughts, presents movement experiences that are not obviously visible and thereby effectively impossible to document, and has an ambivalent relationship to the written word
-    + includes speculative and/or experimental documentation practices using still and moving images and written responses [output]
-    + analytical reflection on the practice in order to propose what can and cannot be known about experiences in this practice, and other body-based practices more generally 
-    + scholarly journal article that takes a quasi third-person perspective on this research: its limits, misses, problems, mistakes [output]
-    
-- practice-research: collecting practice of 'unforgettable experiences of body-based practice/performance', called _Unforgettable_
-    + not at all clear how this practice relates to the RQs
-    + invite and collect notes and letters from scholars, artists and wider public about first-hand memories of watching and doing dance and/or performance
-    + catalogue these collected letters and responses into various kinds of works, responses, years, etc
-    + cataloguing process will result in a small-scale exhibition to be presented at various performance spaces in the UK [output]
-- practice-research: collecting practice of materials, traces, ideas, notes, and thoughts on corporeal epistemics: _The Un/knowable Body_
-    + gather materials throughout the research project
-    + organise these materials into emergent patterns (based on not yet known characteristics) 
-    + develop exhibition of these materials to be presented at movement research centres nationally and internationally [output]
-
-3. _Hyper-specificity_: systematic review and meta-analysis
-
-systematic review and meta-analysis
-
-- traditional scholarship: critically analyse the data sets from problem 2 to propose broad-ranging epistemic values and principles for body-based practice-research
-    + pay particular attention to language of findings, failures and indescribables from literature and field review in problem 2 
-
-    + categorise and organise these qualities of experience into a "lexicon of epistemology in body-based practice-research"[^wheel] [output] -- 
 
 ### People and roles
+
+>What will be your role? If there are other people involved, what will their roles be and why are they the appropriate people to be involved? 
 
 PI: 
 RA:
@@ -224,7 +227,15 @@ use a practice -- it's how I come to understand things
 
 solitude practice: One hour daily in solitude and silence - "doubts, or questions, or even just difficulties ... can only be found within--without distractions, without peer pressure, in solitude".[@deresiewicz_solitude_2010] This component is speculative and unknown. It's a wildcard. 
 
-
+- practice-research: collecting practice of 'unforgettable experiences of body-based practice/performance', called _Unforgettable_
+    + not at all clear how this practice relates to the RQs
+    + invite and collect notes and letters from scholars, artists and wider public about first-hand memories of watching and doing dance and/or performance
+    + catalogue these collected letters and responses into various kinds of works, responses, years, etc
+    + cataloguing process will result in a small-scale exhibition to be presented at various performance spaces in the UK [output]
+- practice-research: collecting practice of materials, traces, ideas, notes, and thoughts on corporeal epistemics: _The Un/knowable Body_
+    + gather materials throughout the research project
+    + organise these materials into emergent patterns (based on not yet known characteristics) 
+    + develop exhibition of these materials to be presented at movement research centres nationally and internationally [output]
 
 >we can be clearer about the kinds of actions that are useful to describe as “leadership” rather than something else, like “management” or “organising”. Leadership actions are those that help shift the way groups, networks or whole communities of people relate and so such actions generate effects over time. [@bendell_leadership_2019]
 
