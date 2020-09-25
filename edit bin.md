@@ -1,5 +1,26 @@
 # edit bin
 
+- traditional scholarship: literature and field (practice) review of published materials that implicitly and/or explicitly examine epistemics of body-based practice (some overlap of materials examined in Problem 1)**What do I do with this review? Need to add something here to this method**
+
+    + develop annotated bibliography of 50-100 key published materials and present on project website [output] 
+
+ + collate this 'language of findings' in relation to Mignolo's proposition that we must focus on the knower (and not the known), and in particular "who, when [and] why is creating knowledge."[@mignolo_epistemic_2009 p.160]
+    + propose sets of epistemic principles and values underpinning body-based practice-research [output]
+
+10. examine the potential of proposed body-based epistemic principles and values to be generalisable to other forms of practice-research
+
+
+generate set of epistemic values in body-based practice-research that transparently and rigorously detail examples of "who, when [and] why is creating knowledge."[@mignolo_epistemic_2009 p.160]
+
+
+re the intrinsic-extrinsic debate: **note that these ends of continuum align quite nicely with knowledge being located with the researcher or with the object**
+
+I have developed the research questions -- _proxies_, _limits_ and _hyper-specificity_ -- to examine an epistemology of practice-research predicated on empirical _and_ subjective analyses.
+
+about fetishizing process:
+Add list here incling J. of Embodied Research, JAR, and any version of REF. Not surprising because mostly artist-scholars are artists who end up in the university and just want to get to do their practice. The 'market' of journals is simply responding to the desires of artist-scholars
+
+
 ##### Equivalence
 
 Knudsen has suggested that "knowledge is knowledge"[@knudsen_research_2016 n.p.] even though it might be generated in distinct ways. Similarly, Pakes has written that unless we can know an artist's claim to knowledge, artistic research can not have "equivalent status with other, more traditional forms of scholarly enquiry".[@pakes_knowing_2009 p.10] This focus on epistemic equivalence is more about justifying the presence of practice-research in the Academy than it is about the epistemic nature of practice-research. 
