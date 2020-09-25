@@ -1,5 +1,10 @@
 # edit bin
 
+
+- traditional scholarship: critically analyse the data sets from problem 2 to propose broad-ranging epistemic values and principles for body-based practice-research
+
+- Search Creative and analytical 'reconfiguration' (where necessary or appropriate) of these linguistic patterns that reveal the presence or absence of an epistemic proxy (in other words, what epistemic possibilities are not being discussed or are being glossed over?)  
+
 - traditional scholarship: literature and field (practice) review of published materials that implicitly and/or explicitly examine epistemics of body-based practice (some overlap of materials examined in Problem 1)**What do I do with this review? Need to add something here to this method**
 
     + develop annotated bibliography of 50-100 key published materials and present on project website [output] 
