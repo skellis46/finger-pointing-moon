@@ -1,5 +1,36 @@
 # edit bin
 
+This approach underpins _1. Limits_ and maps onto what Borgdorff calls "research _in_ the arts", which "does not observe a distance between the researcher and the practice of art".[@borgdorff_debate_2006 p.7] 
+
+This bi-lateral _interior-exterior_ approach maps onto what Borgdorff calls 1) research _for_ the arts -- an instrumental perspective that produces "insights and instruments" that are needed by artist-researchers;[@borgdorff_debate_2006 p.6] and 2) 
+
+are multi-modal, lived experience as a dance artist-researcher, personal communications, dialogic exchange with key scholars, and supplemental scholarly research  This is a bi-lateral perspective -- both inside the arts practice, and observations and analysis from outside the practices of others? ... 
+
+- what might the "technologies of investigation"[@gramelsberger_laboratory_2013 p.104] be in par? 
+- what do I imagine the objects of investigation to be in this work?
+- these two questions as useful way of summarising the approach? 
+
+
+a usefully paradigmatic practice through which to examine the epistemic limits, possibilities and failings of body-based practice-research. Rather, the practice becomes 
+
+Note that ongoing questions regarding the efficacy of Authentic Movement[See discussion in @ginot_shustermans_2010] are not important to the methods in _Finger Pointing Moon_. 
+
+>convince decision makers that ‘this is the best solution’ and feel compelled to fund it – (approx >50% of content); 
+
+- clarify use of AM: what is it's function? how does it work? what claims can be made? the concept of efficacy is critical here? why this technique/practice and not another or others? This is based on reading [@ginot_shustermans_2010]
+- look up efficacy here
+
+link between first-person-ness of PaR and somatics; soma -- first person: <the field of somatics.md>.
+
+- akin to Borgdorff's research _for_ the arts -- an instrumental perspective that produces "insights and instruments", . But also _in_ the arts: Research in the arts "does not observe a distance between the researcher and the practice of art"[p.7]. It is where the artistic practices is a vital part of the research process and outcome. 
+
+>What research methods will you be using to address the questions or issues that you have set yourself, or solve the problems you have identified, or to explore the matters you intend to investigate?
+
+- critical analysis
+
+    + pay particular attention to language of findings, failures and indescribables from literature and field review in problem 2 
+
+    + categorise and organise these qualities of experience into a "lexicon of epistemology in body-based practice-research"[^wheel] [output] -- 
 
 - traditional scholarship: critically analyse the data sets from problem 2 to propose broad-ranging epistemic values and principles for body-based practice-research
 
