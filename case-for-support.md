@@ -16,13 +16,15 @@ Practice-research has two fundamental epistemic questions: 1) What is known or u
 
 [^doc]: e.g. Heathfield et al. [-@heathfield_shattered_1997]; Lycouris [@lycouris_documentation_2000]; and Performance Research: _On Archives & Archiving_ (2002, v20:6), _On An/Notations_ (2015, v7:4), _On Disappearance_ (2019, v24:7); See also Journal of Artistic Research and Choreographic Practices. 
 
-The project's aim is underpinned by three epistemic conditions: i) _proxies_; in which genuine research findings are kept at arm's length by concepts, practices or conventions. For example, documentation in practice-research may act as a proxy for evidence;[Kershaw, in @nelson_practice_2013 p.6] ii) _limits_; in which artist-scholars fail to examine the limits of what can and cannot be known through practice-research; and iii) _hyper-specificity_; in which practice-research methods and findings are specific to single projects and rarely form part of critical dialogues in the artistic-scholarly community. 
+The project's aim is underpinned by three epistemic conditions: i) _limits_; in which artist-scholars fail to examine the limits of what can and cannot be known through practice-research; ii) _proxies_; in which genuine research findings are kept at arm's length by concepts, practices or conventions. For example, documentation in practice-research may act as a proxy for evidence;[Kershaw, in @nelson_practice_2013 p.6] and iii) _hyper-specificity_; in which practice-research methods and findings are specific to single projects and rarely form part of critical dialogues in the artistic-scholarly community. 
+
+**Note here. Need to add that these 'conditions' are created and adopted for this project. The three issues -- _limits_, _proxies_ and _hyper-specificity_ -- also act as a conceptual structure for the research design.**
 
 _Finger Pointing Moon_ has three research questions built on these conditions:
 
-1. _Proxies_: What are practice-research's common epistemic proxies and how do they affect the value of practice-research as an approach for developing new insights? 
+1. _Limits:_ What are the epistemic limits of practice-research? What aspects of practices are not able to be known, understood or articulated? 
 
-2. _Limits:_ What are the epistemic limits of practice-research? What aspects of practices are not able to be known, understood or articulated?
+2. _Proxies_: What are practice-research's common epistemic proxies and how do they affect the value of practice-research as an approach for developing new insights? 
 
 3. _Hyper-specificity_: What language is used to express approaches, findings and failures in practice-research? How can this language be adapted in order to create increased critical dialogue between practice-research artist-scholars?
 
@@ -103,19 +105,19 @@ The research will be most interesting to artist-scholars from across disciplines
 
 ### Research objectives
 
-The aim of _Finger Pointing Moon_ is to address practice-research's fundamental epistemic question: _What can we know or understand differently as a consequence of practice-research?_ There are three research questions -- _Proxies_, _Limits_ and _Hyper-specificity_ -- with corresponding objectives as follows. 
+The aim of _Finger Pointing Moon_ is to address practice-research's fundamental epistemic question: _What can we know or understand differently as a consequence of practice-research?_ There are three research questions -- _Limits_, _Proxies_ and _Hyper-specificity_ -- with corresponding objectives as follows. 
 
-_1. Proxies: What are practice-research's common epistemic proxies and how do they affect the value of practice-research as an approach for developing new insights?_ 
+_1. Limits: What are the epistemic limits of practice-research? What aspects of practices are not able to be known, understood or articulated?_
 
-1. in-depth survey of practice-research epistemology literature from the early 1990s (when practice-research began in the academy) to the present
-2. identify and critique any epistemic ambiguities/limitations/possibilities in this scholarship
-3. identify epistemic proxies of practice-research -- these are the ways in which practice-research represents its understandings or findings while keeping them at arm's length
-4. propose analysis of the affects of epistemic proxies on epistemic clarity and specificity in practice-research  
+1. identify qualities of experience from first-person body-based practice experiments that resist being known, are deeply uncertain, or are unable to be articulated
+2. identify qualities of experience from first-person body-based practice experiments that assist being known, display some quality of certainty, or are able to be articulated **add third-person here**
 
-_2. Limits: What are the epistemic limits of practice-research? What aspects of practices are not able to be known, understood or articulated?_
+_2. Proxies: What are practice-research's common epistemic proxies and how do they affect the value of practice-research as an approach for developing new insights?_ 
 
-5. identify qualities of experience from first-person body-based practice experiments that resist being known, are deeply uncertain, or are unable to be articulated
-6. identify qualities of experience from first-person body-based practice experiments that assist being known, display some quality of certainty, or are able to be articulated
+3. in-depth survey of practice-research epistemology literature from the early 1990s (when practice-research began in the academy) to the present
+4. identify and critique any epistemic ambiguities/limitations/possibilities in this scholarship
+5. identify epistemic proxies of practice-research -- these are the ways in which practice-research represents its understandings or findings while keeping them at arm's length
+6. propose analysis of the affects of epistemic proxies on epistemic clarity and specificity in practice-research  
 
 _3. Hyper-specificity: What language is used to express approaches, findings and failures in practice-research? How can this language be adapted in order to create increased critical dialogue between practice-research artist-scholars?_
 
@@ -128,34 +130,25 @@ _3. Hyper-specificity: What language is used to express approaches, findings and
 
 ### Which research methods?
 
->What research methods will you be using to address the questions or issues that you have set yourself, or solve the problems you have identified, or to explore the matters you intend to investigate?
+The research methods described below are designed to realise the project objectives. The objectives, in turn, respond directly to the three wide-angle research problems -- _limits_, _proxies_ and _hyper-specificity_ -- which underpin the project's aim to address practice-research's fundamental epistemic question: What is known or understood differently as a consequence of practice-research methods? The following research methods are organised under the three overarching problems they address. 
 
-I will use the following research methods, organised under the three overarching problems they address. 
+1. _Limits:_ 
 
-1. _Proxies_:
+- **Empirical and experiential practice-research fieldwork**: 4 x 2 week blocks (20 hours per week) of Authentic Movement (body-based practice)  
+- **Experimental documentation** developed through critical reflection and writing, and still and moving images
+- **Empirical and sensorial analysis** through first and third-person observation of the practice to propose epistemic limits 
+- **Scholarly writing**: first and third-person case report to communicate findings 
+
+2. _Proxies_:
 
 - **Literature and field research and review** of practice-research scholarship and practice to identify any epistemic patterns, ambiguities and proxies
-- **Critical-analysis** of these materials to develop a theoretical argument regarding the use of epistemic proxies in practice-research 
+- **Critical analysis** of these materials to develop a theoretical argument regarding the use of epistemic proxies in practice-research 
 - **Scholarly writing** to communicate findings
-
-2. _Limits:_ 
-
-- **Empirical and experiential practice-research fieldwork** 
-- **First and third-person case-report** that involves experimental documentation; critical reflection; textual analysis (Pakes, Whalley, Ellis)
-+ practice will be 4 x 2 week sessions of Authentic Movement (four hours per day, 5 days per week = 20 hours per week). 
-+ includes speculative and/or experimental documentation practices using still and moving images and written responses [output]
-+ analytical reflection on the practice in order to propose what can and cannot be known about experiences in this practice, and other body-based practices more generally 
-+ scholarly journal article that takes a quasi third-person perspective on this research: its limits, misses, problems, mistakes [output]
 
 3. _Hyper-specificity_: 
 
-- **Systematic review and meta-analysis** 
-
-- critical analysis
-
-    + pay particular attention to language of findings, failures and indescribables from literature and field review in problem 2 
-
-    + categorise and organise these qualities of experience into a "lexicon of epistemology in body-based practice-research"[^wheel] [output] -- 
+- **Systematic review and meta-analysis** of practice-research field to understand language used to express approaches, findings and failures
+- **Critical analysis** of this language to design, propose and share a lexicon of epistemic findings and failures in practice-research
 
 ### Why these methods? 
 
@@ -163,33 +156,21 @@ I will use the following research methods, organised under the three overarching
 
 >Depending on the approach you are using throughout your research, you may also need to explain clearly the creative and/or performative aspects of the work, explain how you will develop a new process, product or tool, or provide details of who you have consulted or will be involved in the process of research.
 
->convince decision makers that ‘this is the best solution’ and feel compelled to fund it – (approx >50% of content); 
+The methods above contain reflection, empirical and critical analysis, writing, creative practice and documentation. They are designed to address the research questions from the inside through experimental practice-research, and the outside through more traditional scholarship. 
 
-- makes me 
+#### Experimental practice-research
 
-The research methods are designed to create the conditions in which to directly respond to and _achieve_ the project objectives. These objectives, in turn, feed directly into the three research problems, which underpin the primary research aim. The research questions -- _proxies_, _limits_, and _hyper-specificity_ -- are 'meta' or wide-angle problems in practice-research. The following methods are appropriate to the breadth of these problems, while affording detail where necessary. 
+The methodological heart of _Finger Pointing Moon_ is to use Authentic Movement (AM) as the basis for experimental practice-research fieldwork.
 
-discuss body-based in this paragraph above
+Authentic Movement is a process-oriented movement practice that specifically distinguishes the body as observed from the outside (third-person perspective) and the soma as perceived from the inside (first-person perception).[@hanna_what_1995 p.341] AM provides a structured body-based process of empirical (visible) and sensorial (non-visible) observation. Its focus is on _doing something_ rather than _making something_, and the practice dwells deeply in ambiguous feelings and thoughts, presents movement experiences that are not obviously visible and thereby complicated to document, and has an ambivalent relationship to the written word. Therefore, AM is an edge-case way to examine the epistemic limits, possibilities and failings of body-based practice-research, and to propose extrapolations of these limits to other practice-research disciplines.
 
-- akin to Borgdorff's research _for_ the arts -- an instrumental perspective that produces "insights and instruments", "the tools and the knowledge of materials" that are needed by artists[@borgdorff_debate_2006 p.6]. But also _in_ the arts: Research in the arts "does not observe a distance between the researcher and the practice of art"[p.7]. It is where the artistic practices is a vital part of the research process and outcome. 
+In _Finger Pointing Moon_ the practice will involve three people. The first two (Ellis and Whalley) will work with an experimental form of the AM practice oscillating between the roles of _mover_ and _observer_. Over the course of the practice they will adapt it (including using first, second and third-person photography and videography)[e.g. @bedard_disembodied_2015] by experimenting with the limits and possibilities of observable and sensorial experience.[This method builds on earlier work by Ellis, -@ellis_corporeal_2020] The third collaborator (Pakes) will act as an external observer to the entire practice. The three roles provide degrees of proximity to the empirical and non-empirical qualities of the practice-research.
 
-link between first-person-ness of PaR and somatics; soma -- first person: <the field of somatics.md>.
-Authentic Movement is a process-oriented movement practice that specifically distinguishes the body as observed from the outside (third-person perspective) and the soma as perceived from the inside (first-person perception).[@hanna_what_1995 p.341] Its methodological value in _Finger Pointing Moon_ is to serve as a paradigmatic _edge-case_ for examining the epistemic limits, possibilities and failings of practice-research. 
+The practice will be documented from _within_ via photography, videography, written and spoken reflections, and from _without_ via Pakes' detailed third-person observations and analysis.    
 
-Authentic Movement is an edge-case example of practice-research because it is clearly process-orientated, dwells deeply in ambiguous or hard to pin-down feelings and thoughts, presents movement experiences that are not obviously visible and thereby effectively impossible to document, and has an ambivalent relationship to the written word
+#### Traditional scholarship
 
-provide a structured process of empirical (visible) and sensorial (non-visible) observation that it is a body-based practice that 
 
-- clarify use of AM: what is it's function? how does it work? what claims can be made? the concept of efficacy is critical here? why this technique/practice and not another or others? This is based on reading [@ginot_shustermans_2010]
-- look up efficacy here
-
-are multi-modal, lived experience as a dance artist-researcher, personal communications, dialogic exchange with key scholars, and supplemental scholarly research to understand experiences and understandings of practice-research epistemics from the inside (through experimental practice) and the outside (through traditional scholarship).
-
-- what might the "technologies of investigation"[@gramelsberger_laboratory_2013 p.104] be in par? 
-- what do I imagine the objects of investigation to be in this work?
-- these two questions as useful way of summarising the approach? 
-
-The three issues -- _proxies_, _limits_, and _hyper-specificity_ -- also act as a conceptual structure for the research design.
 
 
 ### People and roles
@@ -275,16 +256,16 @@ See page 20, section Research Assistance. (from Amy)
 
 _problems:_
 
-_1. proxies_
+_1. limits_
 
-- OUTPUT 1: journal article on epistemic proxies [1] RES
+- OUTPUT 1: authentic movement: speculative and/or experimental documentation practices through writing and still and moving images [2] RES
+- OUTPUT 2: third-person scholarly article [2] about epistemic limits - in collaboration with philosopher Katherine Hawley? Anna Pakes? [2] RES
+- OUTPUT 3: _Unforgettable_ exhibition [2] DEV
+- OUTPUT 4: _The Un/knowable Body_ exhibition [2] DEV
+ 
+_2. proxies_
 
-_2. limits_
-
-- OUTPUT 2: authentic movement: speculative and/or experimental documentation practices through writing and still and moving images [2] RES
-- OUTPUT 3: third-person scholarly article [2] about epistemic limits - in collaboration with philosopher Katherine Hawley? Anna Pakes? [2] RES
-- OUTPUT 4: _Unforgettable_ exhibition [2] DEV
-- OUTPUT 5: _The Un/knowable Body_ exhibition [2] DEV
+- OUTPUT 5: journal article on epistemic proxies [1] RES
 
 _3. hyper-specificity_
 
