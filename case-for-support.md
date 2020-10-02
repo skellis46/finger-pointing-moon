@@ -168,6 +168,9 @@ In _Finger Pointing Moon_ the practice will involve three people. The first two 
 
 The practice will be documented from _within_ via photography, videography, written and spoken reflections, and from _without_ via Pakes' detailed third-person observations and analysis.    
 
+
+- add Varela’s thinking about first person experience (in zettel <first-person experience>) — see question and thoughts in there?
+
 #### Traditional scholarship
 
 
@@ -199,6 +202,8 @@ Lalitarāja:
 
 >First let’s establish that the concept of “individualization” should not be confused with the neoliberal ideology of “individualism” that shifts all responsibility for success or failure to a mythical, atomized, isolated individual, doomed to a life of perpetual competition and disconnected from relationships, community, and society. Neither does it refer to the psychological process of “individuation” that is associated with the lifelong exploration of self-development. Instead, individualization is a consequence of long-term processes of modernization.[@zuboff_age_2019 Chapter 2.2]
 
+Clear tension in the project: niche, specific, specialised. Developmental part is all about communications. To bridge gap between the specificity (nicheness) of the research and my skillset as a communicator to audiences beyond the specifics
+
 - thinking about individuation (relating to solitude) v individualism (opposite of Bendell)
 - communications development will be key aspect of my approach/desire. why? within academy? what do we gain/lose from improved communications? wrestling with the bubbles. Comms will demand 
 
@@ -220,7 +225,16 @@ solitude practice: One hour daily in solitude and silence - "doubts, or question
 
 >we can be clearer about the kinds of actions that are useful to describe as “leadership” rather than something else, like “management” or “organising”. Leadership actions are those that help shift the way groups, networks or whole communities of people relate and so such actions generate effects over time. [@bendell_leadership_2019]
 
+make clear list of this 'skillset' I am seeking.
 
+>The types of activity that individuals may wish to pursue will vary greatly from field to field, and depending on career stage, but might include the following:
+• shaping research agendas;
+• fostering wider impact from your research;
+• developing emerging research areas, methods or approaches;
+• fostering interdisciplinary research involving your field;
+• encouraging new research collaborations and partnerships;
+• inspiring creativity in other researchers;
+• providing intellectual leadership.
 
 ## Project management 
 
@@ -237,6 +251,8 @@ Researchers. More information about the Concordat and what it entails can be fou
 
 - RA: website maintenance, and annotated bibliography of literature and practice (shared zotero library), published online as ongoing page on project website (with links to OA versions of originals where possible). edited collections (books) to be annotated by chapters. Or single page as database that includes one/two line summary of the publication/research. are we creating a database here? 
 - 
+
+- balance of research and development activities throughout the 18 months. recognising that they go hand in hand. ??
 
 >Your Fellowship project can be up to 18 months (min at 0.5FTE max at 1.0FTE) but the research assistance can be up to a total 12 months of full time distributed over the 18-month period.
 In other words, RA can work up to the maximum at (12/18) FTE for 18 months or 1.0 FTE for 12 months. 
