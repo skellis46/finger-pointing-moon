@@ -4,28 +4,31 @@
 _un/knowing body_
 
 confirmed:
-- S'ALA: require translation of materials? 
+- S'ALA: require translation of materials/payment to install
+
+contacted:
+- The Work Room (Anita Clark): 20201002
+- Australia: Dancehouse (Josh Wright): 20201002
 
 yet to approach:
-- Siobhan Davies Dance or different gallery?
-- Australia: Dancehouse? (need to pay someone to install it there)
-- The Work Room
-- Robyn Cabaret at Sadlers?
+- Siobhan Davies Dance
 
 
 _unforgettable_
+
+yet to approach:
+- Robyn Cabaret at Sadlers (waiting on Eddie)
+- CDS
+
 
 confirmed:
 - Yorkshire Dance: confirmed
 
 contacted:
-- The Place: contacted Eddie 20200916
+- The Place: contacted Eddie 20200916; again 20201002
 - San Francisco space? -- contacted Christian Burns 20200916
 - contacted Debbie Williams about Choreomundus contacts
-
-possible: 
-- Malmo? - Bahar
-
+- The Work Room (Anita Clark): 20201002
 
 
 >from Je-S help:
