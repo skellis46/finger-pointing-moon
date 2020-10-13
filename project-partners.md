@@ -7,28 +7,34 @@ confirmed:
 - S'ALA: require translation of materials/payment to install
 
 contacted:
-- The Work Room (Anita Clark): 20201002
 - Australia: Dancehouse (Josh Wright): 20201002
 
 yet to approach:
-- Siobhan Davies Dance
+- Siobhan Davies Dance (waiting to hear back from Sue about how best to discuss with their change of team)
 
 
 _unforgettable_
 
 yet to approach:
-- Robyn Cabaret at Sadlers (waiting on Eddie)
+- Robyn Cabaret at Sadlers
+- Bassano del Grappa? 
 - CDS
+
 
 
 confirmed:
 - Yorkshire Dance: confirmed
+- The Work Room (Anita Clark): confirmed 20201011
+
 
 contacted:
-- The Place: contacted Eddie 20200916; again 20201002
+
 - San Francisco space? -- contacted Christian Burns 20200916
 - contacted Debbie Williams about Choreomundus contacts
-- The Work Room (Anita Clark): 20201002
+
+no:
+- The Place: contacted Eddie 20200916; again 20201002
+
 
 
 >from Je-S help:
