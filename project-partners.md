@@ -5,9 +5,10 @@ _un/knowing body_
 
 confirmed:
 - S'ALA: require translation of materials/payment to install
+- Dancehouse (Melbourne Australia) -- Josh Wright/Ashley Dyer 20201014
+
 
 contacted:
-- Australia: Dancehouse (Josh Wright): 20201002
 
 yet to approach:
 - Siobhan Davies Dance (waiting to hear back from Sue about how best to discuss with their change of team)
@@ -16,11 +17,12 @@ yet to approach:
 _unforgettable_
 
 yet to approach:
-- Robyn Cabaret at Sadlers
+
 - Bassano del Grappa? 
 - CDS
 
-
+contacted:
+- Robyn Cabaret and Anneliese Graham at Sadlers 20201014; 
 
 confirmed:
 - Yorkshire Dance: confirmed
@@ -28,13 +30,12 @@ confirmed:
 
 
 contacted:
+- contacted Debbie Williams about Choreomundus contacts: 20200917; 20201014
 
-- San Francisco space? -- contacted Christian Burns 20200916
-- contacted Debbie Williams about Choreomundus contacts
 
-no:
+no or I decided not to:
 - The Place: contacted Eddie 20200916; again 20201002
-
+- San Francisco space? -- contacted Christian Burns 20200916
 
 
 >from Je-S help:
