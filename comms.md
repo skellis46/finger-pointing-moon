@@ -1,5 +1,42 @@
 
-josh@dancehouse.com.au
+# unforgettable letter
+
+Hello
+
+My name is Simon Ellis and I am a dancer. 
+
+This note is to describe a project called _unforgettable_ that I hope you will contribute to. The project is an installation made up of letters which describe a single unforgettable moment or experience of dance. It is an attempt to catalogue a global community's unforgettable experiences of dance. As much as possible, the project will use analogue materials.
+
+You can contribute your _unforgettable experience of dance_ in one of two ways:
+
+1. Email me directly at simon.ellis@coventry.ac.uk. 
+
+2. Hand write your response and post it directly to me at:
+
+Simon Ellis
+70 Rocks Lane
+Barnes 
+SW13 0DA
+UK
+
+Please write in any language (it will be presented in that language). It is up to you if you'd like to include your name and where it is that you call home.
+
+If you'd like to be kept informed about the project (and where and when it will happen) just let me know and include some way of contacting you.
+
+Thank you so much for your time and please do share this letter with people you are close to. 
+
+Simon
+
+--- 
+
+In Ed Snowden's autobiography called Permanent Record he writes about the idea of an unforgettable experience:
+
+>Here’s what strikes me when I think back to my childhood, particularly those first nine Internet-less years ... “the unforgettable experience” was not yet a threateningly literal technological description, but a passionate metaphorical prescription of significance: my first words, my first steps, my first lost tooth, my first time riding a bicycle. 
+
+---
+
+
+
 
 Dear Josh
 
