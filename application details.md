@@ -31,6 +31,10 @@ _Describe who will benefit from the research_
 
 >The Academic Beneficiaries section asks you to summarise how your research will benefit other researchers in your field and – where relevant – academic beneficiaries in other disciplines. Academic communication and dissemination plans should be elaborated further in your Case for Support. Academic Beneficiaries is a section to complete within the proposal form. (p.58 guide)
 
+- practice-research scholars in all fields (emphasis on body-based/dance)
+- epistemologists
+- 
+
 ### Other support 
 
 ### Resource summary
