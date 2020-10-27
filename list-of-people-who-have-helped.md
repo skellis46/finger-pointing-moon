@@ -13,3 +13,5 @@ This is an ongoing list of people who have helped (in even the smallest way) the
 - Rowan McLelland
 - Emma Meehan
 - Chris Garrington
+- Ken Friedman
+- 
