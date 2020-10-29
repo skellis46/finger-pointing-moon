@@ -18,6 +18,12 @@ Practice-research has two fundamental epistemic questions: 1) What is known or u
 
 I have developed three epistemic conditions that underpin the project's aim and provide a conceptual structure for the research design **give citations to these where possible**): i) _limits_; in which artist-scholars fail to examine the limits of what can and cannot be known through practice-research; ii) _proxies_; in which genuine research findings are kept at arm's length by concepts, practices or conventions. For example, documentation in practice-research may act as a proxy for empirical evidence;[Kershaw, in @nelson_practice_2013 p.6] and iii) _hyper-specificity_; in which practice-research methods and findings are specific to single projects and rarely form part of critical dialogues in the artistic-scholarly community. 
 
+Perhaps these conditions are axioms?
+
+>In developing these criteria we too are making assumptions about what research is. However, our method is not circular, but axiomatic. Axiomatic argumentation proceeds from a few unverifiable statements that lie outside the system of argumentation, paradigmatically employed by Euclid (2000). One axiom that we have identified in our own approach is that we assume research is a cumulative process.[@biggs_eight_2008 p.8]
+
+>Axioms are discretionary and it is important for the transparency of academic argumentation that the ones that are adopted be identified from the start because, aside from their inef- fability, i.e. they are not explained by the researcher who adopts them and cannot be explained within their system of thought, being discretionary means that it is equally valid to adopt a different axiom.[@biggs_eight_2008 p.8]
+
 _Finger Pointing Moon_ has three research questions based on these conditions:
 
 1. _Limits:_ What are the epistemic limits of practice-research? What aspects of practices are not able to be known, understood or articulated? 
