@@ -1,5 +1,53 @@
 # edit bin
 
+
+
+or what  Therefore, this programme of communications-based activities builds on Biggs and Büchler's "Situated Position"
+
+At  is the clear tension ... niche, specific, specialised. Developmental part is all about communications. To bridge gap between the specificity (nicheness) of the research and my skillset as a communicator to audiences beyond the specifics
+
+1) to extend expertise ... new research areas -- development of deliberate shift towards empirical possibilities of par. To attempt to research and articulate some edges or limitations in par. New line of enquiry in PaR. 
+
+The plan is that this development plan will help develop and change the way "whole communities of people relate"[@bendell_leadership_2019 n.p.] and that these changes will be sustained over time. 
+
+What I hope to do is create strategies for communicating the value of something that appears to have little value outside of a small sub-group of academics. This would have two (rather obvious) components: a) understanding what that value is; b) attempting to communicate it to people inside and outside the Academy.
+
+The development plan in _Finger Pointing Moon_ has two key components: i) collective action and ii) enhanced community-based communications. Both components ..
+
+solitude practice
+- providing intellectual leadership
+- inspiring creativity in other researchers
+
+
+These collective (and collecting) practices will be contrasted by a speculative _wildcard_ practice of one hour per day in solitude and silence. This is a method to dwell in uncertainty and the limits of understanding, because "doubts, or questions, or even just difficulties ... can only be found within -- without distractions, without peer pressure, in solitude".[@deresiewicz_solitude_2010] 
+
+
+The types of activity that individuals may wish to pursue will vary greatly from field to field, and depending on career stage, but might include the following:
+1. fostering wider impact from your research;
+2. developing emerging research areas, methods or approaches;
+3. providing intellectual leadership.
+4. fostering interdisciplinary research involving your field;
+
+• encouraging new research collaborations and partnerships;
+• inspiring creativity in other researchers;
+• shaping research agendas;
+
+Enhancing research capabilities include:
+1. developing new methodologies, or introducing emerging techniques, technologies or methodologies into your field; (empirical work)
+2. leading research networks (online discourse forum -- relates to 3 below as well)
+3. supporting or inspiring the development of other researchers in your field 
+4. establishing new lines of enquiry -- focus on empirical? 
+
+>Leadership actions are those that help shift the way groups, networks or whole communities of people relate and so such actions generate effects over time. [@bendell_leadership_2019]
+
+to enhance the researcher's skillset "to extend their expertise into new research areas or to engage with non-academic audiences".[^rfg]
+
+[^rfg]: <https://ahrc.ukri.org/funding/research/researchfundingguide/> Version 5.1
+
+- communications development will be key aspect of my approach/desire. why? within academy? what do we gain/lose from improved communications? wrestling with the bubbles. Comms will demand 
+
+- thinking about individuation (relating to solitude) v individualism (opposite of Bendell)
+
 This approach underpins _1. Limits_ and maps onto what Borgdorff calls "research _in_ the arts", which "does not observe a distance between the researcher and the practice of art".[@borgdorff_debate_2006 p.7] 
 
 This bi-lateral _interior-exterior_ approach maps onto what Borgdorff calls 1) research _for_ the arts -- an instrumental perspective that produces "insights and instruments" that are needed by artist-researchers;[@borgdorff_debate_2006 p.6] and 2) 

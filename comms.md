@@ -1,11 +1,28 @@
 
+# unforgettable: a proposal
+
+'Unforgettable' is an art project by choreographer Simon Ellis made up of a collection of hand-crafted letters that each describe a single unforgettable moment or experience of dance or dancing. Here's an example:
+
+"It's 2005. I'm in the middle of lots of bodies. The music is loud. The room is sweating. I feel as if the movement is happening to me, and that I couldn't stop it even if I wanted to: moving, sweating, moving, dancing." - anonymous, USA.
+
+Here's another:
+
+"I saw a dance performance by Helen Herbertson and Ben Cobham, but don't remember the name of the work. It must have been around 1997. All I remember is the feeling that my life was now different; that I saw things differently ... that I understood how limited our time is on Earth." - SB, Melbourne.
+
+'Unforgettable' will be part of a larger dance research project called 'Finger Pointing Moon' planned to start in 2022.  
+
+Simon is looking for possible project partners around the world who might be interested in hosting the exhibition (or who are affiliated to dance or art spaces that could host it) and perhaps helping to create a small series of activities around the exhibition. 
+
+
+
+
 # unforgettable letter
 
 Hello
 
 My name is Simon Ellis and I am a dancer. 
 
-This note is to describe a project called _unforgettable_ that I hope you will contribute to. The project is an installation made up of letters which describe a single unforgettable moment or experience of dance. It is an attempt to catalogue a global community's unforgettable experiences of dance. As much as possible, the project will use analogue materials.
+This note is to invite you to contribute to an art project called _unforgettable_. The project is an exhibition made up of a collection of hand-crafted letters that each describe a single unforgettable moment or experience of dance or dancing. My hope is that the project will become a growing catalogue of a global community's experiences of dance.
 
 You can contribute your _unforgettable experience of dance_ in one of two ways:
 
@@ -19,13 +36,16 @@ Barnes
 SW13 0DA
 UK
 
-Please write in any language (it will be presented in that language). It is up to you if you'd like to include your name and where it is that you call home.
+Please write in any language (it will be presented in that language). Your letter might only be a sentence, or it might have more detail. It is also up to you if you'd prefer to include your name and where it is that you call home.
 
 If you'd like to be kept informed about the project (and where and when it will happen) just let me know and include some way of contacting you.
 
 Thank you so much for your time and please do share this letter with people you are close to. 
 
 Simon
+
+It's 1995. I'm in the middle of lots of bodies. The music is loud. The room is sweating. I feel as if the movement is happening to me, and that I couldn't stop it even if I wanted to: moving, sweating, moving, dancing. 
+
 
 --- 
 

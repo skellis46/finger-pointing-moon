@@ -33,7 +33,7 @@ _Describe who will benefit from the research_
 
 - practice-research scholars in all fields (emphasis on body-based/dance)
 - epistemologists
-- 
+- build on Biggs and Buchler's Situated Position? 
 
 ### Other support 
 

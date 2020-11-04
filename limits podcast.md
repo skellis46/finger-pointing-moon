@@ -1,4 +1,4 @@
-# podcast | limits
+ # podcast | limits
 
 ## some attempts at a one sentence description
 
@@ -22,6 +22,7 @@ _beyond which podcast_: digging into the limits of human experience, culture and
 - our limits
 - limitations
 - human limited
+- human limits
 - limited
 - the point beyond
 - beyond which
@@ -36,6 +37,7 @@ _beyond which podcast_: digging into the limits of human experience, culture and
 - human edges
 - into limits
 - bumping into limits
+- bump into limits
 
 ## currently existing podcasts with _limits_ (or similar) in title 
 

@@ -182,7 +182,7 @@ The methods above contain reflection, empirical and critical analysis, writing, 
 
 The methodological heart of _Finger Pointing Moon_ is to use Authentic Movement (AM) as the basis for experimental practice-research fieldwork.
 
-Authentic Movement is a process-oriented movement practice that specifically distinguishes the body as observed from the outside (third-person perspective) and the soma as perceived from the inside (first-person perception).[@hanna_what_1995 p.341] AM provides a structured body-based process of empirical (visible) and sensorial (non-visible) observation. Its focus is on _doing something_ rather than _making something_, and the practice dwells deeply in ambiguous feelings and thoughts, presents movement experiences that are not obviously visible and thereby complicated to document, and has an ambivalent relationship to the written word. Therefore, AM is an edge-case way to examine the epistemic limits, possibilities and failings of body-based practice-research, and to propose extrapolations of these limits to other practice-research disciplines.
+Authentic Movement is a process-oriented movement practice that specifically distinguishes the body as observed from the outside (third-person perspective) and the soma as perceived from the inside (first-person perception).[@hanna_what_1995 p.341] AM provides a structured body-based process of empirical (visible) and sensorial (non-visible) observation. Its focus is on _doing something_ rather than _making something_, and the practice dwells deeply in ambiguous feelings and thoughts, presents movement experiences that are not obviously visible and thereby complicated to document, and has an ambivalent relationship to the written word. Therefore, AM is an edge-case / paradigmatic way to examine the epistemic limits, possibilities and failings of body-based practice-research, and to propose extrapolations of these limits to other practice-research disciplines. The practice offers clear and precise limits necessary to wrestle with these fundamental questions of what can be known differently ...
 
 >As Schwab thinks through the relationship between artistic research and contemporary art he proposes that we must move away from objects (not clear what he means by objects) with a "more or less stable historical identity"[@schwab_experimental_2019 p.166] to "more precarious, ambivalent, or provisional things."[@schwab_experimental_2019 p.166] -- support for use of AM?
 
@@ -192,6 +192,19 @@ The practice will be documented from _within_ via photography, videography, writ
 
 
 - add Varela’s thinking about first person experience (in zettel <first-person experience>) — see question and thoughts in there?
+
+add something from Bob here about limited knowledges?
+
+Skills as an artist-scholar ...
+The ‘job in hand’ gives a further and complex insight into enquiries of bodies, and what lies in between / beneath / behind. The artist scholar is charged with the doing, (un)doing, of something. Some of the skills pertinent to the task ...
+Ways of reading
+Ways of understanding 
+Ways of bodies
+Temporary understandings
+Understandings in flux
+Embedded / entwined and limited knowledges. 
+
+This ‘limited’ nature is an area of perhaps enhancement to artistic-scholarly practice (in yours, and others). Not in terms of filling the gaps, or as presaged understanding, but of what can be forgotten. So a different route to delimiting knowledge.
 
 #### Traditional scholarship
 
@@ -206,7 +219,6 @@ PI:
 RA:
 Anna Pakes:
 Bob Whalley:
-Lalitarāja: 
 
 
 ### Copyright or intellectual property issues
@@ -221,61 +233,60 @@ Lalitarāja:
 
 >The activities outlined, which should be commensurate with your current career stage and trajectory, should go beyond the kinds of activities that researchers generally undertake in establishing themselves in their disciplines or in the ordinary course of their duties. In other words, the Fellowship offers the opportunity to be innovative in the types of activity which might be taken forward and allows Fellows to explore new avenues. Fellowship proposals should include a substantial programme of collaborative activities and you should be bold in thinking about what is needed to support them.
 
-The development plan in _Finger Pointing Moon_ has two key components: i) collective action and ii) enhanced community-based communications. Both components ..
+>When applying to this scheme, fellows will be required to articulate a set of development activities, to demonstrate how they will enhance their profile or status within their field, and how they will develop their research and its broader influence and importance.(p.101 Guide 4.9)
 
->we can be clearer about the kinds of actions that are useful to describe as “leadership” rather than something else, like “management” or “organising”. Leadership actions are those that help shift the way groups, networks or whole communities of people relate and so such actions generate effects over time. [@bendell_leadership_2019]
+>-to develop capabilities as research specialists and to create opportunities for outreach beyond their research field;
+>-to undertake innovative and collaborative development activities, including the initiation of new research, which will result in benefits for their own discipline(s) and beyond.
 
+I have been an artist for 30 years, and an artist in the academy for 20 years. In this time, I have pursued and developed individual research practices that have led to small-scale and intimate outcomes. I recognise that my attention -- and perhaps ambition -- has been mostly inward and personal. 
 
-The types of activity that individuals may wish to pursue will vary greatly from field to field, and depending on career stage, but might include the following:
-1. fostering wider impact from your research;
-2. developing emerging research areas, methods or approaches;
-3. providing intellectual leadership.
-4. shaping research agendas;
-5. fostering interdisciplinary research involving your field;
+The research component of _Finger Pointing Moon_ seeks to develop a new line of epistemic inquiry in practice-research by employing an experimental shift towards empiricism by which to test the boundaries of findings and claims in practice-research. The project's development plan is to use this new line of inquiry as a means to radically change my previously inward focus by developing a series of outward-facing communications-based activities that will test and improve my communication and advocacy skills beyond and within the academy. In order for practice-research to be more widely acknowledged beyond its own disciplinary fields, it is "necessary to consider and adhere to the demands of the larger academic community".[@biggs_eight_2008 p.15]
 
-• encouraging new research collaborations and partnerships;
-• inspiring creativity in other researchers;
+The development plan will help me acquire four new capabilities that will enhance my role within practice-research, and significantly develop the influence and importance of my research: 1) to communicate and contextualise niche and complex ideas about fundamental epistemics of practice-research beyond the field and also to the wider public; 2) to demonstrate leadership in methodological advances in practice-research; 3) to develop and support a broad cross-disciplinary community of active artist-scholars; and 4) to create a range of collaborative opportunities with academic and non-academic stake-holders within and and outside of dance and the performing arts. 
 
+These four capabilities will be developed through four bold and innovative activities:
 
-Enhancing research capabilities include:
-1. developing new methodologies, or introducing emerging techniques, technologies or methodologies into your field; (empirical work)
-2. leading research networks
-3. supporting or inspiring the development of other researchers in your field 
-4. establishing new lines of enquiry -- focus on empirical? 
+_1. Unforgettable_
+This will be based on a practice of gathering and sharing community experiences of dance and movement. 
 
-• moving into a new field;
-
-
->This iterative procedure is necessary if we are to make a claim for the potential of non-linguistic communication in academic research in creative areas that is recognized beyond the creative areas. In order for research in CCI to be acknowledged, it is necessary to consider and adhere to the demands of the larger academic community.[@biggs_eight_2008 p.15]
-
-- this is a useful idea for _Finger Pointing Moon_ -- that the project is in part about larger academic community. Could I do this? This is kind of a big big ambition ... 
-- creative and cultural industries
-
-Clear tension in the project: niche, specific, specialised. Developmental part is all about communications. To bridge gap between the specificity (nicheness) of the research and my skillset as a communicator to audiences beyond the specifics
-
-- thinking about individuation (relating to solitude) v individualism (opposite of Bendell)
-- communications development will be key aspect of my approach/desire. why? within academy? what do we gain/lose from improved communications? wrestling with the bubbles. Comms will demand 
-
-solitude and collective
-use a practice -- it's how I come to understand things
-+ practice-research: solitude practice (speculative _wildcard_)
-
-solitude practice: One hour daily in solitude and silence - "doubts, or questions, or even just difficulties ... can only be found within--without distractions, without peer pressure, in solitude".[@deresiewicz_solitude_2010] This component is speculative and unknown. It's a wildcard. 
-
-- practice-research: collecting practice of 'unforgettable experiences of body-based practice/performance', called _Unforgettable_
-    + not at all clear how this practice relates to the RQs
-    + invite and collect notes and letters from scholars, artists and wider public about first-hand memories of watching and doing dance and/or performance
+- inspiring creativity in other researchers
+- wider impact
+- new research partnerships and collaborations 
+- unforgettable: gathering and sharing of community experience
+    + invite and collect notes and letters from scholars, artists and wider public about first-hand "unforgettable" memories of dance
+    +
     + catalogue these collected letters and responses into various kinds of works, responses, years, etc
-    + cataloguing process will result in a small-scale exhibition to be presented at various performance spaces in the UK [output]
-- practice-research: collecting practice of materials, traces, ideas, notes, and thoughts on corporeal epistemics: _The Un/knowable Body_
+    + understanding language of experience / expression
+    + 
+    + relationship of memory to our sense of knowing -- 
+    + cataloguing process will result in a small-scale exhibition to be presented at various performance spaces around the world [output]
+
+un/knowing body
+- gathering then extending this work into the community
+- state how these relate to the research (epistemics)
+- fostering interdisciplinary research involving your field
+- inspiring creativity in other researchers
+- wider impact
+- new research partnerships and collaborations 
+    + collecting practice of materials, traces, ideas, notes, and thoughts on corporeal epistemics: _The Un/knowable Body_
     + gather materials throughout the research project
     + organise these materials into emergent patterns (based on not yet known characteristics) 
     + develop exhibition of these materials to be presented at movement research centres nationally and internationally [output]
 
+discourse forum
+- providing intellectual leadership / leading research networks
+- inspiring creativity in other researchers;
+- inspiring creativity and development in other researchers;
+- shaping research agendas;
+- encouraging new research collaborations and partnerships;
 
-
-make clear list of this 'skillset' I am seeking.
-
+podcast
+- inspiring creativity and development in other researchers;
+- fostering interdisciplinary research involving your field;
+- moving into a new field
+- communications
+- public engagement
+- cross disciplinary practices, ideas, understandings
 
 ## Project management 
 
