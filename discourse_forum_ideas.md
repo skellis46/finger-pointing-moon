@@ -1,0 +1,1 @@
+Section for “questions not designed to be answered” in discourse forum
