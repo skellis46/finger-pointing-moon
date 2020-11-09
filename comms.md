@@ -1,3 +1,71 @@
+Dear Josh
+
+It was really great to meet last week. Thanks for your interest and openness. 
+
+This email is a (rather long) follow-up to our conversation:
+
+1. Here is a tiny sample of the kinds of materials I think might be part of the work: https://www.skellis.net/unknowable. They aren't organised at all, and it's a little arbitrary, but perhaps this is a little less abstract? I plan to add to these as I continue to develop the funding bid -- to help the conversations with potential project partners. 
+
+2. The Arts and Humanities Research Council (the body I am applying to) says a lot (too much) about project partner support letters. I've included various notes from their guidelines at the bottom of this email. 
+
+3. We discussed possible dates as being later summer/autumn (March -- ?) 2023.
+
+4. Pragmatic things like:
+- scale: how many square meters? I've estimated 20-40 "items" per square meter - approx
+- where to install at Dancehouse? Could it fill all walls in the entrance space for instance? (ie large scale -- as if immersed in these ideas)
+- installation costs? 
+- my thought is that I would send the physical materials as a single collection. Consider when/how to return (and uninstall)?
+- how long installed?
+- maintenance?
+- any costs not able to be covered by Dancehouse? (and that I would need to budget for)
+
+5. Local artists curating/organising
+
+- we discussed possibility of local artists 'making sense' of the materials and spending time with them to decide how they might be organised and installed
+- possibility of engaging local artists to respond directly to the installation? This might be written, or it could be performed/developed ...
+
+6. Public programme of events
+- what might this be? 
+- I'm very open to any number of ideas depending on your plans and vision for Dancehouse.
+
+7. Other versions
+- am thinking of budgeting to have the materials recorded so an audio version would exist online
+- also possibly an entirely digital archive of the materials
+
+That's it for now Josh. Do you have any questions for me at this stage? 
+
+I think the next steps are to: a) keep thinking through pragmatics; b) start thinking through the content of the support letter. 
+
+There's no hurry though.
+
+Very best to you.
+
+Simon
+
+
+
+
+# Project Partner Letter of Support - details
+
+- Each Project Partner must provide a letter of support to provide assurance that the project partner has authorised the proposed contribution or commitment. 
+- No more than 2 x A4 pages
+- targeted specifically towards the whole research project (and also the installation specifically) - this will mean I will send you an overview of the entire project (closer to the end of the year)
+- Clearly explain the value, relevance and possible benefits of the work to the project partner;
+- Give the nature and equivalent value of any in-kind contribution, and/or declare the value of a cash contribution, and period of support;
+- Describe the added value to the project of the project partner’s involvement.
+- The letter should be dated and should be written when the proposal is being prepared. A standard letter declaring support for the proposed work is not helpful.
+
+- plan for disseminating/communications
+- how might your audiences benefit from this work? (who are these audiences)
+- economic benefits? quality of life benefits? potential way of thinking about how your organisation works and with whom? 
+- why did you say “yes”? 
+- presented work like this before? anything 
+- this is about instrumentality of the research
+
+Long details:
+- The letter of support is intended provide reassurance to the AHRC and to its reviewers that the appropriate authorisation has been given to the proposed contribution or commitment from a collaborating organisation. To provide assurance that the project partner has authorised the proposed contribution or commitment the letter or email should be signed by the named contact, stating the capacity in which they are providing the sign off. Project Partner letters of support that merely indicate that an organisation is interested in the research are not permitted. 
+A well written project partner letter of support will confirm the organisation’s commitment to the proposed project by articulating the benefits of the collaboration, its relevance and potential impact. The Project Partner letter should also identify the value, relevance and possible benefits of the proposed work to the partner, the period of support, the full nature of the collaboration/support and how the partner will provide added value. Where relevant to the project, details should be provided of the projected market size, customers and sales and how the organisation will commercialise the technology beyond the project. Project Partner contributions, whether in cash or in kind, should be explained in detail in the project partner letter of support. 
+
 
 # unforgettable: a proposal
 
