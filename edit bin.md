@@ -1,6 +1,10 @@
 # edit bin
 
+Perhaps these conditions are axioms?
 
+>In developing these criteria we too are making assumptions about what research is. However, our method is not circular, but axiomatic. Axiomatic argumentation proceeds from a few unverifiable statements that lie outside the system of argumentation, paradigmatically employed by Euclid (2000). One axiom that we have identified in our own approach is that we assume research is a cumulative process.[@biggs_eight_2008 p.8]
+
+>Axioms are discretionary and it is important for the transparency of academic argumentation that the ones that are adopted be identified from the start because, aside from their inef- fability, i.e. they are not explained by the researcher who adopts them and cannot be explained within their system of thought, being discretionary means that it is equally valid to adopt a different axiom.[@biggs_eight_2008 p.8]
 
 or what  Therefore, this programme of communications-based activities builds on Biggs and Büchler's "Situated Position"
 
