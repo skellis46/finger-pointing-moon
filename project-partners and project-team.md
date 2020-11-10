@@ -1,6 +1,6 @@
 # project partners
 
-_un/knowing body_
+_un/knowing body_ / _Knowledge of Body_
 
 confirmed:
 - S'ALA: require translation of materials/payment to install
@@ -12,7 +12,7 @@ contacted:
 
 yet to approach:
 - Siobhan Davies Dance (waiting to hear back from Sue about how best to discuss with their change of team)
-
+- person Scott 
 
 _unforgettable_
 
@@ -72,3 +72,13 @@ The letter should be dated and should be written when the proposal is being prep
 - Chris Smith, Baron Smith of Finsbury (retired?) https://ahrc.ukri.org/research/readwatchlisten/features/its-exactly-the-right-thing-to-be-doing/
 - someone from Universities UK?
 - someone from PRAG?
+- Michael Biggs
+- Ken Friedman
+
+## project team
+
+- RA
+- PI
+- project partners
+- expert input (from Amy: and it is in minute amounts (this is a fellowship after all) AHRC will not be too rattled; and more important that you can clearly justify the necessary need. They are not going to be ‘employed’ but rather can only be ‘helicoptored’ in and out swiftly for brief moments.) -- Bob Whalley
+- expert input 

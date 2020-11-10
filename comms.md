@@ -1,3 +1,20 @@
+
+Dear James 
+
+Thanks Scott for the introduction.
+
+James, I am indeed exploring the ways in which collections of (cross-disciplinary) images and texts might reveal the limits, margins and possibilities of human understanding and experience of the body; a way of addressing what is known, able to be known, and what remains unknown about visual and sensorial experiences of the human body. 
+
+These are ideas which, as you can imagine, are intrinsically interesting to people involved in dance as an art form. But my curiosity is more about the intersections of arts and science practices, and what these intersections might suggest or provoke for the wider public.
+
+I'd certainly be keen to have conversation with you if these ideas seem interesting or useful to you.
+
+Thanks for your time, and best wishes.
+
+Simon
+
+
+
 Dear Josh
 
 It was really great to meet last week. Thanks for your interest and openness. 

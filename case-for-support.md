@@ -54,7 +54,7 @@ The project of creating epistemic justifications for practice-research has been 
 
 [^40k]: For example, note the contradiction in the UK that a practice-research PhD normally requires approximately 40k words of contextual writing, while a submission to the Research Excellence Framework only requires a 300 word summary statement. 
 
-Both positions have inherent problems. The extrinsic position -- that knowledge in practice-research is only revealed or clarified through written contextualisation[@bolt_magic_2007; @smith_practice-led_2009; @candy_role_2010] -- limits the importance of the artefact,[@magee_introduction._2012; @borgdorff_debate_2006; @candlin_proper_2000] and sets no margins on the epistemic claims that artistic-scholars make on behalf of their practices. Such claims are rarely "made available for sustained and verifiable peer review".[@haseman_tightrope_2007 n.p.; see also @candy_role_2010] 
+Both positions have inherent problems. The extrinsic position -- that knowledge in practice-research is only revealed or clarified through written contextualisation[@bolt_magic_2007; @smith_practice-led_2009; @candy_role_2011] -- limits the importance of the artefact,[@magee_introduction._2012; @borgdorff_debate_2006; @candlin_proper_2000] and sets no margins on the epistemic claims that artistic-scholars make on behalf of their practices. Such claims are rarely "made available for sustained and verifiable peer review".[@haseman_tightrope_2007 n.p.; see also @candy_role_2011] 
 
 The intrinsic position -- that knowledge is intrinsic to or "embodied in"[@borgdorff_foreword_2017 p.vi] artistic-research artefacts[@ellis_that_2018; @borgdorff_conflict_2012] -- positions ambiguity and uncertainty as epistemic virtues that produce "less identifiable knowledge products."[@butt_performance_2014 p.114]. Such products act as points of epistemic resistance: they "resist academic conventions of accountability"[@borgdorff_foreword_2017 p.ix] or "ways of knowing that are not able to shape -- or be shaped by -- the various tools and systems of the knowledge economy."[@ellis_that_2018 p.490]  
 
@@ -218,8 +218,8 @@ This ‘limited’ nature is an area of perhaps enhancement to artistic-scholarl
 
 PI: 
 RA:
-Anna Pakes:
-Bob Whalley:
+XX: expert input
+Bob Whalley: expert input
 
 
 ### Copyright or intellectual property issues
@@ -241,57 +241,33 @@ Bob Whalley:
 >-to develop capabilities as research specialists and to create opportunities for outreach beyond their research field;
 >-to undertake innovative and collaborative development activities, including the initiation of new research, which will result in benefits for their own discipline(s) and beyond.
 
-I have been an artist for 30 years, and an artist in the academy for 20 years. In this time, I have pursued and developed individual research practices that have led to small-scale and intimate outcomes. I recognise that my attention -- and perhaps ambition -- has been mostly inward and personal. 
+>How are these all researcher-development activities?
 
->This also means getting rid of the age-old thinking about Erkenntnistheorie as being about an I, an ego, a subject that tries to cast a theoretical net over an object. Instead, let us be a little bit more humble and see the experimenting subject as engaged in an activity that has, to put it in Ian Hacking’s (1983,150) words, "a life of its own," and one that is in need of many good eyes to see and many good ears to hear. Let us get rid of what could be called the tyranny of the subject.[Rheinberger in @rheinberger_forming_2013 p.199]
+I have been an artist for 30 years, and an artist in the academy for 20 years. In this time, I have pursued and developed individual research practices that have led to small-scale and intimate outcomes. It would seem that my attention -- and perhaps ambition -- has been mostly inward or personal. 
 
-In order for practice-research to be more widely acknowledged beyond its own disciplinary fields, it is "necessary to consider and adhere to the demands of the larger academic community".[@biggs_eight_2008 p.15] The research component of _Finger Pointing Moon_ seeks to develop a new line of epistemic inquiry in practice-research by employing an experimental shift towards empiricism by which to test the boundaries of findings and claims in practice-research. The project's development plan is to use this new line of inquiry as a means to radically change my previously inward focus by developing a series of outward-facing activities that will test and improve my communication and advocacy skills beyond and within the academy. 
+In order for practice-research to be more widely acknowledged beyond its own disciplinary fields, it is "necessary to consider and adhere to the demands of the larger academic community".[@biggs_eight_2008 p.15] The research component of _Finger Pointing Moon_ seeks to develop a new line of epistemic inquiry in practice-research by employing an experimental shift towards empiricism by which to test the limitations of findings and claims in practice-research. The project's development plan builds on the research component of this proposal, and uses this new line of inquiry as a means to radically change my previously inward focus by developing a series of outward-facing activities that will test and improve my communication and advocacy skills beyond and within the academy.
 
-The development plan will help me acquire four new capabilities that will enhance my role within practice-research, and significantly develop the influence and importance of my research: 1) to communicate and contextualise niche and complex ideas about fundamental epistemics of practice-research beyond the field and also to the wider public; 2) to demonstrate leadership in methodological advances in practice-research; 3) to develop and support a broad cross-disciplinary community of active artist-scholars; and 4) to create a range of collaborative opportunities with academic and non-academic stake-holders within and and outside of dance and the performing arts. 
+The development plan will enhance my role within practice-research, and significantly develop the influence and importance of my research by helping me acquire four new capabilities: 1) to communicate and contextualise niche and complex ideas about fundamental epistemics of practice-research beyond the practice-research field and also to the wider public; 2) to demonstrate leadership in methodological advances in practice-research; 3) to develop and support a broad cross-disciplinary community of active artist-scholars; and 4) to create a range of collaborative opportunities with academic and non-academic stake-holders within and and outside of dance and the performing arts. 
 
 These four capabilities will be developed through four bold and innovative activities:
 
 _1. Unforgettable_
 
-This will be an exhibition of materials based on a practice of gathering and sharing the community's experiences of dance and movement. Artists, scholars and audiences from around the world will send a written note or letter that describes a single unforgettable moment or experience of dance or dancing. These documents will be collated and organised into a small-scale exhibition to be presented by project partners at various spaces around the world. 
+This will be an exhibition of materials based on a practice of gathering and sharing the community's experiences of dance and movement. Artists, scholars and audiences from around the world will send a written note or letter that describes a single unforgettable moment or experience of dance or dancing. These documents will be collated and organised into a small-scale exhibition to be presented by project partners at various spaces around the world. _Unforgettable_ builds on the research's epistemic narrative by exploring the role of memory and languages of experience and expression in understanding how we come to know what we know. The process and exhibition is designed to: i) inspire creativity in how other researchers understand and represent the scope of their largely theoretical undertakings; ii) seek wider impact by ambitiously engaging a global cross-section of participants; iii) develop new research-informed partnerships and collaborations with non-academic organisations around the world.
 
-How is this a reseacher-development activity?
+_2. The Un/knowable Body_ (or _Knowlege of Body_?)
 
-- inspiring creativity in other researchers
-- wider impact
-- new research partnerships and collaborations 
-    + understanding language of experience / expression
-    + 
-    + relationship of memory to our sense of knowing -- 
-  
+_The Un/knowable Body_ will involve collecting a large quantity of cross- and inter-disciplinary materials that reveal the limits, margins and possibilities of human understanding and experience of the body. These materials will be gathered by the PI and RA but will then be sent to [xx] project partners in Australia, UK, Italy ... [etc]. Each project partner will work with their local communities -- in consultation with the PI -- to explore ways to organise, curate, present and respond to the materials and then develop a bespoke programme of events that explore knowledges of the body. _The Un/knowable Body_ directly explores a key part of the research component of _Finger Pointing Moon_ by addressing what is able to be known -- and what remains unknown -- about visual and sensorial experiences of the human body. The activity will: i) foster interdisciplinary research by working with and presenting materials from a broad disciplinary range; ii) inspire creativity in other researchers by creating models for public engagement that emerge from those publics (rather than top-down or researcher focused models); iii) create wider impact for the research aspects of the project by building relationships between highly theoretical (and niche) ideas to do with epistemology with accessible and meaningful materials for the wider public; iv) create new research partnerships and collaborations between the PI and project partners working across disciplinary fields.
 
-_2. The Un/knowable Body_ (Knowledge of Body??)
+_3. Artistic Research forum_
 
-- gathering then extending this work into the community
-- state how these relate to the research (epistemics)
-- fostering interdisciplinary research involving your field
-- inspiring creativity in other researchers
-- wider impact
-- new research partnerships and collaborations 
-    + collecting practice of materials, traces, ideas, notes, and thoughts on corporeal epistemics: _The Un/knowable Body_
-    + gather materials throughout the research project
-    + organise these materials into emergent patterns (based on not yet known characteristics) 
-    + develop exhibition of these materials to be presented at movement research centres nationally and internationally [output]
+This activity is to create and support a broad cross-disciplinary community of scholars and artists working either directly or indirectly with practice-research. It will involve initiating an online Discourse Forum[^disc] -- called _Artistic Research Forum_ -- that will modernise old-style email-based list-servs like PARIP and SCUDD, and act as a large-scale _conversation_ on historical, current and future thinking, practices and understandings of practice-research. Discourse forums are easily divided into different conversations, examples might be: artistic research history; epistemology; documentation; key texts; ongoing practices; FAQs; etc. The forum will be sustained by a large and diverse group of experienced and emerging artist-scholars volunteering from around the world; it will, in effect, be a collaboration across the entire practice-research community. This is an ambitious activity that will: i) enable the PI to provide intellectual leadership through an openly accessible network of artist-scholars; ii) inspire creativity and development in other researchers both through materials posted to the forum and through its open and collaborative form; iii) help shape research agendas in which the forum acts like a town-square environment where vital conversations are easily heard and contributed to; and iv) encourage new research collaborations and partnerships as contributors engage with the materials and ideas presented in the forum.
 
-discourse forum
-- providing intellectual leadership / leading research networks
-- inspiring creativity in other researchers;
-- inspiring creativity and development in other researchers;
-- shaping research agendas;
-- encouraging new research collaborations and partnerships;
+[^disc]: [www.discourse.org](https://www.discourse.org/)
 
-podcast
-- inspiring creativity and development in other researchers;
-- fostering interdisciplinary research involving your field;
-- moving into a new field
-- communications
-- public engagement
-- cross disciplinary practices, ideas, understandings
+_4. The Point Beyond_
+
+The Point Beyond will be a podcast that explores the limits of what it is to be human. It will initially be limited to two series of eight episodes, and each episode will be a conversation with an expert that explores the point beyond which our understanding and experience falters. The two series will be i) _limits of knowledge_ (e.g. experimental failures; perception and perceptual error; contemplation, meditation and enlightenment; truth and belief; conspiracy; machine learning and AI); ii) _limits of language_ (e.g. when words fail us; swearing and cussing; language vs direct experience; silence and contemplation; mutism; computer languages and coding). Other series (after the fellowship) could potentially be: limits of language; cultural limits (the overton window); psychological limits; moral limits; imagined limits. _The Point Beyond_ is a direct attempt to take the research heart of _Finger Pointing Moon_ -- the limits and possibilities of human understanding -- and extrapolate that work deep into other areas, ideas and practices. It will: i) inspire creativity and development in other researchers by building broad cross-disciplinary and wider-public interest in ideas that matter to how we understand being human; ii) directly foster inter- and cross-disciplinary research involving artistic research and dance by building lively and focused conversations with other experts; iii) challenge the PI's ability to communicate complex ideas to a broad audience; iv) focus on clearly and directly on public engagement: why do these niche and largely theoretical ideas matter and to whom? 
 
 ## Project management 
 
@@ -332,78 +308,35 @@ See page 20, section Research Assistance. (from Amy)
 
 >You should address two main questions: who might benefit from the research and how might they benefit?
 
-_problems:_
-
-_1. limits_
-
-- OUTPUT 1: authentic movement: speculative and/or experimental documentation practices through writing and still and moving images **contribution here is more 'pure' practice-research in that it will be contributing directly through the practice to that community** [2] RES
-- OUTPUT 2: third-person scholarly article [2] about epistemic limits - in collaboration with philosopher Katherine Hawley? Anna Pakes? [2] RES
-- OUTPUT 3: _Unforgettable_ exhibition [2] DEV
-- OUTPUT 4: _The Un/knowable Body_ exhibition [2] DEV
- 
-_2. proxies_
-
-- OUTPUT 5: journal article on epistemic proxies [1] RES
-
-_3. hyper-specificity_
-
-- OUTPUT 6: lexicon of epistemological "findings and failures" [3] RES
-    + like the emotion wheel
-    + lexicon: "the vocabulary of a person, language, or branch of knowledge"
-
-_4. W = whole project_
-
-- these outputs should address (in some form) the overall aim. Can this aim allude to key aspect of communications or is that separate to the 'research'?
-
-- OUTPUT 7: video essay: collates and articulates key concerns/findings of project [W] RES
-- OUTPUT 8: 2 series of 8 episodes of podcast [W] DEV
-    - 1. Series 1: limits of knowledge
-        + experimental failures
-        + what it means to know something
-        + know-how: craft and practice
-        + contradictory research
-        + perception and perceptual error
-        + describing what we know
-        + the things we will never know
-        + machine learning and AI
-        + contemplation, meditation and enlightenment
-        + taste (aesthetic knowledge)
-        + conspiracy
-        + truth and belief
-    - 2. Series 2: limits of language
-        + unsayable things
-        + dance and language
-        + gaps between different languages
-        + when words fail us
-        + swearing and cussing
-        + language v direct experience
-        + silence and contemplation
-        + mutism
-        + sign language
-        + science of language
-        + computer languages and coding
-
-- OUTPUT 9: discourse forum: a site for students, potential students, artist-researchers, other disciplines; create with group of people from around the world: look to get 50-100 active users in first year [W] DEV
-    + plan for maintenance and sustainability
-- OUTPUT 10: 5 curated talks online (micro-conferences) [W - but curated towards each of 3 problems] DEV
-    + e.g. [lesswrong.com/posts/9m9SniwdKsKyfjrMw/inviting-curated-authors-to-give-5-min-online-talks](https://www.lesswrong.com/posts/9m9SniwdKsKyfjrMw/inviting-curated-authors-to-give-5-min-online-talks)
-    + these could be held by people who have contributed to the project blog or the podcasts? 
-- OUTPUT 11: article for The Conversation [W] RES / DEV - **remove this**
-- OUTPUT 12: project website and blog [W] RES
-
-- OUTPUT 13: github site (radical transparency) [W] DEV
-    + basically a downloadable version of all texts from the website
-
-- key question for me here is how do non-academics benefit from this work? this is probably why that practice for theatre exhibitions is useful. It gets back to the Snowden thing.
-
-
 + Outputs and Dissemination (what you will do with the knowledge) for your audience:
     * To Beneficiaries – who are they
     * To End Users – who are they?
     * What is the plan to exploit outcomes to beneficiaries and end users (short description)
     * Will there be Public Engagement?
 
-  
+these outputs should address (in some form) the overall aim. Can this aim allude to key aspect of communications or is that separate to the 'research'? And also the three research questions.
+
+- OUTPUT 1: authentic movement: speculative and/or experimental documentation practices through writing and still and moving images **contribution here is more 'pure' practice-research in that it will be contributing directly through the practice to that community -- no, also as a lens through which to critique practice-research** RES (W)
+- OUTPUT 2: third-person scholarly article about epistemic limits - goal is to work for high level QI type journal RES (1)
+- OUTPUT 3: _Unforgettable_ exhibition DEV (1)
+- OUTPUT 4: _The Un/knowable Body_ exhibition DEV (1)
+- OUTPUT 5: journal article on epistemic proxies RES (2)
+- OUTPUT 6: lexicon of epistemological "findings and failures" RES [3]
+    + like the emotion wheel
+    + lexicon: "the vocabulary of a person, language, or branch of knowledge"
+- OUTPUT 7: video essay: collates and articulates key concerns/findings of project [W] RES
+- OUTPUT 8: 2 series of 8 episodes of podcast [W] DEV
+    - 1. Series 1: limits of knowledge
+    - 2. Series 2: limits of language
+- OUTPUT 9: discourse forum: a site for students, potential students, artist-researchers, other disciplines; create with group of people from around the world: look to get 50-100 active users in first year [W] DEV
+- OUTPUT 10: 3 curated talks online (micro-conferences)[^less_eg] [W] RES
+    + these could be held by people who have contributed to the project blog or the podcasts? Or ideas for them emerge from 'hot topics' in Discourse Forum? 
+- OUTPUT 11: project website and blog [W] RES
+
+- key question for me here is how do non-academics benefit from this work? this is probably why that practice for theatre exhibitions is useful. It gets back to the Snowden thing.
+
+
+[^less_eg]: [lesswrong.com/posts/9m9SniwdKsKyfjrMw/inviting-curated-authors-to-give-5-min-online-talks](https://www.lesswrong.com/posts/9m9SniwdKsKyfjrMw/inviting-curated-authors-to-give-5-min-online-talks)
 
 
 ## other things to consider

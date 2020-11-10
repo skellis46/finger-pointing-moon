@@ -1,5 +1,9 @@
 # edit bin
 
+It will be an attempt to do this with humility, and to see the experimenter-researcher as "engaged in an activity that has, 'a life of its own.'" without the "tyranny of the subject."[@rheinberger_forming_2013 p.199]
+
+>This also means getting rid of the age-old thinking about Erkenntnistheorie as being about an I, an ego, a subject that tries to cast a theoretical net over an object. Instead, let us be a little bit more humble and see the experimenting subject as engaged in an activity that has, to put it in Ian Hacking’s (1983,150) words, "a life of its own," and one that is in need of many good eyes to see and many good ears to hear. Let us get rid of what could be called the tyranny of the subject.[Rheinberger in @rheinberger_forming_2013 p.199]
+
 Perhaps these conditions are axioms?
 
 >In developing these criteria we too are making assumptions about what research is. However, our method is not circular, but axiomatic. Axiomatic argumentation proceeds from a few unverifiable statements that lie outside the system of argumentation, paradigmatically employed by Euclid (2000). One axiom that we have identified in our own approach is that we assume research is a cumulative process.[@biggs_eight_2008 p.8]

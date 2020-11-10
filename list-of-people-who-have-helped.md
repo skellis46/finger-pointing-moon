@@ -16,3 +16,4 @@ This is an ongoing list of people who have helped (in even the smallest way) the
 - Ken Friedman
 - Josh Wright
 - Debbie Williams
+- Joanne "Bob" Whalley
