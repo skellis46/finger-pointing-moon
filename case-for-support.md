@@ -156,7 +156,7 @@ The research methods described below are designed to realise the project objecti
 
 - **Literature and field research and review** of practice-research scholarship and practice to identify any epistemic patterns, ambiguities and proxies
 - **Critical analysis** of these materials to develop a theoretical argument regarding the use of epistemic proxies in practice-research 
-- **Scholarly writing** to communicate findings
+- **Scholarly writing** to further understand and then communicate findings
 
 3. _Hyper-specificity_: 
 
@@ -216,10 +216,10 @@ This ‘limited’ nature is an area of perhaps enhancement to artistic-scholarl
 
 >What will be your role? If there are other people involved, what will their roles be and why are they the appropriate people to be involved? 
 
-PI: 
-RA:
-XX: expert input
-Bob Whalley: expert input
+PI:  
+RA:  
+XX: expert input  
+Bob Whalley: expert input  
 
 
 ### Copyright or intellectual property issues
@@ -243,9 +243,9 @@ Bob Whalley: expert input
 
 >How are these all researcher-development activities?
 
-I have been an artist for 30 years, and an artist in the academy for 20 years. In this time, I have pursued and developed individual research practices that have led to small-scale and intimate outcomes. It would seem that my attention -- and perhaps ambition -- has been mostly inward or personal. 
+I have been an artist for 30 years, and an artist in the academy for 20 years. In this time, I have pursued and developed individual research practices that have led to small-scale and intimate outcomes. It would seem that my attention -- and perhaps ambition -- has been mostly inward or personal. -- **note Hetty's response. Change to it being more that I've resisted expansive wider public dissemination?**
 
-In order for practice-research to be more widely acknowledged beyond its own disciplinary fields, it is "necessary to consider and adhere to the demands of the larger academic community".[@biggs_eight_2008 p.15] The research component of _Finger Pointing Moon_ seeks to develop a new line of epistemic inquiry in practice-research by employing an experimental shift towards empiricism by which to test the limitations of findings and claims in practice-research. The project's development plan builds on the research component of this proposal, and uses this new line of inquiry as a means to radically change my previously inward focus by developing a series of outward-facing activities that will test and improve my communication and advocacy skills beyond and within the academy.
+In order for practice-research to be more widely acknowledged beyond its own disciplinary fields, it is "necessary to consider and adhere to the demands of the larger academic community".[@biggs_eight_2008 p.15] The research component of _Finger Pointing Moon_ seeks to develop a new line of epistemic inquiry in practice-research by employing an experimental shift towards empiricism by which to test the limitations of findings and claims in practice-research. The project's development plan builds on the research component of this proposal, and uses this new line of inquiry as a means to radically change my previous focus on personal creative practice by developing a series of outward-facing activities that will test and improve my communication and advocacy skills beyond and within the academy.
 
 The development plan will enhance my role within practice-research, and significantly develop the influence and importance of my research by helping me acquire four new capabilities: 1) to communicate and contextualise niche and complex ideas about fundamental epistemics of practice-research beyond the practice-research field and also to the wider public; 2) to demonstrate leadership in methodological advances in practice-research; 3) to develop and support a broad cross-disciplinary community of active artist-scholars; and 4) to create a range of collaborative opportunities with academic and non-academic stake-holders within and and outside of dance and the performing arts. 
 
@@ -253,11 +253,11 @@ These four capabilities will be developed through four bold and innovative activ
 
 _1. Unforgettable_
 
-This will be an exhibition of materials based on a practice of gathering and sharing the community's experiences of dance and movement. Artists, scholars and audiences from around the world will send a written note or letter that describes a single unforgettable moment or experience of dance or dancing. These documents will be collated and organised into a small-scale exhibition to be presented by project partners at various spaces around the world. _Unforgettable_ builds on the research's epistemic narrative by exploring the role of memory and languages of experience and expression in understanding how we come to know what we know. The process and exhibition is designed to: i) inspire creativity in how other researchers understand and represent the scope of their largely theoretical undertakings; ii) seek wider impact by ambitiously engaging a global cross-section of participants; iii) develop new research-informed partnerships and collaborations with non-academic organisations around the world.
+This will be an exhibition of materials based on a practice of gathering and sharing the community's experiences of dance and movement. Artists, scholars and audiences from around the world will send a written note or letter that describes a single unforgettable moment or experience of dance or dancing. These documents will be collated and organised into an exhibition to be presented by project partners at various spaces around the world. _Unforgettable_ builds on the research's epistemic narrative by exploring the role of memory and languages of experience and expression in understanding how we come to know what we know. The process and exhibition is designed to: i) inspire creativity in how other researchers understand and represent the scope of their largely theoretical undertakings; ii) seek wider impact by ambitiously engaging a global cross-section of participants; iii) develop new research-informed partnerships and collaborations with non-academic organisations around the world.
 
-_2. The Un/knowable Body_ (or _Knowlege of Body_?)
+_2. The Un/knowable Body_
 
-_The Un/knowable Body_ will involve collecting a large quantity of cross- and inter-disciplinary materials that reveal the limits, margins and possibilities of human understanding and experience of the body. These materials will be gathered by the PI and RA but will then be sent to [xx] project partners in Australia, UK, Italy ... [etc]. Each project partner will work with their local communities -- in consultation with the PI -- to explore ways to organise, curate, present and respond to the materials and then develop a bespoke programme of events that explore knowledges of the body. _The Un/knowable Body_ directly explores a key part of the research component of _Finger Pointing Moon_ by addressing what is able to be known -- and what remains unknown -- about visual and sensorial experiences of the human body. The activity will: i) foster interdisciplinary research by working with and presenting materials from a broad disciplinary range; ii) inspire creativity in other researchers by creating models for public engagement that emerge from those publics (rather than top-down or researcher focused models); iii) create wider impact for the research aspects of the project by building relationships between highly theoretical (and niche) ideas to do with epistemology with accessible and meaningful materials for the wider public; iv) create new research partnerships and collaborations between the PI and project partners working across disciplinary fields.
+_The Un/knowable Body_ will involve collecting a large quantity of cross- and inter-disciplinary materials that reveal the limits, margins and possibilities of human understanding and experience of the body. These materials will be gathered by the PI and RA but will then be sent to [xx] project partners in Australia, UK, Italy ... [etc]. Each project partner will work with their local communities -- in consultation with the PI -- to explore ways to organise, curate, present and respond to the materials and then develop a bespoke programme of events that explore knowledges of the body. _The Un/knowable Body_ directly explores a key part of the research component of _Finger Pointing Moon_ by addressing what is able to be known -- and what remains unknown -- about visual and sensorial experiences of the human body. The activity will: i) foster interdisciplinary research by working with and presenting materials from a broad disciplinary range; ii) inspire creativity in other researchers by creating models for public engagement that emerge from those publics (rather than top-down or researcher focused models); iii) create wider impact for the research aspects of the project by building relationships between highly theoretical (and niche) ideas to do with epistemology, with accessible and meaningful materials for the wider public; iv) create new research partnerships and collaborations between the PI and project partners working across disciplinary fields.
 
 _3. Artistic Research forum_
 
@@ -290,6 +290,8 @@ The following are examples of possible ways of formulating a proposal; they are 
 - RA: website maintenance, and annotated bibliography of literature and practice (shared zotero library), published online as ongoing page on project website (with links to OA versions of originals where possible). edited collections (books) to be annotated by chapters. Or single page as database that includes one/two line summary of the publication/research. are we creating a database here? 
 - 
 
+- split between research activities (outputs) and developmental ones, and the possibility of managing this throughout the 18 months
+
 - balance of research and development activities throughout the 18 months. recognising that they go hand in hand. ??
 
 >Your Fellowship project can be up to 18 months (min at 0.5FTE max at 1.0FTE) but the research assistance can be up to a total 12 months of full time distributed over the 18-month period.
@@ -304,10 +306,40 @@ See page 20, section Research Assistance. (from Amy)
 
 >You should consider (and address if appropriate) methods for communications and engagement, collaboration and development. You should also detail who will be undertaking any dissemination activities and include any resource implications in the financial summary and in the separate Justification of Resources attachment. Please also explain further how the research will benefit other researchers in the field and – where relevant – academic beneficiaries in other disciplines.
 
-- split between research activities (outputs) and developmental ones, and the possibility of managing this throughout the 18 months
+>It is your responsibility to justify the value and appropriateness of the output(s) and outcomes in the Case for Support.
+
+_assessment criteria (from assessment-criteria.md):_
+
+>• the appropriateness and effectiveness of the proposed dissemination methods
+• the extent to which the research process is documented or recorded in a way to enable dissemination of research outcomes to the widest possible audience
+• the likelihood that the outputs and outcomes of the project will be highly valued and widely exploited, both in the research community and in wider contexts where they can make a difference
+• whether the plans to increase impact are appropriate and justified, given the nature of the proposed research
+• whether sufficient attention has been given to who the beneficiaries of the research might be and appropriate ways to engage with them throughout the project.
+
+
+>You are encouraged to disseminate your research and its outcomes to as wide an audience as possible, and where appropriate to engage in communication, dissemination and exploitation activities throughout the period of the project. You should therefore specify the audiences to whom your research could be of interest, and how you propose to engage with those audiences about your research.
 
 >You should address two main questions: who might benefit from the research and how might they benefit?
 
+_Finger Pointing Moon_ is driven by research (RES) _and_ developmental (DEV) concerns, and will produce the following outputs: 
+
+1. Authentic Movement: speculative and experimental documentation practices through writing and still and moving images; published online (RES)
+2. Scholarly article about epistemic limits, written with expert input from XX (RES)
+3. _Unforgettable_ exhibition (as detailed in Development Plan) (DEV)
+4. _The Un/knowable Body_ exhibition (also detailed in Development Plan) (DEV)
+5. Scholarly article on epistemic proxies (RES)
+6. Lexicon of epistemological "findings and failures", published online
+7. Video essay that collates and articulates key concerns/findings of entire research project (RES)
+8. Two series of 8 episodes of podcast (DEV): Series 1: limits of knowledge; Series 2: limits of language
+9. Initiate and support Discourse forum (see Development Plan) (DEV)
+10. Three curated talks online (micro-conferences) that emerge from key topics on Discourse Forum site (RES)
+11. Project website and blog to make the project processes and outcomes publicly accessible (RES/DEV)
+
+
+1. scholars: body-based artist-researchers, somatic practitioners, researchers exploring experimental documentation practices in PaR, psychology scholars looking at judgement/non-judgement (what's that psych term I was looking into?); wider public: dance artists, artists considering photographic documentation of time-based work, somatic and authentic movement practitioners ...
+2. 
+
+what is the difference between a beneficiary and an end-user?
 + Outputs and Dissemination (what you will do with the knowledge) for your audience:
     * To Beneficiaries – who are they
     * To End Users – who are they?
@@ -316,22 +348,7 @@ See page 20, section Research Assistance. (from Amy)
 
 these outputs should address (in some form) the overall aim. Can this aim allude to key aspect of communications or is that separate to the 'research'? And also the three research questions.
 
-- OUTPUT 1: authentic movement: speculative and/or experimental documentation practices through writing and still and moving images **contribution here is more 'pure' practice-research in that it will be contributing directly through the practice to that community -- no, also as a lens through which to critique practice-research** RES (W)
-- OUTPUT 2: third-person scholarly article about epistemic limits - goal is to work for high level QI type journal RES (1)
-- OUTPUT 3: _Unforgettable_ exhibition DEV (1)
-- OUTPUT 4: _The Un/knowable Body_ exhibition DEV (1)
-- OUTPUT 5: journal article on epistemic proxies RES (2)
-- OUTPUT 6: lexicon of epistemological "findings and failures" RES [3]
-    + like the emotion wheel
-    + lexicon: "the vocabulary of a person, language, or branch of knowledge"
-- OUTPUT 7: video essay: collates and articulates key concerns/findings of project [W] RES
-- OUTPUT 8: 2 series of 8 episodes of podcast [W] DEV
-    - 1. Series 1: limits of knowledge
-    - 2. Series 2: limits of language
-- OUTPUT 9: discourse forum: a site for students, potential students, artist-researchers, other disciplines; create with group of people from around the world: look to get 50-100 active users in first year [W] DEV
-- OUTPUT 10: 3 curated talks online (micro-conferences)[^less_eg] [W] RES
-    + these could be held by people who have contributed to the project blog or the podcasts? Or ideas for them emerge from 'hot topics' in Discourse Forum? 
-- OUTPUT 11: project website and blog [W] RES
+
 
 - key question for me here is how do non-academics benefit from this work? this is probably why that practice for theatre exhibitions is useful. It gets back to the Snowden thing.
 
