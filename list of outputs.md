@@ -68,6 +68,24 @@ _4. W = whole project_
 - Adriana Cavarero: https://www.dsu.univr.it/?ent=persona&id=727&lang=en
 - 
 
+
+- OUTPUT 1: authentic movement: speculative and/or experimental documentation practices through writing and still and moving images **contribution here is more 'pure' practice-research in that it will be contributing directly through the practice to that community -- no, also as a lens through which to critique practice-research** RES (W)
+- OUTPUT 2: third-person scholarly article about epistemic limits - goal is to work for high level QI type journal RES (1)
+- OUTPUT 3: _Unforgettable_ exhibition DEV (1)
+- OUTPUT 4: _The Un/knowable Body_ exhibition DEV (1)
+- OUTPUT 5: journal article on epistemic proxies RES (2)
+- OUTPUT 6: lexicon of epistemological "findings and failures" RES [3]
+    + like the emotion wheel
+    + lexicon: "the vocabulary of a person, language, or branch of knowledge"
+- OUTPUT 7: video essay: collates and articulates key concerns/findings of project [W] RES
+- OUTPUT 8: 2 series of 8 episodes of podcast [W] DEV
+    - 1. Series 1: limits of knowledge
+    - 2. Series 2: limits of language
+- OUTPUT 9: discourse forum: a site for students, potential students, artist-researchers, other disciplines; create with group of people from around the world: look to get 50-100 active users in first year [W] DEV
+- OUTPUT 10: 3 curated talks online (micro-conferences)[^less_eg] [W] RES
+    + these could be held by people who have contributed to the project blog or the podcasts? Or ideas for them emerge from 'hot topics' in Discourse Forum? 
+- OUTPUT 11: project website and blog [W] RES
+
 ## edit bin
 
 - annotated bibliography of 100 key practice-research articles on epistemology-focused articles/chapters (OA scholarly resource) in artistic-research [W] RES
