@@ -1,5 +1,9 @@
 # edit bin
 
+- key question for me here is how do non-academics benefit from this work? this is probably why that practice for theatre exhibitions is useful. It gets back to the Snowden thing.
+
+Yet the often-asked and simply stated question -- _How do we know that we know what we know?_ -- reveals niche-ness is valuable way beyond specific academic concerns. The question _ underpins the impact of project's outputs. 
+
 It will be an attempt to do this with humility, and to see the experimenter-researcher as "engaged in an activity that has, 'a life of its own.'" without the "tyranny of the subject."[@rheinberger_forming_2013 p.199]
 
 >This also means getting rid of the age-old thinking about Erkenntnistheorie as being about an I, an ego, a subject that tries to cast a theoretical net over an object. Instead, let us be a little bit more humble and see the experimenting subject as engaged in an activity that has, to put it in Ian Hacking’s (1983,150) words, "a life of its own," and one that is in need of many good eyes to see and many good ears to hear. Let us get rid of what could be called the tyranny of the subject.[Rheinberger in @rheinberger_forming_2013 p.199]
