@@ -16,7 +16,7 @@ Practice-research has two fundamental epistemic questions: 1) What is known or u
 
 [^doc]: e.g. Heathfield et al. [-@heathfield_shattered_1997]; Lycouris [@lycouris_documentation_2000]; and Performance Research: _On Archives & Archiving_ (2002, v20:6), _On An/Notations_ (2015, v7:4), _On Disappearance_ (2019, v24:7); See also _Journal of Artistic Research_ and _Choreographic Practices_. 
 
-I propose three epistemic axioms[e.g. @biggs_eight_2008 p.8] to underpin the project's aim and to provide a conceptual structure for the research design: i) _limits_; in which artist-scholars fail to examine the limits of what can and cannot be known through practice-research;[ref??] ii) _proxies_; in which genuine research findings are kept at arm's length by concepts, practices or conventions. For example, documentation in practice-research often acts as a proxy for empirical evidence;[Kershaw, in @nelson_practice_2013 p.6] and iii) _hyper-specificity_; in which practice-research methods and findings are specific to single projects and rarely form part of critical dialogues in the artistic-scholarly community.[ref??] 
+I propose three epistemic axioms[e.g. @biggs_eight_2008 p.8] to underpin the project's aim and to provide a conceptual structure for the research design: i) _limits_; in which artist-scholars fail to address the limits of what can and cannot be known through practice-research; ii) _proxies_; in which genuine research findings are kept at arm's length by concepts, practices or conventions. For example, documentation in practice-research often acts as a proxy for empirical evidence;[Kershaw, in @nelson_practice_2013 p.6] and iii) _hyper-specificity_; in which practice-research methods and findings are specific to single projects and rarely form part of critical dialogues in the artistic-scholarly community. 
 
 _Finger Pointing Moon_ has three research questions based on these axioms:
 
@@ -323,8 +323,8 @@ _assessment criteria (from assessment-criteria.md):_
 
 _Finger Pointing Moon_ is driven by research (RES) _and_ developmental (DEV) concerns, and will produce the following outputs: 
 
-1. Authentic Movement: speculative and experimental documentation practices through writing and still and moving images; published online (RES)
-2. Scholarly article about epistemic limits, written with expert input from XX (RES)
+1. Authentic Movement: speculative and experimental documentation practices through writing and still and moving images; developed with expert input from Bob Whalley and published online (RES)
+2. Scholarly article about epistemic limits (RES)
 3. _Unforgettable_ exhibition (as detailed in Development Plan) (DEV)
 4. _The Un/knowable Body_ exhibition (also detailed in Development Plan) (DEV)
 5. Scholarly article on epistemic proxies (RES)
@@ -333,28 +333,43 @@ _Finger Pointing Moon_ is driven by research (RES) _and_ developmental (DEV) con
 8. Two series of 8 episodes of podcast (DEV): Series 1: limits of knowledge; Series 2: limits of language
 9. Initiate and support Discourse forum (see Development Plan) (DEV)
 10. Three curated talks online (micro-conferences) that emerge from key topics on Discourse Forum site (RES)
-11. Project website and blog to make the project processes and outcomes publicly accessible (RES/DEV)
+11. Project website and blog to make the project processes and outcomes widely accessible (RES/DEV)
 
 
-1. scholars: body-based artist-researchers, somatic practitioners, researchers exploring experimental documentation practices in PaR, psychology scholars looking at judgement/non-judgement (what's that psych term I was looking into?); wider public: dance artists, artists considering photographic documentation of time-based work, somatic and authentic movement practitioners ...
-2. 
+1. scholars: body-based and somatic artist-researchers, researchers exploring experimental documentation practices in practice-research, psychology scholars and practitioners looking at non-judgement awareness (or related terms like neutrality, acceptance and unconditional positive regard), scholars working with experimental qualitative research methods; wider public: dance artists, choreographers, artists considering photographic documentation of time-based work, photographers, somatic and authentic movement practitioners, dance movement therapists.
+2. scholars: qualitative researchers, practice-researchers across disciplines, epistemologists (particularly analytic philosophers exploring know-how/know-that)
+3. wider public (audiences of organisations/project partners), dance/theatre audiences, arts organisations working with and across HE (professional-academic connections), the contributors, global audience/network, archivists, 
+4. academics from across disciplines (particularly medical and health sciences, arts and humanities), artists and creatives working with and through the body, gallery and institution audiences, institutions working in public engagement, local artists involved in 'curating' the materials
+5. focused on practice-research artist-scholars; qualitative researchers (social sciences, arts and humanities) - postgraduate and academic level
+6. focused on practice-research artist-scholars; qualitative researchers (social sciences, arts and humanities)
+7. accessible to to all levels of academia (focus on those working artistic research and other experimental research methods), crossing into wider public: particularly artists
+8. wider public; cross disciplinary scholars (act as method to build broad audience for the research)
+9. artist-researchers (cross-disciplines), academics, artists transitioning into academy
+10. audience generating: likely beneficiaries are PhD and early-career artist-researchers (in academy) and artists considering move/transition into the academy
+11. all beneficiaries (key OA resource for entire project)
 
-what is the difference between a beneficiary and an end-user?
+strategies for communication, dissemination and exploitation: 
+- open access (where possible) -- primarily through project website and blog
+- focus on clear/direct/simple language
+- working closely with project partners to develop and nurture audiences 
+- social media
+- discourse forum is a strategy
+- podcast is also a strategy
+
+
 + Outputs and Dissemination (what you will do with the knowledge) for your audience:
     * To Beneficiaries – who are they
     * To End Users – who are they?
     * What is the plan to exploit outcomes to beneficiaries and end users (short description)
     * Will there be Public Engagement?
 
-these outputs should address (in some form) the overall aim. Can this aim allude to key aspect of communications or is that separate to the 'research'? And also the three research questions.
+The outputs are a wide-ranging series of inter-disciplinary responses to the project's overarching research aim to examine the epistemic potential and limits of practice-research. The outputs also challenge the PI to strengthen and broaden his communication, impact and public engagement capacity.
 
+The American former CIA employee Edward Snowden wrote this:
 
+>Here’s what strikes me when I think back to my childhood, particularly those first nine Internet-less years: I can’t account for everything that happened back then, because I have only my memory to rely on. The data just doesn’t exist. When I was a child, “the unforgettable experience” was not yet a threateningly literal technological description, but a passionate metaphorical prescription of significance: my first words, my first steps, my first lost tooth, my first time riding a bicycle.[-@snowden_permanent_2019]
 
-- key question for me here is how do non-academics benefit from this work? this is probably why that practice for theatre exhibitions is useful. It gets back to the Snowden thing.
-
-
-[^less_eg]: [lesswrong.com/posts/9m9SniwdKsKyfjrMw/inviting-curated-authors-to-give-5-min-online-talks](https://www.lesswrong.com/posts/9m9SniwdKsKyfjrMw/inviting-curated-authors-to-give-5-min-online-talks)
-
+Snowden's words reference a fundamental idea in human experience: there are things we have data for, and there remain things that are beyond data. _Finger Pointing Moon_ examines the nature of the line between what is able to be known and what is not. It is not an abstract or theoretical line interesting only to epistemologists. Rather, it is a line we are all navigating all the time: fake news, truth, trusted sources, indescribable experiences, filter bubbles, and the radically analogue feelings of the human body. Although _Finger Pointing Moon_ addresses a niche concern -- the epistemic limits of artistic research -- the innovative and diverse outputs proposed in the project also reveal how the breadth and currency of epistemic concerns are vital to the wider public.
 
 ## other things to consider
 
