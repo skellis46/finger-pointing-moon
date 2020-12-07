@@ -116,12 +116,8 @@ The research will be most interesting to artist-scholars from across disciplines
 
 ### Research objectives
 
-The aim of _Finger Pointing Moon_ is to address practice-research's fundamental epistemic question: _What can we know or understand differently as a consequence of practice-research?_ There are three research questions -- _Limits_, _Proxies_ and _Hyper-specificity_ -- with corresponding objectives as follows. 
-
-_1. Limits: What are the epistemic limits of practice-research? What aspects of practices are not able to be known, understood or articulated?_
-
-1. identify qualities of experience from first-person body-based practice experiments that resist being known, are deeply uncertain, or are unable to be articulated
-2. identify qualities of experience from first-person body-based practice experiments that assist being known, display some quality of certainty, or are able to be articulated **add third-person here**
+choreographic_practices
+ **add third-person here**
 
 _2. Proxies: What are practice-research's common epistemic proxies and how do they affect the value of practice-research as an approach for developing new insights?_ 
 
@@ -173,6 +169,8 @@ The methods above contain reflection, empirical and critical analysis, writing, 
 
 #### Experimental practice-research
 
+- why is it experimental?
+
 The methodological heart of _Finger Pointing Moon_ is to use Authentic Movement (AM) as the basis for experimental practice-research fieldwork.
 
 Authentic Movement is a process-oriented movement practice that specifically distinguishes the body as observed from the outside (third-person perspective) and the soma as perceived from the inside (first-person perception).[@hanna_what_1995 p.341] AM provides a structured body-based process of empirical (visible) and sensorial (non-visible) observation. Its focus is on _doing something_ rather than _making something_, and the practice dwells deeply in ambiguous feelings and thoughts, presents movement experiences that are not obviously visible and thereby complicated to document, and has an ambivalent relationship to the written word. Therefore, AM is an edge-case / paradigmatic way to examine the epistemic limits, possibilities and failings of body-based practice-research, and to propose extrapolations of these limits to other practice-research disciplines. The practice offers clear and precise limits necessary to wrestle with these fundamental questions of what can be known differently ...
@@ -181,6 +179,8 @@ Authentic Movement is a process-oriented movement practice that specifically dis
 
 >As Schwab thinks through the relationship between artistic research and contemporary art he proposes that we must move away from objects (not clear what he means by objects) with a "more or less stable historical identity"[@schwab_experimental_2019 p.166] to "more precarious, ambivalent, or provisional things."[@schwab_experimental_2019 p.166] -- support for use of AM?
 
+
+AM is highly distilled -- a more closed 'system' with which to observe the complexity
 
 - AM as a primary or contemplative experience of reality. See <contemplation beyond rationalization.md> -- and the really real
 - distinction between soma and body: <first-person experience.md>
@@ -308,6 +308,8 @@ See page 20, section Research Assistance. (from Amy)
 
 >It is your responsibility to justify the value and appropriateness of the output(s) and outcomes in the Case for Support.
 
+>You are encouraged to disseminate your research and its outcomes to as wide an audience as possible, and where appropriate to engage in communication, dissemination and exploitation activities throughout the period of the project. You should therefore specify the audiences to whom your research could be of interest, and how you propose to engage with those audiences about your research.
+
 _assessment criteria (from assessment-criteria.md):_
 
 >• the appropriateness and effectiveness of the proposed dissemination methods
@@ -316,10 +318,12 @@ _assessment criteria (from assessment-criteria.md):_
 • whether the plans to increase impact are appropriate and justified, given the nature of the proposed research
 • whether sufficient attention has been given to who the beneficiaries of the research might be and appropriate ways to engage with them throughout the project.
 
+>You should address two main questions: who might benefit from the research and how might they benefit? How will they be identified (including during the research)?
 
->You are encouraged to disseminate your research and its outcomes to as wide an audience as possible, and where appropriate to engage in communication, dissemination and exploitation activities throughout the period of the project. You should therefore specify the audiences to whom your research could be of interest, and how you propose to engage with those audiences about your research.
 
->You should address two main questions: who might benefit from the research and how might they benefit?
+I will use a range of local and global dissemination methods. Many of the outputs have community building features built in (e.g. Discourse Forum, exhibitions, Podcast). These communities will play an important 'ground-up' role in sharing, discussing and creating conversations about the outputs and the project. 
+
+The processes, outcomes and outputs of _Finger Pointing Moon_ will be meticulously recorded and documented via the project website to maximise transparency and open accessibility for as wide an audience as possible. This will include pre-press versions of articles accepted by journals behind paywalls (likely to be outputs 2 and 5).
 
 _Finger Pointing Moon_ is driven by research (RES) _and_ developmental (DEV) concerns, and will produce the following outputs: 
 
@@ -328,7 +332,7 @@ _Finger Pointing Moon_ is driven by research (RES) _and_ developmental (DEV) con
 3. _Unforgettable_ exhibition (as detailed in Development Plan) (DEV)
 4. _The Un/knowable Body_ exhibition (also detailed in Development Plan) (DEV)
 5. Scholarly article on epistemic proxies (RES)
-6. Lexicon of epistemological "findings and failures", published online
+6. Lexicon of epistemological "findings and failures", published online (RES)
 7. Video essay that collates and articulates key concerns/findings of entire research project (RES)
 8. Two series of 8 episodes of podcast (DEV): Series 1: limits of knowledge; Series 2: limits of language
 9. Initiate and support Discourse forum (see Development Plan) (DEV)
