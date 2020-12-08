@@ -16,7 +16,7 @@ Practice-research has two fundamental epistemic questions: 1) What is known or u
 
 [^doc]: e.g. Heathfield et al. [-@heathfield_shattered_1997]; Lycouris [@lycouris_documentation_2000]; and Performance Research: _On Archives & Archiving_ (2002, v20:6), _On An/Notations_ (2015, v7:4), _On Disappearance_ (2019, v24:7); See also _Journal of Artistic Research_ and _Choreographic Practices_. 
 
-I propose three epistemic axioms[e.g. @biggs_eight_2008 p.8] to underpin the project's aim and to provide a conceptual structure for the research design: i) _limits_; in which artist-scholars fail to address the limits of what can and cannot be known through practice-research; ii) _proxies_; in which genuine research findings are kept at arm's length by concepts, practices or conventions. For example, documentation in practice-research often acts as a proxy for empirical evidence;[Kershaw, in @nelson_practice_2013 p.6] and iii) _hyper-specificity_; in which practice-research methods and findings are specific to single projects and rarely form part of critical dialogues in the artistic-scholarly community. 
+I propose three epistemic axioms[e.g. @biggs_eight_2008 p.8] to underpin the project's aim and to provide a conceptual structure for the research design: i) _limits_; in which artist-scholars fail to address the limits of what can and cannot be known through practice-research; ii) _proxies_; in which genuine research findings are kept at arm's length by concepts, practices or conventions. For example, documentation in practice-research often acts as a proxy for empirical evidence;[Kershaw, in @nelson_practice_2013 p.6] and iii) _hyper-specificity_; in which practice-research methods and findings are specific to single projects and rarely form part of critical dialogues in the artistic-scholarly community. **add here about cumulative processes -- Biggs and Buchler**
 
 _Finger Pointing Moon_ has three research questions based on these axioms:
 
@@ -116,8 +116,12 @@ The research will be most interesting to artist-scholars from across disciplines
 
 ### Research objectives
 
-choreographic_practices
- **add third-person here**
+The aim of _Finger Pointing Moon_ is to address practice-research's fundamental epistemic question: _What can we know or understand differently as a consequence of practice-research?_ There are three research questions -- _Limits_, _Proxies_ and _Hyper-specificity_ -- with corresponding objectives as follows. 
+
+_1. Limits: What are the epistemic limits of practice-research? What aspects of practices are not able to be known, understood or articulated?_
+
+1. identify qualities of experience from first-person body-based practice experiments that resist being known, are deeply uncertain, or are unable to be articulated
+2. identify qualities of experience from first-person body-based practice experiments that assist being known, display some quality of certainty, or are able to be articulated **add third-person here**
 
 _2. Proxies: What are practice-research's common epistemic proxies and how do they affect the value of practice-research as an approach for developing new insights?_ 
 
