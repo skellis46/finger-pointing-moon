@@ -1,5 +1,9 @@
 # edit bin
 
+- to address the idea that practice-research's place is an epistemic place (and not to stay within realm of techne). to know something differently. to know-that. this is not to reduce or displace know-how or craft. ties to Rheinberger and building epistemic things.
+- but what is the nature of this epistemic place? can something that is unknowable (akin to Berry's thinking) except through direct experience (ref from obsidian) be an epistemic thing? And if not, what kind of _thing_ is it? 
+- some kind of line between what is observable and standpoint epistemology
+
 **Noë writes that in art and philosophy "there aren’t breakthroughs or discoveries or results or findings in these fields, certainly not ones that invalidate or cancel out earlier ones or preclude future ones."[@noe_strange_2015 Chapter 11, n.p.] Rather, what we have is more about change, history and evolution; "moves in an important conversation"[@noe_strange_2015 Chapter 11, n.p.] that keep that conversation alive and open. Art and philosophy do not produce "stand-alone nuggets of truth"[@noe_strange_2015 Chapter 11, n.p.] but are akin to a score which we enact as much as we perceive:**
 
 >We start out not seeing what is there. But by looking and interrogating and challenging, we come to see it. The work challenges us to reorganize our seeing, our expectations, and our thinking. The work of art, like that of philosophy, is the reorganization of ourselves. And this reorganization, this work, aims also at understanding.[@noe_strange_2015 Chapter 11, n.p.]
@@ -22,9 +26,7 @@ The tension between intrinsic and extrinsic _claims to knowledge_ in practice-re
 
 In _Finger Pointing Moon_ the intrinsic-extrinsic conflict likewise looms over the project's methods, analysis and outcomes. The conflict is the historical epistemic air that the project breathes. 
 
-Consequently, artist-scholars have an open secret: we often conceive our research findings _a priori_ and/or present them _a posteriori_ as reflective spaces[@jeremy_bubb_missing_2020] using vague and hopeful language.[^3examples]
-
-[^3examples]: Here are three arbitrary examples from the Journal of Artistic Research (2020 Vol 20, emphasis added): "_hopefully_ as you continue to read and listen, _it will become gradually clearer_" -- Miller; "the open-endedness of artistic research _allows the possibility_ for the ongoing development of _new insights_ among the wider community of creative practitioners" -- Hunt; and "with this text I’m really _not trying to make any grand statements_. It is a _collection_ of words and decisions that function more as a _demonstration_" -- Norman.
+Consequently, artist-scholars have an open secret: we often conceive our research findings _a priori_ and/or present them _a posteriori_ as reflective spaces[@jeremy_bubb_missing_2020] using vague and hopeful language.
 
 >actions are not meaningful in isolation. The performance of isolated actions results in a loss of coherence and in dissatisfaction.[@biggs_communities_2011 p.89]
 
