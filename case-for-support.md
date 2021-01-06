@@ -32,7 +32,7 @@ The four characteristics above are uniquely amplified for artist-scholars workin
 
 The conception, context and research design of _Finger Pointing Moon_ is therefore founded on two propositions: i) that practice-research is not adequately tuned to recognising any changes resulting from research-focused artistic practices; ii) body-based practices provide a pristine methodological microscope through which to investigate the epistemic complexity of practice-research.
 
-The three research questions form the spine of the project's focus for practice-research to adopt a more lucid and evidence-based (empirical) relationship with its own epistemic possibilities, limitations and failings. The alternative to not addressing these questions is the status quo in which endless variations of process are circulated and fetishized,[@nelson_practice_2013] representational proxies are assumed to stand in for "epistemic things",[this is a term from @rheinberger_toward_1997; see also @borgdorff_conflict_2012 p.232] outcomes are rarely explicitly made in dialogue with other overlapping practices,[^theory] and there are no limits to unfalsifiable claims to understanding and no limits to the vagueness of these claims. The danger here is that if _all_ practice-research is presentable as _truth_ -- even in the sense that "truth is aspirational"[@ingold_search_2018 n.p.] -- then it is failing as an approach to creating new understandings. 
+The three research questions form the spine of the project's focus for practice-research to adopt a more lucid and evidence-based (empirical) relationship with its own epistemic possibilities, limitations and failings. The alternative to not addressing these questions is the status quo in which endless variations of process are circulated and fetishized,[@nelson_practice_2013] representational proxies are assumed to stand in for "epistemic things",[this is a term from @rheinberger_toward_1997; see also @borgdorff_conflict_2012 p.232] outcomes are rarely explicitly made in dialogue with other overlapping practices,[^theory] and there are no limits to unfalsifiable claims to understanding and no limits to the vagueness of these claims. In other words, if _all_ practice-research is presentable as _truth_ -- even in the sense that "truth is aspirational"[@ingold_search_2018 n.p.] -- then it is failing as an approach to creating new understandings. 
 
 [^theory]: Practice-research has a history of referring to theory, not to oppose, confront or build theoretical understandings, but to prop up the academic status of the artistic work.**add citation** 
 
@@ -40,7 +40,9 @@ The three research questions form the spine of the project's focus for practice-
 
 In 1992 the UK Higher Education Funding Councils first recognised the work of artists as research and, given the potential "access to highly lucrative government funding",[@magee_introduction._2012 n.p.] art and artists became invested in the production of knowledge. Since then, the epistemological project in practice-research has comprised various attempts to reverse-engineer art-making through an epistemological lens. That is, once art was recognised as research it became necessary to justify and validate its knowledge-producing bona fides, and to avoid a situation in which "the entire history of art [became] eligible for a postgraduate research degree."[@frayling_research_1993 p.5] Nevertheless, Pakes has written that it is easy to make the claim for a "distinctive kind of knowledge" emerging from practice-research, but far more difficult to specify the make up of such knowledge.[-@pakes_art_2004 n.p.]
 
-#### Past efforts to describe an epistemology of practice-research
+#### Past work to describe an epistemology of practice-research
+
+Research into the epistemology of practice-research has been chronically theoretical.
 
 ##### Know-how and technê
 
@@ -56,11 +58,18 @@ Scrivener wrote that the "art object does not embody a form of knowledge."[@step
 
 Other work has built on Scrivener's recognition that the audience is fundamental to the epistemic project of practice-research.[e.g. Magee -@magee_introduction._2012; Ellis -@ellis_that_2018] Rather than producing knowledge itself, the artist produces "a compelling, mesmerising question"[@magee_introduction._2012 p.5] and the artefact affords possibilities for understanding in those who experience it. This is a radically "expanded epistemology"[@ellis_that_2018 p.488] in which practice-research is "dependent on its audience to do its epistemic work."[@ellis_that_2018 p.488]  
 
-Past efforts to describe an epistemology of practice-research reveal the complexity of the problem. There are effectively three _agents_ at play in this intellectual labour -- the artefact, the artist and the audience -- and the extent to which an artist-scholar foregrounds the role of each has determined their position in understanding the epistemic boundaries of practice-research. What is shared between the positions is an overarching relativist constructivist framework. Such a framework gives license to the artist-scholar (and/or the audience) to say anything about the work they present and represent; that is, there are no limits to the claims that are made. 
+Past efforts to describe an epistemology of practice-research reveal the complexity of the problem. There are effectively three _agents_ at play in this intellectual labour -- the artefact, the artist and the audience -- and the extent to which an artist-scholar foregrounds the role of each has determined their position in understanding the epistemic boundaries of practice-research. What is shared between the positions is an overarching relativist constructivist framework. Such a framework gives license to the artist-scholar (and/or the audience) to say anything about the work they present and represent; that is, there are no limits to the claims that are made.[see for example @biggs_communities_2011] 
 
 ### My contribution to improving, enhancing, or developing creativity, insights, knowledge or understanding in the area
 
-The history of practice-research has been shaped -- mostly by default -- by a relativist approach to making epistemic claims. In _Finger Pointing Moon_ my aim is to develop an empirical approach using experimental body-based practices as the foundations  that cuts through the fuzziness of practice-research practices and language. My contribution will be to develop an empirically driven approach to practice-research that attempts to cut through the fuzziness and ambiguities of practices and languages. To speak directly to the problems  
+The history of practice-research has been shaped by unchallenged relativist and constructivist approaches to making epistemic claims. In _Finger Pointing Moon_ my proposal is to develop an empirical approach using experimental body-based practices as the foundations on which to build epistemic claims. That is, I will move from deep inside practice towards disciplinary-level analysis that attempts to cut through the historical vagueness of practice-research practices and language.[^3examples] In the research, I will speak directly to the epistemic problems 
+
+
+[^3examples]: Here are three arbitrary examples from the Journal of Artistic Research (2020 Vol 20, emphasis added): "_hopefully_ as you continue to read and listen, _it will become gradually clearer_" -- Miller; "the open-endedness of artistic research _allows the possibility_ for the ongoing development of _new insights_ among the wider community of creative practitioners" -- Hunt; and "with this text I’m really _not trying to make any grand statements_. It is a _collection_ of words and decisions that function more as a _demonstration_" -- Norman. 
+
+To draw practice-research out from behind both technê and epistemic proxies, to understand the limits and margins of practice-research epistemic things. The tension here will be to balance the limitations of understanding through direct experience,[e.g. @langer_mind_1967] standpoint epistemology,[e.g. @wylie_standpoint_2015] and the possibilities of apprehending change through empirical (observable) iterative artistic practice. **doxa (see obsidian)**.
+
+In doing so, part of my contribution will be to directly address experiences and practices that artist-researchers can agree and disagree on; that some aspects of creative practices -- other than just methodology or what to call practice-research -- must be open to debate! Where might legitimate disagreement lie in fields and studios of practice? Are there grounds for heterotopic discourse[@roberts_triggering_2012] that draw solitary researchers and solitary performance-oriented outcomes into communities of practice in order to become "cumulative"[@biggs_communities_2011 p.86], and a "part of a network of other valued actions".[Hirsch 1984, in @biggs_communities_2011 p.85]
 
 - go back to RQs and use them as guide for this section
 
@@ -72,11 +81,6 @@ The history of practice-research has been shaped -- mostly by default -- by a re
 
 - creating language for this empirical approach
 
-- to address the idea that practice-research's place is an epistemic place (and not to stay within realm of techne). to know something differently. to know-that. this is not to reduce or displace know-how or craft. ties to Rheinberger and building epistemic things.
-- but what is the nature of this epistemic place? can something that is unknowable (akin to Berry's thinking) except through direct experience (ref from obsidian) be an epistemic thing? And if not, what kind of _thing_ is it? 
-- some kind of line between what is observable and standpoint epistemology
-
-interested not only in what we can agree on but what we can clearly disagree about on. what can't be said? some things must be open to debate (other than just methodology). Where is there legitimate disagreement? (heterotopic discourse -- ways of arguing) -- similar to Biggs and Buchler (2011) approach, p.83 of the chapter in their edited volume.
 
 ### Who will be most interested in the outcomes? 
 
