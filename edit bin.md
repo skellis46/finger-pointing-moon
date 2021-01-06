@@ -1,5 +1,39 @@
 # edit bin
 
+**Noë writes that in art and philosophy "there aren’t breakthroughs or discoveries or results or findings in these fields, certainly not ones that invalidate or cancel out earlier ones or preclude future ones."[@noe_strange_2015 Chapter 11, n.p.] Rather, what we have is more about change, history and evolution; "moves in an important conversation"[@noe_strange_2015 Chapter 11, n.p.] that keep that conversation alive and open. Art and philosophy do not produce "stand-alone nuggets of truth"[@noe_strange_2015 Chapter 11, n.p.] but are akin to a score which we enact as much as we perceive:**
+
+>We start out not seeing what is there. But by looking and interrogating and challenging, we come to see it. The work challenges us to reorganize our seeing, our expectations, and our thinking. The work of art, like that of philosophy, is the reorganization of ourselves. And this reorganization, this work, aims also at understanding.[@noe_strange_2015 Chapter 11, n.p.]
+
+**Noë is stating that the value and function of art is not about discovery, but in understanding. We are changed by it.** -- and therefore, the communication of changes becomes vital to the epistemological project in any research, but particularly PaR and in particular (even more) body-based.
+
+**The question becomes then who is changed by it -- and sets up the possibility of [[a case for writing in practice-research]] in which the artist-researcher sometimes does that work of change, other times allows it to rest with the audience/viewer. In this respect it's not so much the presence of writing that confers the status of 'research' on a work of art, but rather that the researcher has done the work of communicating change/understanding (which will not be equivalent to the understandings afforded by the artistic artefact)**
+
+#### The intrinsic-extrinsic debate
+
+The project of creating epistemic justifications for practice-research has been characterised by a continuum bookended by two conflicting positions:[^40k] 1) artistic artefacts require a written statement that synthesises the epistemic status (findings) of the research;[e.g. @noauthor_ref2021_2019; @nelson_practice_2013] 2) artistic artefacts themselves contain and communicate research findings.[e.g. @borgdorff_conflict_2012] 
+
+[^40k]: For example, note the contradiction in the UK that a practice-research PhD normally requires approximately 40k words of contextual writing, while a submission to the Research Excellence Framework only requires a 300 word summary statement. 
+
+Both positions have inherent problems. The extrinsic position -- that knowledge in practice-research is only revealed or clarified through written contextualisation[@bolt_magic_2007; @smith_practice-led_2009; @candy_role_2011] -- limits the importance of the artefact,[@magee_introduction._2012; @borgdorff_debate_2006; @candlin_proper_2000] and sets few if any margins on the epistemic claims that artistic-scholars make on behalf of their practices. Such claims are rarely "made available for sustained and verifiable peer review".[@haseman_tightrope_2007 n.p.; see also @candy_role_2011] 
+
+The intrinsic position -- that knowledge is intrinsic to or "embodied in"[@borgdorff_foreword_2017 p.vi] artistic-research artefacts[@ellis_that_2018; @borgdorff_conflict_2012] -- positions ambiguity and uncertainty as epistemic virtues that produce "less identifiable knowledge products."[@butt_performance_2014 p.114]. Such products act as points of epistemic resistance: they "resist academic conventions of accountability"[@borgdorff_foreword_2017 p.ix] or "ways of knowing that are not able to shape -- or be shaped by -- the various tools and systems of the knowledge economy."[@ellis_that_2018 p.490]  
+
+The tension between intrinsic and extrinsic _claims to knowledge_ in practice-research looms over practical and theoretical work in the field.[e.g. @borgdorff_foreword_2017 p.ix] It is a conflict founded on: i) the extent to which scholars and regulatory bodies _believe_ that language is needed to describe and justify claims to knowledge;[e.g. @berry_life_2001; @williams_mindfulness_2012] ii) differing perspectives on the limits of artistic practice outcomes to _hold_ and communicate understanding;[e.g. @stephen_scrivener_art_2002; @borgdorff_debate_2006] and iii) the contested relationship between artistic-scholarly outcomes and the pursuit of truth.[e.g. @nelson_practice_2013; @noe_strange_2015; @ingold_search_2018] 
+
+In _Finger Pointing Moon_ the intrinsic-extrinsic conflict likewise looms over the project's methods, analysis and outcomes. The conflict is the historical epistemic air that the project breathes. 
+
+Consequently, artist-scholars have an open secret: we often conceive our research findings _a priori_ and/or present them _a posteriori_ as reflective spaces[@jeremy_bubb_missing_2020] using vague and hopeful language.[^3examples]
+
+[^3examples]: Here are three arbitrary examples from the Journal of Artistic Research (2020 Vol 20, emphasis added): "_hopefully_ as you continue to read and listen, _it will become gradually clearer_" -- Miller; "the open-endedness of artistic research _allows the possibility_ for the ongoing development of _new insights_ among the wider community of creative practitioners" -- Hunt; and "with this text I’m really _not trying to make any grand statements_. It is a _collection_ of words and decisions that function more as a _demonstration_" -- Norman.
+
+>actions are not meaningful in isolation. The performance of isolated actions results in a loss of coherence and in dissatisfaction.[@biggs_communities_2011 p.89]
+
+Biggs and Buchler [@biggs_communities_2011 p.95] very interesting in relation to accumulation of knowledge vs singularity of event
+
+>... they see that language is only a finger pointing at the moon and not the moon itself.[@johnston_cloud_2012 p.2]
+
+>Some aspects of the world may be within the limits of our thought but beyond the limits of our knowledge; faced with competing descriptions of them, we cannot know which description is true. Some aspects of the world may even be beyond the limits of our thought, so that we cannot form intelligible descriptions of them, let alone know that a particular description is true.[@markie_rationalism_2017 n.p.]
+
 - key question for me here is how do non-academics benefit from this work? this is probably why that practice for theatre exhibitions is useful. It gets back to the Snowden thing.
 
 Yet the often-asked and simply stated question -- _How do we know that we know what we know?_ -- reveals niche-ness is valuable way beyond specific academic concerns. The question _ underpins the impact of project's outputs. 
