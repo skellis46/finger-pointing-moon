@@ -1,5 +1,11 @@
 # edit bin
 
+
+
+my attention -- and perhaps ambition -- has been mostly inward or personal. -- **note Hetty's response. Change to it being more that I've resisted expansive wider public dissemination?**
+
+employing "unconditional positive regard"[@rogers_necessary_1957]
+
 - check that I am clear that the design is only part PaR. See zettel <art practice and artistic research.md> -- also, only part is really what Bob and I will do (including outcomes). That PaR is then applied ... (check through, with and in). The art practice is both the object of the research, and will also be one of the research outcomes.
 
 **Is the practice in AHRC contributing to that discourse (around the body/AM/etc) or solely in service of PaR?** See for example <art practice and artistic research.md> in slip box. I have a feeling the AM is serving two masters. More importantly, what do I want it to do? Frayling's in, for and through useful here? 
