@@ -1,5 +1,25 @@
 # edit bin
 
+- check that I am clear that the design is only part PaR. See zettel <art practice and artistic research.md> -- also, only part is really what Bob and I will do (including outcomes). That PaR is then applied ... (check through, with and in). The art practice is both the object of the research, and will also be one of the research outcomes.
+
+**Is the practice in AHRC contributing to that discourse (around the body/AM/etc) or solely in service of PaR?** See for example <art practice and artistic research.md> in slip box. I have a feeling the AM is serving two masters. More importantly, what do I want it to do? Frayling's in, for and through useful here? 
+
+
+>As Schwab thinks through the relationship between artistic research and contemporary art he proposes that we must move away from objects (not clear what he means by objects) with a "more or less stable historical identity"[@schwab_experimental_2019 p.166] to "more precarious, ambivalent, or provisional things."[@schwab_experimental_2019 p.166] -- support for use of AM?
+
+add something from Bob here about limited knowledges?
+
+Skills as an artist-scholar ...
+The ‘job in hand’ gives a further and complex insight into enquiries of bodies, and what lies in between / beneath / behind. The artist scholar is charged with the doing, (un)doing, of something. Some of the skills pertinent to the task ...
+Ways of reading
+Ways of understanding 
+Ways of bodies
+Temporary understandings
+Understandings in flux
+Embedded / entwined and limited knowledges. 
+
+This ‘limited’ nature is an area of perhaps enhancement to artistic-scholarly practice (in yours, and others). Not in terms of filling the gaps, or as presaged understanding, but of what can be forgotten. So a different route to delimiting knowledge.
+
 - to address the idea that practice-research's place is an epistemic place (and not to stay within realm of techne). to know something differently. to know-that. this is not to reduce or displace know-how or craft. ties to Rheinberger and building epistemic things.
 - but what is the nature of this epistemic place? can something that is unknowable (akin to Berry's thinking) except through direct experience (ref from obsidian) be an epistemic thing? And if not, what kind of _thing_ is it? 
 - some kind of line between what is observable and standpoint epistemology
