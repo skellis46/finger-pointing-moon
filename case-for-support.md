@@ -62,25 +62,11 @@ Past efforts to describe an epistemology of practice-research reveal the complex
 
 ### My contribution to improving, enhancing, or developing creativity, insights, knowledge or understanding in the area
 
-The history of practice-research has been shaped by unchallenged relativist and constructivist approaches to making epistemic claims. In _Finger Pointing Moon_ my proposal is to develop an empirical approach using experimental body-based practices as the foundations on which to build epistemic claims. That is, I will move from deep inside practice towards disciplinary-level analysis that attempts to cut through the historical vagueness of practice-research practices and language.[^3examples] In the research, I will speak directly to the epistemic problems 
+The history of practice-research has been shaped by relativist and constructivist approaches to making epistemic claims. In _Finger Pointing Moon_ I propose to develop an empirical approach using experimental body-based practices as the foundations on which to build epistemic claims. That is, I will move from deep inside practice towards disciplinary-level analysis that attempts to cut through the historical vagueness of practice-research practices and language.[^3examples] Such analysis will draw practice-research out from behind both technê and epistemic proxies, to understand the limits and margins of practice-research epistemic things. The tension here will be to balance the limitations of understanding through direct experience,[e.g. @langer_mind_1967] standpoint epistemology,[e.g. @wylie_standpoint_2015] and the possibilities of apprehending change through empirical (observable) iterative artistic practice. 
 
+I will draw together the large range of ideas, opinions and histories that have attempted to build an epistemology of practice-research. I will also directly address experiences and practices that artist-researchers can agree and disagree on; that some aspects of creative practices -- other than just methodology or what to call practice-research -- must be open to debate. Where might legitimate disagreement lie in fields and studios of practice? Are there grounds for heterotopic discourse[@roberts_triggering_2012] that draw solitary researchers and solitary performance-oriented outcomes into communities of practice in order to become "cumulative"[@biggs_communities_2011 p.86], and a "part of a network of other valued actions".[Hirsch 1984, in @biggs_communities_2011 p.85] Part of my contribution will thus involve calling into question the set of epistemic beliefs -- or doxa -- that implicitly sustain practice-research. This will include creating a language for an empirical epistemic approach to practice-research while accepting the possibility that there are things in practice-research that "may be within the limits of our thought but beyond the limits of our knowledge".[@markie_rationalism_2017 n.p.]
 
 [^3examples]: Here are three arbitrary examples from the Journal of Artistic Research (2020 Vol 20, emphasis added): "_hopefully_ as you continue to read and listen, _it will become gradually clearer_" -- Miller; "the open-endedness of artistic research _allows the possibility_ for the ongoing development of _new insights_ among the wider community of creative practitioners" -- Hunt; and "with this text I’m really _not trying to make any grand statements_. It is a _collection_ of words and decisions that function more as a _demonstration_" -- Norman. 
-
-To draw practice-research out from behind both technê and epistemic proxies, to understand the limits and margins of practice-research epistemic things. The tension here will be to balance the limitations of understanding through direct experience,[e.g. @langer_mind_1967] standpoint epistemology,[e.g. @wylie_standpoint_2015] and the possibilities of apprehending change through empirical (observable) iterative artistic practice. **doxa (see obsidian)**.
-
-In doing so, part of my contribution will be to directly address experiences and practices that artist-researchers can agree and disagree on; that some aspects of creative practices -- other than just methodology or what to call practice-research -- must be open to debate! Where might legitimate disagreement lie in fields and studios of practice? Are there grounds for heterotopic discourse[@roberts_triggering_2012] that draw solitary researchers and solitary performance-oriented outcomes into communities of practice in order to become "cumulative"[@biggs_communities_2011 p.86], and a "part of a network of other valued actions".[Hirsch 1984, in @biggs_communities_2011 p.85]
-
-- go back to RQs and use them as guide for this section
-
->Some aspects of the world may be within the limits of our thought but beyond the limits of our knowledge; faced with competing descriptions of them, we cannot know which description is true. Some aspects of the world may even be beyond the limits of our thought, so that we cannot form intelligible descriptions of them, let alone know that a particular description is true.[@markie_rationalism_2017 n.p.]
-
-- empirical: I am not proposing evidence evidence evidence. Tension between evidence, and allowing the creative work to do its work.
-- proxy is very different from staring into the belly of not knowing. Accepting the possibility of not knowing or there are things that are not able to be known (use Markie above)
-- draw together large range of ideas, opinions and histories that have attempted to handle the epistemology of practice-research
-
-- creating language for this empirical approach
-
 
 ### Who will be most interested in the outcomes? 
 
@@ -92,12 +78,12 @@ The aim of _Finger Pointing Moon_ is to address practice-research's fundamental 
 
 _1. Limits: What are the epistemic limits of practice-research? What aspects of practices are not able to be known, understood or articulated?_
 
-1. identify qualities of experience from first-person body-based practice experiments that resist being known, are deeply uncertain, or are unable to be articulated;
-2. identify qualities of experience from first-person body-based practice experiments that assist being known, display some quality of certainty, or are able to be articulated. **add third-person here**
+1. identify qualities of experience from first- and third-person body-based practice experiments that resist being known, are deeply uncertain, or are unable to be articulated;
+2. identify qualities of experience from first- and third-person body-based practice experiments that assist being known, display some quality of certainty, or are able to be articulated. 
 
 _2. Proxies: What are practice-research's common epistemic proxies and how do they affect the value of practice-research as an approach for developing new insights?_ 
 
-3. in-depth survey of practice-research epistemology literature from the early 1990s (when practice-research began in the academy) to the present. This will build on the vast unpublished work of Ken Friedman;
+3. in-depth survey of practice-research epistemology literature from the early 1990s (when practice-research began in the academy) to the present. This will build on the vast unpublished work of Ken Friedman that he shared with me in 2020;
 4. identify and critique any epistemic ambiguities, limitations and possibilities in this scholarship;
 5. identify epistemic proxies of practice-research -- these are the ways in which practice-research represents its understandings or findings while keeping them at arm's length;
 6. critical analysis of the affects of epistemic proxies on epistemic clarity and specificity in practice-research. 
@@ -113,9 +99,7 @@ _3. Hyper-specificity: What language is used to express approaches, findings and
 
 ### Which research methods?
 
-The research methods described below are designed to realise the project objectives. The objectives, in turn, respond directly to the three wide-angle research problems -- _limits_, _proxies_ and _hyper-specificity_ -- which underpin the project's aim to address practice-research's fundamental epistemic question: What is known or understood differently as a consequence of practice-research methods? The following research methods are organised under the three overarching problems they address. 
-
-**Is the practice in AHRC contributing to that discourse (around the body/AM/etc) or solely in service of PaR?** See for example <art practice and artistic research.md> in slip box. I have a feeling the AM is serving two masters. More importantly, what do I want it to do? Frayling's in, for and through useful here? 
+The research methods are designed to realise the project objectives. The objectives, in turn, respond directly to the three wide-angle research problems -- _limits_, _proxies_ and _hyper-specificity_ -- which underpin the project's aim to address practice-research's fundamental epistemic question: What is known or understood differently as a consequence of practice-research methods? The following research methods are organised under the three overarching problems they address. 
 
 1. _Limits:_ 
 
@@ -145,43 +129,15 @@ The methods above contain reflection, empirical and critical analysis, writing, 
 
 #### Experimental practice-research
 
-- why is it experimental?
+The methodological heart of _Finger Pointing Moon_ is to use "sustained examination"[@varela_first-person_1999 p.2] of an experimental form of Authentic Movement (AM) as the basis for practice-research fieldwork.
 
-The methodological heart of _Finger Pointing Moon_ is to use Authentic Movement (AM) as the basis for experimental practice-research fieldwork.
+Authentic Movement is a process-oriented movement practice that distinguishes the body as observed from the outside (third-person perspective employing "unconditional positive regard"[@rogers_necessary_1957]) and the soma as perceived from the inside (first-person perception).[@hanna_what_1995 p.341] AM provides is a highly structured body-based process of empirical (visible) and sensorial (non-visible) observation. Its focus is on _doing something_ rather than _making something_, and the practice dwells deeply in ambiguous feelings and thoughts and presents movement experiences that are not obviously visible. AM can be though of as a primary or contemplative experience of reality, an unmediated encounter with the "really real".[Merton, in @kerr_borgmann_2016 p.65]. The practice is highly distilled, and in _Finger Pointing Moon_ it acts as a more closed methodological system with which to observe the epistemic limits and possibilities of body-based work. The slipperiness of such contemplative practice, often beyond the reach of "verbalization and of rationalization."[@kerr_borgmann_2016 p.64] is essential to the project: it is complicated to document, and has an ambivalent relationship to the written word. Therefore, AM is an edge-case or paradigmatic method to examine the epistemic limits, possibilities and failings of body-based practice-research, and to propose extrapolations of these limits to other practice-research disciplines. The practice offers clear and precise limits necessary to begin to wrestle with what can be known differently through practice-research.
 
-Authentic Movement is a process-oriented movement practice that specifically distinguishes the body as observed from the outside (third-person perspective) and the soma as perceived from the inside (first-person perception).[@hanna_what_1995 p.341] AM provides a structured body-based process of empirical (visible) and sensorial (non-visible) observation. Its focus is on _doing something_ rather than _making something_, and the practice dwells deeply in ambiguous feelings and thoughts, presents movement experiences that are not obviously visible and thereby complicated to document, and has an ambivalent relationship to the written word. Therefore, AM is an edge-case / paradigmatic way to examine the epistemic limits, possibilities and failings of body-based practice-research, and to propose extrapolations of these limits to other practice-research disciplines. The practice offers clear and precise limits necessary to wrestle with these fundamental questions of what can be known differently ...
+In _Finger Pointing Moon_ the practice will involve three people. The first two (Ellis and Whalley) will work with an experimental form of the AM practice and will oscillate between the roles of _mover_ and _observer_. Over the course of the practice they will adapt it (including using first, second and third-person photography and videography)[e.g. @bedard_disembodied_2015] by experimenting with the limits and possibilities of observable and sensorial experience. This method builds on earlier work by Ellis.[e.g. -@ellis_corporeal_2020] The third collaborator (TBC) will act as an external observer to the entire practice. The three roles provide degrees of proximity to the empirical and non-empirical qualities of the practice-research, and provide the means by which to excavate what lies inbetween, beneath and behind the artistic practice.
 
-"Unconditional positive regard"[@rogers_necessary_1957]
+The practice will be documented from _within_ via photography, videography, written and spoken reflections, and from _without_ via the third collaborator's detailed observations and analysis.  
 
->As Schwab thinks through the relationship between artistic research and contemporary art he proposes that we must move away from objects (not clear what he means by objects) with a "more or less stable historical identity"[@schwab_experimental_2019 p.166] to "more precarious, ambivalent, or provisional things."[@schwab_experimental_2019 p.166] -- support for use of AM?
-
-
-AM is highly distilled -- a more closed 'system' with which to observe the complexity
-
-- AM as a primary or contemplative experience of reality. See <contemplation beyond rationalization.md> -- and the really real
-- distinction between soma and body: <first-person experience.md>
-- Varela's term "sustained examination" -- as method
-
-In _Finger Pointing Moon_ the practice will involve three people. The first two (Ellis and Whalley) will work with an experimental form of the AM practice oscillating between the roles of _mover_ and _observer_. Over the course of the practice they will adapt it (including using first, second and third-person photography and videography)[e.g. @bedard_disembodied_2015] by experimenting with the limits and possibilities of observable and sensorial experience.[This method builds on earlier work by Ellis, e.g. -@ellis_corporeal_2020] The third collaborator (TBC) will act as an external observer to the entire practice. The three roles provide degrees of proximity to the empirical and non-empirical qualities of the practice-research.
-
-The practice will be documented from _within_ via photography, videography, written and spoken reflections, and from _without_ via TBC's detailed third-person observations and analysis.    
-
-
-- add Varela’s thinking about first person experience (in zettel <first-person experience>) — see question and thoughts in there?
-- check that I am clear that the design is only part PaR. See zettel <art practice and artistic research.md> -- also, only part is really what Bob and I will do (including outcomes). That PaR is then applied ... (check through, with and in)
-
-add something from Bob here about limited knowledges?
-
-Skills as an artist-scholar ...
-The ‘job in hand’ gives a further and complex insight into enquiries of bodies, and what lies in between / beneath / behind. The artist scholar is charged with the doing, (un)doing, of something. Some of the skills pertinent to the task ...
-Ways of reading
-Ways of understanding 
-Ways of bodies
-Temporary understandings
-Understandings in flux
-Embedded / entwined and limited knowledges. 
-
-This ‘limited’ nature is an area of perhaps enhancement to artistic-scholarly practice (in yours, and others). Not in terms of filling the gaps, or as presaged understanding, but of what can be forgotten. So a different route to delimiting knowledge.
+In _Finger Pointing Moon_ the artistic practice of AM will be a research outcome (Outcome 1: Authentic Movement: speculative and experimental documentation practices) and will also be applied as an "object of the research"[@borgdorff_conflict_2012 p.146] to underpin the other research methods and outcomes.  
 
 #### Traditional scholarship
 
