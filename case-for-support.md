@@ -125,40 +125,35 @@ The research methods are designed to realise the project objectives. The objecti
 
 >Depending on the approach you are using throughout your research, you may also need to explain clearly the creative and/or performative aspects of the work, explain how you will develop a new process, product or tool, or provide details of who you have consulted or will be involved in the process of research.
 
-The methods above contain reflection, empirical and critical analysis, writing, creative practice and documentation. They are designed to address the research questions from the inside through experimental practice-research, and the outside through more traditional scholarship. 
+The methods above contain reflection, empirical and critical analysis, writing, creative practice and documentation. They are designed to address the research questions from the inside through _experimental practice-research_, and the outside through _traditional scholarship_. 
 
 #### Experimental practice-research
 
-The methodological heart of _Finger Pointing Moon_ is to use "sustained examination"[@varela_first-person_1999 p.2] of an experimental form of Authentic Movement (AM) as the basis for practice-research fieldwork.
+The methodological heart of _Finger Pointing Moon_ is the "sustained examination"[@varela_first-person_1999 p.2] of an experimental form of Authentic Movement (AM) as practice-research fieldwork.
 
-Authentic Movement is a process-oriented movement practice that distinguishes the body as observed from the outside (third-person perspective employing "unconditional positive regard"[@rogers_necessary_1957]) and the soma as perceived from the inside (first-person perception).[@hanna_what_1995 p.341] AM provides is a highly structured body-based process of empirical (visible) and sensorial (non-visible) observation. Its focus is on _doing something_ rather than _making something_, and the practice dwells deeply in ambiguous feelings and thoughts and presents movement experiences that are not obviously visible. AM can be though of as a primary or contemplative experience of reality, an unmediated encounter with the "really real".[Merton, in @kerr_borgmann_2016 p.65]. The practice is highly distilled, and in _Finger Pointing Moon_ it acts as a more closed methodological system with which to observe the epistemic limits and possibilities of body-based work. The slipperiness of such contemplative practice, often beyond the reach of "verbalization and of rationalization."[@kerr_borgmann_2016 p.64] is essential to the project: it is complicated to document, and has an ambivalent relationship to the written word. Therefore, AM is an edge-case or paradigmatic method to examine the epistemic limits, possibilities and failings of body-based practice-research, and to propose extrapolations of these limits to other practice-research disciplines. The practice offers clear and precise limits necessary to begin to wrestle with what can be known differently through practice-research.
+Authentic Movement is a process-oriented movement practice that distinguishes the body as observed from the outside (third-person perspective) and the soma as perceived from the inside (first-person perception).[@hanna_what_1995 p.341] AM provides a highly structured body-based process of empirical (visible) and sensorial (non-visible) observation. Its focus is on _doing something_ rather than _making something_, and the practice dwells deeply in ambiguous feelings and thoughts and presents movement experiences that are not obviously visible. AM can be thought of as a primary or contemplative experience of reality, an unmediated encounter with the "really real".[Merton, in @kerr_borgmann_2016 p.65]. The practice is highly distilled, and in _Finger Pointing Moon_ it acts as a more closed methodological system with which to observe the epistemic limits and possibilities of body-based work. The slipperiness of such contemplative practice, often beyond the reach of "verbalization and of rationalization"[@kerr_borgmann_2016 p.64] and complicated to document is essential to the project. Therefore, AM is an edge-case or paradigmatic method to examine the epistemic limits, possibilities and failings of body-based practice-research, and to propose extrapolations of these limits to other practice-research disciplines. The practice offers clear and precise limits necessary to begin to wrestle with what can be known differently through practice-research.
 
-In _Finger Pointing Moon_ the practice will involve three people. The first two (Ellis and Whalley) will work with an experimental form of the AM practice and will oscillate between the roles of _mover_ and _observer_. Over the course of the practice they will adapt it (including using first, second and third-person photography and videography)[e.g. @bedard_disembodied_2015] by experimenting with the limits and possibilities of observable and sensorial experience. This method builds on earlier work by Ellis.[e.g. -@ellis_corporeal_2020] The third collaborator (TBC) will act as an external observer to the entire practice. The three roles provide degrees of proximity to the empirical and non-empirical qualities of the practice-research, and provide the means by which to excavate what lies inbetween, beneath and behind the artistic practice.
+In _Finger Pointing Moon_ the practice will involve three people. The first two (Ellis and Whalley) will work with an experimental form of the AM practice and will change between the roles of _mover_ and _observer_. Over the course of the practice they will adapt it (including using first, second and third-person photography and videography)[e.g. @bedard_disembodied_2015] by experimenting with the limits and possibilities of observable and sensorial experience. This method builds on earlier work by Ellis.[e.g. -@ellis_corporeal_2020] The third collaborator (TBC) will act as an external observer to the entire practice. The three roles provide degrees of proximity to the empirical and non-empirical qualities of the practice-research, and provide the means by which to excavate what lies inbetween, beneath and behind the artistic practice.
 
 The practice will be documented from _within_ via photography, videography, written and spoken reflections, and from _without_ via the third collaborator's detailed observations and analysis.  
 
-In _Finger Pointing Moon_ the artistic practice of AM will be a research outcome (Outcome 1: Authentic Movement: speculative and experimental documentation practices) and will also be applied as an "object of the research"[@borgdorff_conflict_2012 p.146] to underpin the other research methods and outcomes.  
+In _Finger Pointing Moon_ the artistic practice of AM will be both a research outcome (Outcome 1: Authentic Movement: speculative and experimental documentation practices) and also then applied as an "object of the research"[@borgdorff_conflict_2012 p.146] to underpin the other research methods, outputs and outcomes.  
 
 #### Traditional scholarship
 
-
-
+The experimental practice-research fieldwork will be supplemented by traditional _desk-based_ scholarly methods: systematic review and meta-analysis of the literature and practices, critical analysis and scholarly writing. These methods will make it possible to extrapolate the field-based data (the focus of RQ1) to cross-disciplinary outputs and outcomes that explore the epistemic failures and possibilities of practice-research (RQ2 and 3). That is, the traditional scholarly methods are included to contextualise and broaden the value of the artistic fieldwork.
 
 ### People and roles
 
 >What will be your role? If there are other people involved, what will their roles be and why are they the appropriate people to be involved? 
 
-PI:  
-RA:  
-XX: expert input  
-Bob Whalley: expert input  
-
+PI Ellis will oversee the research methods, supervise and participate in the practice fieldwork and be responsible for overall management of research outcomes and outputs. He will be supported by the RA who will undertake the desk-based fieldwork and analysis, and contribute to the scholarly writing. The practice fieldwork requires expert input from two people: Joanne 'Bob' Whalley and XX. Whalley is an experienced artist-scholar working at the forefront of experimental documentation and writing practices. She will work with Ellis in the practice fieldwork as an expert practitioner and novice AM practitioner -- an ideal insider-outsider perspective. She will also contribute to Outputs 1 and 2. XX has expertise in ... and their role will be third-person observation, documentation and analysis of the practice fieldwork. Their work will also contribute to Outputs 1 and 2. 
 
 ### Copyright or intellectual property issues
 
 >Under the Research Methods heading you should also outline how any copyright or intellectual property issues relating to the project and the production of any outputs will be addressed.
 
-- ask CW about this
+The IP for project outputs will belong to PI Ellis at C-DaRE. The IP for Outputs 1 and 2 will be shared with Whalley and XX (expert input). The IP for the three curated talks will belong to the presenters. There are no unusual copyright or IP issues except for the two curated exhibitions (Outputs 3 and 4). The materials for the exhibitions will be gathered and used with permission of original authors and/or will be Creative Commons licensed content. All materials will be fully attributed both in the exhibitions and on the project website. The Discourse forum will be a public online space that requires users to sign-up. It will be moderated by a group of volunteers to ensure no copyright laws are broken (e.g if users were to share unauthorised materials).
 
 ## Development plan 
 
@@ -175,7 +170,7 @@ Bob Whalley: expert input
 
 >How are these all researcher-development activities?
 
-I have been an artist for 30 years, and an artist in the academy for 20 years. In this time, I have pursued and developed individual research practices that have led to small-scale and intimate outcomes. It would seem that my attention -- and perhaps ambition -- has been mostly inward or personal. -- **note Hetty's response. Change to it being more that I've resisted expansive wider public dissemination?**
+I have been an artist for 30 years, and an artist in the academy for 20 years. In this time, I have pursued and developed individual research practices that have led to small-scale and intimate outcomes. It would seem that I have tended to resist expansive or wider public dissemination strategies. This development plan is designed to address this personal resistance by creating and deploying a series of broadly accessible opportunities for distribution and public engagement .
 
 In order for practice-research to be more widely acknowledged beyond its own disciplinary fields, it is "necessary to consider and adhere to the demands of the larger academic community".[@biggs_eight_2008 p.15] The research component of _Finger Pointing Moon_ seeks to develop a new line of epistemic inquiry in practice-research by employing an experimental shift towards empiricism by which to test the limitations of findings and claims in practice-research. The project's development plan builds on the research component of this proposal, and uses this new line of inquiry as a means to radically change my previous focus on personal creative practice by developing a series of outward-facing activities that will test and improve my communication and advocacy skills beyond and within the academy.
 
@@ -265,7 +260,7 @@ _Finger Pointing Moon_ is driven by research (RES) _and_ developmental (DEV) con
 4. _The Un/knowable Body_ exhibition (also detailed in Development Plan) (DEV)
 5. Scholarly article on epistemic proxies (RES)
 6. Lexicon of epistemological "findings and failures", published online (RES)
-7. Video essay that collates and articulates key concerns/findings of entire research project (RES)
+7. Desktop documentary / video essay that collates and articulates key concerns/findings of entire research project (RES)
 8. Two series of 8 episodes of podcast (DEV): Series 1: limits of knowledge; Series 2: limits of language
 9. Initiate and support Discourse forum (see Development Plan) (DEV)
 10. Three curated talks online (micro-conferences) that emerge from key topics on Discourse Forum site (RES)
