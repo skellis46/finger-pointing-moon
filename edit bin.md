@@ -1,6 +1,19 @@
 # edit bin
 
 
+>Your Fellowship project can be up to 18 months (min at 0.5FTE max at 1.0FTE) but the research assistance can be up to a total 12 months of full time distributed over the 18-month period.
+In other words, RA can work up to the maximum at (12/18) FTE for 18 months or 1.0 FTE for 12 months.
+
+The following are examples of possible ways of formulating a proposal; they are for illustrative purposes only:
+• You could request 6-12 months at 100% time with researcher development activities integrated for the duration of the funded time.
+• You could request funding for 12 months for concentrated research activities at 100% FTE, followed by 6 months at 20% time to conduct researcher development activities building on this research.
+• You could request 6 months at 100% time for skillset activities followed by 12 months at 40% time continuing the research alongside researcher development activities.(p.28 Funding Guide)
+
+- split between research activities (outputs) and developmental ones, and the possibility of managing this throughout the 18 months
+
+- balance of research and development activities throughout the 18 months. recognising that they go hand in hand. ??
+
+by enhancing my capability to disseminate impact-driven research and to strengthen my status in the field of practice-research. The plan is built on developing 
 
 my attention -- and perhaps ambition -- has been mostly inward or personal. -- **note Hetty's response. Change to it being more that I've resisted expansive wider public dissemination?**
 
