@@ -137,17 +137,17 @@ In _Finger Pointing Moon_ the practice will involve three people. The first two 
 
 The practice will be documented from _within_ via photography, videography, written and spoken reflections, and from _without_ via the third collaborator's detailed observations and analysis.  
 
-In _Finger Pointing Moon_ the artistic practice of AM will be both a research outcome (Outcome 1: Authentic Movement: speculative and experimental documentation practices) and also then applied as an "object of the research"[@borgdorff_conflict_2012 p.146] to underpin the other research methods, outputs and outcomes.  
+In _Finger Pointing Moon_ the artistic practice will be both a research outcome (Outcome 1: Authentic Movement: speculative and experimental documentation practices) and also then applied as an "object of the research"[@borgdorff_conflict_2012 p.146] to underpin the other research methods, outputs and outcomes.  
 
 #### Traditional scholarship
 
-The experimental practice-research fieldwork will be supplemented by traditional _desk-based_ scholarly methods: systematic review and meta-analysis of the literature and practices, critical analysis and scholarly writing. These methods will make it possible to extrapolate the field-based data (the focus of RQ1) to cross-disciplinary outputs and outcomes that explore the epistemic failures and possibilities of practice-research (RQ2 and 3). That is, the traditional scholarly methods are included to contextualise and broaden the value of the artistic fieldwork.
+The experimental practice-research fieldwork will be supplemented by traditional _desk-based_ scholarly methods: systematic review and meta-analysis of the literature and practices, critical analysis and scholarly writing. These methods will make it possible to extrapolate the field-based data (the focus of RQ1) to cross-disciplinary outputs and outcomes that explore the epistemic failures and possibilities of practice-research (RQ2 and 3). That is, the traditional scholarly methods will contextualise and broaden the value of the artistic fieldwork.
 
 ### People and roles
 
 >What will be your role? If there are other people involved, what will their roles be and why are they the appropriate people to be involved? 
 
-PI Ellis will oversee the research methods, supervise and participate in the practice fieldwork and be responsible for overall management of research outcomes and outputs. He will be supported by the RA who will undertake the desk-based fieldwork and analysis, and contribute to the scholarly writing. The practice fieldwork requires expert input from two people: Joanne 'Bob' Whalley and XX. Whalley is an experienced artist-scholar working at the forefront of experimental documentation and writing practices. She will work with Ellis in the practice fieldwork as an expert practitioner and novice AM practitioner -- an ideal insider-outsider perspective. She will also contribute to Outputs 1 and 2. XX has expertise in ... and their role will be third-person observation, documentation and analysis of the practice fieldwork. Their work will also contribute to Outputs 1 and 2. 
+PI Ellis will oversee the research methods, supervise and participate in the practice fieldwork and be responsible for overall management of research outcomes and outputs. He will be supported by the RA who will undertake the desk-based fieldwork and analysis, and contribute to the scholarly writing. The practice fieldwork requires expert input from two people: Joanne 'Bob' Whalley and XX. Whalley is an experienced artist-scholar working at the forefront of experimental documentation and writing practices. She will work with Ellis in the practice fieldwork as an expert practitioner and novice AM practitioner -- an ideal insider-outsider perspective. She will also contribute to Outputs 1 and 2. XX has expertise in ... and their role will be third-person observation, documentation and analysis of the practice fieldwork. The experts will also contribute to Outputs 1 and 2. 
 
 ### Copyright or intellectual property issues
 
@@ -170,9 +170,9 @@ The IP for project outputs will belong to PI Ellis at C-DaRE. The IP for Outputs
 
 >How are these all researcher-development activities?
 
-I have been an artist for 30 years, and an artist in the academy for 20 years. In this time, I have pursued and developed individual research practices that have led to small-scale and intimate outcomes. It would seem that I have tended to resist expansive or wider public dissemination strategies. This development plan is designed to address this personal resistance by creating and deploying a series of broadly accessible opportunities for distribution and public engagement .
+I have been an artist for 30 years, and an artist in the academy for 20 years. In this time, I have pursued and developed individual research practices that have led to small-scale outcomes. I have also tended to resist expansive or wider public dissemination strategies. This development plan will address this resistance, and is centred on creating and deploying a series of broadly accessible opportunities for research distribution and public engagement.
 
-In order for practice-research to be more widely acknowledged beyond its own disciplinary fields, it is "necessary to consider and adhere to the demands of the larger academic community".[@biggs_eight_2008 p.15] The research component of _Finger Pointing Moon_ seeks to develop a new line of epistemic inquiry in practice-research by employing an experimental shift towards empiricism by which to test the limitations of findings and claims in practice-research. The project's development plan builds on the research component of this proposal, and uses this new line of inquiry as a means to radically change my previous focus on personal creative practice by developing a series of outward-facing activities that will test and improve my communication and advocacy skills beyond and within the academy.
+In order for practice-research to be widely acknowledged beyond its own disciplinary fields, it is "necessary to consider and adhere to the demands of the larger academic community".[@biggs_eight_2008 p.15] The research component of _Finger Pointing Moon_ seeks to develop a new line of epistemic inquiry in practice-research by using empiricism to test the limitations of findings and claims in practice-research. The project's development plan builds on the research component of this proposal to radically change my previous focus on personal creative practice and to develop a series of outward-facing activities that will test and improve my communication and advocacy skills beyond and within the academy.
 
 The development plan will enhance my role within practice-research, and significantly develop the influence and importance of my research by helping me acquire four new capabilities: 1) to communicate and contextualise niche and complex ideas about fundamental epistemics of practice-research beyond the practice-research field and also to the wider public; 2) to demonstrate leadership in methodological advances in practice-research; 3) to develop and support a broad cross-disciplinary community of active artist-scholars; and 4) to create a range of collaborative opportunities with academic and non-academic stake-holders within and and outside of dance and the performing arts. 
 
@@ -194,36 +194,59 @@ This activity is to create and support a broad cross-disciplinary community of s
 
 _4. The Point Beyond_
 
-The Point Beyond will be a podcast that explores the limits of what it is to be human. It will initially be limited to two series of eight episodes, and each episode will be a conversation with an expert that explores the point beyond which our understanding and experience falters. The two series will be i) _limits of knowledge_ (e.g. experimental failures; perception and perceptual error; contemplation, meditation and enlightenment; truth and belief; conspiracy; machine learning and AI); ii) _limits of language_ (e.g. when words fail us; swearing and cussing; language vs direct experience; silence and contemplation; mutism; computer languages and coding). Other series (after the fellowship) could potentially be: limits of language; cultural limits (the overton window); psychological limits; moral limits; imagined limits. _The Point Beyond_ is a direct attempt to take the research heart of _Finger Pointing Moon_ -- the limits and possibilities of human understanding -- and extrapolate that work deep into other areas, ideas and practices. It will: i) inspire creativity and development in other researchers by building broad cross-disciplinary and wider-public interest in ideas that matter to how we understand being human; ii) directly foster inter- and cross-disciplinary research involving artistic research and dance by building lively and focused conversations with other experts; iii) challenge the PI's ability to communicate complex ideas to a broad audience; iv) focus on clearly and directly on public engagement: why do these niche and largely theoretical ideas matter and to whom? 
+The Point Beyond will be a podcast that explores the limits of what it is to be human. It will initially be limited to two series of eight episodes, and each episode will be a conversation with an expert that explores the point beyond which our understanding and experience falters. The two series will be i) _limits of knowledge_ (e.g. experimental failures; perception and perceptual error; contemplation, cognitive biases, meditation and enlightenment; truth and belief; conspiracy; machine learning and AI); ii) _limits of language_ (e.g. when words fail us; swearing and cussing; language versus direct experience; silence and contemplation; mutism; computer languages and coding). Other series (after the fellowship) could potentially be: limits of language; cultural limits (the Overton window); psychological limits; moral limits; imagined limits. _The Point Beyond_ is a direct attempt to take the research heart of _Finger Pointing Moon_ -- the limits and possibilities of human understanding -- and extrapolate that work deep into other areas, ideas and practices. It will: i) inspire creativity and development in other researchers by building broad cross-disciplinary and wider-public interest in ideas that matter to how we understand being human; ii) directly foster inter- and cross-disciplinary research involving artistic research and dance by building lively and focused conversations with other experts; iii) challenge the PI's ability to communicate complex ideas to a broad audience; iv) focus on clearly and directly on public engagement: why do these niche and largely theoretical ideas matter and to whom? 
 
 ## Project management 
+
+- how managed?
+
+
+PI 0.5FTE for months 1-12, 0.8FTE for months 13-18.
+RA: 0.66 for 18 months
+Expert input (required for fieldwork)
+
+### Roles
+
+- RA: website maintenance, and annotated bibliography of literature and practice (shared zotero library), published online as ongoing page on project website (with links to OA versions of originals where possible). edited collections (books) to be annotated by chapters. Or single page as database that includes one/two line summary of the publication/research. are we creating a database here? 
+
+The PI and RA will have ongoing comms via a Microsoft Teams channel, and will have fortnightly stand-up meetings to review progress, and to make schedule or delivery adjustments. The PI will be supported by a small Advisory Group that will meet remotely at six-month intervals to provide high-level guidance, and review risk, targets and milestones. The Group will be cross-disciplinary with diverse expertise: 
+
+CovUni will allocate additional project support for purchasing, finances, project management and technical support when required.
+
+### Timetable and milestones
+
+- _Months 1-2:_ Advisory Group meeting (1 of 4), map and begin desktop research, ethics clearance, PI/RA fortnightly meetings begin, **Output 11 website** created and live, fortnightly blogging begins
+- _Months 3-4:_ ongoing desktop research, commence collecting and collating of materials for exhibitions, **Output 9 Discourse forum** starts, planning meetings with collaborating project partners 
+- _Months 5-6:_ practice fieldwork 1 of 2 (execution, reflection and analysis), **Output 5 article epistemic proxies**
+- _Months 7-8:_ practice fieldwork 2 of 2 (execution, reflection and analysis), AG meeting (2 of 4)
+- _Months 9-10:_ **Output 1 experimental documentation** from fieldwork, **Output 2 article epistemic limits**, podcast planning and guest invitations
+- Months 11-12: desktop research complete, **Output 6 epistemic lexicon**, exhibition materials curated
+- _Months 13-14:_ AG meeting (3 of 4), **Output 8: podcast series 1**, **Output 3: _Unforgettable_ exhibition** (3 sites)
+- _Months 15-16:_ **Output 10: online curated talks**, **Output 7: desktop documentary**, **Output 4: _The Un/knowable Body_ exhibition** (3 sites)
+- Months 17-18: AG meeting (4 of 4), project report, **Output 8: podcast series 2**.
+
+| Month                  | 1-2 | 3-4 | 5-6 | 7-8 | 9-10 | 11-12 | 13-14 | 15-16 | 17-18 |
+| ---------------------- | :-: | :-: | :-: | :-: | :--: | :---: | :---: | :---: | :---: |
+| Advisor Group meetings |  x  |     |     |  x  |      |       |   x   |       |   x   |
+| Practice fieldwork     |     |     |  x  |  x  |      |       |       |       |       |
+| Desktop research       |  x  |  x  |  x  |  x  |  x   |   x   |       |       |       |
+| Website/blog           |  x  |  x  |  x  |  x  |  x   |   x   |   x   |   x   |   x   |
+| Research publications  |     |     |  x  |     |  x   |   x   |       |   x   |       |
+| Development activities |     |  x  |     |     |      |       |   x   |   x   |   x   |
+| Project report         |     |     |     |     |      |       |       |       |   x   |
+
+### Justification of costs
+
+### Digital and data management
 
 >How will the project be managed? What will be the roles of the members of staff involved (including you and, if applicable, any research assistants)? What is the timetable for the project? Does it include appropriate milestones and is it realistic? When will the outputs of the project be completed? How will you ensure that they meet the needs of your audience? Can the 
 costs be justified? How will you ensure good value for money? 
 The project management section should also include the management of the digital and data management aspects of the projects, if applicable, and should be coordinated with the information in the Data Management Plan. It should be clear what the milestones for the completion of this element and the work should be incorporated into the timetable for the whole project. The project management of the data management aspects of the project should include an assessment of risk in relation to the complexity and delivery of the project.
 If a postdoctoral researcher is to be employed, you should state clearly the nature of the work they will be undertaking and describe clearly the working relationships that are envisaged between all the 
-members of the research team. You should describe fully the arrangements for supervising and managing the research assistant. If the researcher is unknown you should state the skills and qualifications sought. Similarly, if the project involves a visit to or a secondment from a member of staff from another organisation, you must state clearly what work they will pursue and describe the 
-working relationships envisaged with other members of the team.
+members of the research team. You should describe fully the arrangements for supervising and managing the research assistant. If the researcher is unknown you should state the skills and qualifications sought. Similarly, if the project involves a visit to or a secondment from a member of staff from another organisation, you must state clearly what work they will pursue and describe the working relationships envisaged with other members of the team.
 In terms of supporting the research staff funded on the project, you should clearly outline the development opportunities which the project will make available. These should include opportunities both in relation to research expertise, and wider opportunities, for example, in connection with the activities proposed in the Pathways to Impact statement.
 
->The AHRC is one of the signatories of the RCUK Concordat to Support the Career Development of 
-Researchers. More information about the Concordat and what it entails can be found here: [ukri.org/files/legacy/skills/review-tor-concordat/](https://www.ukri.org/files/legacy/skills/review-tor-concordat/)
-
-The following are examples of possible ways of formulating a proposal; they are for illustrative purposes only:
-• You could request 6-12 months at 100% time with researcher development activities integrated for the duration of the funded time.
-• You could request funding for 12 months for concentrated research activities at 100% FTE, followed by 6 months at 20% time to conduct researcher development activities building on this research.
-• You could request 6 months at 100% time for skillset activities followed by 12 months at 40% time continuing the research alongside researcher development activities.(p.28 Funding Guide)
-
-- RA: website maintenance, and annotated bibliography of literature and practice (shared zotero library), published online as ongoing page on project website (with links to OA versions of originals where possible). edited collections (books) to be annotated by chapters. Or single page as database that includes one/two line summary of the publication/research. are we creating a database here? 
-- 
-
-- split between research activities (outputs) and developmental ones, and the possibility of managing this throughout the 18 months
-
-- balance of research and development activities throughout the 18 months. recognising that they go hand in hand. ??
-
->Your Fellowship project can be up to 18 months (min at 0.5FTE max at 1.0FTE) but the research assistance can be up to a total 12 months of full time distributed over the 18-month period.
-In other words, RA can work up to the maximum at (12/18) FTE for 18 months or 1.0 FTE for 12 months. 
-See page 20, section Research Assistance. (from Amy)
+>The AHRC is one of the signatories of the RCUK Concordat to Support the Career Development of Researchers. More information about the Concordat and what it entails can be found here: [ukri.org/files/legacy/skills/review-tor-concordat/](https://www.ukri.org/files/legacy/skills/review-tor-concordat/)
 
 ## Outputs, Dissemination and Impact
 
