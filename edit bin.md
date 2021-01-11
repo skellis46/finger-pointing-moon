@@ -1,6 +1,11 @@
 # edit bin
 
 
+
+- RA: website maintenance, and annotated bibliography of literature and practice (shared zotero library), published online as ongoing page on project website (with links to OA versions of originals where possible). edited collections (books) to be annotated by chapters. Or single page as database that includes one/two line summary of the publication/research. are we creating a database here? 
+
+above contain reflection, empirical and critical analysis, writing, creative practice and documentation. They are designed to 
+
 >Your Fellowship project can be up to 18 months (min at 0.5FTE max at 1.0FTE) but the research assistance can be up to a total 12 months of full time distributed over the 18-month period.
 In other words, RA can work up to the maximum at (12/18) FTE for 18 months or 1.0 FTE for 12 months.
 

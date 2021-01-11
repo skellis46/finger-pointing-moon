@@ -66,7 +66,6 @@ The letter should be dated and should be written when the proposal is being prep
 ## advisory board (possible)
 
 - Sarah
-- Vida
 - Maria Delgado
 - Chris Smith (UKRI): https://www.ukri.org/news/preferred-candidate-chosen-for-the-role-of-executive-chair-of-the-arts-and-humanities-research-council/
 - Chris Smith, Baron Smith of Finsbury (retired?) https://ahrc.ukri.org/research/readwatchlisten/features/its-exactly-the-right-thing-to-be-doing/
@@ -74,6 +73,7 @@ The letter should be dated and should be written when the proposal is being prep
 - someone from PRAG?
 - Michael Biggs
 - Ken Friedman
+- Lee Miller, Sarah Whatley, Ken Friedman, Michael Biggs, Charlotte Waelde, Carol Brown, Robin Nelson, Adrian Heathfield.
 
 ## project team
 
