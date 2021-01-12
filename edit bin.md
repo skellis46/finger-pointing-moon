@@ -1,6 +1,16 @@
 # edit bin
 
-
+1. Authentic Movement: speculative and experimental documentation practices through writing and still and moving images; developed with expert input from Bob Whalley and published online (RES)
+2. Scholarly article about epistemic limits (RES)
+3. _Unforgettable_ exhibition (detailed in Development Plan) (DEV)
+4. _The Un/knowable Body_ exhibition (detailed in Development Plan) (DEV)
+5. Scholarly article on epistemic proxies (RES)
+6. Lexicon of epistemological "findings and failures", published online (RES)
+7. Desktop documentary / video essay that collates and articulates key concerns/findings of entire research project (RES)
+8. Two series of 8 episodes of podcast (DEV): Series 1: limits of knowledge; Series 2: limits of language
+9. Initiate and support Discourse forum (detailed in Development Plan) (DEV)
+10. Three curated talks online (micro-conferences) that emerge from key topics on Discourse Forum site (RES)
+11. Project website and blog to make the project processes and outcomes widely accessible (RES/DEV)
 
 - RA: website maintenance, and annotated bibliography of literature and practice (shared zotero library), published online as ongoing page on project website (with links to OA versions of originals where possible). edited collections (books) to be annotated by chapters. Or single page as database that includes one/two line summary of the publication/research. are we creating a database here? 
 
