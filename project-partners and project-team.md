@@ -6,9 +6,7 @@ confirmed:
 - S'ALA: require translation of materials/payment to install
 - Dancehouse (Melbourne Australia) -- Josh Wright/Ashley Dyer 20201014
 
-
 contacted:
-
 
 yet to approach:
 - Siobhan Davies Dance (waiting to hear back from Sue about how best to discuss with their change of team)
@@ -16,30 +14,25 @@ yet to approach:
 
 _unforgettable_
 
-yet to approach:
-
-- Bassano del Grappa? 
-- CDS
-- possibles from talking with Debbie Williams:
-    + Sarah Fadel in Lebanon -- for unforgettable experience
-    + Nirmala in Singapore -- her own organisation 
-
-
-contacted:
-- Robyn Cabaret and Anneliese Graham at Sadlers 20201014; 
-
 confirmed:
 - Yorkshire Dance: confirmed
 - The Work Room (Anita Clark): confirmed 20201011
 
+yet to approach:
+
+- Bassano del Grappa? 
+- possibles from talking with Debbie Williams:
+    + Sarah Fadel in Lebanon -- for unforgettable experience
+    + Nirmala in Singapore -- her own organisation 
 
 contacted:
-- contacted Debbie Williams about Choreomundus contacts: 20200917; 20201014
-
+- Robyn Cabaret and Anneliese Graham at Sadlers 20201014; 
 
 no or I decided not to:
 - The Place: contacted Eddie 20200916; again 20201002
 - San Francisco space? -- contacted Christian Burns 20200916
+- CDS
+- contacted Debbie Williams about Choreomundus contacts: 20200917; 20201014
 
 
 >from Je-S help:
