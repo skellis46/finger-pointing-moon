@@ -70,7 +70,7 @@ I will draw together the large range of ideas, opinions and histories that have 
 
 ### Who will be most interested in the outcomes? 
 
-The research will be most interesting to the large range of emerging and establish scholars from across disciplines who are working in and through practice-research. This includes graduate and postgraduate students who are grappling with how and why their work is important and to whom. The work will also be valuable to philosophers of epistemology who are researching epistemic edge-cases to do with know-how and testimony. Aspects of the research will also be interesting to body-based research specialists who grapple with understanding the epistemic potential of their work, and particularly in relation to contested ideas of embodied and tacit knowledge. The developmental components of the project (See Development Plan) are also designed to enhance the scope and reach of the various ideas, data and outcomes. 
+The research will be most interesting to the large range of emerging and establish scholars from across disciplines who are working in and through practice-research. This includes graduate and postgraduate students who are grappling with how and why their work is important and to whom. The work will also be valuable to philosophers of epistemology who are researching epistemic edge-cases to do with know-how and testimony. Aspects of the research will also be interesting to body-based research specialists who grapple with understanding the epistemic potential of their work, and particularly in relation to contested ideas of embodied and tacit knowledge. The developmental components of the project (see Development Plan) are also designed to enhance the scope and reach of the various ideas, data and outcomes. 
 
 ### Research objectives
 
@@ -147,7 +147,7 @@ The experimental practice-research fieldwork will be supplemented by traditional
 
 >What will be your role? If there are other people involved, what will their roles be and why are they the appropriate people to be involved? 
 
-PI Ellis will oversee the research methods, supervise and participate in the practice fieldwork and be responsible for overall management of research outcomes and outputs. He will be supported by the RA who will undertake the desk-based fieldwork and analysis, and contribute to the scholarly writing. The practice fieldwork requires expert input from two people: Joanne 'Bob' Whalley and XX. Whalley is an experienced artist-scholar working at the forefront of experimental documentation and writing practices. She will work with Ellis in the practice fieldwork as an expert practitioner and novice AM practitioner -- an ideal insider-outsider perspective. She will also contribute to Outputs 1 and 2. XX has expertise in ... and their role will be third-person observation, documentation and analysis of the practice fieldwork. The experts will also contribute to Outputs 1 and 2. 
+PI Ellis will oversee the research methods, supervise and participate in the practice fieldwork and be responsible for overall management of research outcomes and outputs. He will be supported by the RA who will undertake the desk-based fieldwork and analysis, and contribute to the scholarly writing. The practice fieldwork requires expert input from two people: Joanne 'Bob' Whalley and XX. Whalley is an experienced artist-scholar working at the forefront of experimental documentation and writing practices. She will work with Ellis in the practice fieldwork as an expert practitioner and novice AM practitioner -- an ideal insider-outsider perspective. XX has expertise in ... and their role will be third-person observation, documentation and analysis of the practice fieldwork. Both experts will also contribute to Outputs 1 and 2. 
 
 ### Copyright or intellectual property issues
 
@@ -198,15 +198,17 @@ The Point Beyond will be a podcast that explores the limits of what it is to be 
 
 ## Project management 
 
-The project will be managed by Ellis (PI, 0.5FTE for months 1-12, 0.8FTE for months 13-18) working with a Research Associate (0.66FTE, 18 months). The PI has experience of managing academic and artistic teams and large research projects, and collaborating with industry partners. The PI will also manage the collaborative work with the project partners (as detailed in the Development Plan) to ensure open dialogues are sustained, and that the outputs are curated to meet the needs of the partners' audiences, and the developmental goals of the PI.
+>How will the project be managed? What will be the roles of the members of staff involved (including you and, if applicable, any research assistants)? What is the timetable for the project? Does it include appropriate milestones and is it realistic? When will the outputs of the project be completed? How will you ensure that they meet the needs of your audience? Can the costs be justified? How will you ensure good value for money? The project management section should also include the management of the digital and data management aspects of the projects, if applicable, and should be coordinated with the information in the Data Management Plan. It should be clear what the milestones for the completion of this element and the work should be incorporated into the timetable for the whole project. The project management of the data management aspects of the project should include an assessment of risk in relation to the complexity and delivery of the project.
+You should describe fully the arrangements for supervising and managing the research assistant. If the researcher is unknown you should state the skills and qualifications sought. Similarly, if the project involves a visit to or a secondment from a member of staff from another organisation, you must state clearly what work they will pursue and describe the working relationships envisaged with other members of the team.
+In terms of supporting the research staff funded on the project, you should clearly outline the development opportunities which the project will make available. These should include opportunities both in relation to research expertise, and wider opportunities, for example, in connection with the activities proposed in the Pathways to Impact statement.
 
-There will be expert input from two scholars (Whalley and XX) during the fieldwork (months 5-8). They will be responsible for observation and analysis during the studio sessions with the PI. 
+>The AHRC is one of the signatories of the RCUK Concordat to Support the Career Development of Researchers. More information about the Concordat and what it entails can be found here: [ukri.org/files/legacy/skills/review-tor-concordat/](https://www.ukri.org/files/legacy/skills/review-tor-concordat/)
 
-### Roles
+The project will be managed by Ellis (PI, 0.5FTE for months 1-12, 0.8FTE for months 13-18) working with a Research Associate (0.6FTE, 18 months). The PI has experience of managing academic and artistic teams and large research projects, and collaborating with industry partners. The PI will also manage the collaborative work with the project partners (detailed in the Development Plan) to ensure open dialogues are sustained, and that the outputs are curated to meet the needs of the partners' audiences, and the capability development goals of the PI. There will be expert input from two scholars (Whalley and XX) during the fieldwork (months 5-8). They will be responsible for observation and analysis during the studio sessions with the PI, and input on Outputs 1 and 2.
 
-The Research Associate will support the project through event and output organisation, underlying bibliographic research and data and website management. The RA will be supervised and line managed by the PI. They will have daily comms together via a Microsoft Teams channel, and fortnightly stand-up meetings to review progress, and to make milestone or delivery adjustments. The PI will balance the RA's ongoing professional development  pursuing their own curiosity, skills and understanding, with careful and open communication regarding the project's milestones and outputs. The goal will be to equip the RA with the skills, experience and confidence to pursue their own research agenda after the completion of the project. The RA will have a PhD in dance or related disciplines, and will be experienced in bibliographic research, writing and editing and website maintenance; they will be an excellent verbal and written communicator and have advanced digital literacy. 
+The Research Associate will support the project through event and output organisation, underlying bibliographic research, and data and website management. The RA will be supervised and line managed by the PI. They will have daily comms together via a Microsoft Teams channel, and fortnightly stand-up meetings to review progress, and to make milestone or delivery adjustments. The PI will balance the RA's ongoing professional development, curiosity, skills and understanding, with careful and open communication regarding the project's milestones and outputs. The goal will be to help the RA to develop the skills, experience and confidence to pursue their own research agenda after the completion of the project. The RA will have a practice-research PhD, and will be experienced in bibliographic research, writing and editing; they will be an excellent verbal and written communicator and have advanced digital literacy. 
 
-The PI will be supported by a small Advisory Group that will meet remotely at six-month intervals to provide high-level guidance, and review risk, targets and milestones: (choose and confirm four from following) Lee Miller, Sarah Whatley, Lee Friedman, Michael Biggs, Charlotte Waelde, Carol Brown, Robin Nelson, Adrian Heathfield, Maria Delgado, Chris Smith (UKRI), someone from Universities UK?, someone from PRAG?.
+The PI will be supported by a small Advisory Group that will meet remotely at six-month intervals to provide high-level guidance, and review risk, targets and milestones: (choose and confirm four from following) Lee Miller, Sarah Whatley, Ken Friedman, Michael Biggs, Charlotte Waelde, Carol Brown, Robin Nelson, Adrian Heathfield, Maria Delgado, Chris Smith (UKRI), someone from Universities UK?, someone from PRAG?.
 
 CovUni will allocate additional project support for purchasing, finances, project management and technical support when required.
 
@@ -234,15 +236,14 @@ CovUni will allocate additional project support for purchasing, finances, projec
 
 ### Justification of costs
 
+_Finger Pointing Moon_ has been planned to maximise public engagement, accessibility and the PI's research and developmental goals in a cost effective and environmentally sensitive manner. This has involved minimising travel costs (particularly international travel -- there are no flights in the project), and planning outputs such as the exhibitions that are easily transported and installed by local partners. Where possible, the project has also been planned to involve online meetings and openly accessible conversations (e.g. micro-conferences).
+
+
 ### Digital and data management
 
->How will the project be managed? What will be the roles of the members of staff involved (including you and, if applicable, any research assistants)? What is the timetable for the project? Does it include appropriate milestones and is it realistic? When will the outputs of the project be completed? How will you ensure that they meet the needs of your audience? Can the 
-costs be justified? How will you ensure good value for money? 
-The project management section should also include the management of the digital and data management aspects of the projects, if applicable, and should be coordinated with the information in the Data Management Plan. It should be clear what the milestones for the completion of this element and the work should be incorporated into the timetable for the whole project. The project management of the data management aspects of the project should include an assessment of risk in relation to the complexity and delivery of the project.
-You should describe fully the arrangements for supervising and managing the research assistant. If the researcher is unknown you should state the skills and qualifications sought. Similarly, if the project involves a visit to or a secondment from a member of staff from another organisation, you must state clearly what work they will pursue and describe the working relationships envisaged with other members of the team.
-In terms of supporting the research staff funded on the project, you should clearly outline the development opportunities which the project will make available. These should include opportunities both in relation to research expertise, and wider opportunities, for example, in connection with the activities proposed in the Pathways to Impact statement.
+We will seek the consent of project partners and contributors to make the project’s outputs available with a CC-BY licence. _Finger Pointing Moon_ will produce multiple Open Access digital outputs online, and all are low risk in relation to the complexity and delivery of the project. The following will be stored on the project website (a wordpress site hosted by CovUni): i) experimental documentation practices; ii) audio versions of exhibition materials (for visually impaired audiences); iii) selected visual materials from exhibitions; iv) epistemic lexicon; v) blog. Video content produced for the project will be stored securely, compressed for high-definition quality online storage, streaming, and download through C-DaRE's Vimeo account, and embedded in the project website: i) zoom recordings of curated talks (micro-conferences), ii) video and still-images created during practice-research fieldword; and iii) desktop documentary (video essay). The Discourse Forum software is open-source and will be hosted and managed by CovUni. The podcast will be hosted off-site at XX, but individual episodes will be embedded in the project website and available through main sources, e.g. Apple Podcasts and Spotify.
 
->The AHRC is one of the signatories of the RCUK Concordat to Support the Career Development of Researchers. More information about the Concordat and what it entails can be found here: [ukri.org/files/legacy/skills/review-tor-concordat/](https://www.ukri.org/files/legacy/skills/review-tor-concordat/)
+add github repository?
 
 ## Outputs, Dissemination and Impact
 
@@ -258,33 +259,20 @@ In terms of supporting the research staff funded on the project, you should clea
 
 _assessment criteria (from assessment-criteria.md):_
 
->• the appropriateness and effectiveness of the proposed dissemination methods
-• the extent to which the research process is documented or recorded in a way to enable dissemination of research outcomes to the widest possible audience
-• the likelihood that the outputs and outcomes of the project will be highly valued and widely exploited, both in the research community and in wider contexts where they can make a difference
-• whether the plans to increase impact are appropriate and justified, given the nature of the proposed research
-• whether sufficient attention has been given to who the beneficiaries of the research might be and appropriate ways to engage with them throughout the project.
+>- the appropriateness and effectiveness of the proposed dissemination methods
+>- the extent to which the research process is documented or recorded in a way to enable dissemination of research outcomes to the widest possible audience
+>- the likelihood that the outputs and outcomes of the project will be highly valued and widely exploited, both in the research community and in wider contexts where they can make a difference
+>- whether the plans to increase impact are appropriate and justified, given the nature of the proposed research
+>- whether sufficient attention has been given to who the beneficiaries of the research might be and appropriate ways to engage with them throughout the project.
 
 >You should address two main questions: who might benefit from the research and how might they benefit? How will they be identified (including during the research)?
 
+WHO and HOW (then identification)
 
-I will use a range of local and global dissemination methods. Many of the outputs have community building features built in (e.g. Discourse Forum, exhibitions, Podcast). These communities will play an important 'ground-up' role in sharing, discussing and creating conversations about the outputs and the project. 
+_Finger Pointing Moon_ is driven by research (RES) _and_ developmental (DEV) concerns, and the following table outlines the outputs along with possible beneficiaries and impacts. 
 
-The processes, outcomes and outputs of _Finger Pointing Moon_ will be meticulously recorded and documented via the project website to maximise transparency and open accessibility for as wide an audience as possible. This will include pre-press versions of articles accepted by journals behind paywalls (likely to be outputs 2 and 5).
 
-_Finger Pointing Moon_ is driven by research (RES) _and_ developmental (DEV) concerns, and will produce the following outputs: 
-
-1. Authentic Movement: speculative and experimental documentation practices through writing and still and moving images; developed with expert input from Bob Whalley and published online (RES)
-2. Scholarly article about epistemic limits (RES)
-3. _Unforgettable_ exhibition (as detailed in Development Plan) (DEV)
-4. _The Un/knowable Body_ exhibition (also detailed in Development Plan) (DEV)
-5. Scholarly article on epistemic proxies (RES)
-6. Lexicon of epistemological "findings and failures", published online (RES)
-7. Desktop documentary / video essay that collates and articulates key concerns/findings of entire research project (RES)
-8. Two series of 8 episodes of podcast (DEV): Series 1: limits of knowledge; Series 2: limits of language
-9. Initiate and support Discourse forum (see Development Plan) (DEV)
-10. Three curated talks online (micro-conferences) that emerge from key topics on Discourse Forum site (RES)
-11. Project website and blog to make the project processes and outcomes widely accessible (RES/DEV)
-
+How identified?
 
 1. scholars: body-based and somatic artist-researchers, researchers exploring experimental documentation practices in practice-research, psychology scholars and practitioners looking at non-judgement awareness (or related terms like neutrality, acceptance and unconditional positive regard), scholars working with experimental qualitative research methods; wider public: dance artists, choreographers, artists considering photographic documentation of time-based work, photographers, somatic and authentic movement practitioners, dance movement therapists.
 2. scholars: qualitative researchers, practice-researchers across disciplines, epistemologists (particularly analytic philosophers exploring know-how/know-that)
@@ -296,7 +284,18 @@ _Finger Pointing Moon_ is driven by research (RES) _and_ developmental (DEV) con
 8. wider public; cross disciplinary scholars (act as method to build broad audience for the research)
 9. artist-researchers (cross-disciplines), academics, artists transitioning into academy
 10. audience generating: likely beneficiaries are PhD and early-career artist-researchers (in academy) and artists considering move/transition into the academy
-11. all beneficiaries (key OA resource for entire project)
+
+
+
+
+
+
+
+I will use a range of local and global dissemination methods. Many of the outputs have community building features built in (e.g. Discourse Forum, exhibitions, Podcast). These communities will play an important 'bottom-up' role in sharing, discussing and creating conversations about the outputs and the project. They will also be vital in finding new audiences as an ongoing aspect of the research and development components. 
+
+The processes, outcomes and outputs of _Finger Pointing Moon_ will be meticulously recorded and documented via the project website to maximise transparency and open accessibility for as wide an audience as possible. This will include pre-press versions of articles accepted by journals behind paywalls (likely to be outputs 2 and 5).
+
+
 
 strategies for communication, dissemination and exploitation: 
 - open access (where possible) -- primarily through project website and blog
