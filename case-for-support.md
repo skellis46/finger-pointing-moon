@@ -34,6 +34,9 @@ The conception, context and research design of _Finger Pointing Moon_ is therefo
 
 The three research questions form the spine of the project's focus for practice-research to adopt a more lucid and evidence-based (empirical) relationship with its own epistemic possibilities, limitations and failings. The alternative to not addressing these questions is the status quo in which endless variations of process are circulated and fetishized,[@nelson_practice_2013] representational proxies are assumed to stand in for "epistemic things",[this is a term from @rheinberger_toward_1997; see also @borgdorff_conflict_2012 p.232] outcomes are rarely explicitly made in dialogue with other overlapping practices,[^theory] and there are no limits to unfalsifiable claims to understanding and no limits to the vagueness of these claims. In other words, if _all_ practice-research is presentable as _truth_ -- even in the sense that "truth is aspirational"[@ingold_search_2018 n.p.] -- then it is failing as an approach to creating new understandings. 
 
+>theory emerges from experimentation rather than being tested by it[@schwab_experiment_2015 p.122]
+(**or put this someone in method?**)
+
 [^theory]: Practice-research has a history of referring to theory, not to oppose, confront or build theoretical understandings, but to prop up the academic status of the artistic work.**add citation** 
 
 ### Other research in this area
@@ -270,6 +273,10 @@ _assessment criteria (from assessment-criteria.md):_
 WHO and HOW (then identification)
 
 _Finger Pointing Moon_ is driven by research (RES) _and_ developmental (DEV) concerns, and the following table outlines the outputs along with possible beneficiaries and impacts. 
+
+Useful here from Schwab: 
+
+>The social dimension of experimentation stems from the agreement that has to be reached whereby a particular something resulting from the experimental system is, in fact, matter-of-fact. This something as matter-of-fact does not strictly speaking exist before such (public) negotiation, making an epistemic thing not only a piece of knowledge but also an ‘artefact of communication’ (Shapin 1984, 484).[@schwab_experiment_2015 p.123]
 
 
 How identified?
