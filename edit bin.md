@@ -1,5 +1,42 @@
 # edit bin
 
+In 1992 the UK Higher Education Funding Councils first recognised the work of artists as research and, given the potential "access to highly lucrative government funding",[@magee_introduction._2012 n.p.] art and artists became invested in the production of knowledge. Since then, the epistemological project in practice-research has comprised various attempts to reverse-engineer art-making through an epistemological lens. That is, once art was recognised as research it became necessary to justify and validate its knowledge-producing bona fides, and to avoid a situation in which "the entire history of art [became] eligible for a postgraduate research degree."[@frayling_research_1993 p.5] Nevertheless, 
+
+[^theory]: Practice-research has a history of referring to theory, not to oppose, confront or build theoretical understandings, but to prop up the academic status of the artistic work.**add citation** 
+
+Useful here from Schwab: 
+
+>The social dimension of experimentation stems from the agreement that has to be reached whereby a particular something resulting from the experimental system is, in fact, matter-of-fact. This something as matter-of-fact does not strictly speaking exist before such (public) negotiation, making an epistemic thing not only a piece of knowledge but also an ‘artefact of communication’ (Shapin 1984, 484).[@schwab_experiment_2015 p.123]
+
+_Finger Pointing Moon_ is a set of research, development and engagement collaborations. The collaborations with the project partners are key to the impact and public engagement activities, and how niche ideas about epistemology in artistic-scholarly practice matter, and how they are able to be communicated and spread through professional and artistic communities (within and outside of the Academy). 
+
++ Outputs and Dissemination (what you will do with the knowledge) for your audience:
+    * To Beneficiaries – who are they
+    * To End Users – who are they?
+    * What is the plan to exploit outcomes to beneficiaries and end users (short description)
+    * Will there be Public Engagement?
+
+## other things to consider
+
+- my skills and experience (competence)
+- value: is the project good value? ? (mention resources, type and quantity/level needed justified in Plan)
+
+1. scholars: body-based and somatic artist-researchers, researchers exploring experimental documentation practices in practice-research, psychology scholars and practitioners looking at non-judgement awareness (or related terms like neutrality, acceptance and unconditional positive regard), scholars working with experimental qualitative research methods; wider public: dance artists, choreographers, artists considering photographic documentation of time-based work, photographers, somatic and authentic movement practitioners, dance movement therapists.
+2. scholars: qualitative researchers, practice-researchers across disciplines, epistemologists (particularly analytic philosophers exploring know-how/know-that)
+3. wider public (audiences of organisations/project partners), dance/theatre audiences, arts organisations working with and across HE (professional-academic connections), the contributors, global audience/network, archivists, 
+4. academics from across disciplines (particularly medical and health sciences, arts and humanities), artists and creatives working with and through the body, gallery and institution audiences, institutions working in public engagement, local artists involved in 'curating' the materials
+5. focused on practice-research artist-scholars; qualitative researchers (social sciences, arts and humanities) - postgraduate and academic level
+6. focused on practice-research artist-scholars; qualitative researchers (social sciences, arts and humanities)
+7. accessible to to all levels of academia (focus on those working artistic research and other experimental research methods), crossing into wider public: particularly artists
+8. wider public; cross disciplinary scholars (act as method to build broad audience for the research)
+9. artist-researchers (cross-disciplines), academics, artists transitioning into academy
+10. audience generating: likely beneficiaries are PhD and early-career artist-researchers (in academy) and artists considering move/transition into the academy
+
+
+_Public:_ dance and somatic artists, photographers, documenters of time-based arts, movement therapists. _Academics:_ body-based and somatic artist-researchers, practice-researchers, qualitative researchers
+
+
+
 1. Authentic Movement: speculative and experimental documentation practices through writing and still and moving images; developed with expert input from Bob Whalley and published online (RES)
 2. Scholarly article about epistemic limits (RES)
 3. _Unforgettable_ exhibition (detailed in Development Plan) (DEV)
