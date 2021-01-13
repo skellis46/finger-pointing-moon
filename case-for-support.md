@@ -1,10 +1,18 @@
 ---
-csl: /Users/skellis/Dropbox/pandoc/chicago-library-list.csl
+csl: /Users/skellis/Dropbox/pandoc/springer-humanities-brackets.csl
 ---
 
 # Finger pointing moon: recognising change through practice-research 
 
 (Case for Support for an _AHRC Research, Development and Engagement Fellowship_ proposal)
+
+>When I was a child, “the unforgettable experience” was not yet a threateningly literal technological description, but a passionate metaphorical prescription of significance: my first words, my first steps, my first lost tooth, my first time riding a bicycle. 
+
+-- Edward Snowden [^ed]
+
+[^ed]: Snowden (2019). _Permanent Record_.
+
+Snowden's words reference a fundamental idea in human experience: there are things we have data for, and there are things that are beyond data. _Finger Pointing Moon_ examines the nature of the line between what is able to be known and what is not. It is not an abstract or theoretical line interesting only to epistemologists. Rather, it is a line we are all navigating all the time: fake news, truth, trusted sources, indescribable experiences, filter bubbles, and the radically analogue sensations of the human body. Although _Finger Pointing Moon_ addresses a niche concern -- the epistemic limits of practice-research -- the diverse outputs proposed in the project also reveal how epistemic concerns are vital to the wider public.
 
 ## The Research Problem and Questions
 
@@ -32,34 +40,27 @@ The four characteristics above are uniquely amplified for artist-scholars workin
 
 The conception, context and research design of _Finger Pointing Moon_ is therefore founded on two propositions: i) that practice-research is not adequately tuned to recognising any changes resulting from research-focused artistic practices; ii) body-based practices provide a pristine methodological microscope through which to investigate the epistemic complexity of practice-research.
 
-The three research questions form the spine of the project's focus for practice-research to adopt a more lucid and evidence-based (empirical) relationship with its own epistemic possibilities, limitations and failings. The alternative to not addressing these questions is the status quo in which endless variations of process are circulated and fetishized,[@nelson_practice_2013] representational proxies are assumed to stand in for "epistemic things",[this is a term from @rheinberger_toward_1997; see also @borgdorff_conflict_2012 p.232] outcomes are rarely explicitly made in dialogue with other overlapping practices,[^theory] and there are no limits to unfalsifiable claims to understanding and no limits to the vagueness of these claims. In other words, if _all_ practice-research is presentable as _truth_ -- even in the sense that "truth is aspirational"[@ingold_search_2018 n.p.] -- then it is failing as an approach to creating new understandings. 
-
->theory emerges from experimentation rather than being tested by it[@schwab_experiment_2015 p.122]
-(**or put this someone in method?**)
-
-[^theory]: Practice-research has a history of referring to theory, not to oppose, confront or build theoretical understandings, but to prop up the academic status of the artistic work.**add citation** 
+The three research questions form the spine of the project's focus for practice-research to adopt a more lucid and evidence-based (empirical) relationship with its own epistemic possibilities, limitations and failings. The alternative to not addressing these questions is the status quo in which endless variations of process are circulated and fetishized,[@nelson_practice_2013] representational proxies are assumed to stand in for "epistemic things",[this is a term from @rheinberger_toward_1997; see also @borgdorff_conflict_2012 p.232] outcomes are rarely explicitly made in dialogue with other overlapping practices, and there are no limits to unfalsifiable claims to understanding and no limits to the vagueness of these claims. In other words, if _all_ practice-research is presentable as _truth_ -- even in the sense that "truth is aspirational"[@ingold_search_2018 n.p.] -- then it is failing as an approach to creating new understandings. 
 
 ### Other research in this area
 
-In 1992 the UK Higher Education Funding Councils first recognised the work of artists as research and, given the potential "access to highly lucrative government funding",[@magee_introduction._2012 n.p.] art and artists became invested in the production of knowledge. Since then, the epistemological project in practice-research has comprised various attempts to reverse-engineer art-making through an epistemological lens. That is, once art was recognised as research it became necessary to justify and validate its knowledge-producing bona fides, and to avoid a situation in which "the entire history of art [became] eligible for a postgraduate research degree."[@frayling_research_1993 p.5] Nevertheless, Pakes has written that it is easy to make the claim for a "distinctive kind of knowledge" emerging from practice-research, but far more difficult to specify the make up of such knowledge.[-@pakes_art_2004 n.p.]
+Pakes has written that it is easy to make the claim for a "distinctive kind of knowledge" emerging from practice-research, but far more difficult to specify the make up of such knowledge.[-@pakes_art_2004 n.p.] Past work to describe an epistemology of practice-research has been chronically theoretical.
 
-#### Past work to describe an epistemology of practice-research
-
-Research into the epistemology of practice-research has been chronically theoretical.
-
-##### Know-how and technê
+#### Know-how and technê
 
 One early attempt to solve the epistemic problem in practice-research was to invoke the concepts of practical knowledge (_technê_) and know-how as a way of understanding artistic-research specific epistemics.[^techne] This work has three problems: 1) It has rarely made it clear where understanding or knowledge is _located:_ in the work of art or with the researcher. 2) It has failed to distinguish know-how in practice-research from the kind of know-how present in any research discipline. That is, what is peculiar to the concept of know-how in artistic practice-research as compared with, for example, engineering or bioethics?[@johnson_embodied_2011] 3) It does not explicitly address _change_ as a consequence of research processes -- in any research process the question of what we understand or know differently as a consequence of that process is fundamental.[@johnson_embodied_2011; @ellis_that_2018] 
 
 [^techne]: This draws on the work of Aristotle, Ryle, Carr and Polanyi, and more recently Pakes. See Borgdorff for an overview[-@borgdorff_debate_2006]
 
-##### The role of the artefact
+#### The role of the artefact
 
 Scrivener wrote that the "art object does not embody a form of knowledge."[@stephen_scrivener_art_2002 n.p.] Yet Borgdorff suggests that knowledge is "embodied in art practices (objects, processes)."[@borgdorff_debate_2006 p.13] Even in disagreement, both scholars focus on the limits of the artefact in practice-research. In so doing they draw the art object's audience into the issue -- Borgdorff through his focus on hermeneutics, and Scrivener through his argument that artworks (or artefacts) require interpretation, and as such can be called _apprehensions_ or "objects which must be grasped by the senses and the intellect" which when grasped offer "ways of seeing and being".[@stephen_scrivener_art_2002 n.p.]  
 
-##### Audiences
+#### Audiences
 
-Other work has built on Scrivener's recognition that the audience is fundamental to the epistemic project of practice-research.[e.g. Magee -@magee_introduction._2012; Ellis -@ellis_that_2018] Rather than producing knowledge itself, the artist produces "a compelling, mesmerising question"[@magee_introduction._2012 p.5] and the artefact affords possibilities for understanding in those who experience it. This is a radically "expanded epistemology"[@ellis_that_2018 p.488] in which practice-research is "dependent on its audience to do its epistemic work."[@ellis_that_2018 p.488]  
+Other work has built on Scrivener's recognition that the audience is fundamental to the epistemic project of practice-research.[e.g. Magee -@magee_introduction._2012; Ellis -@ellis_that_2018] Rather than producing knowledge itself, the artist produces "a compelling, mesmerising question"[@magee_introduction._2012 p.5] and the artefact affords possibilities for understanding in those who experience it. This is a radically "expanded epistemology"[@ellis_that_2018 p.488] in which practice-research is "dependent on its audience to do its epistemic work."[@ellis_that_2018 p.488] 
+
+**-- add expositions here? (Schwab?)** 
 
 Past efforts to describe an epistemology of practice-research reveal the complexity of the problem. There are effectively three _agents_ at play in this intellectual labour -- the artefact, the artist and the audience -- and the extent to which an artist-scholar foregrounds the role of each has determined their position in understanding the epistemic boundaries of practice-research. What is shared between the positions is an overarching relativist constructivist framework. Such a framework gives license to the artist-scholar (and/or the audience) to say anything about the work they present and represent; that is, there are no limits to the claims that are made.[see for example @biggs_communities_2011] 
 
@@ -67,7 +68,7 @@ Past efforts to describe an epistemology of practice-research reveal the complex
 
 The history of practice-research has been shaped by relativist and constructivist approaches to making epistemic claims. In _Finger Pointing Moon_ I propose to develop an empirical approach using experimental body-based practices as the foundations on which to build epistemic claims. That is, I will move from deep inside practice towards disciplinary-level analysis that attempts to cut through the historical vagueness of practice-research practices and language.[^3examples] Such analysis will draw practice-research out from behind both technê and epistemic proxies, to understand the limits and margins of practice-research epistemic things. The tension here will be to balance the limitations of understanding through direct experience,[e.g. @langer_mind_1967] standpoint epistemology,[e.g. @wylie_standpoint_2015] and the possibilities of apprehending change through empirical (observable) iterative artistic practice. 
 
-I will draw together the large range of ideas, opinions and histories that have attempted to build an epistemology of practice-research. I will also directly address experiences and practices that artist-researchers can agree and disagree on; that some aspects of creative practices -- other than just methodology or what to call practice-research -- must be open to debate. Where might legitimate disagreement lie in fields and studios of practice? Are there grounds for heterotopic discourse[@roberts_triggering_2012] that draw solitary researchers and the "radical individuality"[@schwab_experiment_2015 p.120] of their performance-oriented outcomes into communities of practice in order to become "cumulative"[@biggs_communities_2011 p.86], and a "part of a network of other valued actions".[Hirsch 1984, in @biggs_communities_2011 p.85] Part of my contribution will thus involve calling into question the set of epistemic beliefs -- or doxa -- that implicitly sustain practice-research. This will include creating a language for an empirical epistemic approach to practice-research while accepting the possibility that there are things in practice-research that "may be within the limits of our thought but beyond the limits of our knowledge".[@markie_rationalism_2017 n.p.]
+I will draw together the large range of ideas, opinions and histories that have attempted to build an epistemology of practice-research. I will also directly address experiences and practices that artist-researchers can agree and disagree on; that some aspects of creative practices -- other than just methodology or what to call practice-research -- must be open to debate. Where might legitimate disagreement lie in fields and studios of practice? Are there grounds for heterotopic discourse[@roberts_triggering_2012] that draw solitary researchers and the "radical individuality"[@schwab_experiment_2015 p.120] of their performance-oriented outcomes into communities of practice in order to become "cumulative"[@biggs_communities_2011 p.86], and a "part of a network of other valued actions".[Hirsch 1984, in @biggs_communities_2011 p.85] Part of my contribution will thus involve calling into question the set of epistemic beliefs or doxa that implicitly sustain practice-research. This will include creating a language for an empirical epistemic approach to practice-research while accepting the possibility that there are things in practice-research that "may be within the limits of our thought but beyond the limits of our knowledge".[@markie_rationalism_2017 n.p.]
 
 [^3examples]: Here are three arbitrary examples from the Journal of Artistic Research (2020 Vol 20, emphasis added): "_hopefully_ as you continue to read and listen, _it will become gradually clearer_" -- Miller; "the open-endedness of artistic research _allows the possibility_ for the ongoing development of _new insights_ among the wider community of creative practitioners" -- Hunt; and "with this text I’m really _not trying to make any grand statements_. It is a _collection_ of words and decisions that function more as a _demonstration_" -- Norman. 
 
@@ -106,7 +107,7 @@ The research methods are designed to realise the project objectives. The objecti
 
 1. _Limits:_ 
 
-- **Empirical and experiential practice-research fieldwork**: 4 x 2 week blocks (20 hours per week) of Authentic Movement (body-based practice)  
+- **Empirical and experiential practice-research fieldwork**: 2 x 3-week blocks (20 hours per week) of Authentic Movement (body-based practice)  
 - **Experimental documentation** developed through critical reflection and writing, and still and moving images
 - **Empirical and sensorial analysis** through first and third-person observation of the practice to propose epistemic limits 
 - **Scholarly writing**: first and third-person case report to communicate findings 
@@ -179,23 +180,23 @@ In order for practice-research to be widely acknowledged beyond its own discipli
 
 The development plan will enhance my role within practice-research, and significantly develop the influence and importance of my research by helping me acquire four new capabilities: 1) to communicate and contextualise niche and complex ideas about fundamental epistemics of practice-research beyond the practice-research field and also to the wider public; 2) to demonstrate leadership in methodological advances in practice-research; 3) to develop and support a broad cross-disciplinary community of active artist-scholars; and 4) to create a range of collaborative opportunities with academic and non-academic stake-holders within and and outside of dance and the performing arts. 
 
-These four capabilities will be developed through four bold and innovative activities:
+These four capabilities will be developed through four bold and innovative activities and outputs:
 
-_1. Unforgettable_
+_1. Unforgettable_ (Output 3)
 
 This will be an exhibition of materials based on a practice of gathering and sharing the community's experiences of dance and movement. Artists, scholars and audiences from around the world will send a written note or letter that describes a single unforgettable moment or experience of dance or dancing. These documents will be collated and organised into an exhibition to be presented by project partners at various spaces around the world. _Unforgettable_ builds on the research's epistemic narrative by exploring the role of memory and languages of experience and expression in understanding how we come to know what we know. The process and exhibition is designed to: i) inspire creativity in how other researchers understand and represent the scope of their largely theoretical undertakings; ii) seek wider impact by ambitiously engaging a global cross-section of participants; iii) develop new research-informed partnerships and collaborations with non-academic organisations around the world.
 
-_2. The Un/knowable Body_
+_2. The Un/knowable Body_ (Output 4)
 
-_The Un/knowable Body_ will involve collecting a large quantity of cross- and inter-disciplinary materials that reveal the limits, margins and possibilities of human understanding and experience of the body. These materials will be gathered by the PI and RA but will then be sent to [xx] project partners in Australia, UK, Italy ... [etc]. Each project partner will work with their local communities -- in consultation with the PI -- to explore ways to organise, curate, present and respond to the materials and then develop a bespoke programme of events that explore knowledges of the body. _The Un/knowable Body_ directly explores a key part of the research component of _Finger Pointing Moon_ by addressing what is able to be known -- and what remains unknown -- about visual and sensorial experiences of the human body. The activity will: i) foster interdisciplinary research by working with and presenting materials from a broad disciplinary range; ii) inspire creativity in other researchers by creating models for public engagement that emerge from those publics (rather than top-down or researcher focused models); iii) create wider impact for the research aspects of the project by building relationships between highly theoretical (and niche) ideas to do with epistemology, with accessible and meaningful materials for the wider public; iv) create new research partnerships and collaborations between the PI and project partners working across disciplinary fields.
+_The Un/knowable Body_ will involve collecting a large quantity of cross- and inter-disciplinary materials that reveal the limits, margins and possibilities of human understanding and experience of the body. These materials will be gathered by the PI and RA but will then be sent to two project partners in Australia and Italy. Both project partners will work with their local communities -- in consultation with the PI -- to explore ways to organise, curate, present and respond to the materials and then develop a bespoke programme of events that explore knowledges of the body. _The Un/knowable Body_ directly explores a key part of the research component of _Finger Pointing Moon_ by addressing what is able to be known -- and what remains unknown -- about visual and sensorial experiences of the human body. The activity will: i) foster interdisciplinary research by working with and presenting materials from a broad disciplinary range; ii) inspire creativity in other researchers by creating models for public engagement that emerge from those publics (rather than top-down or researcher focused models); iii) create wider impact for the research aspects of the project by building relationships between highly theoretical (and niche) ideas to do with epistemology, with accessible and meaningful materials for the wider public; iv) create new research partnerships and collaborations between the PI and project partners working across disciplinary fields.
 
-_3. Artistic Research forum_
+_3. Artistic Research forum_ (Output 9)
 
 This activity is to create and support a broad cross-disciplinary community of scholars and artists working either directly or indirectly with practice-research. It will involve initiating an online Discourse Forum[^disc] -- called _Artistic Research Forum_ -- that will modernise old-style email-based list-servs like PARIP and SCUDD, and act as a large-scale _conversation_ on historical, current and future thinking, practices and understandings of practice-research. Discourse forums are easily divided into different conversations, examples might be: artistic research history; epistemology; documentation; key texts; ongoing practices; FAQs; etc. The forum will be sustained by a large and diverse group of experienced and emerging artist-scholars volunteering from around the world; it will, in effect, be a collaboration across the entire practice-research community. This is an ambitious activity that will: i) enable the PI to provide intellectual leadership through an openly accessible network of artist-scholars; ii) inspire creativity and development in other researchers both through materials posted to the forum and through its open and collaborative form; iii) help shape research agendas in which the forum acts like a town-square environment where vital conversations are easily heard and contributed to; and iv) encourage new research collaborations and partnerships as contributors engage with the materials and ideas presented in the forum.
 
 [^disc]: [www.discourse.org](https://www.discourse.org/)
 
-_4. The Point Beyond_
+_4. The Point Beyond_ (Output 8)
 
 The Point Beyond will be a podcast that explores the limits of what it is to be human. It will initially be limited to two series of eight episodes, and each episode will be a conversation with an expert that explores the point beyond which our understanding and experience falters. The two series will be i) _limits of knowledge_ (e.g. experimental failures; perception and perceptual error; contemplation, cognitive biases, meditation and enlightenment; truth and belief; conspiracy; machine learning and AI); ii) _limits of language_ (e.g. when words fail us; swearing and cussing; language versus direct experience; silence and contemplation; mutism; computer languages and coding). Other series (after the fellowship) could potentially be: limits of language; cultural limits (the Overton window); psychological limits; moral limits; imagined limits. _The Point Beyond_ is a direct attempt to take the research heart of _Finger Pointing Moon_ -- the limits and possibilities of human understanding -- and extrapolate that work deep into other areas, ideas and practices. It will: i) inspire creativity and development in other researchers by building broad cross-disciplinary and wider-public interest in ideas that matter to how we understand being human; ii) directly foster inter- and cross-disciplinary research involving artistic research and dance by building lively and focused conversations with other experts; iii) challenge the PI's ability to communicate complex ideas to a broad audience; iv) focus on clearly and directly on public engagement: why do these niche and largely theoretical ideas matter and to whom? 
 
@@ -209,7 +210,7 @@ In terms of supporting the research staff funded on the project, you should clea
 
 The project will be managed by Ellis (PI, 0.5FTE for months 1-12, 0.8FTE for months 13-18) working with a Research Associate (0.6FTE, 18 months). The PI has experience of managing academic and artistic teams and large research projects, and collaborating with industry partners. The PI will also manage the collaborative work with the project partners (detailed in the Development Plan) to ensure open dialogues are sustained, and that the outputs are curated to meet the needs of the partners' audiences, and the capability development goals of the PI. There will be expert input from two scholars (Whalley and XX) during the fieldwork (months 5-8). They will be responsible for observation and analysis during the studio sessions with the PI, and input on Outputs 1 and 2.
 
-The Research Associate will support the project through event and output organisation, underlying bibliographic research, and data and website management. The RA will be supervised and line managed by the PI. They will have daily comms together via a Microsoft Teams channel, and fortnightly stand-up meetings to review progress, and to make milestone or delivery adjustments. The PI will balance the RA's ongoing professional development, curiosity, skills and understanding, with careful and open communication regarding the project's milestones and outputs. The goal will be to help the RA to develop the skills, experience and confidence to pursue their own research agenda after the completion of the project. The RA will have a practice-research PhD, and will be experienced in bibliographic research, writing and editing; they will be an excellent verbal and written communicator and have advanced digital literacy. 
+The Research Associate will support the project through underlying bibliographic research, writing drafts of scholarly outputs, event and output organisation, data and website management and a small volume of administration. The RA will be supervised and line managed by the PI. They will have daily comms together via a Microsoft Teams channel, and fortnightly stand-up meetings to review progress, and to make milestone or delivery adjustments. The PI will balance the RA's ongoing professional development, curiosity, skills and understanding, with careful and open communication regarding the project's milestones and outputs. The goal will be to help the RA to develop the skills, experience and confidence to pursue their own research agenda after the completion of the project. The RA will have a practice-research PhD, and will be experienced in bibliographic research, writing and editing; they will be an excellent verbal and written communicator and have advanced digital literacy. 
 
 The PI will be supported by a small Advisory Group that will meet remotely at six-month intervals to provide high-level guidance, and review risk, targets and milestones: (choose and confirm four from following) Lee Miller, Sarah Whatley, Ken Friedman, Michael Biggs, Charlotte Waelde, Carol Brown, Robin Nelson, Adrian Heathfield, Maria Delgado, Chris Smith (UKRI), someone from Universities UK?, someone from PRAG?.
 
@@ -227,6 +228,7 @@ CovUni will allocate additional project support for purchasing, finances, projec
 - _Months 15-16:_ **Output 10: online curated talks**, **Output 7: desktop documentary**, **Output 4: _The Un/knowable Body_ exhibition** (3 sites)
 - Months 17-18: AG meeting (4 of 4), project report, **Output 8: podcast series 2**.
 
+
 | Month                  | 1-2 | 3-4 | 5-6 | 7-8 | 9-10 | 11-12 | 13-14 | 15-16 | 17-18 |
 | ---------------------- | :-: | :-: | :-: | :-: | :--: | :---: | :---: | :---: | :---: |
 | Advisor Group meetings |  x  |     |     |  x  |      |       |   x   |       |   x   |
@@ -239,14 +241,12 @@ CovUni will allocate additional project support for purchasing, finances, projec
 
 ### Justification of costs
 
-_Finger Pointing Moon_ has been planned to maximise public engagement, accessibility and the PI's research and developmental goals in a cost effective and environmentally sensitive manner. This has involved minimising travel costs (particularly international travel -- there are no flights in the project), and planning outputs such as the exhibitions that are easily transported and installed by local partners. Where possible, the project has also been planned to involve online meetings and openly accessible conversations (e.g. micro-conferences).
+_Finger Pointing Moon_ is planned to maximise public engagement, accessibility and the PI's research and developmental goals in a cost effective and environmentally sensitive manner. This has involved minimising travel costs (particularly international travel -- there are no flights in the project), and planning outputs such as the exhibitions that are easily transported and installed by local partners. Where possible, the project has also been planned to involve online meetings and openly accessible conversations (e.g. micro-conferences).
 
 
 ### Digital and data management
 
-We will seek the consent of project partners and contributors to make the project’s outputs available with a CC-BY licence. _Finger Pointing Moon_ will produce multiple Open Access digital outputs online, and all are low risk in relation to the complexity and delivery of the project. The following will be stored on the project website (a wordpress site hosted by CovUni): i) experimental documentation practices; ii) audio versions of exhibition materials (for visually impaired audiences); iii) selected visual materials from exhibitions; iv) epistemic lexicon; v) blog. Video content produced for the project will be stored securely, compressed for high-definition quality online storage, streaming, and download through C-DaRE's Vimeo account, and embedded in the project website: i) zoom recordings of curated talks (micro-conferences), ii) video and still-images created during practice-research fieldword; and iii) desktop documentary (video essay). The Discourse Forum software is open-source and will be hosted and managed by CovUni. The podcast will be hosted off-site at XX, but individual episodes will be embedded in the project website and available through main sources, e.g. Apple Podcasts and Spotify.
-
-add github repository?
+We will seek the consent of project partners and contributors to make the project’s outputs available with a CC-BY licence. _Finger Pointing Moon_ will produce multiple Open Access digital outputs online, and all are low risk in relation to the complexity and delivery of the project. The following will be stored on the project website (a WordPress site hosted by CovUni): i) experimental documentation practices; ii) audio versions of exhibition materials (for visually impaired audiences); iii) selected visual materials from exhibitions; iv) epistemic lexicon; v) blog. Video content produced for the project will be stored securely, compressed for high-definition quality online storage, streaming, and download through C-DaRE's Vimeo account, and embedded in the project website: i) zoom recordings of curated talks (micro-conferences), ii) video and still-images created during practice-research fieldwork; and iii) desktop documentary (video essay). The Discourse Forum software is open-source and will be hosted and managed by CovUni. The podcast will be hosted off-site at Libsyn, but individual episodes will be embedded in the project website and available through common sources like Apple Podcasts and Spotify.
 
 ## Outputs, Dissemination and Impact
 
@@ -270,71 +270,50 @@ _assessment criteria (from assessment-criteria.md):_
 
 >You should address two main questions: who might benefit from the research and how might they benefit? How will they be identified (including during the research)?
 
-WHO and HOW (then identification)
+### Outputs
 
-_Finger Pointing Moon_ is driven by research (RES) _and_ developmental (DEV) concerns, and the following table outlines the outputs along with possible beneficiaries and impacts. 
+_Finger Pointing Moon_ is driven by research (RES) _and_ developmental (DEV) concerns. The projects eleven outputs are a wide-ranging series of inter-disciplinary responses to the project's aim to examine the epistemic potential and limits of practice-research. The outputs also challenge the PI to strengthen and broaden his communication, impact and public engagement capacity.
 
-Useful here from Schwab: 
+1. Experimental documentation practices, developed through practice-research fieldwork (RES)
+2. Scholarly article about epistemic limits (RES)
+3. Exhibition _Unforgettable_ (see Development Plan) (DEV)
+4. Exhibition _The Un/knowable Body_ (see Development Plan) (DEV)
+5. Scholarly article on epistemic proxies (RES)
+6. Lexicon of epistemological findings and failures (RES)
+7. Desktop documentary (video essay) of key findings of entire research project (RES)
+8. Podcast _The Point Beyond_ (see Development Plan) (DEV)
+9. Discourse Forum (see Development Plan) (DEV)
+10. Three curated talks online (micro-conferences) (RES)
+11. Website (including blog) (RES/DEV)
 
->The social dimension of experimentation stems from the agreement that has to be reached whereby a particular something resulting from the experimental system is, in fact, matter-of-fact. This something as matter-of-fact does not strictly speaking exist before such (public) negotiation, making an epistemic thing not only a piece of knowledge but also an ‘artefact of communication’ (Shapin 1984, 484).[@schwab_experiment_2015 p.123]
+### Beneficiaries and impacts
 
+The following table outlines possible beneficiaries and impacts for each output.
 
-How identified?
+| Output | Possible beneficiaries                                                                                                                                                                                            | Possible impacts                                                                                                                                                         |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1      | _public:_ dance and somatic artists, photographers, documenters, movement therapists; _academics:_ body-based and somatic artist-researchers, practice-researchers, qualitative researchers                       | increased cultural awareness of documentation strategies; increased awareness of non-judgemental practices; change hegemonic use of video as documentation               |
+| 2      | qualitative researchers, practice-researchers across disciplines, epistemologists                                                                                                                                 | increase focus and understanding of the edges of epistemic claims in practice-research                                                                                   |
+| 3      | wider public (audiences of organisations/project partners); dance/theatre audiences; arts organisations working with and across HE; the contributors; international audience/network; archivists                  | create shared understanding what the public _knows_ about the transmission of affect in dance and performance; create community culture of shared experience             |
+| 4      | artists and creatives working with the body; partner audiences; institutions working in public engagement; local artists 'curating' the materials; academics in medical and health sciences, arts and humanities  | model methods for audience engagement; increased cultural awareness of role of body in navigating experience; create possibilities for future interdisciplinary research |
+| 5      | practice-research artist-scholars; qualitative researchers (social sciences, arts and humanities)                                                                                                                 | develop and change understanding of research artefacts that 'stand in' for direct research outcomes                                                                      |
+| 6      | focused on practice-research artist-scholars; qualitative researchers (social sciences, arts and humanities)                                                                                                      | develop language and thinking to do with limits and failures in practice-research as a tool for cultural change in the field                                             |
+| 7      | academics (at all levels) working in artistic research and other experimental research methods); professional artists exploring research paradigms; scholars looking into alternative methods for dissemination   | develop culture of dissemination research using creative and non-traditional means; develop awareness of role of epistemology in practice-research thinking and methods  |
+| 8      | wider public; cross disciplinary scholars (act as method to build broad audience for the research)                                                                                                                | develop understanding of role of _epistemology_ in societal issues; marker for other _niche_ researchers to explore novel public engagement strategies                   |
+| 9      | artist-researchers (cross-disciplines), academics, artists transitioning into academy                                                                                                                             | building culture of community-based ideas and comms; large-scale resource of 'holding space' for practice-research technologies, histories, practices and conversations  |
+| 10     | PhD and early-career artist-researchers (in academy) and artists considering entering the academy; academics across disciplines exploring online engagement strategies                                            | develop understanding of issues in practice-research; expand possibilities for online conferences suitable to particular demands of video-call techniologies             |
+| 11     | all beneficiaries above (key open access resource for entire project)                                                                                                                                             | as above                                                                                                                                                                 |
 
-1. scholars: body-based and somatic artist-researchers, researchers exploring experimental documentation practices in practice-research, psychology scholars and practitioners looking at non-judgement awareness (or related terms like neutrality, acceptance and unconditional positive regard), scholars working with experimental qualitative research methods; wider public: dance artists, choreographers, artists considering photographic documentation of time-based work, photographers, somatic and authentic movement practitioners, dance movement therapists.
-2. scholars: qualitative researchers, practice-researchers across disciplines, epistemologists (particularly analytic philosophers exploring know-how/know-that)
-3. wider public (audiences of organisations/project partners), dance/theatre audiences, arts organisations working with and across HE (professional-academic connections), the contributors, global audience/network, archivists, 
-4. academics from across disciplines (particularly medical and health sciences, arts and humanities), artists and creatives working with and through the body, gallery and institution audiences, institutions working in public engagement, local artists involved in 'curating' the materials
-5. focused on practice-research artist-scholars; qualitative researchers (social sciences, arts and humanities) - postgraduate and academic level
-6. focused on practice-research artist-scholars; qualitative researchers (social sciences, arts and humanities)
-7. accessible to to all levels of academia (focus on those working artistic research and other experimental research methods), crossing into wider public: particularly artists
-8. wider public; cross disciplinary scholars (act as method to build broad audience for the research)
-9. artist-researchers (cross-disciplines), academics, artists transitioning into academy
-10. audience generating: likely beneficiaries are PhD and early-career artist-researchers (in academy) and artists considering move/transition into the academy
+### Identification of end-users and beneficiaries
 
+In _Finger Pointing Moon_ the end-users are the beneficiaries. They will be identified through various systems: collaboration with project partners, word of mouth, comms strategies built into the outputs themselves (e.g. _Unforgettable_, and Discourse Forum), the project team's personal and cross-disciplinary professional networks, in place social networks (including regular social media and currently existing list-servs and blogging. 
 
+### Dissemination, public engagement and exploitation
 
+Many of the outputs have community building and public engagement features built in (e.g. Discourse Forum, exhibitions, Podcast and curated micro-conferences). These communities will be brought together through online spaces and by working closely with project partners to develop a 'bottom-up' method to share, discuss and create conversations about the outputs and the project. The partners will also be vital in finding and engaging new audiences as an ongoing aspect of the research and development components. The project's public profile will be supported by C-DaRE and CovUni communication and marketing, and social media and communication with the project partners.  
 
+The processes, outcomes and outputs of _Finger Pointing Moon_ will be meticulously documented via the project website to maximise transparency and open accessibility for as wide an audience as possible. All original data from the practice-research fieldwork will be openly accessible for exploitation by other researchers. All draft and completed text materials from all stages of the project (including the development of this proposal) will be openly accessible through a GitHub repository.[^git] This OA exploitation strategy ensures research transparency and the availability of the ideas, data and outputs for other researchers to transform and publish in accordance with a Creative Commons CC-BY 4.0 license. The pre-press versions of articles accepted by journals behind paywalls (outputs 2 and 5) will be made available on the project website. The PI has a strong practice of using clear, direct and simple language and this practice will underpin the project's communication, public engagement and dissemination strategies. 
 
+[^git]: [github.com/skellis46/finger-pointing-moon](https://github.com/skellis46/finger-pointing-moon)
 
-
-I will use a range of local and global dissemination methods. Many of the outputs have community building features built in (e.g. Discourse Forum, exhibitions, Podcast). These communities will play an important 'bottom-up' role in sharing, discussing and creating conversations about the outputs and the project. They will also be vital in finding new audiences as an ongoing aspect of the research and development components. 
-
-The processes, outcomes and outputs of _Finger Pointing Moon_ will be meticulously recorded and documented via the project website to maximise transparency and open accessibility for as wide an audience as possible. This will include pre-press versions of articles accepted by journals behind paywalls (likely to be outputs 2 and 5).
-
-
-
-strategies for communication, dissemination and exploitation: 
-- open access (where possible) -- primarily through project website and blog
-- focus on clear/direct/simple language
-- working closely with project partners to develop and nurture audiences 
-- social media
-- discourse forum is a strategy
-- podcast is also a strategy
-
-
-_Finger Pointing Moon_ is a careful set of collaborations in both the research and development components. The collaborations with the project partners are key to the impact and public engagement activities, and the focus of how niche/particular ideas about epistemology in artistic-scholarly practice matter, and how they are able to be communicated and spread through professional and artistic communities (within and outside of the Academy). 
-
-
-+ Outputs and Dissemination (what you will do with the knowledge) for your audience:
-    * To Beneficiaries – who are they
-    * To End Users – who are they?
-    * What is the plan to exploit outcomes to beneficiaries and end users (short description)
-    * Will there be Public Engagement?
-
-The outputs are a wide-ranging series of inter-disciplinary responses to the project's overarching research aim to examine the epistemic potential and limits of practice-research. The outputs also challenge the PI to strengthen and broaden his communication, impact and public engagement capacity.
-
-The American former CIA employee Edward Snowden wrote this:
-
->Here’s what strikes me when I think back to my childhood, particularly those first nine Internet-less years: I can’t account for everything that happened back then, because I have only my memory to rely on. The data just doesn’t exist. When I was a child, “the unforgettable experience” was not yet a threateningly literal technological description, but a passionate metaphorical prescription of significance: my first words, my first steps, my first lost tooth, my first time riding a bicycle.[-@snowden_permanent_2019]
-
-Snowden's words reference a fundamental idea in human experience: there are things we have data for, and there remain things that are beyond data. _Finger Pointing Moon_ examines the nature of the line between what is able to be known and what is not. It is not an abstract or theoretical line interesting only to epistemologists. Rather, it is a line we are all navigating all the time: fake news, truth, trusted sources, indescribable experiences, filter bubbles, and the radically analogue feelings of the human body. Although _Finger Pointing Moon_ addresses a niche concern -- the epistemic limits of artistic research -- the innovative and diverse outputs proposed in the project also reveal how the breadth and currency of epistemic concerns are vital to the wider public.
-
-## other things to consider
-
-- my skills and experience (competence)
-- value: is the project good value? ? (mention resources, type and quantity/level needed justified in Plan)
-
-
-## References: 
-
+## References
