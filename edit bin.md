@@ -1,5 +1,15 @@
 # edit bin
 
+
+-- these are the ways in which practice-research represents its understandings or findings while keeping them at arm's length
+-- other than just methodology or what to call practice-research -- 
+
+The history of practice-research has been shaped by relativist and constructivist approaches to making epistemic claims. 
+
+That is, what is peculiar to the concept of know-how in artistic practice-research as compared with, for example, engineering or bioethics?
+
+not an abstract or theoretical line interesting only to epistemologists. Rather, it is 
+
 In 1992 the UK Higher Education Funding Councils first recognised the work of artists as research and, given the potential "access to highly lucrative government funding",[@magee_introduction._2012 n.p.] art and artists became invested in the production of knowledge. Since then, the epistemological project in practice-research has comprised various attempts to reverse-engineer art-making through an epistemological lens. That is, once art was recognised as research it became necessary to justify and validate its knowledge-producing bona fides, and to avoid a situation in which "the entire history of art [became] eligible for a postgraduate research degree."[@frayling_research_1993 p.5] Nevertheless, 
 
 [^theory]: Practice-research has a history of referring to theory, not to oppose, confront or build theoretical understandings, but to prop up the academic status of the artistic work.**add citation** 
