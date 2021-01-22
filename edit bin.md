@@ -1,5 +1,21 @@
 # edit bin
 
+Other series (after the fellowship) could potentially be: limits of language; cultural limits (the Overton window); psychological limits; moral limits; imagined limits. 
+
+The research methods are designed to realise the project objectives. The objectives, in turn, respond directly to the three wide-angle research problems -- _limits_, _proxies_ and _hyper-specificity_ -- which underpin the project's aim to address practice-research's fundamental epistemic question: What is known or understood differently as a consequence of practice-research methods? 
+
+This will build on the vast unpublished work of Ken Friedman that he shared with me in 2020
+
+This work has three problems: 1) It has rarely made it clear  2) It 
+
+It also does not explicitly address _change_ as a consequence of research processes -- in any research process the question of what we understand or know differently as a consequence of that process is fundamental.[@ellis_that_2018] 
+
+
+in relation to the key characteristics above is that: they
+
+is not a singular method but rather an approach to working with artistic practices in the academy. The approach 
+
+What aspects of practices are not able to be known, understood or articulated? 
 
 -- these are the ways in which practice-research represents its understandings or findings while keeping them at arm's length
 -- other than just methodology or what to call practice-research -- 
