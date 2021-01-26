@@ -1,5 +1,34 @@
 # edit bin
 
+The images for exhibitions (Outputs 3 and 4) will be collected as print-suitable 300dpi jpgs. This is a common, flexible and future-proof form of image compression. 
+
+The Discourse Forum software is open-source and will be hosted and managed by CovUni (Output 9). It will house user-generated text and web-based media (markdown text files, gifs, jpgs), 
+
+The podcast will be produced and post-produced professionally by Maltstore Communications Ltd/Research Podcasts. It will be hosted off-site by the podcast host Libsyn, but all digital materials will also be stored at CovUni.
+
+and in this case the researchers are developing the research together rather than relying on other participants. 
+
+## other notes from AHRC re data management document
+
+>By submitting the application, you are confirming your institution has considered and will meet the following points listed below. Unless the proposal is inherently digital in its methodology and naturally requires the information in these points to be specified and detailed in order to furnish the application you do not need to go into any further detail explaining these points.
+
+>By submitting you are confirming that:
+• The proposal has been written in line with your institution’s data management policy
+• You have consulted with the institution’s data support (e.g. library services, IT department)
+• The institution is able to store the data appropriately during the lifecycle of the grant, the relevant people have been consulted and this has been considered and agreed
+• The institution has considered all the risks, and storage will be in line with the institution’s data management policy (provide a link to the policy if applicable)
+• The institution will ensure the format/quality of the data (how will you make it as easy as possible to access the data?)
+• You have consulted the relevant people in your organisation and you are aware of any IP considerations
+• You have considered any data protection requirements
+• You have considered the legal considerations of collecting and releasing the data
+and have consulted with appropriate support
+• The data collection, creation, storage and dissemination will conform to the
+institution’s ethical policy
+• We expect the Data Management Plan will be revisited each year during the award and as long as is required following the award to take into account any potential changes in (for instance) technology/IP/institutional data management policy/copyright to ensure legal compliance
+You must confirm these points via a yes/no box on the application form and we do not expect applications to be submitted if they do not comply. If you do not confirm the institution will comply with these points the proposal will be rejected.
+
+: i) experimental documentation practices; ii) audio versions of exhibition materials (for visually impaired audiences); iii) selected visual materials from exhibitions; iv) epistemic lexicon; v) blog. Video content produced for the project will be stored securely, compressed for high-definition quality online storage, streaming, and download through C-DaRE's Vimeo account, and embedded in the project website: i) Zoom recordings of curated talks (micro-conferences), ii) video and still-images created during practice-research fieldwork; and iii) desktop documentary (video essay). 
+
 Other series (after the fellowship) could potentially be: limits of language; cultural limits (the Overton window); psychological limits; moral limits; imagined limits. 
 
 The research methods are designed to realise the project objectives. The objectives, in turn, respond directly to the three wide-angle research problems -- _limits_, _proxies_ and _hyper-specificity_ -- which underpin the project's aim to address practice-research's fundamental epistemic question: What is known or understood differently as a consequence of practice-research methods? 
