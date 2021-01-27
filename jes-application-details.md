@@ -15,12 +15,6 @@ _List the main objectives of the proposed research in order of priority_
 
 The objectives of the proposed project should be listed in order of priority and should be those that the applicant would wish the Council to use as the basis for evaluation of work upon completion of any grant awarded.
 
-This field must be completed using:
-
-- No more than 4000 characters, including spaces, tabs and character returns (2 characters).
-- Only the standard Je-S character set; and
-- No specialist characters and symbols (e.g. mathematical symbols) because these may not transfer successfully to other computer systems. 
-
 
 ### Summary [up to 4000 chars] 
 
