@@ -1,5 +1,25 @@
 # edit bin
 
+- something here about broader significance of understanding practice-research? diversify epistemics. Why should it matter that this research is done.
+
+limits of understanding.
+
+
+
+Edward Snowden wrote that when he was a child, the _unforgettable experience_ was "not yet a threateningly literal technological description, but a [...] prescription of significance."[-@snowden_permanent_2019 n.p.] His words are a reminder that even as we are overwhelmed by data, there remain experiences that are beyond data, and beyond understanding. _Finger Pointing Moon_ examines the line between what is able to be known and what is not. It is a line we all are navigating: truth, fake news, trusted sources, indescribable experiences, filter bubbles, and the radically analogue sensations of the human body. Although _Finger Pointing Moon_ addresses a niche concern -- the epistemic limits of artistic practice-research -- the diverse outputs proposed in the project also reveal how understanding and acknowledging epistemic limits are vital to the wider public.
+
+Practice-research has four key methodological characteristics: i) it is first-person, and involves self-critical reflection, ii) it involves repetition through artistic practice;[@blythe_framework_2016] iii) it has a contested relationship to language and dissemination;[@thomson_practice_2003] and iv) it involves ambiguous or hidden experiences.[@freeman_blood_2010]
+
+and no limits to the vagueness of these claims. 
+
+The conception and design of _Finger Pointing Moon_ is therefore founded on two propositions: i) that practice-research is not adequately tuned to recognising changes resulting from research-focused artistic practices; ii) body-based practices provide a valuable methodological microscope through which to investigate the epistemic complexity of practice-research.
+
+2) How might these understandings be shared and articulated? The second question has been examined in detail through research into documentation and archives.[e.g. @heathfield_shattered_1997; @lycouris_documentation_2000; @reason_documentation_2006] However, the first question has been controversial and under-examined for nearly 30 years. The aim of _Finger Pointing Moon_ is to tackle this first fundamental epistemic question. 
+
+The long-standing problem is that these epistemic claims are built on a house of cards. 
+
+The alternative to not addressing these questions is the status quo in which endless variations of process are circulated and fetishized,[@nelson_practice_2013] representational proxies are assumed to stand in for "epistemic things",[@borgdorff_conflict_2012 p.232] outcomes are rarely explicitly made in dialogue with other overlapping practices, and there are no limits to unfalsifiable claims to understanding and no limits to the vagueness of these claims. In other words, if all practice-research is presentable as truth -- even in the sense that "truth is aspirational"[@ingold_search_2018 n.p.] -- then it is failing as an approach to recognising new understandings. 
+
 The images for exhibitions (Outputs 3 and 4) will be collected as print-suitable 300dpi jpgs. This is a common, flexible and future-proof form of image compression. 
 
 The Discourse Forum software is open-source and will be hosted and managed by CovUni (Output 9). It will house user-generated text and web-based media (markdown text files, gifs, jpgs), 
