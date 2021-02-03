@@ -18,24 +18,42 @@ The objectives of the proposed project should be listed in order of priority and
 
 ### Summary [up to 4000 chars] 
 
+
+The rapid professionalisation of the arts in the Academy over the last 30 years has led to the development and growth of a hybrid research approach called practice-research. This collection of methods is based on the historic making strategies of artists, and seeks to honour the exploratory and ambiguous nature of artistic practice while addressing the scholarly conventions of traditional research. 
+
+_Finger Pointing Moon_ is a research, development and engagement fellowship that will explore how research conducted through artistic practice might broadly contribute to the ways knowledge is produced and valued in the Academy, and how that knowledge is communicated productively to the wider public. 
+
+The research component of the fellowship will address a fundamental and highly contested question in artistic practice-research: What is known or understood differently as a consequence of employing practice-research methods? The Principal Investigator and two other experts will use studio-based fieldwork -- specifically an experimental body-based creative practice called _authentic movement_ -- to develop an empirical approach to practice-research, and combine this with desk-based research to generate theoretical perspectives on the limits and role practice-research is able to play in the broader academic research ecosystem.
+
+The research will benefit artist-scholars at all levels across the arts and humanities by creating a relatively unambiguous examination of the claims that practice-researchers are able to make of their work specifically, and through artistic processes of experimentation more generally. We will engage these people working at the intersection of professional arts and the Academy through a number of processes, but most importantly via an openly accessible online Discourse forum that will run throughout the project timeline and beyond.
+
+The development component of the fellowship focuses on collaborating with project partners in the UK, Italy and Australia to explore diverse ways to engage and converse with non-academic audiences about the significance of grappling with questions of epistemology, and how arts practices might play a key role in these conversations. In other words, the question "How do we know that we know what we know?" is far more than an intellectual or academic problem, but rather has never been more vital in our post-truth world of fake news and filter bubbles, and the datafication of experience versus the radically analogue sensations of the human body.
+
+- who this will benefit 
+- how will engage with them
+
+Although the entire _Finger Pointing Moon_ fellowship addresses what appears to be a niche concern -- the epistemic limits of artistic practice-research -- the diverse outputs proposed in both the research and development components of the project will reveal how experiencing and understanding epistemic limits are a fundamental part of being human.
+
+
+
 >Describe the proposed research in simple terms in a way that could be publicised to a general audience. Note that this summary may be published on the AHRC's website in the event that a grant is awarded. You should also summarise how the research will be beneficial to users who are within and beyond the academic research community, and how you intend on engaging with them. Following the removal of the distinct Pathways to Impact attachment applicants will be expected to show how the research provides impact throughout the application, and especially within the Case for Support.
 
-Note: This Summary will be published on publicly available sites should the project be funded. Please ensure confidential information is not included in this Summary.
+>Note: This Summary will be published on publicly available sites should the project be funded. Please ensure confidential information is not included in this Summary.
 
-The Council has a responsibility to promote the public awareness and understanding of its research areas. The purpose of the Summary is to help publicise the Council's research programme to:
+>The Council has a responsibility to promote the public awareness and understanding of its research areas. The purpose of the Summary is to help publicise the Council's research programme to:
 
-- Opinion-formers and policy makers;
-- The general public; and
-- The wider research community.
+>- Opinion-formers and policy makers;
+>- The general public; and
+>- The wider research community.
 
-The summary should be written in a style that is accessible to a variety of readers, including the general public. 
+>The summary should be written in a style that is accessible to a variety of readers, including the general public. 
 
-The summary may cover, for example:
+>The summary may cover, for example:
 
-- The principal subject of the research;
-- The key aims;
-- Where and how the research would be undertaken;
-- Who else would be involved; and
+>- The principal subject of the research;
+>- The key aims;
+>- Where and how the research would be undertaken;
+>- Who else would be involved
 
 
 ### Ethical implications
