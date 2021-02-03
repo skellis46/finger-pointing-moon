@@ -1,5 +1,9 @@
 # edit bin
 
+
+
+The last 30 years have seen a large number of professional artists  entering the Academy (as students and teachers), as well as the growth of research-focused arts departments. the a rapidly growing meeting point or intersection between professional artists and the Academy. Their intersection 
+
 - something here about broader significance of understanding practice-research? diversify epistemics. Why should it matter that this research is done.
 
 limits of understanding.
