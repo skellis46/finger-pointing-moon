@@ -4,11 +4,11 @@ subject line: finger pointing moon research project: information regarding lette
 
 Dear 
 
-This email is about the research project called _Finger Pointing Moon_ that XX agreed to partner in an email exchange last year (dated: ). I'm getting towards the end of the proposal preparation and so it's time to start working on a project partner letter of support. 
+This email is about the research project called _Finger Pointing Moon_ that XX agreed to partner in an email exchange last year (dated XX with subject line XX). We discussed presenting an exhibition called XX. 
 
-I've attached a two page PDF to help this preparation. The first page is a general summary of the "Research, Development and Engagement" fellowship I am proposing. The second page is a summary of the funder's expectations of a letter of support written by a project partner. 
+I've attached a two page PDF to help prepare a project partner letter of support. The first page is a general summary of the "Research, Development and Engagement" fellowship I am proposing. The second page is a summary of the funder's expectations of a letter of support written by a project partner. 
 
-Could you take a close look at the PDF and then get back to me with any questions you might have about preparing a letter of support (or even an initial draft)?
+Could you take a close look at the PDF and then get back to me with any questions you might have about the project and/or a letter of support (or even an initial draft)?
 
 Would three weeks be enough time to do this -- say by xxx?
 
