@@ -1,6 +1,6 @@
 # justification of resources
 
-This statement should be used to justify the resources required to undertake the research project. You should:
+>This statement should be used to justify the resources required to undertake the research project. You should:
 • explain why the indicated resources are needed, taking account of the nature and complexity of the research proposed. Note that it is not sufficient merely to list what is required
 • have regard for the breakdown of resources into the summary fund headings Directly Incurred, Directly Allocated and (where appropriate) Exceptions
 • where costs incurred by international co-investigators are sought, a breakdown of these costs should be fully justified under a subheading of ‘International Co- Investigator Exceptions’
@@ -10,3 +10,9 @@ This statement should be used to justify the resources required to undertake the
 • include a clear and detailed justification for both why items expected to be found in a department (if sought) are required for the project and why they cannot be provided from the RO’s own resources (including funding from Indirect costs).
 In drafting the Justification of Resources, you should ensure you identify which headings in the Summary of Resources the costs relate to, in order to make cross-referencing more transparent.
 The attachment should be up to 2 sides of A4. Naming convention: [PI Surname]_JoR
+
+
+
+### Justification of costs
+
+_Finger Pointing Moon_ is planned to maximise public engagement, accessibility and the PI's research and developmental goals in a cost effective and environmentally sensitive manner. This has involved minimising travel costs (particularly international travel -- there are no flights in the project), and planning outputs such as the exhibitions that are easily transported and installed by local partners. Where possible, the project has also been planned to involve online meetings and openly accessible conversations (e.g. micro-conferences).

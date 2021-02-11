@@ -1,6 +1,52 @@
 # edit bin
 
+AM is a primary or contemplative experience of reality, an unmediated encounter with the "really real".[Merton, in @kerr_borgmann_2016 p.65]. 
 
+Pakes has written that it is easy to make the claim for a "distinctive kind of knowledge" emerging from practice-research, but far more difficult to specify the make up of such knowledge.[-@pakes_art_2004 n.p.] 
+
+I will seek out where legitimate disagreements lie in fields and studios of artistic practice in order to draw solitary researchers and the "radical individuality"[@schwab_experiment_2015 p.120] of their performance-oriented outcomes into "cumulative"[@biggs_communities_2011 p.86] communities of practice. 
+
+What is shared between the positions is an overarching relativist constructivist framework. Such a framework gives license to the artist-scholar (and/or the audience) to say anything about the work they present and represent.[@biggs_communities_2011] 
+
+; a term underpinned by Rheinberger's theory of experimental systems.[@schwab_experimental_2019] 
+
+Practice-research produces "fuzzy" epistemic possibilities.[@borgdorff_conflict_2012 p.181] 
+
+This includes graduate and postgraduate students who are grappling with how and why their work is important and to whom. 
+
+in order to become "cumulative", and a "part of a network"?[Hirsch 1984, in @biggs_communities_2011 p.85] 
+
+also directly address experiences and practices that artist-researchers can agree and disagree on -- that some aspects of creative practices must be open to debate. Where might 
+
+propose to develop an empirical approach using experimental body-based practice as the foundation on which to build epistemic claims. That is, 
+
+predicated on the movements of bodies, and where those same bodies underpin the development of new understandings. What is unique for body-based practices is that: 
+
+The challenge will be to balance the limitations of understanding through direct experience,[@langer_mind_1967] standpoint epistemology,[@wylie_standpoint_2015] and the possibilities of apprehending change through empirical (observable) iterative artistic practice. 
+
+[^2examples] 
+
+[^2examples]: Here are two examples from the Journal of Artistic Research (2020 Vol 20, emphasis added): "_hopefully_ as you continue to read and listen, _it will become gradually clearer_" -- Miller; "with this text I’m really _not trying to make any grand statements_. It is a _collection_ of words and decisions that function more as a _demonstration_" -- Norman.
+
+
+, and there are no limits to unfalsifiable claims to understanding and no limits to the vagueness of these claims
+
+The RQs will enable practice-research to _de-fuzzify_ these possibilities by adopting a more evidence-based (empirical) relationship with practice-research's epistemic limitations and failings. 
+
+In other words, if all practice-research is presentable as truth -- even in the sense that "truth is aspirational"[@ingold_search_2018 n.p.] -- then it is currently failing as an approach to recognising new understandings.
+
+By addressing this problem, the research will help artist-scholars to understand the margins or limits of their claims to new knowledge, and provide systems to benefit how they experience, share and discuss these limits. 
+
+More broadly, practice-research represents a tantalising method for grappling with the idea that some experiences "may be within the limits of our thought but beyond the limits of our knowledge".[@markie_rationalism_2017 n.p.] 
+
+
+how professional artistic practice meets scholarly academic research, and therefore 
+
+_Finger Pointing Moon_ examines this line between what is able to be known and what is not. It is a line we all are navigating: truth, fake news, trusted sources, indescribable experiences, filter bubbles, and the radically analogue sensations of the human body. Although _Finger Pointing Moon_ addresses a niche concern -- the epistemic limits of artistic practice-research -- the diverse outputs proposed in the project also reveal how experiencing and understanding epistemic limits are a fundamental part of being human.
+
+**practice-research represents a tantalising method for grappling with the idea that some experiences "may be within the limits of our thought but beyond the limits of our knowledge".[@markie_rationalism_2017 n.p.]** 
+
+_Finger Pointing Moon_'s research questions are based on three epistemic axioms: i) _limits_; artist-scholars do not habitually address the limits of what can and cannot be known through practice-research; ii) _proxies_; genuine research findings are kept at arm's length by concepts, practices or conventions. For example, documentation in practice-research often acts as a proxy for empirical evidence;[Kershaw, in @nelson_practice_2013 p.6] and iii) _hyper-specificity_; practice-research methods and findings are presented in isolation and rarely form part of cross-scholarly dialogues in the artistic-scholarly community.[@biggs_communities_2011]
 
 The last 30 years have seen a large number of professional artists  entering the Academy (as students and teachers), as well as the growth of research-focused arts departments. the a rapidly growing meeting point or intersection between professional artists and the Academy. Their intersection 
 

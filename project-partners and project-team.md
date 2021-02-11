@@ -41,6 +41,11 @@ no or I decided not to:
 
 Efrosini Protopapa, Lee Miller, Sarah Whatley, Ken Friedman, Michael Biggs, Charlotte Waelde, Carol Brown, Robin Nelson, Adrian Heathfield, Maria Delgado, Chris Smith (UKRI), someone from Universities UK?, someone from PRAG?.
 
+EP
+MD
+CW
+RN
+
 ## project team
 
 - RA
