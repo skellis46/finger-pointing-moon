@@ -98,12 +98,6 @@ In _Finger Pointing Moon_ the artistic practice will be a research outcome (Outp
 
 The experimental practice-research fieldwork will be supplemented by traditional _desk-based_ scholarly methods: systematic review and meta-analysis of the literature and practices, critical analysis and scholarly writing. These methods will make it possible to extrapolate the field-based data (the focus of RQ1) to cross-disciplinary outputs and outcomes that explore the epistemic failures and possibilities of practice-research (RQ2 and RQ3). That is, the traditional scholarly methods will contextualise and broaden the value of the artistic fieldwork.
 
-### People and roles
-
->What will be your role? If there are other people involved, what will their roles be and why are they the appropriate people to be involved? 
-
-PI Ellis will oversee the research methods, supervise and participate in the practice fieldwork and be responsible for overall management of research outcomes and outputs. He will be supported by the RA who will undertake the desk-based fieldwork and analysis, and contribute to the scholarly writing. The practice fieldwork requires expert input from two people: Joanne 'Bob' Whalley and XX. Whalley is an experienced artist-scholar working at the forefront of experimental documentation and writing practices. She will work with Ellis in the practice fieldwork as an expert practitioner and novice AM practitioner -- an ideal insider-outsider perspective. XX has expertise in ... and their role will be third-person observation, documentation and analysis of the practice fieldwork. Both experts will also contribute to Outputs 1 and 2. 
-
 ### Copyright or intellectual property issues
 
 >Under the Research Methods heading you should also outline how any copyright or intellectual property issues relating to the project and the production of any outputs will be addressed.
@@ -151,39 +145,33 @@ In terms of supporting the research staff funded on the project, you should clea
 
 >The AHRC is one of the signatories of the RCUK Concordat to Support the Career Development of Researchers. More information about the Concordat and what it entails can be found here: [ukri.org/files/legacy/skills/review-tor-concordat/](https://www.ukri.org/files/legacy/skills/review-tor-concordat/)
 
+### Timetable and milestones
+
+Please see the workplan attachment for a complete breakdown of research and development activities undertaken in each month of the project. The following is an overview of the timetable and milestones for the research **(RES)** and development **(DEV)** components.
+
+- _Months 1-2:_ Advisory Group meeting (1 of 4), map and begin desktop research, ethics clearance, PI/RA fortnightly meetings begin, **Output 11 website (RES/DEV)** created and live, fortnightly blogging begins
+- _Months 3-4:_ ongoing desktop research, commence collecting and collating of materials for exhibitions, **Output 9 Discourse forum (DEV)** built and opened, planning meetings with collaborating project partners 
+- _Months 5-6:_ practice fieldwork 1 of 2, **Output 5 article epistemic proxies(RES)**
+- _Months 7-8:_ practice fieldwork 2 of 2, AG meeting (2 of 4)
+- _Months 9-10:_ **Output 1 experimental documentation (RES)** from fieldwork, **Output 2 article epistemic limits (RES)**, desktop research complete, podcast planning and guest invitations
+- Months 11-12: **Output 6 epistemic lexicon (RES)**, exhibition materials curated
+- _Months 13-14:_ AG meeting (3 of 4), **Output 8: podcast series 1 (DEV)** 
+- _Months 15-16:_ **Output 10: online curated talks (RES)**, **Output 7: desktop documentary (RES)**, **Output 3: _Unforgettable_ exhibition (DEV)** (two sites)
+- Months 17-18: **Output 4: _The Un/knowable Body_ exhibition (DEV)** (two sites), AG meeting (4 of 4), project evaluation and report, **Output 8: podcast series 2 (DEV)**.
+
+### People and roles
+
 The project will be managed by Ellis (PI, 0.5FTE for months 1-12, 0.8FTE for months 13-18) working with a Research Associate (0.6FTE, 18 months). The PI has experience of managing academic and artistic teams and large research projects, and collaborating with industry partners. The PI will also manage the collaborative work with the project partners (detailed in the Development Plan) to ensure open dialogues are sustained, and that the outputs are curated to meet the needs of the partners' audiences, and the capability development goals of the PI. There will be expert input from two scholars (Whalley and XX) during the fieldwork (months 5-8). They will be responsible for observation and analysis during the studio sessions with the PI, and input on Outputs 1 and 2.
+
+**incorporate this paragraph into the whole secttion.** PI Ellis will oversee the research methods, supervise and participate in the practice fieldwork and be responsible for overall management of research outcomes and outputs. He will be supported by the RA who will undertake the desk-based fieldwork and analysis, and contribute to the scholarly writing. The practice fieldwork requires expert input from two people: Joanne 'Bob' Whalley and XX. Whalley is an experienced artist-scholar working at the forefront of experimental documentation and writing practices. She will work with Ellis in the practice fieldwork as an expert practitioner and novice AM practitioner -- an ideal insider-outsider perspective. XX has expertise in ... and their role will be third-person observation, documentation and analysis of the practice fieldwork. Both experts will also contribute to Outputs 1 and 2. 
 
 The Research Associate will support the project through underlying bibliographic research, writing drafts of scholarly outputs, event and output organisation, data and website management and a small volume of administration. The RA will be supervised and line managed by the PI. They will have daily comms together via a Microsoft Teams channel, and fortnightly stand-up meetings to review progress, and to make milestone or delivery adjustments. The PI will balance the RA's ongoing professional development, curiosity, skills and understanding, with careful and open communication regarding the project's milestones and outputs. The goal will be to help the RA to develop the skills, experience and confidence to pursue their own research agenda after the completion of the project. The RA will have a practice-research PhD, and will be experienced in bibliographic research, writing and editing; they will be an excellent verbal and written communicator and have advanced digital literacy. 
 
 The project will have a four-person Advisory Group that will meet remotely with the PI at six-month intervals to provide high-level guidance: XX add 4 names. CovUni will allocate additional administrative support to the PI for purchasing, finances, project management and technical support when required.
 
-### Timetable and milestones
-
-- _Months 1-2:_ Advisory Group meeting (1 of 4), map and begin desktop research, ethics clearance, PI/RA fortnightly meetings begin, **Output 11 website** created and live, fortnightly blogging begins
-- _Months 3-4:_ ongoing desktop research, commence collecting and collating of materials for exhibitions, **Output 9 Discourse forum** built and opened, planning meetings with collaborating project partners 
-- _Months 5-6:_ practice fieldwork 1 of 2, **Output 5 article epistemic proxies**
-- _Months 7-8:_ practice fieldwork 2 of 2, AG meeting (2 of 4)
-- _Months 9-10:_ **Output 1 experimental documentation** from fieldwork, **Output 2 article epistemic limits**, podcast planning and guest invitations
-- Months 11-12: desktop research complete, **Output 6 epistemic lexicon**, exhibition materials curated
-- _Months 13-14:_ AG meeting (3 of 4), **Output 8: podcast series 1** 
-- _Months 15-16:_ **Output 10: online curated talks**, **Output 7: desktop documentary**, **Output 3: _Unforgettable_ exhibition** (two sites)
-- Months 17-18: **Output 4: _The Un/knowable Body_ exhibition** (two sites), AG meeting (4 of 4), project report, **Output 8: podcast series 2**.
-
-
-| Month                  | 1-2 | 3-4 | 5-6 | 7-8 | 9-10 | 11-12 | 13-14 | 15-16 | 17-18 |
-| ---------------------- | :-: | :-: | :-: | :-: | :--: | :---: | :---: | :---: | :---: |
-| Advisor Group meetings |  x  |     |     |  x  |      |       |   x   |       |   x   |
-| Practice fieldwork     |     |     |  x  |  x  |      |       |       |       |       |
-| Desktop research       |  x  |  x  |  x  |  x  |  x   |   x   |       |       |       |
-| Website/blog           |  x  |  x  |  x  |  x  |  x   |   x   |   x   |   x   |   x   |
-| Research publications  |     |     |  x  |     |  x   |   x   |       |   x   |       |
-| Development activities |     |  x  |     |     |      |       |   x   |   x   |   x   |
-| Project report         |     |     |     |     |      |       |       |       |   x   |
-
-
 ### Digital and data management
 
-We will seek the consent of project partners and contributors to make the project’s outputs available with a CC-BY licence. _Finger Pointing Moon_ will produce multiple Open Access digital outputs online, and all are low risk in relation to the complexity and delivery of the project. The following will be stored on the project website (a WordPress site hosted by CovUni): i) experimental documentation practices; ii) audio versions of exhibition materials (for visually impaired audiences); iii) selected visual materials from exhibitions; iv) epistemic lexicon; v) blog. Video content produced for the project will be stored securely, compressed for high-definition quality online storage, streaming, and download through C-DaRE's Vimeo account, and embedded in the project website: i) zoom recordings of curated talks (micro-conferences), ii) video and still-images created during practice-research fieldwork; and iii) desktop documentary (video essay). The Discourse Forum software is open-source and will be hosted and managed by CovUni. The podcast will be hosted off-site at Libsyn, but individual episodes will be embedded in the project website and available freely through Apple Podcasts and Spotify. See Data Management Plan (Ellis_DMP.docx) for further details.
+We will seek the consent of project partners and contributors to make the project’s outputs available with a CC-BY licence. _Finger Pointing Moon_ will produce multiple Open Access digital outputs online, and all are low risk in relation to the complexity and delivery of the project. The following will be stored on the project website (a WordPress site hosted by CovUni): i) experimental documentation practices; ii) audio versions of exhibition materials (for visually impaired audiences); iii) selected visual materials from exhibitions; iv) epistemic lexicon; v) blog. Video content produced for the project will be stored securely, compressed for high-definition quality online storage, streaming, and download through C-DaRE's Vimeo account, and embedded in the project website: i) zoom recordings of curated talks (micro-conferences), ii) video and still-images created during practice-research fieldwork; and iii) desktop documentary (video essay). The Discourse Forum software is open-source and will be hosted and managed by CovUni. The podcast will be hosted off-site at Libsyn, but individual episodes will be embedded in the project website and available freely through Apple Podcasts and Spotify. See Data Management Plan attachment (Ellis_DMP.docx) for further details.
 
 ## Outputs, Dissemination and Impact
 
@@ -209,6 +197,8 @@ _assessment criteria (from assessment-criteria.md):_
 
 ### Outputs
 
+Refers to both research and development (capacity)
+
 _Finger Pointing Moon_ is driven by research (RES) _and_ developmental (DEV) concerns. The eleven outputs are a wide-range of inter-disciplinary responses to the project's aim to examine the epistemic potential and limits of practice-research. The outputs also challenge the PI to strengthen and broaden his communication, impact and public engagement capacity.
 
 1. Experimental documentation practices, developed through practice-research fieldwork (RES)
@@ -222,6 +212,12 @@ _Finger Pointing Moon_ is driven by research (RES) _and_ developmental (DEV) con
 9. Discourse Forum (see Development Plan) (DEV)
 10. Three curated talks online (micro-conferences) (RES)
 11. Website (including blog) (RES/DEV)
+
+### Identification of end-users and beneficiaries
+
+say who they are first and also strategies for identifying others during the project (make time for this in Workplan)
+
+In _Finger Pointing Moon_ the end-users are the beneficiaries. They will be identified through various systems: collaboration with project partners, word of mouth, comms strategies built into the outputs themselves (e.g. _Unforgettable_, and Discourse Forum), the project team's personal and cross-disciplinary professional networks, in-place social networks (including regular social media and currently existing list-servs) and blogging. 
 
 ### Beneficiaries and impacts
 
@@ -240,11 +236,6 @@ The following table outlines possible beneficiaries and impacts for each output.
 | 9      | artist-researchers (cross-disciplines), academics, artists transitioning into academy                                                                                                                             | building culture of community-based ideas and comms; large-scale resource of 'holding space' for practice-research technologies, histories, practices and conversations  |
 | 10     | PhD and early-career artist-researchers (in academy) and artists considering entering the academy; academics across disciplines exploring online engagement strategies                                            | develop understanding of issues in practice-research; expand possibilities for online conferences suitable to particular demands of video-call technologies             |
 | 11     | all beneficiaries above (key open access resource for entire project)                                                                                                                                             | as above                                                                                                                                                                 |
-
-### Identification of end-users and beneficiaries
-
-In _Finger Pointing Moon_ the end-users are the beneficiaries. They will be identified through various systems: collaboration with project partners, word of mouth, comms strategies built into the outputs themselves (e.g. _Unforgettable_, and Discourse Forum), the project team's personal and cross-disciplinary professional networks, in-place social networks (including regular social media and currently existing list-servs) and blogging. 
-
 ### Dissemination, public engagement and exploitation
 
 Many of the outputs have community building and public engagement features built in (e.g. Discourse Forum, exhibitions, Podcast and curated micro-conferences). These communities will be brought together through online spaces and by working closely with project partners to develop a 'bottom-up' method to share, discuss and create conversations about the outputs and the project. The partners will also be vital in finding and engaging new audiences as an ongoing aspect of the research and development components. The project's public profile will be supported by C-DaRE and CovUni communication and marketing, and social media and communication systems belonging to the project partners.  

@@ -18,8 +18,6 @@ _List the main objectives of the proposed research in order of priority_
 1. Develop and publish a series of 11 research and development outputs
 2. 
 
-### Research objectives
-
 The aim of _Finger Pointing Moon_ is to address practice-research's fundamental epistemic question: _What can we know or understand differently as a consequence of practice-research?_ The three research questions have corresponding objectives: 
 
 _RQ1 Limits: What are the epistemic limits of artistic practice-research? What aspects of practices are not able to be known, understood or articulated?_
@@ -44,7 +42,7 @@ _RQ3 Hyper-specificity: What language is used to express approaches, findings an
 
 The professionalisation of the arts in the Academy over the last 30 years has led to the development and growth of a hybrid research approach called practice-research. This collection of methods is based on the traditional art-making strategies of artists, and attempts to honour the exploratory and ambiguous nature of these practices while addressing the scholarly conventions of traditional research. 
 
-_Finger Pointing Moon_ is a research, development and engagement fellowship that explores how research conducted through artistic practice might broadly contribute to the ways knowledge is produced and valued in the Academy, and how that understanding is communicated productively to the wider public. 
+_Finger Pointing Moon_ is a research, development and engagement fellowship that explores how research conducted through artistic practice might contribute to the ways knowledge is produced and valued in the Academy broadly, and how that understanding is communicated productively to the wider public. 
 
 The fellowship has a research component and a development component. The research component aims to address a fundamental and contested question in artistic practice-research: What is known or understood differently as a consequence of employing practice-research methods? The Principal Investigator and two other experts will use studio-based fieldwork -- specifically an experimental body-based movement practice called _authentic movement_ -- to develop an empirical approach to practice-research, and build on this with desk-based research to generate theoretical perspectives on the limits and role practice-research is able to play in the broader academic research ecosystem.
 

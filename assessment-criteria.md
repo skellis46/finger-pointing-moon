@@ -1,6 +1,6 @@
 # Quality and importance
 
-• the extent to which the proposal meets the specific aims of the scheme to which you are applying
+
 • the significance and importance of the project, and of the contribution it will make, if successful, to enhancing or developing creativity, insights, knowledge or understanding of the area to be studied in a national or international context
 • the extent to which the research questions, issues or problems that will be addressed in the course of the research are defined and their importance and appropriateness specified
 • The appropriateness of the research context and specification of why it is important that these particular questions, issues or problems are addressed. The extent to which other current research conducted in this area has been considered, and the range of audiences that might be targeted
