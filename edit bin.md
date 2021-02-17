@@ -1,5 +1,30 @@
 # edit bin
 
+The following is an overview of the timetable and milestones for the research **(RES)** and development **(DEV)** components.
+
+- _Months 1-2:_ Advisory Group meeting (1 of 4), map and begin desktop research, ethics clearance, PI/RA fortnightly meetings begin, **Output 11 website (RES/DEV)** created and live, fortnightly blogging begins
+- _Months 3-4:_ ongoing desktop research, commence collecting and collating of materials for exhibitions, **Output 9 Discourse forum (DEV)** built and opened, planning meetings with collaborating project partners 
+- _Months 5-6:_ practice fieldwork 1 of 2, **Output 5 article epistemic proxies(RES)**
+- _Months 7-8:_ practice fieldwork 2 of 2, AG meeting (2 of 4)
+- _Months 9-10:_ **Output 1 experimental documentation (RES)** from fieldwork, **Output 2 article epistemic limits (RES)**, desktop research complete, podcast planning and guest invitations
+- Months 11-12: **Output 6 epistemic lexicon (RES)**, exhibition materials curated
+- _Months 13-14:_ AG meeting (3 of 4), **Output 8: podcast series 1 (DEV)** 
+- _Months 15-16:_ **Output 10: online curated talks (RES)**, **Output 7: desktop documentary (RES)**, **Output 3: _Unforgettable_ exhibition (DEV)** (two sites)
+- Months 17-18: **Output 4: _The Un/knowable Body_ exhibition (DEV)** (two sites), AG meeting (4 of 4), project evaluation and report, **Output 8: podcast series 2 (DEV)**.
+
+Discourse forums are easily divided into different conversations, examples might be: artistic research history; epistemology; documentation; key texts; ongoing practices; FAQs; etc. 
+
+to adapt my previous focus on personal creative practice in order to create a series of broadly accessible opportunities for research distribution, academic discourse and public engagement. The plan will 
+
+develop a series of outward-facing activities that will test and improve my communication and advocacy skills beyond and within the academy.
+
+
+In order for practice-research to be widely acknowledged and accepted beyond arts-based disciplinary fields, it is "necessary to consider and adhere to the demands of the larger academic community".[@biggs_eight_2008 p.15] The research component of _Finger Pointing Moon_ will develop a new line of epistemic inquiry in practice-research by using empiricism to test the limitations of findings and claims in practice-research. 
+
+I will compile the large range of ideas, opinions and histories that have contributed to an epistemology of practice-research. 
+
+Therefore, previous theoretical research indicates there are three agents required to describe an epistemology of practice-research: the artefact, the artist and the audience. The extent to which an artist-scholar foregrounds the role of each determines their position in understanding the epistemic boundaries of practice-research. 
+
 AM is a primary or contemplative experience of reality, an unmediated encounter with the "really real".[Merton, in @kerr_borgmann_2016 p.65]. 
 
 Pakes has written that it is easy to make the claim for a "distinctive kind of knowledge" emerging from practice-research, but far more difficult to specify the make up of such knowledge.[-@pakes_art_2004 n.p.] 
