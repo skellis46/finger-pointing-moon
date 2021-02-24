@@ -7,7 +7,7 @@ current situation: the experience of watching and doing dance is slippery; the l
     - what causes the problem?
     - who is affected by the problem? (the clients)
     - who cares about whether or not the problem is solved (stakeholders)
-    - what does existing resaerch and experience tell us about how to solve the problem?
+    - what does existing research and experience tell us about how to solve the problem?
 aims: to gather and present these stories; to build community; to inspire
 inputs (The resources invested/available to deliver the program):  
 activities (The key activities/actions carried out, using the inputs):
