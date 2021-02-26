@@ -88,6 +88,10 @@ The practice will be documented from within via photography, videography, writte
 
 In _Finger Pointing Moon_ the artistic practice will be a research outcome (Output 1: Experimental documentation practices) and also applied as an "object of the research"[@borgdorff_conflict_2012 p.146] to underpin the other research methods, outputs and outcomes.  
 
+add something here about concept of visibility/invisibility as a means to slow down and re-orient the method. See zettel concept as method. But perhaps also linked with fuzzy concepts (see same zettel)
+
+see also thinking about lack of conceptual stability in practice-research (same zettel as above). Wondering if this is a bug or a feature. What might happen in an attempt to bring conceptual stability to the methods? Is this possible? What might we agree on? 
+
 #### Traditional scholarship
 
 The experimental practice-research fieldwork will be supplemented by traditional _desk-based_ scholarly methods: systematic review and meta-analysis of the literature and practices, critical analysis and scholarly writing. These methods will make it possible to extrapolate the field-based data (the focus of RQ1) to cross-disciplinary outputs and outcomes that explore the epistemic failures and possibilities of practice-research (RQ2 and RQ3). That is, the traditional scholarly methods will contextualise and broaden the value of the artistic fieldwork.
