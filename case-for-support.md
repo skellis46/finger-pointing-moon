@@ -117,9 +117,11 @@ The IP for project outputs will belong to PI Ellis at CovUni. The IP for Outputs
 
 >How are these all researcher-development activities?
 
-I have been an artist for 30 years, and an artist in the academy for 20 years. In this time, I have pursued and developed individual research practices that have led to small-scale outcomes. I have also tended to resist expansive or wider public dissemination strategies (with the exception of blogging). The project's development plan builds on the research component of this proposal. The plan will enhance my role within practice-research, and significantly develop the influence and importance of my research to artist-scholars by helping me acquire four new capabilities: 1) communicate and contextualise niche and complex ideas about fundamental epistemics of practice-research beyond the practice-research field and also to the wider public; 2) demonstrate leadership in methodological advances in practice-research; 3) develop and support a broad cross-disciplinary community of active artist-scholars; and 4) to create a range of collaborative opportunities with academic and non-academic stake-holders within and outside of dance and the performing arts. 
+I have been an artist for 30 years, and an artist in the academy for 20 years. In this time, I have pursued and developed individual research practices that have led to small-scale outcomes. I have also tended to resist expansive or wider public dissemination and engagement strategies (with the exception of blogging). The project's development plan builds on the research component of this proposal. The plan will enhance my role within practice-research, and significantly develop the influence and importance of my research to artist-scholars (and communities of interest) by helping me acquire four new capabilities: 1) communicate and contextualise niche and complex ideas about fundamental epistemics of practice-research beyond the practice-research field and also to the wider public; 2) demonstrate leadership in methodological advances in practice-research; 3) develop and support a broad cross-disciplinary community of active artist-scholars; and 4) to create a range of collaborative opportunities with academic and non-academic stake-holders within and outside of dance and the performing arts. 
 
 These four capabilities will be developed through four bold activities and outputs:
+
+- clarify how these are outputs, collaborative research, dissemination, public engagement and impact. Two are built on practices of collection and curation. Include how these practices will be underpinned/informed by the research (how will they?)
 
 _1. Unforgettable_ (Output 3) will be an exhibition of visual and text materials based on a practice of gathering and sharing the public's experiences of dance and movement. Artists, scholars and audiences from around the world will be canvassed to send a written note or letter that describes a single unforgettable moment or experience of dancing. These documents will be collated and organised into an exhibition to be presented by project partners in England and Scotland. _Unforgettable_ builds on the research's epistemic narrative by exploring the role of memory and languages of experience and expression in understanding how we come to know what we know. The process and exhibition is designed to: i) inspire creativity in how other researchers understand and represent the scope of their largely theoretical undertakings; ii) seek wider impact by ambitiously engaging a broad cross-section of participants; iii) develop new and formal research-informed partnerships and collaborations with non-academic organisations in the UK, and informal collaborations with people who submit materials from around the world.
 
@@ -127,11 +129,14 @@ _2. The Un/knowable Body_ (Output 4) will involve collecting a large quantity of
 
 _3. Artistic Research forum_ (Output 9) will create and support a broad cross-disciplinary community of scholars and artists working in and around practice-research. It will be an online Discourse Forum[^disc] that will modernise old-style email-based list-servs like PARIP and SCUDD, and act as a large-scale _conversation_ on historical, current and future thinking, practices and understandings of practice-research. The forum will be sustained by the discourse community itself with moderation from a large group of experienced and emerging artist-scholars volunteering from around the world; it will, in effect, be a collaboration across the entire practice-research community. This is an ambitious activity that will: i) enable the PI to provide intellectual leadership through an openly accessible network of artist-scholars; ii) inspire creativity and development in other researchers both through materials posted to the forum and through its open and collaborative form; iii) help shape research agendas in which the forum acts like a town-square environment where vital conversations are easily heard and contributed to; and iv) encourage new research collaborations and partnerships as contributors engage with the materials and ideas presented in the forum.
 
+- generate micro-conferences from forum
+- benefits: learning, inspiration, new ideas, better research
+
 **add that this space will be open to people outside of the academy -- particularly people curious about practice-research if they are thinking of doing a PhD, or how it might be useful to their creative practices**
 
 [^disc]: [www.discourse.org](https://www.discourse.org/)
 
-_4. The Point Beyond_ (Output 8) will be a podcast that explores the limits of what it is to be human. It will initially be limited to two series of eight episodes, and each episode will be a conversation with an expert that explores the point beyond which our understanding and experience falters. The two series will be i) _limits of knowledge_ (e.g. experimental failures; perception and perceptual error; contemplation, cognitive biases, meditation and enlightenment; truth and belief; conspiracy; machine learning and AI); ii) _limits of language_ (e.g. when words fail us; swearing and cussing; language versus direct experience; silence and contemplation; mutism; computer languages and coding). _The Point Beyond_ is a direct attempt to take the research heart of _Finger Pointing Moon_ -- the limits and possibilities of human understanding -- and extrapolate that work into other areas. It will: i) inspire creativity and development in other researchers by building broad cross-disciplinary and wider-public interest in ideas that matter to how we understand being human; ii) directly foster inter- and cross-disciplinary research involving artistic research by building lively and focused conversations with other experts; iii) challenge the PI's ability to communicate complex ideas to a broad audience; iv) focus on clearly and directly on public engagement: why do these niche and largely theoretical ideas matter and to whom? 
+_4. The Point Beyond_ (Output 8) will be a podcast that explores the limits of what it is to be human. It will initially be limited to two series of eight episodes, and each episode will be a conversation with an expert that explores the point beyond which our understanding and experience falters. The two series will be i) _limits of knowledge_ (e.g. experimental failures; perception and perceptual error; contemplation, cognitive biases, meditation and enlightenment; truth and belief; conspiracy; machine learning and AI); ii) _limits of language_ (e.g. when words fail us; swearing and cussing; language versus direct experience; silence and contemplation; mutism; computer languages and coding). _The Point Beyond_ is a direct attempt to take the research heart of _Finger Pointing Moon_ -- the limits and possibilities of human understanding -- and extrapolate that work into other areas. It will: i) inspire creativity and development in other researchers by building broad cross-disciplinary and wider-public interest in ideas that matter to how we understand being human; ii) directly foster inter- and cross-disciplinary research involving artistic research by building lively and focused conversations with other experts; iii) challenge the PI's ability to communicate complex ideas to a broad audience; iv) focus on clear and direct on public engagement: why do these niche and largely theoretical ideas matter and to whom? 
 
 ## Project management 
 
@@ -147,7 +152,10 @@ The project will be managed by Ellis (PI, 0.5FTE for months 1-12, 0.8FTE for mon
 
 The Research Associate will support the project through bibliographic research, drafting scholarly outputs, event and output organisation, data and website management and a small volume of administration. The RA will be line managed by the PI. They will have daily comms together via a Teams channel, and fortnightly stand-up meetings to review progress, and to make milestone or delivery adjustments. The PI will balance the RA's ongoing professional development, curiosity, skills and understanding, with open communication regarding the project's milestones and outputs. The goal will be to help the RA to develop the skills, experience and confidence to pursue their own research agenda after the completion of the project. The RA will have a practice-research PhD, and will be experienced in bibliographic research, writing and editing; they will be an excellent verbal and written communicator and have advanced digital literacy. 
 
-The project will have a four-person Advisory Group that will meet remotely with the PI at six-month intervals to provide high-level guidance: XX add 4 names. CovUni will allocate additional administrative support to the PI for purchasing, finances, project management and technical support when required.
+The project will have a four-person Advisory Group that will meet remotely with the PI at six-month intervals to provide high-level guidance: EP, MD, CW and RN. CovUni will allocate additional administrative support to the PI for purchasing, finances, project management and technical support when required.
+
+Efrosini Protopapa, Lee Miller, Sarah Whatley, Ken Friedman, Michael Biggs, Charlotte Waelde, Carol Brown, Robin Nelson, Adrian Heathfield, Maria Delgado.
+
 
 ### Timetable and milestones
 
@@ -177,7 +185,21 @@ _assessment criteria (from assessment-criteria.md):_
 >- whether the plans to increase impact are appropriate and justified, given the nature of the proposed research
 >- whether sufficient attention has been given to who the beneficiaries of the research might be and appropriate ways to engage with them throughout the project.
 
->You should address two main questions: who might benefit from the research and how might they benefit? How will they be identified (including during the research)?
+
+Who might benefit from the research and how might they benefit? (how identified?)
+
+- beneficiaries will be artists and audiences (wider public) of partners
+- identified through close collaboration with project partners 
+
+The End Users (The person who ends up experiencing your product or service): academic: artist-scholars; non-academic: artists, arts audiences, wider public.
+
+The Beneficiary: The person whose life improves because of your product or service.
+
+In "unforgettable" what would I call the contributing people? The Donors? The participants? The contributors? 
+
+please provide examples of how the proposed research will be managed to engage any users and beneficiaries that have been identified, or to identify potential users and beneficiaries as the research progresses, and to increase the likelihood of achieving impacts.
+
+Development plan -- 
 
 ### Outputs
 
