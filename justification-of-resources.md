@@ -16,3 +16,7 @@ The attachment should be up to 2 sides of A4. Naming convention: [PI Surname]_Jo
 ### Justification of costs
 
 _Finger Pointing Moon_ is planned to maximise public engagement, accessibility and the PI's research and developmental goals in a cost effective and environmentally sensitive manner. This has involved minimising travel costs (particularly international travel -- there are no flights in the project), and planning outputs such as the exhibitions that are easily transported and installed by local partners. Where possible, the project has also been planned to involve online meetings and openly accessible conversations (e.g. micro-conferences).
+
+
+expert input (from Amy: and it is in minute amounts (this is a fellowship after all) AHRC will not be too rattled; and more important that you can clearly justify the necessary need. They are not going to be ‘employed’ but rather can only be ‘helicoptored’ in and out swiftly for brief moments.) -- Bob Whalley
+- expert input 
