@@ -1,5 +1,175 @@
 # project partners, impact and engagement
 
+_purpose_
+- what am I trying to achieve? 
+    + inspiring/informing
+    + collaborative engagement (work together to make decisions)
+    + how might this understanding/knowledge be applied? how might it be useful to your organisation and your audiences? 
+    + I want to learn from you: about your audiences, to help me see this work through their eyes (this could be through dialogue -- stories, consultation)
+- who is it for?
+- what might you as a partner be wanting to achieve? 
+
+
+- sharing with public
+- two-way process: interaction and listening. What we do and why?
+- connect universities with society
+- collaborative research
+- participatory arts
+- community engagement
+- engagement with partners
+- enrich focus, clarity and relevance of research
+- animated by co-production, partnership, dialogue
+
+- _aim of activity?_ - public experiences, interest, inspire
+- _objectives:_ what do I want to know? 
+- _partners:_ communities of interest <--> general public
+- dialogues -- open-ended
+- public good
+
+
+- _evaluation_: Evaluation is a valuable tool that enables you to learn from your experiences and to assess the impact of your work.
+- inform the development of project 
+- assess if objectives met
+- what changed as a result of the activity
+- how it could have been more effective
+- any unintended outcomes (both positive and negative). 
+- It is important to understand not only what happened but also why something worked or didn't work.
+
+- _evaluation plan:_
+    + overarching aim of activity: 
+    + objectives (SMART!)
+    + questions: what do I want to know? 
+    + methods: quantitative and qualitative 
+    + data collection:
+        * basic numbers of participants
+        * questionnaire: thoughts/feelings/experiences/new ideas/reminded of anything
+        * interviews
+        * video diaries
+        * focus groups
+    + data analysis: e.g. GLOs (see below) -- a type of coding framework
+    + reporting
+
+
+_generic learning outcomes (from <GLOs measuring learning impact in museums.pdf>):_
+- action, behaviour, progression
+- knowledge and understanding
+- enjoyment, inspiration, creativity
+- skills
+- attitudes and values
+- 
+
+
+## my public engagement programme
+
+To carry out and disseminate research that can inform and enrich partner programme, place and practices. To support partner (and stakeholders) to become more connected to research, with deeper understanding of the limits of understanding of the human body.
+
+
+### unforgettable: connects our memory of dancing with our knowledge of dancing
+
+
+- _Current situation - A description of the situation you are trying to change_: a form without memory (archives are of the things/events, very rarely if at all about experiences of the things inside and out). 
+- _aims:_ To create a shared recollection/memory of experiences of dancing that inspires and creates interest in the form. To develop understanding of ...; to establish a way of collaborating between researchers, partners, stakeholders (artists) and wider public; something about learning?
+
+>Learning is a process of active engagement with experience. It is what people do when they want to make sense of the world. It may involve the development or deepening of skills, knowledge, understanding, awareness, values, ideas and feelings, or an increase in the capacity to reflect. Effective learning leads to change, development and the desire to learn more.
+
+- _inputs (what I will contribute):_ 
+- _activities (what am going to do to achieve aims):_
+    + what if I brought in Jason Maling to work with group of artists at Dancehouse? -- Jason?  Should the artists be paid for participating? 
+- _outputs (what I create):_
+- _outcomes (what happens as a result):_
+- _impacts (long-term effects):_
+- _assumptions (I'm making in designing my approach):_
+- _external factors (that could influence the outcomes of the project):_
+- 
+
+### the un/knowing body: connects what is known with what is not known about the moving human body
+
+_The Un/knowable Body_ directly explores a key part of the research component of _Finger Pointing Moon_ by addressing what is able to be known -- and what remains unknown -- about visual and sensorial experiences of the human body. 
+
+- _Current situation - A description of the situation you are trying to change_: body as machine ??? (see [evmed.asu.edu/blog/body-not-machine](https://evmed.asu.edu/blog/body-not-machine)) imaging techniques, broken, fix, mechanical, input-output
+- _aims:_ To develop understanding of the invisible, experiential, richly varied understandings of the moving body, inspires and creates interest in the body as sensing and fuzzy organism. Bringing into view that which cannot be seen. Intangible, hard to pin-down experiences. To develop understanding of ...; to establish a way of collaborating between researchers, partners, stakeholders (artists) and wider public; something about learning?
+
+>Learning is a process of active engagement with experience. It is what people do when they want to make sense of the world. It may involve the development or deepening of skills, knowledge, understanding, awareness, values, ideas and feelings, or an increase in the capacity to reflect. Effective learning leads to change, development and the desire to learn more.
+
+- _inputs (what I will contribute):_ 
+    + broad set of collected materials as starting point for conversation, exchange, dialogue, dissemination, engagement and experimentation. Research is the practice of collection. 
+    + expertise/experience
+- _activities (what am going to do to achieve aims):_ 
+    + collaboration with project partner (S'ALA -- Igor x Moreno) to work with the inputs/materials
+    + workshopping with wider public -- building on materials/processes of translation
+- _outputs (what I create):_ exhibition
+- _outcomes (what happens as a result):_
+    + increased understanding of the topic
+    + Enjoyment
+    + Skills development
+    + Inspiration and creativity
+    + New experiences
+    + Learning -- generic learning outcomes
+- _impacts (long-term effects):_
+    + conceptual impacts: how people think (changes in knowledge, understanding, attitude, or awareness)
+    + capacity building impacts: these can be thought of as changes in what people do. Examples include skills development or participation.
+- _assumptions (I'm making in designing my approach):_
+- _external factors (that could influence the outcomes of the project):_
+- _evaluation:_
+    + overarching aim of activity: 
+    + objectives (SMART!)
+    + questions: what do I want to know? 
+    + methods: quantitative and qualitative 
+    + data collection:
+        * basic numbers of participants
+        * questionnaire: thoughts/feelings/experiences/new ideas/reminded of anything
+        * interviews
+        * video diaries
+        * focus groups
+    + data analysis: e.g. GLOs (see below) -- a type of coding framework
+    + reporting
+- 
+
+### artistic research forum: 
+
+### the point beyond
+
+## discourse
+
+- generate micro-conferences from forum
+- benefits:
+    + learning
+    + inspiration
+    + new ideas
+    + better research
+
+
+
+## unforgettable
+
+- aim: inspire, gather stories of inspiration/experience, build community
+- current: language is limited/piecemeal; language of experiences of an ephemeral/bodily thing
+- "I remember ..."
+- create website for collective evaluation messages
+- targeted interviews
+- dialogues with contributors (a gift?)
+- dialogues, conversations, collaborations, their experience
+
+
+
+## email to rk
+
+subject: dance improvisation research project
+
+Dear 
+
+My name is Simon Ellis and I'm a dance artist and researcher based at the Centre for Dance Research, Coventry University. My work explores the nature of improvisation in dance, and experimental methods of documenting ephemeral artistic practices and experiences.
+
+This email is about a research project and funding bid – called Finger Pointing Moon - that is designed to explore what we can know and say about the practice of dancing. 
+
+I've long being interested in your work on the nature of expertise, and the way it includes people and is able to find audiences outside of disciplinary boundaries. 
+
+Would you be interested in being involved in the studio-based 'fieldwork' of the Finger Pointing Moon as a outside observer? Your role would be to provide 'expert input' on what you are seeing and noticing as you watch two people wrestle with the flow-like state of 'being present'. 
+
+Thank you for your time and I look forward to hearing from you soon.
+
+Yours sincerely.
+
 ## plain-language email re the un/knowing body
 
 Dear Josh
@@ -62,35 +232,7 @@ Thanks so much Anita. I hope this is a little more helpful than my last effort.
 Simon
 
 
-
-
-_purpose_
-- what am I trying to achieve? 
-    + inspiring/informing
-    + collaborative engagement (work together to make decisions)
-    + how might this understanding/knowledge be applied? how might it be useful to your organisation and your audiences? 
-    + I want to learn from you: about your audiences, to help me see this work through their eyes (this could be through dialogue -- stories, consultation)
-    + do I want to change attitudes or behaviours? (no, I don't think so)
-- who is it for?
-- what might you as a partner be wanting to achieve? 
--  
-
-## unforgettable
-
-### Yorkshire Dance (Wieke)
-
-
-
-### The Work Room (Anita)
-
-
-## the unknown body
-
-### S'ALA
-
-### Dancehouse
-
-
+## project partner consideration (early)
 
 _un/knowing body_ / _Knowledge of Body_
 
@@ -125,45 +267,4 @@ no or I decided not to:
 - San Francisco space? -- contacted Christian Burns 20200916
 - CDS
 - contacted Debbie Williams about Choreomundus contacts: 20200917; 20201014
-
-
-# project team
-
-## advisory board (possible)
-
-Efrosini Protopapa, Lee Miller, Sarah Whatley, Ken Friedman, Michael Biggs, Charlotte Waelde, Carol Brown, Robin Nelson, Adrian Heathfield, Maria Delgado, Chris Smith (UKRI), someone from Universities UK?, someone from PRAG?.
-
-EP
-MD
-CW
-RN
-
-## project team
-
-- RA
-- PI
-- project partners
-- expert input (from Amy: and it is in minute amounts (this is a fellowship after all) AHRC will not be too rattled; and more important that you can clearly justify the necessary need. They are not going to be ‘employed’ but rather can only be ‘helicoptored’ in and out swiftly for brief moments.) -- Bob Whalley
-- expert input 
-
-
-
-
-
-subject: dance improvisation research project
-
-Dear 
-
-My name is Simon Ellis and I'm a dance artist and researcher based at the Centre for Dance Research, Coventry University. My work explores the nature of improvisation in dance, and experimental methods of documenting ephemeral artistic practices and experiences.
-
-This email is about a research project and funding bid – called Finger Pointing Moon - that is designed to explore what we can know and say about the practice of dancing. 
-
-I've long being interested in your work on the nature of expertise, and the way it includes people and is able to find audiences outside of disciplinary boundaries. 
-
-Would you be interested in being involved in the studio-based 'fieldwork' of the Finger Pointing Moon as a outside observer? Your role would be to provide 'expert input' on what you are seeing and noticing as you watch two people wrestle with the flow-like state of 'being present'. 
-
-Thank you for your time and I look forward to hearing from you soon.
-
-Yours sincerely.
-
 
