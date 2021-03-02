@@ -36,18 +36,41 @@ _purpose_
 - It is important to understand not only what happened but also why something worked or didn't work.
 
 - _evaluation plan:_
-    + overarching aim of activity: 
-    + objectives (SMART!)
-    + questions: what do I want to know? 
-    + methods: quantitative and qualitative 
-    + data collection:
+    1. overarching aim of activity
+    2. objectives (SMART!)
+    3. questions: what do I want to know? 
+    4. methods: quantitative and qualitative 
+    5. data collection:
         * basic numbers of participants
         * questionnaire: thoughts/feelings/experiences/new ideas/reminded of anything
         * interviews
         * video diaries
         * focus groups
-    + data analysis: e.g. GLOs (see below) -- a type of coding framework
-    + reporting
+    6. data analysis: e.g. GLOs (see below) -- a type of coding framework
+    7. reporting
+
+## logic model for entire project
+
+_Current situation - A description of the situation you are trying to change:_ practice-research is widely used in academia, yet poorly understood (both inside and outside academia). Key problem is lack of clarity about epistemic possibilities and limits. 
+_inputs (what I will contribute):_ 
+_activities (what am going to do to achieve aims):_
+_outputs (what I create):_
+_outcomes (what happens as a result):_
+_impacts (long-term effects):_
+_assumptions (I'm making in designing my approach):_
+_external factors (that could influence the outcomes of the project):_
+
+_1. Experimental documentation practices (RES):_ 
+2. Article epistemic limits (RES):
+3. _Unforgettable_ (DEV):
+4. _The Un/knowable Body_ (DEV):
+5. Article epistemic proxies (RES):
+6. Epistemic lexicon (RES):
+7. Desktop documentary (RES):
+8. _The Point Beyond_ (DEV): 
+9. Discourse Forum (DEV):
+10. Micro-conferences (RES):
+11. Website (RES/DEV): 
 
 
 _generic learning outcomes (from <GLOs measuring learning impact in museums.pdf>):_
@@ -56,7 +79,6 @@ _generic learning outcomes (from <GLOs measuring learning impact in museums.pdf>
 - enjoyment, inspiration, creativity
 - skills
 - attitudes and values
-- 
 
 
 ## my public engagement programme
@@ -139,7 +161,6 @@ _The Un/knowable Body_ directly explores a key part of the research component of
     + better research
 
 
-
 ## unforgettable
 
 - aim: inspire, gather stories of inspiration/experience, build community
@@ -150,7 +171,19 @@ _The Un/knowable Body_ directly explores a key part of the research component of
 - dialogues with contributors (a gift?)
 - dialogues, conversations, collaborations, their experience
 
+## notes for rk meeting
 
+- a bit about me
+- dance research project called FPM
+- building a funding bid for AHRC "research, development and engagement fellowship"
+- broadly about the limits of understanding, and how dance practice might help us think about these limits. Here's something I wrote:
+>We can agree that dancers have some kind of knowledge of what they are doing; that they _know how_ to do what they are doing. But it's not easy to understand or describe what it means to know something in dance. We might use a word like 'embodied' to describe the way a dancer-in-their-body seems to know something, but this isn't necessarily very helpful. For example, how would we recognise a disembodied dancer? _Finger Pointing Moon_ is a dance research project about what it means to know through and in our moving bodies.
+- authentic movement: experimental dance practice, 
+- AM is a process-oriented movement practice that distinguishes the body as observed from the outside (third-person perspective) and the soma as perceived from the inside (first-person perception).[@hanna_what_1995 p.341] 
+- simple (two people: doer and watcher) non-judgement, practice of attention and awareness, like pure presence or flow; not made to be watched, so not dealing with overtly large or virtuosic dancing. Two worlds: the visible or those things able to be seen or observed (might even say "empirical"); the invisible -- the rich world of experiential, imagination, etc (the "slippery"). 
+- 1st person (mover), 3rd person (doer) perspectives (loosely)
+- my thought was that your experience and expertise as an observer of people 'at work' (but coming from very different background) might enrich this aspect of the research. You'd provide a 2nd and wider angle 3rd person perspective observing both the watcher and the doer. A step removed, but also inside: noticing that which can be seen, and recognising (perhaps) that which cannot.
+- 
 
 ## email to rk
 
@@ -169,6 +202,7 @@ Would you be interested in being involved in the studio-based 'fieldwork' of the
 Thank you for your time and I look forward to hearing from you soon.
 
 Yours sincerely.
+
 
 ## plain-language email re the un/knowing body
 

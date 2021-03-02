@@ -42,7 +42,7 @@ In _Finger Pointing Moon_ my key contribution to artistic practice-research will
 
 ### Who will be most interested in the outcomes? 
 
-The research outcomes will be most interesting to established and emerging scholars from across arts-based disciplines who are working with practice-research. The work will also be valuable to philosophers of epistemology who are researching epistemic edge-cases to do with know-how and testimony. The practice aspects of the research will also be interesting to body-based research specialists grappling with the epistemic potential of their work, and particularly in relation to contested ideas of embodied and tacit knowledge. The developmental components of the project (see Development Plan) are also designed to enhance the scope, reach and impact of the various ideas, data and outcomes. 
+The research outcomes will be most interesting to established and emerging scholars from across arts-based disciplines who are working with practice-research. The work will also be valuable to philosophers of epistemology who are researching epistemic edge-cases to do with know-how and testimony. The practice aspects of the research will help body-based research specialists grapple with the epistemic potential of their work, and particularly in relation to contested ideas of embodied and tacit knowledge. The developmental components of the project (see Development Plan) are also designed to enhance the scope, reach and impact of the various ideas, data and outcomes. 
 
 ## Research methods 
 
@@ -78,7 +78,7 @@ The methods address the research questions from the inside through _experimental
 
 #### Experimental practice-research
 
-The methodological heart of _Finger Pointing Moon_ is the "sustained examination"[@varela_first-person_1999 p.2] of an experimental form of Authentic Movement (AM) as practice-research fieldwork.
+The methodological heart of _Finger Pointing Moon_ is the sustained examination of an experimental form of Authentic Movement (AM) as practice-research fieldwork.
 
 AM is a process-oriented movement practice that distinguishes the body as observed from the outside (third-person perspective) and the soma as perceived from the inside (first-person perception).[@hanna_what_1995 p.341] AM provides a highly structured body-based process of empirical (visible) and sensorial (non-visible) observation. Its focus is on doing something rather than making something, and the practice dwells deeply in ambiguous feelings and thoughts and presents movement experiences that are not obviously visible. In _Finger Pointing Moon_ the practice acts as a closed methodological system with which to observe the epistemic limits and possibilities of body-based work. The slipperiness of such contemplative practice, often beyond the reach of "verbalization and of rationalization"[@kerr_borgmann_2016 p.64] and complicated to document, is essential to the project. In _Finger Pointing Moon_ AM is an edge-case or paradigmatic method to examine the epistemic limits, possibilities and failings of body-based practice-research, and to propose extrapolations of these limits to other practice-research disciplines. The practice offers clear and precise limits to wrestle with what can be known differently through practice-research.
 
