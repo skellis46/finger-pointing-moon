@@ -1,5 +1,7 @@
 # edit bin
 
+- in fpm the danger of confirmation bias with the proxy thing. needs to be exploring a hunch — to understand the phenomnenon more deepy
+
 The following is an overview of the timetable and milestones for the research **(RES)** and development **(DEV)** components.
 
 - _Months 1-2:_ Advisory Group meeting (1 of 4), map and begin desktop research, ethics clearance, PI/RA fortnightly meetings begin, **Output 11 website (RES/DEV)** created and live, fortnightly blogging begins

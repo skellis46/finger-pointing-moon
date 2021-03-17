@@ -51,7 +51,7 @@ _purpose_
 
 ## logic model for entire project
 
-_Current situation - A description of the situation you are trying to change:_ practice-research is widely used in academia, yet poorly understood (both inside and outside academia). Key problem is lack of clarity about epistemic possibilities and limits. 
+_Current situation - A description of the situation you are trying to change:_ practice-research is widely used in academia, yet poorly understood (both inside and outside academia). Key problem is lack of clarity about epistemic possibilities and limits. (How can this even be called research? scepticism within and outside of academy)
 _inputs (what I will contribute):_ 
 _activities (what am going to do to achieve aims):_
 _outputs (what I create):_
@@ -171,12 +171,54 @@ _The Un/knowable Body_ directly explores a key part of the research component of
 - dialogues with contributors (a gift?)
 - dialogues, conversations, collaborations, their experience
 
+## email to rk post meeting
+
+Dear Roger
+
+It was a pleasure to meet and talk on Friday 5 March. Thanks for your interest, and your questions about dance and improvisation, and about the project called _Finger Pointing Moon_ that I'm trying to build.
+
+At this stage there isn't anything in particular to do. I need to get on and finish the bid (by the end of Spring) and then the earliest it would start would be Spring 2022. The studio-based work would be that summer. Of course, this all depends on the bid being successful -- not at all a given.
+
+The plan is for my colleague Joanne "Bob" Whalley (who is an expert arts practitioner, but not an expert dancer) and I to spend two 3-week periods in the studio working with this practice of presence and non-judgement called Authentic Movement. My invitation to you would be to spend the last week of each of those periods observing, and us to talk together as a group about what is going on, what we are noticing, what we are experiencing, what things aren't so easy to describe, etc. It's rather speculative really, or perhaps 'blue-sky'!
+
+I imagine we'd work for 3-4 hours a day here in London (most likely at Roehampton University), but the timings can be as fluid as they need to be. I'm budgeting to pay you and Bob £1k per week of involvement (ie £2k total for you) to provide "expert input" into the project. 
+
+How does that sound?
+
+Very best wishes
+
+Simon
+
+
+
+PS Below is a small bit of writing that hints at what we discussed.
+
+>We can agree that dancers have some kind of knowledge of what they are doing; that they _know how_ to do what they are doing. But it's not easy to understand or describe what it means to know something in dance. We might use a word like 'embodied' to describe the way a dancer-in-their-body seems to know something, but this isn't necessarily very helpful. For example, how would we recognise a disembodied dancer? _Finger Pointing Moon_ is a dance research project about what it means to know through and in our moving bodies.
+
+Here's a 'desktop presentation' I made that touches on some of the issues we discussed: https://www.skellis.net/corporeal-epistemics
+
+
+
 ## notes for rk meeting
 
 - a bit about me
 - dance research project called FPM
 - building a funding bid for AHRC "research, development and engagement fellowship"
-- broadly about the limits of understanding, and how dance practice might help us think about these limits. Here's something I wrote:
+- broadly about the limits of understanding when artists in the academy use something called practice-research. what might we come to understand or know differently through creative artistic practice? Messy question. Particularly in dance: "it's in my body" -- assumes a kind of understanding, perhaps one that requires little or even no thought. 
+
+
+- what does it mean to perform in the world of science?
+- specialisations
+- through someone else's eyes
+- beginner's minds
+- don't quite know what they are or where they are going
+- learning from others
+- critical thinking -- need to know 
+- what you see when you're not looking
+- under my skin: movements of people (choreography)
+- 
+
+- Here's something I wrote:
 >We can agree that dancers have some kind of knowledge of what they are doing; that they _know how_ to do what they are doing. But it's not easy to understand or describe what it means to know something in dance. We might use a word like 'embodied' to describe the way a dancer-in-their-body seems to know something, but this isn't necessarily very helpful. For example, how would we recognise a disembodied dancer? _Finger Pointing Moon_ is a dance research project about what it means to know through and in our moving bodies.
 - authentic movement: experimental dance practice, 
 - AM is a process-oriented movement practice that distinguishes the body as observed from the outside (third-person perspective) and the soma as perceived from the inside (first-person perception).[@hanna_what_1995 p.341] 
