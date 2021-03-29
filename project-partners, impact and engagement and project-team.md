@@ -6,8 +6,11 @@ _purpose_
     + collaborative engagement (work together to make decisions)
     + how might this understanding/knowledge be applied? how might it be useful to your organisation and your audiences? 
     + I want to learn from you: about your audiences, to help me see this work through their eyes (this could be through dialogue -- stories, consultation)
+    + it's possible to imagine I'm thinking about changing the culture of PaR. See Schein in zettel slip-box.
+
 - who is it for?
 - what might you as a partner be wanting to achieve? 
+
 
 
 - sharing with public
@@ -49,36 +52,7 @@ _purpose_
     6. data analysis: e.g. GLOs (see below) -- a type of coding framework
     7. reporting
 
-## logic model for entire project
 
-_Current situation - A description of the situation you are trying to change:_ practice-research is widely used in academia, yet poorly understood (both inside and outside academia). Key problem is lack of clarity about epistemic possibilities and limits. (How can this even be called research? scepticism within and outside of academy)
-_inputs (what I will contribute):_ 
-_activities (what am going to do to achieve aims):_
-_outputs (what I create):_
-_outcomes (what happens as a result):_
-_impacts (long-term effects):_
-_assumptions (I'm making in designing my approach):_
-_external factors (that could influence the outcomes of the project):_
-
-_1. Experimental documentation practices (RES):_ 
-2. Article epistemic limits (RES):
-3. _Unforgettable_ (DEV):
-4. _The Un/knowable Body_ (DEV):
-5. Article epistemic proxies (RES):
-6. Epistemic lexicon (RES):
-7. Desktop documentary (RES):
-8. _The Point Beyond_ (DEV): 
-9. Discourse Forum (DEV):
-10. Micro-conferences (RES):
-11. Website (RES/DEV): 
-
-
-_generic learning outcomes (from <GLOs measuring learning impact in museums.pdf>):_
-- action, behaviour, progression
-- knowledge and understanding
-- enjoyment, inspiration, creativity
-- skills
-- attitudes and values
 
 
 ## my public engagement programme
@@ -96,11 +70,11 @@ To carry out and disseminate research that can inform and enrich partner program
 
 - _inputs (what I will contribute):_ 
 - _activities (what am going to do to achieve aims):_
-    + what if I brought in Jason Maling to work with group of artists at Dancehouse? -- Jason?  Should the artists be paid for participating? 
+    + what if I brought in Jason Maling to work with group of artists at Dancehouse? -- Should the artists be paid for participating? 
 - _outputs (what I create):_
 - _outcomes (what happens as a result):_
 - _impacts (long-term effects):_
-- _assumptions (I'm making in designing my approach):_
+- _assumptions (... I'm making in designing my approach):_
 - _external factors (that could influence the outcomes of the project):_
 - 
 
