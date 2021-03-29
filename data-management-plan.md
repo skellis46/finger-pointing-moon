@@ -1,30 +1,30 @@
 # Data Management Plan
 
-The Data Management Plan should outline the project’s approach to managing data. It is mandatory to include for all Leadership Fellows, Research, Development and Engagement Fellowship scheme, Research Grants and Follow on Funding applications but is not required for Research Networking. 
+>The Data Management Plan should outline the project’s approach to managing data. It is mandatory to include for all Leadership Fellows, Research, Development and Engagement Fellowship scheme, Research Grants and Follow on Funding applications but is not required for Research Networking. 
 
-1. Briefly introduce the types of data the research will create. Why did you decide to use these data types?
+>1. Briefly introduce the types of data the research will create. Why did you decide to use these data types?
 
-2. Give details on the proposed methodologies that will be used to create the data. Advise how the project team selected will be suitable for the data/digital aspects of the work, including details of how the institution’s data support teams may need to support the project
+>2. Give details on the proposed methodologies that will be used to create the data. Advise how the project team selected will be suitable for the data/digital aspects of the work, including details of how the institution’s data support teams may need to support the project
 
-3. How will the data be stored in the short term?
+>3. How will the data be stored in the short term?
 
-    a. What backup will you have in the in-project period to ensure no data is lost?
+>a. What backup will you have in the in-project period to ensure no data is lost?
 
-4. How the data will be stored in the long term
-    a. Where have you decided to store it, why is this appropriate?
-    b. How long will it be stored for and why?
-    c. Costs of storage – why are these appropriate? Costs related to long term storage will be permitted providing these are fully justified and relate to the project Full justification must be provided in Justification of Resources (JoR)
+>4. How the data will be stored in the long term
+    >a. Where have you decided to store it, why is this appropriate?
+    >b. How long will it be stored for and why?
+    >c. Costs of storage – why are these appropriate? Costs related to long term storage will be permitted providing these are fully justified and relate to the project Full justification must be provided in Justification of Resources (JoR)
 
-5. How the data will be shared and the value it will have to others
-    a. How the data will enhance the area and how it could be used in the future?
-    b. Releasing the data – advise when you will be releasing and justify if not releasing in line with AHRC guidelines of a minimum of three years. If the data will have value to different audiences, how these groups will be informed?
-    c. Will the data need to be updated? Include future plans for updating if this is the case.
-    d. Will the data be open or will you charge for it? Justify if charging to access the data
-    e. Financial requirements of sharing – include full justification in the JoR
+>5. How the data will be shared and the value it will have to others
+    >a. How the data will enhance the area and how it could be used in the future?
+    >b. Releasing the data – advise when you will be releasing and justify if not releasing in line with AHRC guidelines of a minimum of three years. If the data will have value to different audiences, how these groups will be informed?
+    >c. Will the data need to be updated? Include future plans for updating if this is the case.
+    >d. Will the data be open or will you charge for it? Justify if charging to access the data
+    >e. Financial requirements of sharing – include full justification in the JoR
 
-6. Ethical and Legal considerations
-    a. Any legal and ethical considerations of collecting the data
-    b. Legal and ethical considerations around releasing and storing the data – anonymity of any participants, following promises made to participants
+>6. Ethical and Legal considerations
+    >a. Any legal and ethical considerations of collecting the data
+    >b. Legal and ethical considerations around releasing and storing the data – anonymity of any participants, following promises made to participants
 
 ## 1. Data types
 
