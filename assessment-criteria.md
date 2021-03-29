@@ -8,15 +8,11 @@
 
 # People
 • the quality and importance of your work to date
-• your ability to monitor the project and bring it to completion as demonstrated in
-the application
+• your ability to monitor the project and bring it to completion as demonstrated in the application
 • the appropriateness of the level and balance (in terms of time and seniority) of
-the proposed staffing on the project, and the extent to which opportunities will be
-made available for less experienced researchers
-• whether the other named participants have the appropriate experience and
-expertise to deliver the project
-• The suitability of the opportunities which the project will make available to
-support the development of the research staff on the project.
+the proposed staffing on the project, and the extent to which opportunities will be made available for less experienced researchers
+• whether the other named participants have the appropriate experience and expertise to deliver the project
+• The suitability of the opportunities which the project will make available to support the development of the research staff on the project.
 
 # specific to this scheme:
 
@@ -34,10 +30,8 @@ support the development of the research staff on the project.
 # Management of the project
 
 • whether the lines of responsibility and accountability are clearly articulated.
-• whether a realistic timetable, incorporating milestones, is presented which will
-achieve the project’s aims and objectives within the proposed timescale
-• the extent to which you have understood the amount of work to be involved,
- allocated sufficient time and resources to achieving each aspect.
+• whether a realistic timetable, incorporating milestones, is presented which will achieve the project’s aims and objectives within the proposed timescale
+• the extent to which you have understood the amount of work to be involved, allocated sufficient time and resources to achieving each aspect.
 
 
 # Data Management
