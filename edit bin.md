@@ -1,5 +1,7 @@
 # edit bin
 
+examine the epistemic potential and limits of practice-research
+
 - in fpm the danger of confirmation bias with the proxy thing. needs to be exploring a hunch — to understand the phenomnenon more deepy
 
 The following is an overview of the timetable and milestones for the research **(RES)** and development **(DEV)** components.

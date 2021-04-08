@@ -4,6 +4,8 @@ csl: /Users/skellis/Dropbox/pandoc/harvard-coventry-university.csl
 
 # Finger pointing moon: recognising change through practice-research 
 
+- what puzzles me in fpm? what is my genuine question and thing to address? -- lack of clarity, of anything goes: strength and weakness. Harmful and helpful.
+
 ## The Research Problem and Questions
 
 Practice-research is the de-facto means by which artist-scholars make claims for new knowledge in the Academy. However, "no epistemology of artistic research has yet been produced."[@schiesser_what_2015 p.201] _Finger Pointing Moon_ examines the fundamental problem of what is known or understood differently as a consequence of employing practice-research methods. The project tackles this problem via three research questions:
@@ -14,15 +16,14 @@ _RQ2 Proxies_: What are practice-research's common epistemic proxies and what is
 
 _RQ3 Hyper-specificity_: What language is used to express approaches, findings and failures in practice-research? How can this language be adapted to develop increased dialogue across the research findings and outputs of practice-research artist-scholars?
 
-_Finger Pointing Moon_ uses practice-research and other methods to examine the line between what is able to be known and what is not. It is a line we all are navigating: truth, fake news, filter bubbles, datafication of experience, and the analogue sensations of the human body. While _Finger Pointing Moon_'s focus on the epistemic limits of practice-research is niche, the diverse outputs proposed in the research and development components of the fellowship also reveal how epistemic concerns are vital to the wider public.
+_Finger Pointing Moon_ uses practice-research and other methods to examine the line between what is able to be known and what is not. It is a line we all are navigating: truth, fake news, filter bubbles, datafication of experience, and the analogue sensations of the human body. _Finger Pointing Moon_'s research focus is on the epistemic limits of practice-research; this focus serves the project's overarching aim to deepen awareness of the limits of understanding of the human body. The diverse outputs proposed in the research and development components of the fellowship also reveal how epistemic concerns are vital to the wider public.
 
 add epistemic crisis and epistemic well-being to paragraph above <https://psyche.co/ideas/the-antidote-to-fake-news-is-to-nourish-our-epistemic-wellbeing>
 
-- what puzzles me in fpm? what is my genuine question and thing to address? -- lack of clarity, of anything goes: strength and weakness. Harmful and helpful.
 
 ## Outputs
 
-_Finger Pointing Moon_ is a research (RES) _and_ developmental (DEV) fellowship proposal. The eleven outputs are inter-disciplinary responses to the project's aim to examine the epistemic potential and limits of practice-research. The outputs also challenge the PI to develop and broaden his communication, impact and public engagement capacity.
+_Finger Pointing Moon_ is a research (RES) _and_ developmental (DEV) fellowship proposal. The eleven outputs are multi-modal responses to the project's aim to deepen awareness of the limits of understanding of the human body. The outputs also challenge the PI to develop and broaden his communication, impact and public engagement capacity.
 
 1. Experimental documentation practices, developed through practice-research fieldwork (RES)
 2. Scholarly article about epistemic limits (RES)
@@ -34,7 +35,7 @@ _Finger Pointing Moon_ is a research (RES) _and_ developmental (DEV) fellowship 
 8. Podcast _The Point Beyond_ (see Development Plan) (DEV)
 9. Discourse Forum (see Development Plan) (DEV)
 10. Three curated talks online (micro-conferences) (RES)
-11. Website and blog (RES/DEV)
+11. Website and blog (RES)
 
 ## Research context 
 
@@ -139,7 +140,7 @@ The IP for project outputs will belong to PI Ellis at CovUni. The IP for Outputs
 
 >How are these all researcher-development activities?
 
-I have been an artist for 30 years, and an artist in the academy for 20+ years. In this time, I have pursued and developed individual research practices that have led to small-scale outcomes. I have also tended to resist expansive or wider public dissemination and engagement strategies (with the exception of blogging). The project's development plan builds on the research component of this proposal. The plan will enhance my role within practice-research, and significantly develop the influence and importance of my research to artist-scholars (and communities of interest) by helping me acquire four new capabilities: 1) communicate and contextualise niche and complex ideas about fundamental epistemics of practice-research beyond the practice-research field and also to the wider public; 2) demonstrate leadership in methodological advances in practice-research; 3) develop and support a broad cross-disciplinary community of active artist-scholars; and 4) to create a range of collaborative opportunities with academic and non-academic stake-holders within and outside of dance and the performing arts. 
+I have been an artist for 30 years, and an artist in the academy for 20+ years. In this time, I have pursued and developed individual research practices that have led to small-scale outcomes. I have also tended to resist expansive or wider public dissemination and engagement strategies (with the exception of blogging). The project's development plan builds on the research component of this proposal. **add how this happens - be specific** The plan will enhance my role within practice-research, and develop the influence and importance of my research to artist-scholars (and communities of interest) by helping me acquire four new capabilities: 1) communicate and contextualise niche and complex ideas about fundamental epistemics of practice-research beyond the practice-research field and also to the wider public; 2) demonstrate leadership in methodological advances in practice-research; 3) develop and support a broad cross-disciplinary community of active artist-scholars; and 4) to create a range of collaborative opportunities with academic and non-academic stake-holders within and outside of dance and the performing arts. 
 
 These four capabilities will be developed through four bold activities and outputs:
 
@@ -150,7 +151,7 @@ These four capabilities will be developed through four bold activities and outpu
 
 _1. Unforgettable_ (Output 3) will be an exhibition of visual and text materials based on a practice of gathering and sharing the public's experiences of dance and movement. Artists, scholars and audiences from around the world will be networked to send a written note or letter that describes a single unforgettable moment or experience of dancing. These documents will be collated and organised into an exhibition to be presented by project partners in England and Scotland. _Unforgettable_ builds on the research's epistemic narrative by exploring the role of memory and languages of experience and expression in understanding how we come to know what we know. The process and exhibition is designed to: i) inspire creativity in how other researchers understand and represent the scope of their largely theoretical undertakings; ii) seek wider impact by ambitiously engaging a broad cross-section of participants; iii) develop new and formal research-informed partnerships and collaborations with non-academic organisations in the UK, and informal collaborations with people who submit materials from around the world.
 
-_2. The Un/knowable Body_ (Output 4) will involve collecting a large quantity of cross- and inter-disciplinary audio-visual-text materials that reveal the limits, margins and possibilities of human understanding and experience of the body. These materials will be gathered by the PI and RA and then be sent to two project partners in Australia and Italy. Both project partners will work with their local communities -- in consultation with the PI -- to explore ways to organise, curate, present and respond to the materials and then develop a bespoke programme of events that explore knowledges of the body. _The Un/knowable Body_ directly explores a key part of the research component of _Finger Pointing Moon_ by addressing what is able to be known -- and what remains unknown -- about visual and sensorial experiences of the human body. The activity will: i) foster interdisciplinary research by working with and presenting materials from across disciplinary boundaries; ii) inspire creativity in other researchers by creating models for public engagement that emerge from those publics (rather than top-down or researcher focused models); iii) create wider impact for the research aspects of the project by building relationships between highly theoretical (and niche) ideas to do with epistemology, with accessible and meaningful materials for the wider public; iv) create new research partnerships and collaborations between the PI and project partners working across disciplinary fields.
+_2. The Un/knowable Body_ (Output 4) will involve collecting a large quantity of cross- and inter-disciplinary audio-visual-text materials that reveal the limits, margins and possibilities of human understanding and experience of the body. These materials will be gathered by the PI and RA and then be sent to two project partners in Australia and Italy. Both project partners will work with their local communities -- in consultation with the PI -- to explore ways to organise, curate, present and respond to the materials and then develop a bespoke programme of events that explore knowledges of the body. _The Un/knowable Body_ directly explores a key part of the research component of _Finger Pointing Moon_ by addressing what is able to be known -- and what remains unknown -- about visual and sensorial experiences of the human body. The activity will: i) foster interdisciplinary research by working with and presenting materials from across disciplinary boundaries; ii) inspire creativity in other researchers by creating models for public engagement that emerge from those publics (rather than top-down or researcher focused models); iii) create wider impact for the research aspects of the project by building relationships between theoretical (and niche) ideas to do with epistemology, with accessible and meaningful materials for the wider public; iv) create new research partnerships and collaborations between the PI and project partners working across disciplinary fields.
 
 _3. Artistic Research forum_ (Output 9) will create and support a broad cross-disciplinary community of scholars and artists working with practice-research. It will be an online Discourse Forum[^disc] that will modernise old-style email-based list-servs like PARIP and SCUDD, and act as a large-scale _conversation_ on historical, current and future thinking, practices and understandings of practice-research. The forum will be sustained by the discourse community itself with moderation from a group of experienced and emerging artist-scholars volunteering from around the world; it will, in effect, be a collaboration across the entire practice-research community. This is an ambitious activity that will: i) enable the PI to provide intellectual leadership through an openly accessible network of artist-scholars; ii) inspire creativity and development in other researchers both through materials posted to the forum and through its open and collaborative form; iii) help shape research agendas in which the forum acts like a town-square environment where vital conversations are easily heard and contributed to; and iv) encourage new research collaborations and partnerships as contributors engage with the materials and ideas presented in the forum.
 
@@ -212,6 +213,21 @@ _assessment criteria (from assessment-criteria.md):_
 
 
 Who might benefit from the research and how might they benefit? (how identified?)
+
+_What do I do?_ 
+
+I work at the boundary between academic research practices, and professional art practices. I seek ways of extending research ideas into the professional and wider public communities: to make research relevant to artists and publics. The means of doing this are developed with partners and publics.
+
+_Why do I do it?_
+
+I do it because otherwise the research has no point or value. I'm tired of academic research existing in a tiny bubble of obfuscation and ambition. I also do it because I'm convinced that developing our awareness of the body -- and our capacity to sense it in everyday and extraordinary circumstances -- is fundamental to leading a rich and healthy life. That our culture's emphasis on cognition -- and the cognitive powers of the brain -- too easily conceives of our bodies as merely being transport systems or containers for our brains. We ignore or simply forget that are our body is our primary instrument that makes perception, sensing and thinking possible.  
+
+_Why do I think it works?_
+
+It works because our bodies make being together possible. They make being in relationship possible. This work brings philosophical ideas about knowledge and understanding into relationship with the lives of people. 
+
+
+Identified in consultation and collaboration with project partners during Development components. General strategy is to work closely with PP's to identify possible end-users and beneficiaries, and to collaborate with them on public engagement and evaluation strategy.
 
 - beneficiaries will be artists and audiences (wider public) of project partners
 - identified through close collaboration with project partners 

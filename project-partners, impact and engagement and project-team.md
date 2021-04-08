@@ -1,5 +1,9 @@
 # project partners, impact and engagement
 
+>Dissemination means sharing research results with potential users - peers in the research field, industry, other commercial players and policymakers). By sharing your research results with the rest of the scientific community, you are contributing to the progress of science in general.
+
+>Whereas exploitation is the use of results for commercial purposes or in public policymaking. [ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/grant-management/dissemination-of-results_en.htm](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/grant-management/dissemination-of-results_en.htm)
+
 _purpose_
 - what am I trying to achieve? 
     + inspiring/informing
@@ -11,9 +15,18 @@ _purpose_
 - who is it for?
 - what might you as a partner be wanting to achieve? 
 
+- just tell them what you do, why you do it, and why you think it works.
 
+>The reasons why you think something will work is your theory of change, one of the key components of any outcomes approach. (Whats wrong with logic models.pdf)
+
+>You need community partners, customers, young people and many others at the table because you need their knowledge about what’s working and not working, and their ideas about what could work better. 
+
+I want to build relationships -- this is what will make it work or not.
+
+>Programs can and should show the effect they have on their customers. The effect on customers is the program’s contribution to the community.
 
 - sharing with public
+- 
 - two-way process: interaction and listening. What we do and why?
 - connect universities with society
 - collaborative research
@@ -57,7 +70,7 @@ _purpose_
 
 ## my public engagement programme
 
-To carry out and disseminate research that can inform and enrich partner programme, place and practices. To support partner (and stakeholders) to become more connected to research, with deeper understanding of the limits of understanding of the human body.
+To carry out and disseminate research that can inform and enrich partner programme, place and practices. To support partner (and stakeholders) to become more connected to research, with deeper awareness of the limits of human physical and cognitive understanding.
 
 
 ### unforgettable: connects our memory of dancing with our knowledge of dancing
@@ -83,7 +96,7 @@ To carry out and disseminate research that can inform and enrich partner program
 _The Un/knowable Body_ directly explores a key part of the research component of _Finger Pointing Moon_ by addressing what is able to be known -- and what remains unknown -- about visual and sensorial experiences of the human body. 
 
 - _Current situation - A description of the situation you are trying to change_: body as machine ??? (see [evmed.asu.edu/blog/body-not-machine](https://evmed.asu.edu/blog/body-not-machine)) imaging techniques, broken, fix, mechanical, input-output
-- _aims:_ To develop understanding of the invisible, experiential, richly varied understandings of the moving body, inspires and creates interest in the body as sensing and fuzzy organism. Bringing into view that which cannot be seen. Intangible, hard to pin-down experiences. To develop understanding of ...; to establish a way of collaborating between researchers, partners, stakeholders (artists) and wider public; something about learning?
+- _aims:_ To develop understanding of the invisible, experiential, richly varied understandings of the moving body, inspires and creates interest in the body as sensing and fuzzy organism. Bringing into view that which cannot be seen. Intangible, hard to pin-down experiences. To develop understanding of ...; to establish a way of collaborating between researchers, partners, stakeholders (S'ALA and Dancehouse) and wider public; something about learning?
 
 >Learning is a process of active engagement with experience. It is what people do when they want to make sense of the world. It may involve the development or deepening of skills, knowledge, understanding, awareness, values, ideas and feelings, or an increase in the capacity to reflect. Effective learning leads to change, development and the desire to learn more.
 
@@ -144,6 +157,47 @@ _The Un/knowable Body_ directly explores a key part of the research component of
 - targeted interviews
 - dialogues with contributors (a gift?)
 - dialogues, conversations, collaborations, their experience
+- remote community of contributors -- building community 
+
+
+## email to S'ALA
+
+# The Un/knowable Body at S'ALA
+
+## plan 
+
+1. initial collection phase of materials (FPM team)
+2. work with S'ALA (project partner and key stakeholder) to identify participants for workshop series. Open to all.
+3. workshop 1 S'ALA: initial explorations with materials, processes of translation (from texts to bodies, from English to Italian), ways of representing this process, work with participants to identify strategies for public engagement, initial evaluation (basic data, recorded conversations and written reflections)
+4. workshop 2 S'ALA: deepening understanding and translation of the collected materials, test methods for public engagement, second evaluation (recorded conversations and written reflections)
+5. workshop 3 S'ALA: generating public outcome building on work in first two workshops, third project evaluation
+6. public exhibition/output S'ALA: how long installed? how documented? Include public conversation? 
+7. Impact evaluation (+6 months)
+
+Two strands of beneficiary: 
+- workshop participants (involved in development, public engagement, production)
+- exhibition/output viewer or participant
+
+purposes: 
+- to inspire and inform people about how much and how little we know about the moving body
+- to build relationships with project partners and users and beneficiaries
+
+outcomes:
+- increased understanding
+- enjoyment
+- skills development
+- inspiration and creativity
+- new experiences
+- learning
+
+What kinds of benefits/impacts?
+- increased skills and cultural awareness of role of body in navigating and understanding experience (change in capacity, knowledge, understanding, attitude or awareness)
+- long-term
+
+The customer (the people who pay: AHRC? - really? )
+The end user: ends up experiencing product or service
+The beneficiary: person whose life improves because of your product or service
+
 
 ## email to rk post meeting
 
