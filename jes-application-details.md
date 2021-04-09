@@ -94,7 +94,7 @@ _Describe who will benefit from the research_
 
 >The Academic Beneficiaries section asks you to summarise how your research will benefit other researchers in your field and – where relevant – academic beneficiaries in other disciplines. Academic communication and dissemination plans should be elaborated further in your Case for Support. Academic Beneficiaries is a section to complete within the proposal form. (p.58 guide)
 
-Please summarise how your proposed research will contribute to knowledge, both within the UK and globally.
+>Please summarise how your proposed research will contribute to knowledge, both within the UK and globally.
 
 Academic Beneficiaries (4000 characters max) should address the following questions:
 
