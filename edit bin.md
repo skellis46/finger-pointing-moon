@@ -1,5 +1,42 @@
 # edit bin
 
+General strategy is to work closely with PP's 
+
+- beneficiaries will be artists and audiences (wider public) of project partners
+- identified through close collaboration with project partners. 
+
+Identified in consultation and collaboration with project partners during Development components. 
+
+Efrosini Protopapa, Lee Miller, Sarah Whatley, Ken Friedman, Michael Biggs, Robin Nelson, Maria Delgado.
+
+and the lexicon of failure and findings (Output 6) has the potential to act as a tool for standardisation. 
+
+>In the investigator’s immediate professional circle, carrying out similar or related research. Researchers in other disciplines. Researchers in other academic institutions (in the UK and/or international)
+>The End Users (The person who ends up experiencing your product or service): academic: artist-scholars; non-academic: artists, arts audiences, wider public.
+>The Beneficiary: The person whose life improves because of your product or service.
+
+### Beneficiaries and impacts
+
+| Output | Possible beneficiaries                                                                                                                                                                                            | Possible impacts                                                                                                                                                         |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1 ExpDoc     | _public:_ dance and somatic artists, photographers, documenters, movement therapists; _academics:_ body-based and somatic artist-researchers, practice-researchers, qualitative researchers                       | increased cultural awareness of documentation strategies; increased awareness of non-judgemental practices; change hegemonic use of video as documentation               |
+| 2 Lims     | qualitative researchers, practice-researchers across disciplines, epistemologists                                                                                                                                 | increase focus and understanding of the edges of epistemic claims in practice-research                                                                                   |
+| 3 UnforX     | wider public (audiences of organisations/project partners); dance/theatre audiences; arts organisations working with and across HE; the contributors; international audience/network; archivists                  | create shared understanding what the public _knows_ about the transmission of affect in dance and performance; create community culture of shared experience             |
+| 4 UnknowX     | artists and creatives working with the body; partner audiences; institutions working in public engagement; local artists 'curating' the materials; academics in medical and health sciences, arts and humanities  | model methods for audience engagement; increased cultural awareness of role of body in navigating experience; create possibilities for future interdisciplinary research |
+| 5 Prox     | practice-research artist-scholars; qualitative researchers (social sciences, arts and humanities)                                                                                                                 | develop and change understanding of research artefacts that 'stand in' for direct research outcomes                                                                      |
+| 6 Lex     | focused on practice-research artist-scholars; qualitative researchers (social sciences, arts and humanities)                                                                                                      | develop language and thinking to do with limits and failures in practice-research as a tool for cultural change in the field                                             |
+| 7 DDoc     | academics (at all levels) working in artistic research and other experimental research methods); professional artists exploring research paradigms; scholars looking into alternative methods for dissemination   | develop culture of dissemination research using creative and non-traditional means; develop awareness of role of epistemology in practice-research thinking and methods  |
+| 8 Pod    | wider public; cross disciplinary scholars (act as method to build broad audience for the research)                                                                                                                | develop understanding of role of _epistemology_ in societal issues; marker for other _niche_ researchers to explore novel public engagement strategies                   |
+| 9 Forum     | artist-researchers (cross-disciplines), academics, artists transitioning into academy                                                                                                                             | building culture of community-based ideas and comms; large-scale resource of 'holding space' for practice-research technologies, histories, practices and conversations  |
+| 10 Talks    | PhD and early-career artist-researchers (in academy) and artists considering entering the academy; academics across disciplines exploring online engagement strategies                                            | develop understanding of issues in practice-research; expand possibilities for online conferences suitable to particular demands of video-call technologies             |
+| 11 Web    | all beneficiaries above (key open access resource for entire project)                                                                                                                                             | as above                                                                                                                                                                 |
+
+I also do it so that research might openly exist beyond the walls of academia.
+
+because otherwise the research has no point or value. I'm tired of academic research existing in a tiny bubble of obfuscation and ambition. 
+
+- act as a hub of ideas, resources and outputs about practice-research epistemics around which these scholars can share and discuss key findings. Potential impact will be to
+
 examine the epistemic potential and limits of practice-research
 
 - in fpm the danger of confirmation bias with the proxy thing. needs to be exploring a hunch — to understand the phenomnenon more deepy

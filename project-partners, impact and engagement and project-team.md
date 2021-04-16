@@ -166,7 +166,7 @@ _The Un/knowable Body_ directly explores a key part of the research component of
 
 ## plan 
 
-1. initial collection phase of materials (FPM team)
+1. initial collection phase of materials (Finger Pointing Moon team)
 2. work with S'ALA (project partner and key stakeholder) to identify participants for workshop series. Open to all.
 3. workshop 1 S'ALA: initial explorations with materials, processes of translation (from texts to bodies, from English to Italian), ways of representing this process, work with participants to identify strategies for public engagement, initial evaluation (basic data, recorded conversations and written reflections)
 4. workshop 2 S'ALA: deepening understanding and translation of the collected materials, test methods for public engagement, second evaluation (recorded conversations and written reflections)
@@ -192,7 +192,7 @@ outcomes:
 
 What kinds of benefits/impacts?
 - increased skills and cultural awareness of role of body in navigating and understanding experience (change in capacity, knowledge, understanding, attitude or awareness)
-- long-term
+- long-term??
 
 The customer (the people who pay: AHRC? - really? )
 The end user: ends up experiencing product or service

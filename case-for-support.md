@@ -16,7 +16,7 @@ _RQ2 Proxies_: What are practice-research's common epistemic proxies and what is
 
 _RQ3 Hyper-specificity_: What language is used to express approaches, findings and failures in practice-research? How can this language be adapted to develop increased dialogue across the research findings and outputs of practice-research artist-scholars?
 
-_Finger Pointing Moon_ uses practice-research and other methods to examine the line between what is able to be known and what is not. It is a line we all are navigating: truth, fake news, filter bubbles, datafication of experience, and the analogue sensations of the human body. _Finger Pointing Moon_'s research focus is on the epistemic limits of practice-research; this focus serves the project's overarching aim to deepen awareness of the limits of understanding of the human body. The diverse outputs proposed in the research and development components of the fellowship also reveal how epistemic concerns are vital to the wider public.
+_Finger Pointing Moon_ uses practice-research and allied methods to examine the line between what is able to be known and what is not. It is a line we all are navigating: truth, fake news, filter bubbles, datafication of experience, and the analogue sensations of the human body. _Finger Pointing Moon_'s research focus is on the epistemic limits of practice-research; this focus serves the project's overarching aim to deepen awareness of the limits of understanding of the human body. The diverse outputs proposed in the research and development components of the fellowship also reveal how epistemic concerns are vital to the wider public.
 
 add epistemic crisis and epistemic well-being to paragraph above <https://psyche.co/ideas/the-antidote-to-fake-news-is-to-nourish-our-epistemic-wellbeing>
 
@@ -146,7 +146,7 @@ These four capabilities will be developed through four bold activities and outpu
 
 - clarify how these are outputs, collaborative research, dissemination, public engagement and impact. Two are built on practices of collection and curation. Include how these practices will be underpinned/informed by the research (how will they?)
 
->He prefers to sustain the period of this kind of discovery, through digging, attending to the soil and ash, in which a different kind of information is possible, one that is not axiomatic or verifiable.[@day_digging_2013 p.66]
+>He prefers to sustain the period of this kind of discovery, through digging, attending to the soil and ash, in which a different kind of information is possible, one that is not axiomatic or verifiable.[@day-2013-digging p.66]
 - idea of period of discovery might be useful for both collection practices. Then that period is taken into engagement.
 
 _1. Unforgettable_ (Output 3) will be an exhibition of visual and text materials based on a practice of gathering and sharing the public's experiences of dance and movement. Artists, scholars and audiences from around the world will be networked to send a written note or letter that describes a single unforgettable moment or experience of dancing. These documents will be collated and organised into an exhibition to be presented by project partners in England and Scotland. _Unforgettable_ builds on the research's epistemic narrative by exploring the role of memory and languages of experience and expression in understanding how we come to know what we know. The process and exhibition is designed to: i) inspire creativity in how other researchers understand and represent the scope of their largely theoretical undertakings; ii) seek wider impact by ambitiously engaging a broad cross-section of participants; iii) develop new and formal research-informed partnerships and collaborations with non-academic organisations in the UK, and informal collaborations with people who submit materials from around the world.
@@ -176,12 +176,9 @@ In terms of supporting the research staff funded on the project, you should clea
 
 The project will be managed by Ellis (PI, 0.5FTE for months 1-12, 0.8FTE for months 13-18) working with a Research Associate (0.6FTE, 18 months). The PI has experience of managing academic and artistic teams and large research projects, and collaborating with industry partners. The PI will oversee the research methods, supervise and participate in the practice fieldwork and be responsible for overall management of research outcomes and outputs. He will manage the collaborative work with the project partners to ensure open dialogues are sustained, and that the outputs are curated to meet the needs of the partners' audiences, and his own capability development goals. The PI will be supported by an RA who will undertake the desk-based fieldwork and analysis, and contribute to the scholarly writing. The practice fieldwork requires expert input from two people: Joanne 'Bob' Whalley and Roger Kneebone. Whalley is an experienced artist-scholar working at the forefront of experimental documentation and writing practices. She will work with Ellis in the practice fieldwork as an expert practitioner and novice AM practitioner -- an ideal insider-outsider perspective. Kneebone is a renowned professor of surgical education, whose recent work has focused on expert practices across the sciences and arts, and investigation into the nature of performance across disciplines. Kneebone's role in _Finger Pointing Moon_ will be third-person observation, documentation and analysis of the practice fieldwork. Both experts will contribute to Outputs 1 and 2. 
 
-The Research Associate will support the project through bibliographic research, drafting scholarly outputs, event and output organisation, data and website management and a small volume of administration. The RA will be line managed by the PI. They will have regular comms via a Teams channel, and weekly stand-up meetings to review progress, and to make milestone or delivery adjustments. The PI will balance the RA's ongoing professional development, curiosity, skills and understanding, with open communication regarding the project's milestones and outputs. The goal will be to help the RA to develop the skills, experience and confidence to pursue their own research agenda after the completion of the project. The RA will have a practice-research PhD, and will be experienced in bibliographic research, writing and editing; they will be an excellent verbal and written communicator and have advanced digital literacy. 
+The Research Associate will support the project through bibliographic research, drafting scholarly outputs, event and output organisation, data and website management and a small volume of administration. The RA will be line managed by the PI. They will have regular comms via a Microsoft Teams channel, and weekly stand-up meetings to review progress, and to make milestone or delivery adjustments. The PI will balance the RA's ongoing professional development, curiosity, skills and understanding, with open communication regarding the project's milestones and outputs. The goal will be to help the RA to develop the skills, experience and confidence to pursue their own research agenda after the completion of the project. The RA will have a practice-research PhD, and will be experienced in bibliographic research, writing and editing; they will be an excellent verbal and written communicator and have advanced digital literacy. 
 
-The project will have a four-person Advisory Group that will meet remotely with the PI at six-month intervals to provide high-level guidance: EP, MD, CW and RN. CovUni will allocate additional administrative support to the PI for purchasing, finances, project management and technical support when required.
-
-Efrosini Protopapa, Lee Miller, Sarah Whatley, Ken Friedman, Michael Biggs, Robin Nelson, Adrian Heathfield, Maria Delgado.
-
+The project will have a four-person Advisory Group that will meet remotely with the PI at six-month intervals to provide high-level guidance: Efrosini Protopapa, Sarah Whatley, Charlotte Waelde and Lee Miller. CovUni will allocate additional administrative support to the PI for purchasing, finances, project management and technical support when required.
 
 ### Timetable and milestones
 
@@ -211,86 +208,36 @@ _assessment criteria (from assessment-criteria.md):_
 >- whether the plans to increase impact are appropriate and justified, given the nature of the proposed research
 >- whether sufficient attention has been given to who the beneficiaries of the research might be and appropriate ways to engage with them throughout the project.
 
-
-Who might benefit from the research and how might they benefit? (how identified?)
-
-_What do I do?_ 
-
-I work at the boundary between academic research practices, and professional art practices. I seek ways of extending research ideas into the professional and wider public communities: to make research relevant to artists and publics. The means of doing this are developed with partners and publics.
-
-_Why do I do it?_
-
-I do it because otherwise the research has no point or value. I'm tired of academic research existing in a tiny bubble of obfuscation and ambition. I also do it because I'm convinced that developing our awareness of the body -- and our capacity to sense it in everyday and extraordinary circumstances -- is fundamental to leading a rich and healthy life. That our culture's emphasis on cognition -- and the cognitive powers of the brain -- too easily conceives of our bodies as merely being transport systems or containers for our brains. We ignore or simply forget that are our body is our primary instrument that makes perception, sensing and thinking possible.  
-
-_Why do I think it works?_
-
-It works because our bodies make being together possible. They make being in relationship possible. This work brings philosophical ideas about knowledge and understanding into relationship with the lives of people. 
-
-### Who might benefit and how?
-
->In the investigator’s immediate professional circle, carrying out similar or related research. Researchers in other disciplines. Researchers in other academic institutions (in the UK and/or international)
-
-
-
-The End Users (The person who ends up experiencing your product or service): academic: artist-scholars; non-academic: artists, arts audiences, wider public.
-
-The Beneficiary: The person whose life improves because of your product or service.
+### Beneficiaries and impacts: Who might benefit and how?
 
 #### Academic
 
-- Researchers across the arts and humanities working on epistemic underpinnings of practice-research. will benefit through [Outputs 1,2,5,6,7,9,10,11]
-- Artist-scholars using practice-research as a form of knowledge production. Potential impacts ... [Outputs 1,2,5,6,7,9,10,11]
-- Qualitative researchers (social sciences, arts and humanities), epistemologists, scholars exploring experimental research methods. Theoretical advancements [Outputs 2,5,6] 
-- Academics across disciplines examining online engagement strategies [Outputs 7,9,10]
-- Scholars working with body-based and somatic processes as research [Outputs 1,2,4,5,6,7,8,9,11]
-- scholars looking into alternative methods for dissemination
-- PhD students and early-career artist-researchers [Outputs 9,10,11]
-- scholars and research centres exploring methods of public engagement [Outputs 3,4,7,8,9]
+- Researchers across the arts and humanities investigating the epistemic underpinnings of practice-research. The project will collect, localise and openly share and analyse current research to improve awareness of epistemic limitations and possibilities of practice-research [Outputs 1,2,5,6,7,9,10,11].
+- Artist-scholars using practice-research as a form of knowledge production. They will benefit through enhanced language and clarity around epistemic boundaries of practice-research, increased understanding of the role of proxies in research dissemination, and strengthened culture of sharing research by non-traditional means [Outputs 1,2,5,6,7,9,10,11].
+- Qualitative researchers (social sciences, arts and humanities), epistemologists, scholars exploring experimental research methods. They will benefit through theoretical advancements in epistemic edge-cases or situations that fit poorly with conventional knowledge production [Outputs 2,5,6] 
+- Scholars and research centres across disciplines exploring alternative methods of public engagement and dissemination. They will benefit reflexively by being part of a community that will self-generate dissemination and engagement possibilities [Outputs 9,10], and by increased awareness of strategies to engage different publics with niche research outcomes [Outputs 3,4,7,8].
+- Scholars working with body-based and somatic processes as research. This is the community closest to the current expertise of the PI. Potential impacts will be linguistic and creative outputs that drive new ways to delimit or clarify the research potential of complex somatic processes [Outputs 1,2,5,6,7,9,11]
+- PhD students and early-career artist-researchers will benefit from open access to a public forum that involves a wide range of international peers and experienced artist-scholars who are working through similar areas and methods. The potential impacts will be an enhanced sense of community, and increased sharing of understanding and experience on practice-research methodologies, questions and resources [Outputs 9,10].
 
 #### Non-Academic
 
->please provide examples of how the proposed research will be managed to engage any users and beneficiaries that have been identified, or to identify potential users and beneficiaries as the research progresses, and to increase the likelihood of achieving impacts.
+- Dance and somatic artists, photographers and movement therapists will benefit from new experiences of research-informed outcomes that intersect with the professional arts community [1,3,4,7]. Potential impacts will be that the outcomes will act as sources of inspiration for how they understand and create their own work.
+- Professional artists considering entering the academy will benefit from access to a public forum of experienced artist-scholars and potential peers. Potential impacts include developing the skills to help decide whether to start a practice-research higher degree or not, learning how a research programme might interact with professional artistic practice, and inspiration for developing research ideas [9,10]
+- The curated exhibitions [3,4] will create have two types of beneficiaries: artists and members of the public identified by the PI and project partners to contribute to and participate in the development of the outcomes, and public  audiences connected to project partners who will witness the outputs. and contribute audiences of organisations/project partners [3,4,8]
+- artists and wider public who participate in workshops [3,4]
+- contributors to exhibition (unforgettable) [3], enjoyment, skills development
+- inspiration and creativity, new experiences, learning
+- The podcast [8] will be marketed to the wider public who are not necessarily directly keyed into the research project (compared with, say, outputs 3 and 4). The goal here is to extend the reach and impact of the research beyond its niche epistemic concerns -- to extrapolate from the body as a site of knowledge in order to inform, inspire and develop new understandings for the public.
 
-General strategy is to work closely with PP's to identify possible end-users and beneficiaries, and to collaborate with them on public engagement and evaluation strategy.
+Academic and non-academic beneficiaries will be identified at the start through CovUni's research networks, the project team's personal and cross-disciplinary professional networks and in-place social networks (including personal communications, regular social media and currently existing list-servs). Output 9 (the Discourse Forum) will be an emergent space for conversation and sharing between artist and scholars that will grow primarily through word-of-mouth. It will act as a service to the practice-research community but also as a bottom-up method to identify and communicate with project beneficiaries throughout the length of the project (and beyond), and to assess research impacts. 
 
-say who they are first and also strategies for identifying others during the project (make time for this in Workplan)
+The PI will also work closely with the project partners to identify possible end-users and beneficiaries, and to develop and execute public engagement and evaluation strategies. For example, outputs 3 and 4 are artistic-research processes developed with artists and audiences identified by the partners. In effect, the collaborations with project partners are bespoke ways of building relationships over time, engaging their audiences, and evaluating the impact of the outputs. Such bottom-up strategies towards achieving impact -- developed with beneficiaries over extended periods of time -- are fundamental to _Finger Pointing Moon_'s sense of collaborative discovery. 
 
-In _Finger Pointing Moon_ the end-users are the beneficiaries. They will be identified through various systems: collaboration with project partners, word of mouth, comms strategies built into the outputs themselves (e.g. _Unforgettable_, and Discourse Forum), the project team's personal and cross-disciplinary professional networks, in-place social networks (including regular social media and currently existing list-servs) and blogging. 
-
-- beneficiaries will be artists and audiences (wider public) of project partners
-- identified through close collaboration with project partners. The collaborations with project partners are bespoke ways of building relationships over time, engaging their audiences, 
-
-Identified in consultation and collaboration with project partners during Development components. 
-
-- artists and creatives working with the body
-- artists considering entering the academy
-- audiences of organisations/project partners
-- wider public who participate in workshops
-- contributors to exhibition (unforgettable)
-- dance and somatic artists, photographers, documenters, movement therapists; 
-
-### Beneficiaries and impacts
-
-The following table outlines possible beneficiaries and impacts for each output.
-
-| Output | Possible beneficiaries                                                                                                                                                                                            | Possible impacts                                                                                                                                                         |
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1 ExpDoc     | _public:_ dance and somatic artists, photographers, documenters, movement therapists; _academics:_ body-based and somatic artist-researchers, practice-researchers, qualitative researchers                       | increased cultural awareness of documentation strategies; increased awareness of non-judgemental practices; change hegemonic use of video as documentation               |
-| 2 Lims     | qualitative researchers, practice-researchers across disciplines, epistemologists                                                                                                                                 | increase focus and understanding of the edges of epistemic claims in practice-research                                                                                   |
-| 3 UnforX     | wider public (audiences of organisations/project partners); dance/theatre audiences; arts organisations working with and across HE; the contributors; international audience/network; archivists                  | create shared understanding what the public _knows_ about the transmission of affect in dance and performance; create community culture of shared experience             |
-| 4 UnknowX     | artists and creatives working with the body; partner audiences; institutions working in public engagement; local artists 'curating' the materials; academics in medical and health sciences, arts and humanities  | model methods for audience engagement; increased cultural awareness of role of body in navigating experience; create possibilities for future interdisciplinary research |
-| 5 Prox     | practice-research artist-scholars; qualitative researchers (social sciences, arts and humanities)                                                                                                                 | develop and change understanding of research artefacts that 'stand in' for direct research outcomes                                                                      |
-| 6 Lex     | focused on practice-research artist-scholars; qualitative researchers (social sciences, arts and humanities)                                                                                                      | develop language and thinking to do with limits and failures in practice-research as a tool for cultural change in the field                                             |
-| 7 DDoc     | academics (at all levels) working in artistic research and other experimental research methods); professional artists exploring research paradigms; scholars looking into alternative methods for dissemination   | develop culture of dissemination research using creative and non-traditional means; develop awareness of role of epistemology in practice-research thinking and methods  |
-| 8 Pod    | wider public; cross disciplinary scholars (act as method to build broad audience for the research)                                                                                                                | develop understanding of role of _epistemology_ in societal issues; marker for other _niche_ researchers to explore novel public engagement strategies                   |
-| 9 Forum     | artist-researchers (cross-disciplines), academics, artists transitioning into academy                                                                                                                             | building culture of community-based ideas and comms; large-scale resource of 'holding space' for practice-research technologies, histories, practices and conversations  |
-| 10 Talks    | PhD and early-career artist-researchers (in academy) and artists considering entering the academy; academics across disciplines exploring online engagement strategies                                            | develop understanding of issues in practice-research; expand possibilities for online conferences suitable to particular demands of video-call technologies             |
-| 11 Web    | all beneficiaries above (key open access resource for entire project)                                                                                                                                             | as above                                                                                                                                                                 |
 ### Dissemination, public engagement and exploitation
 
-Many of the outputs have community building and public engagement features built in (e.g. Discourse Forum, exhibitions, Podcast and curated micro-conferences). These communities will be brought together through online spaces and by working closely with project partners to develop a 'bottom-up' method to share, discuss and create conversations about the outputs and the project. The partners will also be vital in finding and engaging new audiences as an ongoing aspect of the research and development components. The project's public profile will be supported by C-DaRE and CovUni communication and marketing, and social media and communication systems belonging to the project partners.  
+Many of the outputs have community building and public engagement features built in [3,4,8,9,10]. These communities will be brought together through online spaces and by working closely with project partners to develop emergent methods to share, discuss and create conversations about the project outputs and how people are impacted by the research. The partners will also be vital in finding and engaging new audiences as an ongoing aspect of the research and development components. The project's public profile will be supported by C-DaRE and CovUni communication and marketing, and social media and communication systems belonging to the project partners.  
 
-The processes, outcomes and outputs of _Finger Pointing Moon_ will be meticulously documented via the project website to maximise transparency and open accessibility for as wide an audience as possible. All original data from the practice-research fieldwork will be openly accessible for exploitation by other researchers. All draft and completed text materials from all stages of the project (including the development of this fellowship proposal) will be openly accessible through a GitHub repository.[^git] This OA strategy ensures research transparency and the availability of the ideas, data and outputs for other researchers to transform and publish in accordance with a Creative Commons CC-BY 4.0 license. The Discourse Forum will function as a service to the practice-research community, and the lexicon of failure and findings (Output 6) has the potential to act as a tool for standardisation. The pre-press versions of articles accepted by journals behind paywalls (Outputs 2 and 5) will be made available on the project website. The PI has a strong practice of using clear, direct and simple language and this practice will underpin the project's communication, public engagement and dissemination strategies. 
+The processes, outcomes and outputs of _Finger Pointing Moon_ will be meticulously documented via the project website to maximise transparency and open accessibility for as wide an audience as possible. All original data from the practice-research fieldwork will be openly accessible to other researchers and the wider public. The pre-press versions of articles accepted by journals behind paywalls [2,5] will be made available on the project website. All draft and completed text materials from all stages of the project (including the development of this fellowship proposal) will be openly accessible through a GitHub repository.[^git] This OA strategy ensures research transparency and the availability of the ideas, data and outputs for other researchers to transform and publish in accordance with a Creative Commons CC-BY 4.0 license. The PI has a deliberate practice of using clear, direct and simple language and this practice will underpin the project's communication, public engagement and dissemination strategy. 
 
 [^git]: [github.com/skellis46/finger-pointing-moon](https://github.com/skellis46/finger-pointing-moon)
 
