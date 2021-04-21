@@ -1,6 +1,10 @@
 # edit bin
 
+add something here about concept of visibility/invisibility as a means to slow down and re-orient the method. See zettel concept as method. But perhaps also linked with fuzzy concepts (see same zettel)
 
+see also thinking about lack of conceptual stability in practice-research (same zettel as above). Wondering if this is a bug or a feature. What might happen in an attempt to bring conceptual stability to the methods? Is this possible? What might we agree on? This probably goes in 'why these methods'.
+
+The practice offers clear and precise limits to wrestle with what can be known differently through practice-research.
 
 - clarify how these are outputs, collaborative research, dissemination, public engagement and impact. Two are built on practices of collection and curation. Include how these practices will be underpinned/informed by the research (how will they?)
 
