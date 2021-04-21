@@ -4,6 +4,10 @@
 
 >Whereas exploitation is the use of results for commercial purposes or in public policymaking. [ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/grant-management/dissemination-of-results_en.htm](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/grant-management/dissemination-of-results_en.htm)
 
+## general thoughts
+
+To carry out and disseminate research that can inform and enrich partner programme, place and practices. To support partner (and stakeholders) to become more connected to research, with deeper awareness of the limits of human physical and cognitive understanding.
+
 _purpose_
 - what am I trying to achieve? 
     + inspiring/informing
@@ -42,7 +46,6 @@ I want to build relationships -- this is what will make it work or not.
 - dialogues -- open-ended
 - public good
 
-
 - _evaluation_: Evaluation is a valuable tool that enables you to learn from your experiences and to assess the impact of your work.
 - inform the development of project 
 - assess if objectives met
@@ -65,25 +68,23 @@ I want to build relationships -- this is what will make it work or not.
     6. data analysis: e.g. GLOs (see below) -- a type of coding framework
     7. reporting
 
+## unforgettable: connects our memory of dancing with our knowledge of dancing
 
-
-
-## my public engagement programme
-
-To carry out and disseminate research that can inform and enrich partner programme, place and practices. To support partner (and stakeholders) to become more connected to research, with deeper awareness of the limits of human physical and cognitive understanding.
-
-
-### unforgettable: connects our memory of dancing with our knowledge of dancing
-
+- aim: inspire, gather stories of inspiration/experience, build community
+- current: language is limited/piecemeal; language of experiences of an ephemeral/bodily thing
+- "I remember ..."
+- create website for collective evaluation messages
+- targeted interviews
+- dialogues with contributors (a gift?)
+- dialogues, conversations, collaborations, their experience
+- remote community of contributors -- building community 
 
 - _Current situation - A description of the situation you are trying to change_: a form without memory (archives are of the things/events, very rarely if at all about experiences of the things inside and out). 
-- _aims:_ To create a shared recollection/memory of experiences of dancing that inspires and creates interest in the form. To develop understanding of ...; to establish a way of collaborating between researchers, partners, stakeholders (artists) and wider public; something about learning?
-
->Learning is a process of active engagement with experience. It is what people do when they want to make sense of the world. It may involve the development or deepening of skills, knowledge, understanding, awareness, values, ideas and feelings, or an increase in the capacity to reflect. Effective learning leads to change, development and the desire to learn more.
+- _aims:_ To create a shared recollection/memory of experiences of dancing that inspires and creates interest in the form. To develop awareness of how memories inform understanding; to establish a way of collaborating between researchers, partners, stakeholders (artists) and wider public; to create opportunities for learning (active engagement with experience) for the people involve: deepening of skills, knowledge, understanding, awareness, values, idea and feeling, increase capacity to reflect.
 
 - _inputs (what I will contribute):_ 
 - _activities (what am going to do to achieve aims):_
-    + what if I brought in Jason Maling to work with group of artists at Dancehouse? -- Should the artists be paid for participating? 
+  
 - _outputs (what I create):_
 - _outcomes (what happens as a result):_
 - _impacts (long-term effects):_
@@ -91,14 +92,48 @@ To carry out and disseminate research that can inform and enrich partner program
 - _external factors (that could influence the outcomes of the project):_
 - 
 
-### the un/knowing body: connects what is known with what is not known about the moving human body
+### unforgettable: yorkshire dance plan
+
+What happens after the dancing? Where does it reside? Photos and videos of movement seem only to touch the surface of the experience. What is this experience of dancing and watching dance? What do we remember of it? What stays with us and our communities when the movement has gone? 
+
+What I'd love to do is work with the YD team, the artists in the area, and with their audiences to help us to remember, acknowledge, understand, reveal and share what might be unforgettable about dancing. I'm flexible and curious as to how to make this happen. I wonder also how a project like this might build on the sense of Yorkshire Dance as being a civic space?
+
+Plan (proposal), assuming bid is successful
+
+1. SE and team continue to collect 'unforgettable' moments. 
+2. work with YD (project partner and key stakeholder) in initial (morning) workshop: what is possible?, what will/won't work?, benefits, people involved.
+3. workshop 1 YD: remembering dance; exploring materials, generating new materials, how this feeds your work? identify possible ideas, places, methods and communities for public engagement, initial evaluation (basic data, recorded conversations, written reflections) (6 hours - 1 day?)
+4. workshop 2 YD: up to speed (assuming group not identical) deepening understanding of memory/understanding/knowledge, testing methods for public engagement/presentation (small scale prototypes of how to engage others in the work), second evaluation (recorded conversations, written reflections)
+5. workshop 3 YD: (2 days) generating public outcome building on work in 1st two workshops, third project evaluation
+6. public exhibition/output YD: how long installed (assuming it is an installation)? how documented? Include public conversation? 
+7. Impact evaluation (+6 months) and +12 months?
+
+- can we pay people to come? How much would that be? Definitely free? 
+
+Two strands of beneficiary: 
+- workshop participants (involved in development, public engagement, production)
+- exhibition viewers/participants
+
+
+_The prompt:_ Describe your feelings from a single 'unforgettable' moment of dancing or watching dance. 
+
+Here are two examples from what I've collected so far: 
+
+"I'm in the middle of lots of bodies. The music is loud. The room is heaving. I feel as if the movement is happening to me, and that I couldn't stop it even if I wanted to: moving, sweating, dancing." -- anonymous, USA.
+
+"I saw a dance performance by Helen Herbertson and Ben Cobham, but don't remember the name of the work. Maybe it was around 1997. All I remember is the feeling that my life was now different; that I saw things differently ... that I understood how limited our time is on Earth." -- SB, Melbourne.
+
+Thinking about the local record store changing album covers. What if the 'cover' of the building changed once a month for a year? 
+What if there were an index of cards?
+Other ways? 
+A competition to draw the memories -- or a game for local school children. 
+
+## the knowing body: connects what is known with what is not known about the moving human body
 
 _The Un/knowable Body_ directly explores a key part of the research component of _Finger Pointing Moon_ by addressing what is able to be known -- and what remains unknown -- about visual and sensorial experiences of the human body. 
 
 - _Current situation - A description of the situation you are trying to change_: body as machine ??? (see [evmed.asu.edu/blog/body-not-machine](https://evmed.asu.edu/blog/body-not-machine)) imaging techniques, broken, fix, mechanical, input-output
 - _aims:_ To develop understanding of the invisible, experiential, richly varied understandings of the moving body, inspires and creates interest in the body as sensing and fuzzy organism. Bringing into view that which cannot be seen. Intangible, hard to pin-down experiences. To develop understanding of ...; to establish a way of collaborating between researchers, partners, stakeholders (S'ALA and Dancehouse) and wider public; something about learning?
-
->Learning is a process of active engagement with experience. It is what people do when they want to make sense of the world. It may involve the development or deepening of skills, knowledge, understanding, awareness, values, ideas and feelings, or an increase in the capacity to reflect. Effective learning leads to change, development and the desire to learn more.
 
 - _inputs (what I will contribute):_ 
     + broad set of collected materials as starting point for conversation, exchange, dialogue, dissemination, engagement and experimentation. Research is the practice of collection. 
@@ -106,6 +141,7 @@ _The Un/knowable Body_ directly explores a key part of the research component of
 - _activities (what am going to do to achieve aims):_ 
     + collaboration with project partner (S'ALA -- Igor x Moreno) to work with the inputs/materials
     + workshopping with wider public -- building on materials/processes of translation
+    + what if I brought in Jason Maling to work with group of artists at Dancehouse? -- Should the artists be paid for participating? 
 - _outputs (what I create):_ exhibition
 - _outcomes (what happens as a result):_
     + increased understanding of the topic
@@ -132,47 +168,16 @@ _The Un/knowable Body_ directly explores a key part of the research component of
         * focus groups
     + data analysis: e.g. GLOs (see below) -- a type of coding framework
     + reporting
-- 
 
-### artistic research forum: 
-
-### the point beyond
-
-## discourse
-
-- generate micro-conferences from forum
-- benefits:
-    + learning
-    + inspiration
-    + new ideas
-    + better research
-
-
-## unforgettable
-
-- aim: inspire, gather stories of inspiration/experience, build community
-- current: language is limited/piecemeal; language of experiences of an ephemeral/bodily thing
-- "I remember ..."
-- create website for collective evaluation messages
-- targeted interviews
-- dialogues with contributors (a gift?)
-- dialogues, conversations, collaborations, their experience
-- remote community of contributors -- building community 
-
-
-## email to S'ALA
-
-# The Un/knowable Body at S'ALA
-
-## plan 
+### email to S'ALA re un/knowable body
 
 1. initial collection phase of materials (Finger Pointing Moon team)
-2. work with S'ALA (project partner and key stakeholder) to identify participants for workshop series. Open to all.
+2. work with S'ALA (project partner and key stakeholder) to identify participants for workshop series. Make the workshops open to all?
 3. workshop 1 S'ALA: initial explorations with materials, processes of translation (from texts to bodies, from English to Italian), ways of representing this process, work with participants to identify strategies for public engagement, initial evaluation (basic data, recorded conversations and written reflections)
 4. workshop 2 S'ALA: deepening understanding and translation of the collected materials, test methods for public engagement, second evaluation (recorded conversations and written reflections)
 5. workshop 3 S'ALA: generating public outcome building on work in first two workshops, third project evaluation
 6. public exhibition/output S'ALA: how long installed? how documented? Include public conversation? 
-7. Impact evaluation (+6 months)
+7. Impact evaluation (+6 months) and +12 months?
 
 Two strands of beneficiary: 
 - workshop participants (involved in development, public engagement, production)
@@ -198,6 +203,23 @@ The customer (the people who pay: AHRC? - really? )
 The end user: ends up experiencing product or service
 The beneficiary: person whose life improves because of your product or service
 
+## artistic research forum: 
+
+## the point beyond
+
+## discourse
+
+- generate micro-conferences from forum
+- benefits:
+    + learning
+    + inspiration
+    + new ideas
+    + better research
+
+
+
+
+# communications
 
 ## email to rk post meeting
 
@@ -217,15 +239,11 @@ Very best wishes
 
 Simon
 
-
-
 PS Below is a small bit of writing that hints at what we discussed.
 
 >We can agree that dancers have some kind of knowledge of what they are doing; that they _know how_ to do what they are doing. But it's not easy to understand or describe what it means to know something in dance. We might use a word like 'embodied' to describe the way a dancer-in-their-body seems to know something, but this isn't necessarily very helpful. For example, how would we recognise a disembodied dancer? _Finger Pointing Moon_ is a dance research project about what it means to know through and in our moving bodies.
 
 Here's a 'desktop presentation' I made that touches on some of the issues we discussed: https://www.skellis.net/corporeal-epistemics
-
-
 
 ## notes for rk meeting
 
@@ -305,7 +323,6 @@ Thanks so much Josh. I hope this is a little more helpful than my last effort.
 Simon
 
 ## plain-language email re unforgettable
-
 
 Dear 
 

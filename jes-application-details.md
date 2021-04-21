@@ -46,15 +46,13 @@ _Finger Pointing Moon_ is a research, development and engagement fellowship that
 
 The fellowship has a research component and a development component. The research component aims to address a fundamental and contested question in artistic practice-research: What is known or understood differently as a consequence of employing practice-research methods? The Principal Investigator and two other experts will use studio-based fieldwork -- specifically an experimental body-based movement practice called _authentic movement_ -- as an empirical approach to practice-research, and build on this with desk-based research to generate theoretical perspectives on the limits and role practice-research is able to play in the broader academic research ecosystem.
 
-The research will benefit artist-scholars at all levels of experience across the arts and humanities by creating a relatively unambiguous examination of the claims that practice-researchers are able to make of their work specifically, and through artistic processes of experimentation more generally. We will engage these people working at the intersection of professional arts and the Academy through a number of processes, but most importantly via an openly accessible online Discourse forum that will run throughout the project timeline and beyond.
+The research will benefit artist-scholars at all levels of experience across the arts and humanities by attempting to develop a relatively unambiguous examination of the claims that practice-researchers are able to make of their work specifically, and through artistic processes of experimentation more generally. We will engage these people working at the intersection of professional arts and the Academy through a number of public engagement processes, but most importantly via an openly accessible online Discourse forum that will run throughout the project timeline and beyond.
 
 The development component of the fellowship focuses on collaborating with project partners in the UK, Italy and Australia to explore diverse ways to engage and converse with non-academic audiences about the significance of grappling with questions of epistemology, and how arts practices might play a key role in these conversations. In other words, the question "How do we know that we know what we know?" is far more than an intellectual or academic problem, but rather has never been more vital in our post-truth filter-bubbled world in which the radically analogue sensations of the human body are at odds with the seemingly unstoppable datafication of experience.
 
-The development component will benefit public stakeholders in the arts who are curious about the ways artistic-scholarly research extends into public discourse. These will be audiences and organisations identified with the support of project partners. The public exhibitions and podcast series are designed to nourish arts and 'arts-adjacent' audiences. These diverse audiences will be involved through a series of public engagement events developed with the project partners: online conversations, public discourse and experimental curational strategies that involve artists local to the project partners.  
+The development component will benefit public stakeholders in the arts who are curious about the ways artistic-scholarly research extends into public discourse. These will be audiences and organisations identified with the support of project partners. The public exhibitions and podcast series are designed to nourish arts and 'arts-adjacent' audiences. These diverse audiences will be involved through a series of public engagement events developed with the project partners: online conversations, public discourse and experimental curational strategies that involve artists and other beneficiaries local to the project partners.  
 
 Although the entire _Finger Pointing Moon_ fellowship addresses what appears to be a niche concern -- the epistemic limits of artistic practice-research -- the diverse outputs proposed in both the research and development components of the project will reveal how experiencing and understanding epistemic limits are a fundamental part of being human.
-
-
 
 >Describe the proposed research in simple terms in a way that could be publicised to a general audience. Note that this summary may be published on the AHRC's website in the event that a grant is awarded. You should also summarise how the research will be beneficial to users who are within and beyond the academic research community, and how you intend on engaging with them. Following the removal of the distinct Pathways to Impact attachment applicants will be expected to show how the research provides impact throughout the application, and especially within the Case for Support.
 
@@ -78,15 +76,15 @@ Although the entire _Finger Pointing Moon_ fellowship addresses what appears to 
 
 ### Ethical implications
 
-AHRC - Specific Requirements
+>AHRC - Specific Requirements
 
-Please indicate whether there are any ethical implications arising from the proposed research activities.  For example, does the research involve human participants?  Does it require travel to countries where the safety of project participants might be in jeopardy? Could the research result in damage to the natural environment?  If the project involves public engagement in the research, has consideration been given to ensuring appropriate equality and diversity of engagement?
+>Please indicate whether there are any ethical implications arising from the proposed research activities.  For example, does the research involve human participants?  Does it require travel to countries where the safety of project participants might be in jeopardy? Could the research result in damage to the natural environment?  If the project involves public engagement in the research, has consideration been given to ensuring appropriate equality and diversity of engagement?
 
-If there are ethical implications, you should give brief details of what they are and how you intend to address them.
+>If there are ethical implications, you should give brief details of what they are and how you intend to address them.
 
-You are also asked to indicate whether your HEI has a policy on good conduct in research, in line with the requirements of the Research Councils.
+>You are also asked to indicate whether your HEI has a policy on good conduct in research, in line with the requirements of the Research Councils.
 
-If the answer is Yes, please indicate where this can be accessed (e.g. website address).
+>If the answer is Yes, please indicate where this can be accessed (e.g. website address).
 
 ### Academic Beneficiaries [4000 xters] ###
 
@@ -96,28 +94,35 @@ _Describe who will benefit from the research_
 
 >Please summarise how your proposed research will contribute to knowledge, both within the UK and globally.
 
-Academic Beneficiaries (4000 characters max) should address the following questions:
+>Academic Beneficiaries (4000 characters max) should address the following questions:
 
-- How the research will benefit other researchers in the field
-- Identify whether there are any academic beneficiaries in other disciplines and, if so, how they will benefit and what will be done to ensure that they benefit
-- What other researchers, both within the UK and elsewhere are likely to be interested in or to benefit from the proposed research.
+>- How the research will benefit other researchers in the field
+>- Identify whether there are any academic beneficiaries in other disciplines and, if so, how they will benefit and what will be done to ensure that they benefit
+>- What other researchers, both within the UK and elsewhere are likely to be interested in or to benefit from the proposed research.
 
-Please look broadly beyond narrow research field. UKRI recognises that in generating new knowledge, a cross-disciplinary or single-disciplinary approach may be the most appropriate. Applicants are asked to clearly state their chosen approach and provide justification for that choice.
+>Please look broadly beyond narrow research field. UKRI recognises that in generating new knowledge, a cross-disciplinary or single-disciplinary approach may be the most appropriate. Applicants are asked to clearly state their chosen approach and provide justification for that choice.
 
-List any academic beneficiaries from the research and give details of how they will benefit and how the results of the proposed research will be disseminated. Specific beneficiaries might be:
+>List any academic beneficiaries from the research and give details of how they will benefit and how the results of the proposed research will be disseminated. Specific beneficiaries might be:
 
-- Researchers in the investigator’s immediate professional circle, carrying out similar or related research
-- Researchers in other disciplines
-- Researchers in other academic institutions (in the UK and/or international)
+>- Researchers in the investigator’s immediate professional circle, carrying out similar or related research
+>- Researchers in other disciplines
+>- Researchers in other academic institutions (in the UK and/or international)
 
-Also describe the relevance of the research to beneficiaries:
+>Also describe the relevance of the research to beneficiaries:
 
-- Identify the potential academic impact of the proposed work
-- Show how the research will benefit other researchers (this might include methodological or theoretical advances)
-- Identify whether the research will produce data or materials of benefit to other researchers, and explain how these will be stored, maintained and made available
-- Explain any collaboration with other researchers and their role in the project
+>- Identify the potential academic impact of the proposed work
+>- Show how the research will benefit other researchers (this might include methodological or theoretical advances)
+>- Identify whether the research will produce data or materials of benefit to other researchers, and explain how these will be stored, maintained and made available
+>- Explain any collaboration with other researchers and their role in the project
 
-Note: The Academic Beneficiaries section may be published to demonstrate the impact of Research Council funded research.  Please ensure confidential information is not included in this section.
+>Note: The Academic Beneficiaries section may be published to demonstrate the impact of Research Council funded research.  Please ensure confidential information is not included in this section.
+
+- Researchers across the arts and humanities investigating the epistemic underpinnings of practice-research. The project will collect, localise and openly share and analyse current research to improve awareness of epistemic limitations and possibilities of practice-research [Outputs 1,2,5,6,7,9,10,11].
+- Artist-scholars using practice-research as a form of knowledge production. They will benefit through enhanced language and clarity around epistemic boundaries of practice-research, increased understanding of the role of proxies in research dissemination, and strengthened culture of sharing research by non-traditional means [Outputs 1,2,5,6,7,9,10,11].
+- Qualitative researchers (social sciences, arts and humanities), epistemologists, scholars exploring experimental research methods. They will benefit through theoretical advancements in epistemic edge-cases or situations that fit poorly with conventional knowledge production [Outputs 2,5,6] 
+- Scholars and research centres across disciplines exploring alternative methods of public engagement and dissemination. They will benefit reflexively by being part of a community that will self-generate dissemination and engagement possibilities [Outputs 9,10], and by increased awareness of strategies to engage different publics with niche research outcomes [Outputs 3,4,7,8].
+- Scholars working with body-based and somatic processes as research. This is the community closest to the current expertise of the PI. Potential impacts will be traditional and non-traditional creative outputs that drive new ways to delimit or clarify the research potential of complex somatic processes [Outputs 1,2,5,6,7,9,11]
+- PhD students and early-career artist-researchers will benefit from open access to a public forum that involves a wide range of international peers and experienced artist-scholars who are working through similar areas and methods. The potential impacts will be an enhanced sense of community, and increased sharing of understanding and experience on practice-research methodologies, questions and resources [Outputs 9,10].
 
 
 ### Project partners

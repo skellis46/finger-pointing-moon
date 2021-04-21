@@ -1,5 +1,20 @@
 # edit bin
 
+
+
+- clarify how these are outputs, collaborative research, dissemination, public engagement and impact. Two are built on practices of collection and curation. Include how these practices will be underpinned/informed by the research (how will they?)
+
+>He prefers to sustain the period of this kind of discovery, through digging, attending to the soil and ash, in which a different kind of information is possible, one that is not axiomatic or verifiable.[@day-2013-digging p.66]
+- idea of period of discovery might be useful for both collection practices. Then that period is taken into engagement.
+
+The PI will be supported by an RA who will undertake the desk-based fieldwork and analysis, and contribute to the scholarly writing. 
+
+wrote that the "art object does not embody a form of knowledge."[@scrivener_art_2002 n.pag.] Yet Borgdorff suggests that knowledge is "embodied in art practices."[@borgdorff_debate_2006 p.13] Even in disagreement, both scholars
+
+- what puzzles me in fpm? what is my genuine question and thing to address? -- lack of clarity, of anything goes: strength and weakness. Harmful and helpful.
+- 
+The partners will also be vital in finding and engaging new audiences as an ongoing aspect of the research and development components. 
+
 General strategy is to work closely with PP's 
 
 - beneficiaries will be artists and audiences (wider public) of project partners
