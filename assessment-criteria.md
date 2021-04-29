@@ -15,7 +15,7 @@
 - whether the other named participants have the appropriate experience and expertise to deliver the project
 - The suitability of the opportunities which the project will make available to support the development of the research staff on the project.
 
-## Criteria (specific to the Research and Development Fellowship scheme):
+## Criteria (specific to the Research, Development and Engagement Fellowship scheme):
 
 - Your ability to carry out high-quality individual research which has the potential to generate a significant impact on your own discipline and beyond
 - Your ability or potential to act as an advocate for the value and benefit of the arts and humanities to publics beyond academia
