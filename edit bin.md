@@ -1,5 +1,37 @@
 # edit bin
 
+3. complete comprehensive field review of practice-research from the beginning of practice-research in the early 1990s to the present, focusing on language used by artist-scholars to describe proxies, findings, understandings, failures and ambiguities. 
+4. deploy this field review in the development of the research outcomes and outputs
+
+Objectives [up to 4000 chars]
+
+List the main objectives of the proposed research in order of priority
+
+    The objectives of the proposed project should be listed in order of priority and should be those that the applicant would wish the Council to use as the basis for evaluation of work upon completion of any grant awarded.
+
+    Develop and publish a series of 11 research and development outputs
+
+The aim of Finger Pointing Moon is to address practice-research's fundamental epistemic question: What can we know or understand differently as a consequence of practice-research? The three research questions have corresponding objectives:
+
+RQ1 Limits: What are the epistemic limits of artistic practice-research? What aspects of practices are not able to be known, understood or articulated?
+
+    identify qualities of experience from first- and third-person body-based practice experiments that resist being known or are unable to be articulated;
+    identify qualities of experience from the same experiments that assist being known or are able to be articulated.
+
+RQ2 Proxies: What are practice-research's common epistemic proxies and what is their affect on the significance of practice-research as an approach for developing new insights?
+
+    complete in-depth survey of practice-research epistemology literature from the beginning of practice-research in the early 1990s to the present;
+    identify and critique any epistemic ambiguities, limitations and possibilities in this scholarship;
+    identify epistemic proxies of practice-research;
+    complete critical analysis of the affects of epistemic proxies on epistemic clarity and specificity in practice-research.
+
+RQ3 Hyper-specificity: What language is used to express approaches, findings and failures in practice-research? How can this language be adapted to develop increased dialogue across the research findings and outputs of practice-research artist-scholars?
+
+    collect and analyse language used by artist-scholars to describe their research findings, understandings, failures and ambiguities;
+    cohere this language in order to find ways of linking the epistemic status of previously distinct research projects;
+    categorise and organise these qualities of experience into a lexicon of epistemic findings and failures in practice-research.
+
+
 (e.g. when words fail us; swearing and cussing; language versus direct experience; silence and contemplation; mutism; computer languages and coding)
 
 (e.g. experimental failures; perception and perceptual error; contemplation, cognitive biases, meditation and enlightenment; truth and belief; conspiracy; machine learning and AI)

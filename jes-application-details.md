@@ -11,48 +11,32 @@ Finger pointing moon: the limits of practice-research
 
 ### Objectives [up to 4000 chars] ###
 
-_List the main objectives of the proposed research in order of priority_
-
 >The objectives of the proposed project should be listed in order of priority and should be those that the applicant would wish the Council to use as the basis for evaluation of work upon completion of any grant awarded.
 
-1. Develop and publish a series of 11 research and development outputs
-2. 
+1. Develop and publish eleven outputs based on the research and development components of _Finger Pointing Moon_;
+2. Create experimental fieldwork conditions by which to articulate clear limitations of practice-research, and creatively document these conditions and findings;
+3. Establish and support a vibrant community of artist-scholars that are able to discuss and share their work across disciplines;
+4. Develop and engage diverse audiences through a range of communication, impact and public engagement strategies that become sites for inspiration and learning;
+5. Work closely with project partners to build and sustain collaborations that traverse divisions between academic and professional practices;
+6. Centre the body as a means to understand the artistic-scholarly limits of practice-research;
+7. Deploy practice-research as a direct means to generate theoretical perspectives on practice-research methodologies
 
-The aim of _Finger Pointing Moon_ is to address practice-research's fundamental epistemic question: _What can we know or understand differently as a consequence of practice-research?_ The three research questions have corresponding objectives: 
-
-_RQ1 Limits: What are the epistemic limits of artistic practice-research? What aspects of practices are not able to be known, understood or articulated?_
-
-1. identify qualities of experience from first- and third-person body-based practice experiments that resist being known or are unable to be articulated;
-2. identify qualities of experience from the same experiments that assist being known or are able to be articulated. 
-
-_RQ2 Proxies: What are practice-research's common epistemic proxies and what is their affect on the significance of practice-research as an approach for developing new insights?_ 
-
-3. complete in-depth survey of practice-research epistemology literature from the beginning of practice-research in the early 1990s to the present;
-4. identify and critique any epistemic ambiguities, limitations and possibilities in this scholarship;
-5. identify epistemic proxies of practice-research;
-6. complete critical analysis of the affects of epistemic proxies on epistemic clarity and specificity in practice-research. 
-
-_RQ3 Hyper-specificity: What language is used to express approaches, findings and failures in practice-research? How can this language be adapted to develop increased dialogue across the research findings and outputs of practice-research artist-scholars?_
-
-7. collect and analyse language used by artist-scholars to describe their research findings, understandings, failures and ambiguities; 
-8. cohere this language in order to find ways of linking the epistemic status of previously distinct research projects;
-9. categorise and organise these qualities of experience into a lexicon of epistemic findings and failures in practice-research.
 
 ### Summary [up to 4000 chars] 
 
-The professionalisation of the arts in the Academy over the last 30 years has led to the development and growth of a hybrid research approach called practice-research. This collection of methods is based on the traditional art-making strategies of artists, and attempts to honour the exploratory and ambiguous nature of these practices while addressing the scholarly conventions of traditional research. 
+The professionalisation of the arts in the Academy over the last 30 years has led to the development and growth of a hybrid research approach called practice-research. This collection of methods is based on the traditional art-making strategies of artists, and attempts to honour the exploratory nature of these practices while addressing the scholarly conventions of traditional research. 
 
-_Finger Pointing Moon_ is a research, development and engagement fellowship that explores how research conducted through artistic practice might contribute to the ways knowledge is produced and valued in the Academy broadly, and how that understanding is communicated productively to the wider public. 
+_Finger Pointing Moon_ is a research, development and engagement fellowship that broadly explores how body-based practice-research contributes to knowledge production in the Academy, and how those understandings are communicated productively to the wider public. 
 
-The fellowship has a research component and a development component. The research component aims to address a fundamental and contested question in artistic practice-research: What is known or understood differently as a consequence of employing practice-research methods? The Principal Investigator and two other experts will use studio-based fieldwork -- specifically an experimental body-based movement practice called _authentic movement_ -- as an empirical approach to practice-research, and build on this with desk-based research to generate theoretical perspectives on the limits and role practice-research is able to play in the broader academic research ecosystem.
+The fellowship has a research component and a development component. The research component aims to address a fundamental and contested question in artistic practice-research: What is known or understood differently when using practice-research methods? The Principal Investigator and two experts (Joanne 'Bob' Whalley and Roger Kneebone) will use studio-based fieldwork -- specifically an experimental body-based movement practice called _authentic movement_ -- as an empirical approach to practice-research, and build on this with desk-based research to generate theoretical perspectives on the limits and possibilities of the role practice-research is able to play in the broader academic research ecosystem.
 
-The research will benefit artist-scholars at all levels of experience across the arts and humanities by attempting to develop a relatively unambiguous examination of the claims that practice-researchers are able to make of their work specifically, and through artistic processes of experimentation more generally. We will engage these people working at the intersection of professional arts and the Academy through a number of public engagement processes, but most importantly via an openly accessible online Discourse forum that will run throughout the project timeline and beyond.
+The research will benefit artist-scholars across the arts and humanities by attempting to develop a relatively unambiguous examination of the claims that practice-researchers are able to make of their work specifically, and through artistic processes of experimentation more generally. We will engage these people working at the intersection of professional arts and the Academy through a number of public engagement processes, but most importantly via an openly accessible online Discourse forum that will run throughout the project timeline and beyond.
 
-The development component of the fellowship focuses on collaborating with project partners in the UK, Italy and Australia to explore diverse ways to engage and converse with non-academic audiences about the significance of grappling with questions of epistemology, and how arts practices might play a key role in these conversations. In other words, the question "How do we know that we know what we know?" is far more than an intellectual or academic problem, but rather has never been more vital in our post-truth filter-bubbled world in which the radically analogue sensations of the human body are at odds with the seemingly unstoppable datafication of experience.
+The development component of the fellowship focuses on helping the PI acquire four new capabilities: 1) communicate the relevance of niche ideas in practice-research to the wider public; 2) demonstrate leadership in practice-research; 3) develop a broad community of artist-scholars; 4) create collaborations with academic and non-academic stake-holders. The PI will collaborate with project partners in the UK, Italy and Australia: Yorkshire Dance (UK), Dancehouse (Australia), S'ALA (Italy) and The Work Room (UK). The partners and research team will explore diverse ways to engage non-academic audiences about the importance of grappling with questions of epistemology, and how arts practices might play a key role in these conversations. In other words, the question "How do we know that we know what we know?" is more than an intellectual or academic problem, but rather has never been more vital in our post-truth filter-bubbled world in which the radically analogue sensations of the human body are at odds with the seemingly unstoppable datafication of experience.
 
-The development component will benefit public stakeholders in the arts who are curious about the ways artistic-scholarly research extends into public discourse. These will be audiences and organisations identified with the support of project partners. The public exhibitions and podcast series are designed to nourish arts and 'arts-adjacent' audiences. These diverse audiences will be involved through a series of public engagement events developed with the project partners: online conversations, public discourse and experimental curational strategies that involve artists and other beneficiaries local to the project partners.  
+The development and research components of the fellowship will benefit public stakeholders in the arts who are curious about the ways artistic-scholarly research extends into public discourse. These will be audiences and organisations identified with the support of project partners. The public exhibitions and podcast series are designed to impact arts and 'arts-adjacent' audiences. These diverse audiences will be involved through public engagement events developed with the project partners: online conversations, public discourse and experimental curational strategies that involve artists and other beneficiaries local to the project partners.  
 
-Although the entire _Finger Pointing Moon_ fellowship addresses what appears to be a niche concern -- the epistemic limits of artistic practice-research -- the diverse outputs proposed in both the research and development components of the project will reveal how experiencing and understanding epistemic limits are a fundamental part of being human.
+Although the fellowship addresses what appears to be a niche concern -- the epistemic limits and potential of artistic practice-research -- the diverse outputs proposed in both the research and development components of the project will reveal how experiencing and understanding epistemic limits are a fundamental part of being human.
 
 >Describe the proposed research in simple terms in a way that could be publicised to a general audience. Note that this summary may be published on the AHRC's website in the event that a grant is awarded. You should also summarise how the research will be beneficial to users who are within and beyond the academic research community, and how you intend on engaging with them. Following the removal of the distinct Pathways to Impact attachment applicants will be expected to show how the research provides impact throughout the application, and especially within the Case for Support.
 
