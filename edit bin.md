@@ -1,5 +1,32 @@
 # edit bin
 
+(e.g. when words fail us; swearing and cussing; language versus direct experience; silence and contemplation; mutism; computer languages and coding)
+
+(e.g. experimental failures; perception and perceptual error; contemplation, cognitive biases, meditation and enlightenment; truth and belief; conspiracy; machine learning and AI)
+
+>Amy: Please elucidate how you will reconcile the methods, data, and analysis from both experimental and traditional. It is not (good) enough to leave each (so called) ‘hanging’. It would be helpful to guide the Reviewer to understand what all your various outputs and outcomes will contribute to the better understanding of which of the 3 RQs and in what way i.e. circle back to your aims (aka reflexive evaluation) of the impact in your discipline (and beyond).
+
+a table here for methods/data/analysis -- pointing to outputs -- pointing to aims
+have diagram that shows relationship to dev plan and how research feeds into that plan???
+project aim: to deepen understanding of the epistemic limits of the human body
+key research aim: what is known or understood differently as a consequence of using practice-research methods
+
+the problem here is really about the development plan not being methods, or not having methods. ugh. 
+
+"verbalization and of rationalization"[@kerr-2016-borgmann p.64]
+
+Its focus is on doing something rather than making something, and the practice dwells deeply in ambiguous feelings and thoughts, and presents movement experiences that are not obviously visible. 
+
+that "may be within the limits of our thought but beyond the limits of our knowledge".[@markie-2017-rationalism n.p.]
+
+my key contribution to artistic practice-research will be to cut through the common vagueness of practice-research outputs and language. 
+
+Most recently, the Journal of Artistic Research publishes what are called expositions of practice. Expositions focus on "particular knowledges" and implicitly valorise epistemic vagueness.[@schwab-2015-experiment p.120] 
+
+This is a radically expanded epistemology in which practice-research is "dependent on its audience to do its epistemic work." 
+
+It is a critical line as we cope with fake news, filter bubbles and the datafication of body-based experiences. 
+
 add something here about concept of visibility/invisibility as a means to slow down and re-orient the method. See zettel concept as method. But perhaps also linked with fuzzy concepts (see same zettel)
 
 see also thinking about lack of conceptual stability in practice-research (same zettel as above). Wondering if this is a bug or a feature. What might happen in an attempt to bring conceptual stability to the methods? Is this possible? What might we agree on? This probably goes in 'why these methods'.
