@@ -4,50 +4,43 @@
 - confirm your organisation's commitment to the proposed project  
 - clearly explain the value, relevance and possible benefits of the work to the project partner  
 - give the nature and equivalent value of any in-kind contribution, and/or declare the value of a cash contribution, and period of support  
-- Describe the added value to the project of the project partner’s involvement. This is particularly important regarding public engagement. What strategies might we use to directly engage audiences (and how are they specifically relevant to the planned exhibition)? Who are those audiences?   
+- Describe the added value to the project of the project partner’s involvement. This is particularly important regarding public engagement. What strategies might we use to directly engage audiences (and how are they specifically relevant to the planned work)? Who are those audiences?   
 - two A4 pages maximum (11 point Arial)  
 - The letter should be targeted specifically to the project.
 
 ## S'ALA
 
-- [ ] need to know value of any in-kind contribution (or indeed cash contribution): cost of space (2 weeks + 3 weekends + 'hosting of exhbition?'); will you be able to donate your time for two weeks of work together?; 
+- [ ] need to know value of any in-kind contribution (or indeed cash contribution): cost of space (2 weeks + 3 weekends + 'hosting of exhibition?'); will you be able to donate your time for two weeks of work together?; 
 - [ ] what would you like me to pay for?   
 
 To Whom It May Concern
 
 We welcome this opportunity to write as a project partner in support of Simon Ellis's AHRC Research, Development and Engagement bid -- _Finger Pointing Moon_ -- and to express our commitment to the project. 
 
-S'ALA is a regional organisation in Sassari, Italy that serves local, national and international contemporary arts communities. The organisation has three components: _S'ALA Spazio per artist*_ -- a large physical home; _S'ALA Produzione_ -- a cultural organisation with regional public funding that offers artistic residencies and presents finished works and works-in-progress by Sardinian, Italian and international companies; and _S’ALA Formazione_ -- which organises dance and theatre courses and workshops.
+S'ALA is a regional organisation in Sassari, Italy that serves local, national and international contemporary arts communities. The organisation has three components: _S'ALA Spazio per artist*_ -- a large physical home; _S'ALA Produzione_ -- a cultural organisation with regional public funding that offers artistic residencies and presents finished works and works-in-progress by Sardinian, Italian and international companies; and _S’ALA Formazione_ -- which organises dance and theatre courses and workshops. These three components make S'ALA unique in the city of Sassari and the region of Sardinia. 
 
-These three components make S'ALA unique in the city of Sassari and the region of Sardinia. The proposal _Finger Pointing Moon_ represents a remarkable opportunity for S'ALA to combine the three branches of our organisation in order to develop a long-term public engagement strategy here in Sassari.
+The proposal _Finger Pointing Moon_ represents a remarkable opportunity for S'ALA to combine the three branches of our organisation to develop a long-term public engagement strategy here in Sassari. The collaboration with Ellis will act as a specific hub around which we can continue our work building a community of local, national and international artists and audiences. The expressive potential of the body has underpinned S'ALA since its inception. _Finger Pointing Moon_'s focus on the body will benefit our vision to broaden and deepen our community's understanding and awareness of the body in motion and indeed the body at rest. We expect the partnership and research will inspire and inform people about how much and how little is known and understood about the moving body. It will provide workshop participants and project audiences with an opportunity to increase their skills and cultural awareness of the role of the body in navigating and understanding experience. These will be new experiences for our public, and we hope that our partnership with the research will inspire creativity in our audiences. 
 
-_clearly explain the value, relevance and possible benefits of the work to the project partner_
+The work will involve a series of public engagement activities and strategies culminating in an exhibition called _Il corpo s/conoscibile_ (_The Un/knowable Body_) that will be installed in S'ALA for 6 months. These activities and strategies will be: 2 weeks working directly with Ellis on planning, developing and evaluating public engagement events; 3 weekends of free public community workshops (20 participants) working with visual and textual materials collected by Ellis and the community; a public conversation about the project and exhibition; documentation of the project on our website; ongoing contributions to the exhibition involving visitors and guests of S'ALA; evaluation of impact of the partnership 6 months after the finish of the exhibition.
 
-Focus on building a community of artists -- local, national and international -- and audiences for those communities. Focus on the body. Given the nature of the project, which has to do with the multiplicity of understandings of the body, I would imagine that we can involve as many people as possible
+S'ALA's in-kind contribution over the 12 month course of the project will be as follows:
 
-The collaboration with Ellis will 
+_nature and equivalent value of any in-kind contribution, and/or declare the value of a cash contribution_
 
+- materials
+- printing
+- cost of space
+- food/drink
+- support/scholarship for marginalised participants (or people who would otherwise not be able to make it)
+- what else? 
 
-Workshops: 20 people comfortably, 3 workshops, community nature means this group will likely change across the workshops. 
+S'ALA's value to the project will be to build community interest in the research to maximise its long-term value and impact. We will work with our regular communities, but also communicate with the local University, the _Liceo coreutico_ (dance high school), and local dance and theatre teachers and students. This work to engage the public through participation in the workshop, written and spoken reflections, the public conversation and exhibition will support _Finger Pointing Moon_, but also help broaden S'ALA's involvement in the community. 
 
-2 days long. community -- mix of professional artists, but also people with jobs in other worlds. Make as open as posssible. Free of charge. week with ellis before 1st, week with ellis after 3rd -- leading to opening of exhibition.
+Long-term, we imagine this research partnership with Simon Ellis will create new conversations about the body at a local level here in Sardinia, and we will explore ways as an organisation to continue these conversations beyond the _The Un/knowable Body_ exhibition itself. This will likely include developing new projects that focus on, for example, marginalised bodies, bodies in pain and trauma, and bodies in power.
 
-Long-term, we imagine this research partnership with Simon Ellis will create new conversations about the body at a local level, and which we will explore ways to continue beyond the _The Un/knowable Body_  exhibition itself. 
+We are excited by this first opportunity to partner a major artistic-research project, and trust that this letter of support conveys the potential of this work for S'ALA, and also how we ourselves will add value to the research.
 
-_nature and equivalent value of any in-kind contribution, and/or declare the value of a cash contribution, and period of support_
-
-
-(Il corpo s/conoscibile)
-
-exhibition: in large atrium of S'ALA, for up to 6 months. A 'live' exhibition whereby we add to it as a practice, and invite visitors and audiences to also add (something simple like photos of their bodies)
-public conversation
-Public exhibition/output: the length depends on where it will be installed. If it was installed in a common area (entrance/corridor/atrium of S’ALA) it could stay up for days/weeks/months. If it was installed in of the working spaces it would need to be shorter (a week max?). Simon, do you imagine this exhibition could comfortably exist on walls? Public conversation super welcome. Not sure about how to document, open to suggestions.
-
-It would be important to reach the right people in order for the effects to be long lasting: university? Liceo coreutico? Local dance/theatre teachers and students?
-
-_added value to the project of the project partner’s involvement. This is particularly important regarding public engagement. What strategies might we use to directly engage audiences (and how are they specifically relevant to the planned exhibition)? Who are those audiences?_
-
-
+Yours sincerely
 
 Igor Urzelai and Moreno Solinas
 Co-artistic Directors
@@ -56,7 +49,6 @@ Sassari
 Italy
 https://www.s-ala.com/
 sala.sassari@gmail.com 
-
 
 
 ## plan

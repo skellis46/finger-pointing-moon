@@ -15,7 +15,7 @@ Finger pointing moon: the limits of practice-research
 
 1. Develop and publish eleven outputs based on the research and development components of _Finger Pointing Moon_;
 2. Create experimental fieldwork conditions by which to articulate clear limitations of practice-research, and creatively document these conditions and findings;
-3. Establish and support a vibrant community of artist-scholars that are able to discuss and share their work across disciplines;
+3. Establish, develop and support a vibrant community of artist-scholars that are able to discuss and share their work across disciplines;
 4. Develop and engage diverse audiences through a range of communication, impact and public engagement strategies that become sites for inspiration and learning;
 5. Work closely with project partners to build and sustain collaborations that traverse divisions between academic and professional practices;
 6. Centre the body as a means to understand the artistic-scholarly limits of practice-research;
@@ -30,9 +30,9 @@ _Finger Pointing Moon_ is a research, development and engagement fellowship that
 
 The fellowship has a research component and a development component. The research component aims to address a fundamental and contested question in artistic practice-research: What is known or understood differently when using practice-research methods? The Principal Investigator and two experts (Joanne 'Bob' Whalley and Roger Kneebone) will use studio-based fieldwork -- specifically an experimental body-based movement practice called _authentic movement_ -- as an empirical approach to practice-research, and build on this with desk-based research to generate theoretical perspectives on the limits and possibilities of the role practice-research is able to play in the broader academic research ecosystem.
 
-The research will benefit artist-scholars across the arts and humanities by attempting to develop a relatively unambiguous examination of the claims that practice-researchers are able to make of their work specifically, and through artistic processes of experimentation more generally. We will engage these people working at the intersection of professional arts and the Academy through a number of public engagement processes, but most importantly via an openly accessible online Discourse forum that will run throughout the project timeline and beyond.
+The research will benefit artist-scholars across the arts and humanities by attempting to develop a relatively unambiguous examination of the claims that practice-researchers are able to make of their work specifically, and through artistic processes of experimentation more generally. We will engage these people working at the intersection of professional arts and the Academy through a number of public engagement processes, and via an openly accessible online Discourse forum that will run throughout the project timeline and beyond.
 
-The development component of the fellowship focuses on helping the PI acquire four new capabilities: 1) communicate the relevance of niche ideas in practice-research to the wider public; 2) demonstrate leadership in practice-research; 3) develop a broad community of artist-scholars; 4) create collaborations with academic and non-academic stake-holders. The PI will collaborate with project partners in the UK, Italy and Australia: Yorkshire Dance (UK), Dancehouse (Australia), S'ALA (Italy) and The Work Room (UK). The partners and research team will explore diverse ways to engage non-academic audiences about the importance of grappling with questions of epistemology, and how arts practices might play a key role in these conversations. In other words, the question "How do we know that we know what we know?" is more than an intellectual or academic problem, but rather has never been more vital in our post-truth filter-bubbled world in which the radically analogue sensations of the human body are at odds with the seemingly unstoppable datafication of experience.
+The development component of the fellowship focuses on helping the PI acquire four new capabilities: 1) communicate the relevance of niche ideas in practice-research to the wider public; 2) demonstrate leadership in practice-research; 3) develop a broad community of artist-scholars; 4) create collaborations with academic and non-academic stake-holders. The PI will collaborate with project partners in the UK, Italy and Australia: Dancehouse (Australia), S'ALA (Italy) and _XX_ (UK). The partners and research team will explore diverse ways to engage non-academic audiences about the importance of grappling with questions of epistemology, and how arts practices might play a key role in these conversations. In other words, the question "How do we know that we know what we know?" is more than an intellectual or academic problem, but rather has never been more vital in our post-truth filter-bubbled world in which the radically analogue sensations of the human body are at odds with the seemingly unstoppable datafication of human experience.
 
 The development and research components of the fellowship will benefit public stakeholders in the arts who are curious about the ways artistic-scholarly research extends into public discourse. These will be audiences and organisations identified with the support of project partners. The public exhibitions and podcast series are designed to impact arts and 'arts-adjacent' audiences. These diverse audiences will be involved through public engagement events developed with the project partners: online conversations, public discourse and experimental curational strategies that involve artists and other beneficiaries local to the project partners.  
 
@@ -60,15 +60,20 @@ Although the fellowship addresses what appears to be a niche concern -- the epis
 
 ### Ethical implications
 
+There are no major ethical implications arising from the proposed research activities. Although the two experts involved in the practice-based fieldwork are considered research colleagues rather than participants, they will still be asked to give informed consent (based on right to withdraw and anonymity if and when possible). Workshop participants (in Australia, UK and Italy) will likewise be asked for informed consent. Their participation will be voluntary and conditions of anonymity will be maintained. Participants from around the world who submit written 'memories' towards Output 3 _Un/forgettable_ will understand that they are contributing to a curated exhibition. Their involvement will be entirely voluntary and anonymous. 
+
+The project partners work with diverse communities and the workshops and public engagement events developed through these collaborations will be openly accessible to their audiences and adjacent communities (both in person and online).
+
+Coventry University has a policy on good conduct in line with the requirements of the AHRC: [https://www.coventry.ac.uk/research/about-us/research-ethics/](https://www.coventry.ac.uk/research/about-us/research-ethics/).
+
+
 >AHRC - Specific Requirements
 
 >Please indicate whether there are any ethical implications arising from the proposed research activities.  For example, does the research involve human participants?  Does it require travel to countries where the safety of project participants might be in jeopardy? Could the research result in damage to the natural environment?  If the project involves public engagement in the research, has consideration been given to ensuring appropriate equality and diversity of engagement?
 
 >If there are ethical implications, you should give brief details of what they are and how you intend to address them.
 
->You are also asked to indicate whether your HEI has a policy on good conduct in research, in line with the requirements of the Research Councils.
 
->If the answer is Yes, please indicate where this can be accessed (e.g. website address).
 
 ### Academic Beneficiaries [4000 xters] ###
 
@@ -114,11 +119,11 @@ _Describe who will benefit from the research_
 >If appropriate, the project may be delivered in collaboration with one or more non-academic partner organisations. Both UK and International organisations are eligible and must be existing organisations, although there is no minimum period stipulated for which they must have been operating. When collaborating with international partners you must demonstrate that the UK research is at the international leading edge. (p.59)
 
 
-Project Partners
+>Project Partners
 
-Details should be given of project partners and their contributions. An organisation should only be named as a project partner if it is providing specific contributions (either direct or indirect) to the research project.
+>Details should be given of project partners and their contributions. An organisation should only be named as a project partner if it is providing specific contributions (either direct or indirect) to the research project.
 
-Research Councils will pay Research Councils' % contribution of the total costs of the project excluding the project partner contribution. Project partner contributions in cash or in-kind should be seen as additional to the Research Councils' % contribution and are not considered part of the fEC of the project. BBSRC operates an exception for Industrial Partnership Awards (see BBSRC Research Grants Guide for details).
+>Research Councils will pay Research Councils' % contribution of the total costs of the project excluding the project partner contribution. Project partner contributions in cash or in-kind should be seen as additional to the Research Councils' % contribution and are not considered part of the fEC of the project. BBSRC operates an exception for Industrial Partnership Awards (see BBSRC Research Grants Guide for details).
 
 Attach a letter to the proposal (attachment type "letter of support") from each partner.
 

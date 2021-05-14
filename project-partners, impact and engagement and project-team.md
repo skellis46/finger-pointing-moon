@@ -292,7 +292,7 @@ Thank you for your time and I look forward to hearing from you soon.
 Yours sincerely.
 
 
-## plain-language email re the un/knowing body
+## plain-language email re the un/knowable body
 
 Dear Josh
 
@@ -302,9 +302,9 @@ Here goes ...
 
 We can agree that dancers have some kind of knowledge of what they are doing; that they _know how_ to do what they are doing. But it's not easy to understand or describe what it means to know something in dance. We might use a word like 'embodied' to describe the way a dancer-in-their-body seems to know something, but this isn't necessarily very helpful. For example, how would we recognise a disembodied dancer? _Finger Pointing Moon_ is a dance research project about what it means to know through and in our moving bodies. 
 
-I am proposing to you a part of this project which I've called _the un/knowing body_. It gets at the problem of knowing in dance by gathering a large range of visual and written materials that will likely fall along a continuum -- from facts about the body (mostly gathered through scientific understandings) to much more slippery ideas about the body: feelings, experiences, even the nature of embodiment itself. In this way it connects what is known with what is not known about the moving human body. I will collect these materials, organise them a little bit, and then give them to you at Dancehouse to work with in some way. This might be about a series of workshops with them, an installation, a web-page, or something else -- whatever you think best serves your community's needs and interests. I am happy to be as involved (or uninvolved) as you would prefer, but I do wonder to what extent we might work together to make decisions through some kind of collaborative engagement.
+I am proposing to you a part of this project which I've called _the un/knowable body_. It gets at the problem of knowing in dance by gathering a large range of visual and written materials that will likely fall along a continuum -- from facts about the body (mostly gathered through scientific understandings) to much more slippery ideas about the body: feelings, experiences, even the nature of embodiment itself. In this way it connects what is known with what is not known about the moving human body. I will collect these materials, organise them a little bit, and then give them to you at Dancehouse to work with in some way. This might be about a series of workshops with them, an installation, a web-page, or something else -- whatever you think best serves your community's needs and interests. I am happy to be as involved (or uninvolved) as you would prefer, but I do wonder to what extent we might work together to make decisions through some kind of collaborative engagement.
 
-What I'm hoping to achieve with _the un/knowing body_ is to inspire and inform people about how much and how little we know about the moving body. I am interested to find out how this idea -- and the materials collected as texts and images -- might be applied, or how they might be useful to Dancehouse. In this respect, I'd also like to learn from you and your team about your audiences and plans, and to help me see this work through their eyes. 
+What I'm hoping to achieve with _the un/knowable body_ is to inspire and inform people about how much and how little we know about the moving body. I am interested to find out how this idea -- and the materials collected as texts and images -- might be applied, or how they might be useful to Dancehouse. In this respect, I'd also like to learn from you and your team about your audiences and plans, and to help me see this work through their eyes. 
 
 Some questions that I think might be useful at this stage in our conversation are (although please feel free to ignore ones that make you groan):
 
@@ -355,7 +355,7 @@ Simon
 
 ## project partner consideration (early)
 
-_un/knowing body_ / _Knowledge of Body_
+_un/knowable body_ / _Knowledge of Body_
 
 confirmed:
 - S'ALA: require translation of materials/payment to install
