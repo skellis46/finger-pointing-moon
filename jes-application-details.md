@@ -6,7 +6,7 @@ Finger pointing moon: the limits of practice-research
 
 ### Start Date and Duration 
 
-7 March 2022
+5 September 2022
 18 months
 
 ### Objectives [up to 4000 chars] ###
