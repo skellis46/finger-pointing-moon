@@ -1,5 +1,23 @@
 # edit bin
 
+
+
+_Finger Pointing Moon_ uses practice-research and allied methods to examine the line between what is able to be known and what is not. 
+
+In so doing, the work speaks directly to the value of arts and humanities research in the academy. By bringing artistic/creative practices and scholarship in contact with evidence-based research, the research balances the dual role of practice-research to the academy: to build alternate empirical that combine with imaginative processes. 
+
+To temper, test, and make sense of what is humanly possible. To bring into question the ethical and creative potential of ...  
+
+tendencies , and beyond the enclave of artists working within the academy. 
+
+fuels the possibility of 
+
+It is vital that we understand more about the epistemic potential of practice-research because without that understanding it will remain a set of methods in bottomless dialogues with itself. Its research claims will not reach beyond the enclave of artists working within the academy. There is opportunity here for artist-researchers to develop how arts and humanities research through practice will help scholars understand the balance .. evidence and imagination.
+
+to develop new questions, new strategies, and new ways of describing the epistemic limits and potential of practice-research.
+
+draws on the twin roles that practice-research  shape practice-research within the academy by attempting to find and articulate the epistemic limits and potential of this disparate collection of methods. 
+
 3. complete comprehensive field review of practice-research from the beginning of practice-research in the early 1990s to the present, focusing on language used by artist-scholars to describe proxies, findings, understandings, failures and ambiguities. 
 4. deploy this field review in the development of the research outcomes and outputs
 
