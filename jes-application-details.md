@@ -62,7 +62,7 @@ Although the fellowship addresses what appears to be a niche concern -- the epis
 
 There are no major ethical implications arising from the proposed research activities. Although the two experts involved in the practice-based fieldwork are considered research colleagues rather than participants, they will still be asked to give informed consent (based on right to withdraw and anonymity if and when possible). Workshop participants (in Australia, UK and Italy) will likewise be asked for informed consent. Their participation will be voluntary and conditions of anonymity will be maintained. Participants from around the world who submit written 'memories' towards Output 3 _Un/forgettable_ will understand that they are contributing to a curated exhibition. Their involvement will be entirely voluntary and anonymous. 
 
-The project partners work with diverse communities and the workshops and public engagement events developed through these collaborations will be openly accessible to their audiences and adjacent communities (both in person and online).
+The project partners work with diverse communities and the workshops and public engagement events developed through these collaborations will be openly accessible to their audiences and communities (both in person and online).
 
 Coventry University has a policy on good conduct in line with the requirements of the AHRC: [https://www.coventry.ac.uk/research/about-us/research-ethics/](https://www.coventry.ac.uk/research/about-us/research-ethics/).
 
