@@ -80,7 +80,7 @@ I want to build relationships -- this is what will make it work or not.
 - remote community of contributors -- building community 
 
 - _Current situation - A description of the situation you are trying to change_: a form without memory (archives are of the things/events, very rarely if at all about experiences of the things inside and out). 
-- _aims:_ To create a shared recollection/memory of experiences of dancing that inspires and creates interest in the form. To develop awareness of how memories inform understanding; to establish a way of collaborating between researchers, partners, stakeholders (artists) and wider public; to create opportunities for learning (active engagement with experience) for the people involve: deepening of skills, knowledge, understanding, awareness, values, idea and feeling, increase capacity to reflect.
+- _aims:_ To create a shared recollection/memory of experiences of dancing that inspires and creates interest in the form. To develop awareness of how memories inform understanding; to establish a way of collaborating between researchers, partners, stakeholders (artists) and wider public; to create opportunities for learning (active engagement with experience) for the people involved: deepening of skills, knowledge, understanding, awareness, values, idea and feeling, increase capacity to reflect.
 
 - _inputs (what I will contribute):_ 
 - _activities (what am going to do to achieve aims):_
