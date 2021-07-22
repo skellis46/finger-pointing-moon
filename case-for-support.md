@@ -1,4 +1,4 @@
-# Finger pointing moon: observing/understanding change through practice-research 
+# Finger pointing moon: recognising/observing/understanding change through practice-research 
 
 ## The Research Problem and Questions
 
