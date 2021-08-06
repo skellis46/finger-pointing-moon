@@ -112,7 +112,7 @@ The project will be managed by Ellis (PI, 0.5FTE months 1-12, 0.8FTE months 13-1
 
 The RA will support the project through bibliographic research, assisting with drafting scholarly outputs, event and output organisation, and data and website management. The RA will be line managed by the PI. They will use an online project delivery system supplemented by weekly meetings to review progress and adjust milestones. The PI will balance the RA's ongoing professional development with project delivery. The goal will be to help the RA develop the skills and experience to pursue their own research agenda after project completion. The RA will have a practice-research PhD, and will be experienced in bibliographic research, writing and editing; they will be an excellent verbal and written communicator and have advanced digital literacy. 
 
-The cross-disciplinary Advisory Group -- Efrosini Protopapa, Danielle Moncrieffe, Harris Beider, Charlotte Waelde and Lee Miller -- will meet remotely with the PI every six-months to provide high-level guidance. CovUni will allocate administrative support to the PI through the Institute for Creative Cultures for purchasing, finances and technical support when required.
+The cross-disciplinary Advisory Group -- Efrosini Protopapa, Andrew Pickering, Harris Beider, Charlotte Waelde and Lee Miller -- will meet remotely with the PI every six-months to provide high-level guidance. CovUni will allocate administrative support to the PI through the Institute for Creative Cultures for purchasing, finances and technical support when required.
 
 ### Timetable and milestones
 
