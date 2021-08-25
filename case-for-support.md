@@ -108,7 +108,7 @@ _4. The Point Beyond_ [O8] is a podcast about human limits. It will comprise two
 
 ### People and roles
 
-The project will be managed by Ellis (PI, 0.5FTE months 1-12, 0.8FTE months 13-18) working with a Research Associate (0.6FTE, 18 months). The PI is experienced managing academic and artistic teams, research projects and collaborating with industry partners. He will oversee the research methods, supervise and participate in the fieldwork and direct the research outputs. He will guide the collaborative work with the project partners to ensure the outputs are curated to meet the needs of the partners' audiences, and his own capability development goals. He will also work with expert input from Whalley and Kneebone (as described in _Experimental practice-research_ on page XX) who will contribute to outputs [O1] and [O2]. 
+The project will be managed by Ellis (PI, 0.5FTE months 1-12, 0.8FTE months 13-18) working with a Research Associate (0.5FTE, 18 months, Level 7). The PI is experienced managing academic and artistic teams, research projects and collaborating with industry partners. He will oversee the research methods, supervise and participate in the fieldwork and direct the research outputs. He will guide the collaborative work with the project partners to ensure the outputs are curated to meet the needs of the partners' audiences, and his own capability development goals. He will also work with expert input from Whalley and Kneebone (as described in _Experimental practice-research_ on page XX) who will contribute to outputs [O1] and [O2]. 
 
 The RA will support the project through bibliographic research, assisting with drafting scholarly outputs, event and output organisation, and data and website management. The RA will be line managed by the PI. They will use an online project delivery system supplemented by weekly meetings to review progress and adjust milestones. The PI will balance the RA's ongoing professional development with project delivery. The goal will be to help the RA develop the skills and experience to pursue their own research agenda after project completion. The RA will have a practice-research PhD, and will be experienced in bibliographic research, writing and editing; they will be an excellent verbal and written communicator and have advanced digital literacy. 
 
@@ -116,7 +116,7 @@ The cross-disciplinary Advisory Group -- Efrosini Protopapa, Andrew Pickering, H
 
 ### Timetable and milestones
 
-See the Workplan attachment (Ellis_SK_Workplan.pdf) for monthly breakdown of planned research and development activities. 
+See the Workplan attachment (Ellis_Workplan.pdf) for monthly breakdown of planned research and development activities. 
 
 ### Digital and data management
 

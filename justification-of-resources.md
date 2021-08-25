@@ -14,7 +14,9 @@ _Finger Pointing Moon_ is planned to maximise public engagement, accessibility a
 
 ## Directly incurred staff
 
-The level and volume of work warrants the support of a 0.6FTE Grade 6 Research Associate (RA) for the entire 18 months. A senior RA is requested as they will support the project through bibliographic research, drafting article outputs, event and output organisation, communications and data and website management.
+The PI Ellis (0.5FTE months 1-12, 0.8FTE months 13-18) will lead the project by managing the team and liaising closely with project partners. He will provide support to the RA and will be responsible for the project outcomes, development, public engagement and project impact.  
+
+The level and volume of work warrants the support of a 0.5FTE Grade 7 Research Associate (RA) for the entire 18 months. A senior RA is requested as they will support the project through bibliographic research, drafting article outputs, event and output organisation, communications and data and website management.
 
 ## Directly incurred travel and subsistence
 
@@ -42,9 +44,6 @@ Funds are requested for production, advertising, hosting, support and transcript
 
 The RA will be recruited according to CovUni guidelines. We request £500 for the cost of that person's recruitment. 
 
-## Directly allocated costs investigators
-
-The PI Ellis (0.5FTE months 1-12, 0.8FTE months 13-18) will lead the project by managing the team and liaising closely with project partners. He will provide support to the RA and will be responsible for the project outcomes, development, public engagement and project impact.  
 
 ### Notes 
 
